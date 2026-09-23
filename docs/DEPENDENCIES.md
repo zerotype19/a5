@@ -26,3 +26,9 @@ Only packages listed here (plus transitive installs of those packages) may be us
 ## Introducing a new dependency
 
 Follow project context §50 — return a DEPENDENCY PROPOSAL and wait for owner approval before `npm install`.
+
+## Pending proposals
+
+| Proposal | Package | Task | Status |
+| --- | --- | --- | --- |
+| [`docs/proposals/A5-006-dependency-supabase-ssr.md`](./proposals/A5-006-dependency-supabase-ssr.md) | `@supabase/ssr` | A5-006 admin Auth SSR sessions | Awaiting owner approval — **do not install** |
