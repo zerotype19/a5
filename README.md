@@ -45,4 +45,4 @@ Apply migrations to your Supabase project before testing live flows — producti
 
 ## Current slice
 
-Public homepage, multi-step project intake, canonical lead submission (A5-004), optional private project photos (A5-005), and read-only **A5 Operations** admin shell with Supabase Auth + `admin_users` allowlist (A5-006). Lead editing and vendor routing are later tasks.
+Public homepage, multi-step project intake, canonical lead submission (A5-004), optional private project photos (A5-005), and **A5 Operations** admin shell (A5-006 Auth allowlist + A5-007 lead qualification, classification, notes, and lifecycle transitions). Vendor assignment/routing is a later task.

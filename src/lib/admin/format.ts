@@ -32,7 +32,10 @@ export function formatServiceSelection(
   status: string | null | undefined,
   serviceId: string | null | undefined,
 ): string {
-  if (status === "NOT_SURE") return "Not sure";
+  if (status === "NOT_SURE") {
+    if (serviceId) return `Not sure → ${serviceId}`;
+    return "Not sure";
+  }
   if (serviceId) return serviceId;
   return "—";
 }

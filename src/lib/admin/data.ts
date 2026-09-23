@@ -20,6 +20,24 @@ export type LeadListRow = {
 
 export type StatusCounts = Record<LeadStatus, number>;
 
+export type LeadHistoryEvent = {
+  id: string;
+  occurredAt: string;
+  eventType: string;
+  fromStatus: LeadStatus | null;
+  toStatus: LeadStatus;
+  note: string | null;
+  actorUserId: string | null;
+};
+
+export type LeadNoteRow = {
+  id: string;
+  body: string;
+  createdAt: string;
+  createdBy: string;
+  createdByEmail: string | null;
+};
+
 export type LeadDetail = {
   id: string;
   publicReference: string;
@@ -49,6 +67,8 @@ export type LeadDetail = {
     createdAt: string;
     signedUrl: string | null;
   }>;
+  history: LeadHistoryEvent[];
+  notes: LeadNoteRow[];
 };
 
 function emptyCounts(): StatusCounts {
@@ -201,6 +221,68 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
     });
   }
 
+  const { data: events, error: eventsErr } = await admin
+    .from("lead_status_events")
+    .select(
+      "id, occurred_at, event_type, from_status, to_status, note, actor_user_id",
+    )
+    .eq("lead_id", leadId)
+    .order("occurred_at", { ascending: true });
+
+  if (eventsErr) {
+    throw new Error(`admin_lead_history:${eventsErr.code ?? "error"}`);
+  }
+
+  const history: LeadHistoryEvent[] = (events ?? []).map((row) => ({
+    id: row.id as string,
+    occurredAt: row.occurred_at as string,
+    eventType: row.event_type as string,
+    fromStatus: (row.from_status as LeadStatus | null) ?? null,
+    toStatus: row.to_status as LeadStatus,
+    note: (row.note as string | null) ?? null,
+    actorUserId: (row.actor_user_id as string | null) ?? null,
+  }));
+
+  const { data: noteRows, error: notesErr } = await admin
+    .from("lead_notes")
+    .select("id, body, created_at, created_by")
+    .eq("lead_id", leadId)
+    .order("created_at", { ascending: false });
+
+  if (notesErr) {
+    throw new Error(`admin_lead_notes:${notesErr.code ?? "error"}`);
+  }
+
+  const creatorIds = [
+    ...new Set(
+      (noteRows ?? [])
+        .map((n) => n.created_by as string)
+        .filter(Boolean),
+    ),
+  ];
+  const emailByUserId = new Map<string, string | null>();
+  for (const userId of creatorIds) {
+    const { data: userData, error: userErr } =
+      await admin.auth.admin.getUserById(userId);
+    if (userErr) {
+      console.error("[admin] note actor lookup", userErr.message ?? "error");
+      emailByUserId.set(userId, null);
+    } else {
+      emailByUserId.set(userId, userData.user?.email ?? null);
+    }
+  }
+
+  const notes: LeadNoteRow[] = (noteRows ?? []).map((row) => {
+    const createdBy = row.created_by as string;
+    return {
+      id: row.id as string,
+      body: row.body as string,
+      createdAt: row.created_at as string,
+      createdBy,
+      createdByEmail: emailByUserId.get(createdBy) ?? null,
+    };
+  });
+
   return {
     id: lead.id as string,
     publicReference: publicReferenceFromLeadId(lead.id as string),
@@ -226,6 +308,8 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
       preferredContact: customer.preferred_contact_method,
     },
     photos: enriched,
+    history,
+    notes,
   };
 }
 

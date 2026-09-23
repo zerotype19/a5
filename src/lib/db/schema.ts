@@ -48,6 +48,11 @@ export type ServiceSelectionStatus =
 export const LEAD_STATUS_EVENT_TYPE_EXAMPLES = [
   "LeadCreated",
   "LeadQualified",
+  "LeadMarkedUnserviceable",
+  "LeadMarkedInvalid",
+  "LeadMarkedDuplicate",
+  "ServiceClassified",
+  "LocationClassified",
   "VendorAssigned",
   "VendorAccepted",
   "CustomerContacted",
@@ -71,6 +76,9 @@ export const PROJECT_PHOTOS_TABLE = "project_photos" as const;
 /** A5-006 — Supabase Auth allowlist for A5 Operations. */
 export const ADMIN_USERS_TABLE = "admin_users" as const;
 
+/** A5-007 — private internal OWNER notes. */
+export const LEAD_NOTES_TABLE = "lead_notes" as const;
+
 export const CORE_TABLES = [
   "services",
   "locations",
@@ -78,6 +86,7 @@ export const CORE_TABLES = [
   "leads",
   "lead_status_events",
   "project_photos",
+  "lead_notes",
 ] as const;
 
 export type CoreTable = (typeof CORE_TABLES)[number];

@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { loadDashboard } from "@/lib/admin/data";
 import { DASHBOARD_STATUS_COUNTS } from "@/lib/admin/format";
 import { LeadsTable } from "@/components/admin/LeadsTable";
@@ -19,8 +20,10 @@ export default async function AdminDashboardPage() {
           Needs attention
         </h2>
         <div className={styles.attention}>
-          <strong>{needsAttention}</strong> new lead
-          {needsAttention === 1 ? "" : "s"} waiting for review.
+          <Link href="/admin/leads?attention=1" className={styles.attentionLink}>
+            <strong>{needsAttention}</strong> new lead
+            {needsAttention === 1 ? "" : "s"} waiting for review.
+          </Link>
         </div>
       </section>
 
