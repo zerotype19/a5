@@ -12,7 +12,8 @@ Contact (owner-confirmed): `(973) 437-5517` · `hello@a5homeservices.com`
 - Next.js + TypeScript + React
 - Supabase / Postgres (+ Storage)
 - Cloudflare (edge/hosting), Resend, Turnstile, GA4
-- `@supabase/supabase-js` — **server-only** service-role access (see `docs/DEPENDENCIES.md`)
+- `@supabase/supabase-js` — service-role **server-only** + anon for Auth/Storage (see `docs/DEPENDENCIES.md`)
+- `@supabase/ssr` — official cookie Auth sessions for `/admin` (A5-006)
 
 See [`GOVERNANCE.md`](./GOVERNANCE.md) and [`docs/`](./docs/) before contributing.
 
@@ -26,9 +27,11 @@ npm run dev
 
 App defaults to [http://127.0.0.1:43123](http://127.0.0.1:43123).
 
-Fill Supabase + Turnstile values in `.env.local` for end-to-end submission. Without Turnstile keys, non-production skips the widget; production always requires them. Never put `SUPABASE_SERVICE_ROLE_KEY` or `TURNSTILE_SECRET_KEY` in client code.
+Fill Supabase (+ Turnstile for intake) values in `.env.local`. Without Turnstile keys, non-production skips the widget; production always requires them. Never put `SUPABASE_SERVICE_ROLE_KEY` or `TURNSTILE_SECRET_KEY` in client code.
 
-Apply migrations (including `submit_project_request`) to your Supabase project before testing live submits — production apply remains owner-controlled.
+Admin (`/admin`): bootstrap the first allowlisted user per `docs/migrations/A5-006-admin-users.md`. Timestamps in Operations display as **UTC** (`YYYY-MM-DD HH:mm UTC`).
+
+Apply migrations to your Supabase project before testing live flows — production apply remains owner-controlled.
 
 ### Scripts
 
@@ -42,4 +45,4 @@ Apply migrations (including `submit_project_request`) to your Supabase project b
 
 ## Current slice
 
-Public homepage, multi-step project intake, canonical lead submission (A5-004), and optional private project photo upload (A5-005). Email, admin, and attribution enrichment are later tasks.
+Public homepage, multi-step project intake, canonical lead submission (A5-004), optional private project photos (A5-005), and read-only **A5 Operations** admin shell with Supabase Auth + `admin_users` allowlist (A5-006). Lead editing and vendor routing are later tasks.

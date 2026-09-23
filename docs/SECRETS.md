@@ -9,7 +9,7 @@ Actual values belong in environment configuration (local `.env`, preview/staging
 | Name | Purpose |
 | --- | --- |
 | `NEXT_PUBLIC_SUPABASE_URL` | Supabase project URL (public) |
-| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon/public key (public; RLS-enforced) |
+| `NEXT_PUBLIC_SUPABASE_ANON_KEY` | Supabase anon/public key (public; RLS-enforced; Auth + signed Storage) |
 | `SUPABASE_SERVICE_ROLE_KEY` | Supabase service-role key (server-only; never client-side) |
 
 ## Email (Resend)

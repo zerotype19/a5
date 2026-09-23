@@ -68,6 +68,9 @@ export const LEAD_SUBMISSION_KEY_COLUMN = "submission_key" as const;
 /** A5-005 — private homeowner project photo metadata. */
 export const PROJECT_PHOTOS_TABLE = "project_photos" as const;
 
+/** A5-006 — Supabase Auth allowlist for A5 Operations. */
+export const ADMIN_USERS_TABLE = "admin_users" as const;
+
 export const CORE_TABLES = [
   "services",
   "locations",

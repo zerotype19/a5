@@ -2,8 +2,8 @@
 
 **Date:** 2026-09-23  
 **Task:** A5-006 Admin Authentication + A5 Operations Shell  
-**Status:** AWAITING OWNER APPROVAL  
-**Do not `npm install` until approved.**
+**Status:** APPROVED by owner (2026-09-23) — see agent-store `docs/tasks/a5-006-ssr-decision.md`.  
+Installed as runtime dependency for A5-006. Do not add further packages without a new proposal.
 
 ---
 
