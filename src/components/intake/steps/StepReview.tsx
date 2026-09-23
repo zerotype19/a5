@@ -3,15 +3,31 @@
 import { getServiceById } from "@config/services";
 import styles from "../intake.module.css";
 import { FormButton } from "../FormButton";
+import { TurnstileWidget } from "../TurnstileWidget";
 import type { IntakeStep, ProjectIntakeState } from "../types";
 import { contactMethodLabel, timingLabel } from "../validation";
 
 type Props = {
   state: ProjectIntakeState;
   onEdit: (step: IntakeStep) => void;
+  onSubmit: () => void;
+  sending: boolean;
+  turnstileSiteKey: string | null;
+  turnstileToken: string | null;
+  onTurnstileToken: (token: string | null) => void;
+  turnstileRequired: boolean;
 };
 
-export function StepReview({ state, onEdit }: Props) {
+export function StepReview({
+  state,
+  onEdit,
+  onSubmit,
+  sending,
+  turnstileSiteKey,
+  turnstileToken,
+  onTurnstileToken,
+  turnstileRequired,
+}: Props) {
   const serviceLabel =
     state.serviceSelectionStatus === "NOT_SURE"
       ? "Not sure — will describe the project"
@@ -48,6 +64,9 @@ export function StepReview({ state, onEdit }: Props) {
     },
   ];
 
+  const canSubmit =
+    !sending && (!turnstileRequired || Boolean(turnstileToken));
+
   return (
     <div className={styles.panel}>
       <h2 className={styles.stepTitle}>Does everything look right?</h2>
@@ -64,6 +83,7 @@ export function StepReview({ state, onEdit }: Props) {
                 type="button"
                 className={styles.editLink}
                 onClick={() => onEdit(row.key)}
+                disabled={sending}
                 data-cta={`intake-edit-${row.key}`}
               >
                 Edit
@@ -79,21 +99,25 @@ export function StepReview({ state, onEdit }: Props) {
         coordinate next steps.
       </p>
 
+      {turnstileSiteKey ? (
+        <div className={styles.turnstileBlock}>
+          <TurnstileWidget
+            siteKey={turnstileSiteKey}
+            onToken={onTurnstileToken}
+          />
+        </div>
+      ) : null}
+
       <div>
         <FormButton
           type="button"
           variant="primary"
-          disabled
-          className={styles.disabledPrimary}
-          dataCta="intake-submit-disabled"
+          disabled={!canSubmit}
+          onClick={onSubmit}
+          dataCta={sending ? "intake-submit-sending" : "intake-submit"}
         >
-          Send Project Request
+          {sending ? "Sending…" : "Send Project Request"}
         </FormButton>
-        <p className={styles.devNote}>
-          Submission is not enabled yet (development). A later task will connect
-          this button to secure project intake — this screen does not claim your
-          request was submitted.
-        </p>
       </div>
     </div>
   );

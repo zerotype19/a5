@@ -28,8 +28,8 @@ export const INTAKE_STEPS = [
 export type IntakeStep = (typeof INTAKE_STEPS)[number];
 
 /**
- * Explicit client-side ProjectIntakeState (A5-003).
- * Not wired to Supabase — shaped for post-003A persistence later.
+ * Explicit client-side ProjectIntakeState (A5-003 / A5-004).
+ * Persisted via server `/api/submit-project-request` → submit_project_request RPC.
  */
 export type ProjectIntakeState = {
   /** Set when homeowner picks a registry service; null when Not Sure. */
