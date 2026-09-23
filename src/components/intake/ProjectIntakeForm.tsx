@@ -4,10 +4,15 @@ import { useEffect, useId, useRef, useState } from "react";
 import type { ServiceId } from "@config/services";
 import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
+import { uploadPhotoToSignedUrl } from "@/lib/photos/browser-upload";
 import type { SubmitProjectResult } from "@/lib/intake/submit-types";
 import { FormButton } from "./FormButton";
 import { IntakeProgress } from "./IntakeProgress";
 import styles from "./intake.module.css";
+import {
+  revokePhotoPreviews,
+  type SelectedPhoto,
+} from "./PhotoPicker";
 import { StepContact } from "./steps/StepContact";
 import { StepDetails } from "./steps/StepDetails";
 import { StepLocation } from "./steps/StepLocation";
@@ -17,6 +22,7 @@ import { StepTiming } from "./steps/StepTiming";
 import {
   SubmissionFailureBanner,
   SubmissionSuccess,
+  type PhotoAttachStatus,
 } from "./SubmissionResult";
 import type { IntakeStep, IntakeTiming, ProjectIntakeState } from "./types";
 import { INITIAL_INTAKE_STATE, INTAKE_STEPS } from "./types";
@@ -30,6 +36,29 @@ function turnstileSiteKeyFromEnv(): string | null {
   return key ? key : null;
 }
 
+type PrepareResponse =
+  | {
+      success: true;
+      grantToken: string;
+      uploads: Array<{
+        path: string;
+        token: string;
+        signedUrl: string;
+        mimeType: string;
+        originalFilename: string;
+        fileSize: number;
+      }>;
+    }
+  | { success: false; error?: string; message?: string };
+
+type CompleteResponse =
+  | {
+      success: true;
+      attachedCount: number;
+      failedCount: number;
+    }
+  | { success: false; error?: string; message?: string };
+
 export function ProjectIntakeForm() {
   const [step, setStep] = useState<IntakeStep>("service");
   const [state, setState] = useState<ProjectIntakeState>(INITIAL_INTAKE_STATE);
@@ -38,6 +67,12 @@ export function ProjectIntakeForm() {
   const [publicReference, setPublicReference] = useState<string | null>(null);
   const [turnstileToken, setTurnstileToken] = useState<string | null>(null);
   const [turnstileNonce, setTurnstileNonce] = useState(0);
+  const [photos, setPhotos] = useState<SelectedPhoto[]>([]);
+  const [photoError, setPhotoError] = useState<string | null>(null);
+  const [photoStatus, setPhotoStatus] = useState<PhotoAttachStatus>("none");
+  const [attachedCount, setAttachedCount] = useState(0);
+  const [failedCount, setFailedCount] = useState(0);
+  const [photoRetrying, setPhotoRetrying] = useState(false);
   const headingRef = useRef<HTMLHeadingElement>(null);
   const idempotencyKeyRef = useRef<string | null>(null);
   const summaryId = useId();
@@ -47,6 +82,13 @@ export function ProjectIntakeForm() {
   useEffect(() => {
     headingRef.current?.focus();
   }, [step, phase]);
+
+  useEffect(() => {
+    return () => {
+      revokePhotoPreviews(photos);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- revoke only on unmount
+  }, []);
 
   function patch(partial: Partial<ProjectIntakeState>) {
     setState((prev) => ({ ...prev, ...partial }));
@@ -81,12 +123,92 @@ export function ProjectIntakeForm() {
     setStep(INTAKE_STEPS[index - 1]);
   }
 
+  async function attachPhotosForSubmission(
+    submissionKey: string,
+  ): Promise<{ attached: number; failed: number }> {
+    if (photos.length === 0) return { attached: 0, failed: 0 };
+
+    const prepareRes = await fetch("/api/photo-uploads/prepare", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "idempotency-key": submissionKey,
+      },
+      body: JSON.stringify({
+        submissionKey,
+        files: photos.map((p) => ({
+          originalFilename: p.file.name,
+          mimeType: p.file.type,
+          fileSize: p.file.size,
+        })),
+      }),
+    });
+
+    const prepared = (await prepareRes.json()) as PrepareResponse;
+    if (!prepared.success) {
+      return { attached: 0, failed: photos.length };
+    }
+
+    const uploadResults: Array<{
+      path: string;
+      originalFilename: string;
+      mimeType: string;
+      fileSize: number;
+      uploaded: boolean;
+    }> = [];
+
+    for (let i = 0; i < prepared.uploads.length; i += 1) {
+      const slot = prepared.uploads[i];
+      const photo = photos[i];
+      if (!slot || !photo) {
+        continue;
+      }
+      const uploaded = await uploadPhotoToSignedUrl({
+        path: slot.path,
+        token: slot.token,
+        file: photo.file,
+        contentType: slot.mimeType,
+      });
+      uploadResults.push({
+        path: slot.path,
+        originalFilename: slot.originalFilename,
+        mimeType: slot.mimeType,
+        fileSize: slot.fileSize,
+        uploaded: uploaded.ok,
+      });
+    }
+
+    const completeRes = await fetch("/api/photo-uploads/complete", {
+      method: "POST",
+      headers: {
+        "content-type": "application/json",
+        "idempotency-key": submissionKey,
+      },
+      body: JSON.stringify({
+        submissionKey,
+        grantToken: prepared.grantToken,
+        uploads: uploadResults,
+      }),
+    });
+
+    const completed = (await completeRes.json()) as CompleteResponse;
+    if (!completed.success) {
+      return {
+        attached: 0,
+        failed: uploadResults.length || photos.length,
+      };
+    }
+
+    return {
+      attached: completed.attachedCount,
+      failed: completed.failedCount,
+    };
+  }
+
   async function handleSubmit() {
     if (phase === "sending" || phase === "success") return;
     if (turnstileRequired && !turnstileToken) return;
 
-    // Durable submission identity — keep across ambiguous failures so retries
-    // hit the same leads.submission_key. New form mounts get a new key.
     if (!idempotencyKeyRef.current) {
       idempotencyKeyRef.current =
         typeof crypto !== "undefined" && "randomUUID" in crypto
@@ -126,7 +248,6 @@ export function ProjectIntakeForm() {
       try {
         result = (await response.json()) as SubmitProjectResult;
       } catch {
-        // Ambiguous / unreadable response — keep submission key for retry.
         setTurnstileToken(null);
         setTurnstileNonce((n) => n + 1);
         setPhase("failure");
@@ -135,12 +256,36 @@ export function ProjectIntakeForm() {
 
       if (result.success) {
         setPublicReference(result.publicReference);
+
+        if (photos.length === 0) {
+          setPhotoStatus("none");
+          setPhase("success");
+          return;
+        }
+
+        try {
+          const outcome = await attachPhotosForSubmission(
+            idempotencyKeyRef.current,
+          );
+          setAttachedCount(outcome.attached);
+          setFailedCount(outcome.failed);
+          if (outcome.failed === 0 && outcome.attached > 0) {
+            setPhotoStatus("all");
+          } else if (outcome.attached > 0) {
+            setPhotoStatus("partial");
+          } else {
+            setPhotoStatus("failed");
+          }
+        } catch {
+          setAttachedCount(0);
+          setFailedCount(photos.length);
+          setPhotoStatus("failed");
+        }
+
         setPhase("success");
         return;
       }
 
-      // Keep submission key on all failures (including 502 / persistence).
-      // Re-challenge Turnstile on retry (tokens are single-use) — do not bypass.
       setTurnstileToken(null);
       setTurnstileNonce((n) => n + 1);
       setPhase("failure");
@@ -149,10 +294,27 @@ export function ProjectIntakeForm() {
         setStep(result.stepHint === "review" ? "contact" : result.stepHint);
       }
     } catch {
-      // Network / connection interruption — keep the same submission key.
       setTurnstileToken(null);
       setTurnstileNonce((n) => n + 1);
       setPhase("failure");
+    }
+  }
+
+  async function handleRetryPhotos() {
+    if (!idempotencyKeyRef.current || !publicReference || photoRetrying) return;
+    if (photos.length === 0) return;
+    setPhotoRetrying(true);
+    try {
+      const outcome = await attachPhotosForSubmission(idempotencyKeyRef.current);
+      setAttachedCount(outcome.attached);
+      setFailedCount(outcome.failed);
+      if (outcome.failed === 0 && outcome.attached > 0) setPhotoStatus("all");
+      else if (outcome.attached > 0) setPhotoStatus("partial");
+      else setPhotoStatus("failed");
+    } catch {
+      setPhotoStatus("failed");
+    } finally {
+      setPhotoRetrying(false);
     }
   }
 
@@ -167,7 +329,20 @@ export function ProjectIntakeForm() {
             Thank you
           </h1>
         </div>
-        <SubmissionSuccess publicReference={publicReference} />
+        <SubmissionSuccess
+          publicReference={publicReference}
+          photoStatus={photoStatus}
+          attachedCount={attachedCount}
+          failedCount={failedCount}
+          onRetryPhotos={
+            photoStatus === "partial" || photoStatus === "failed"
+              ? () => {
+                  void handleRetryPhotos();
+                }
+              : undefined
+          }
+          photoRetrying={photoRetrying}
+        />
       </div>
     );
   }
@@ -235,7 +410,11 @@ export function ProjectIntakeForm() {
           <StepDetails
             state={state}
             errors={errors}
+            photos={photos}
+            photoError={photoError ?? undefined}
             onChangeDescription={(description) => patch({ description })}
+            onChangePhotos={setPhotos}
+            onPhotoClientError={setPhotoError}
           />
         ) : null}
 

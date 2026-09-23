@@ -7,9 +7,17 @@ import { LOCATIONS } from "../config/locations.ts";
 import { SERVICES } from "../config/services.ts";
 import {
   ATTRIBUTION_CONFIDENCE_VALUES,
-  CORE_TABLES,
   LEAD_STATUSES,
 } from "../src/lib/db/schema.ts";
+
+/** A5-001 operational tables only (project_photos is A5-005). */
+const A5_001_TABLES = [
+  "services",
+  "locations",
+  "customers",
+  "leads",
+  "lead_status_events",
+] as const;
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const migrationsDir = join(root, "supabase", "migrations");
@@ -34,7 +42,7 @@ describe("A5-001 core operational migration", () => {
   });
 
   it("creates the five approved core tables", () => {
-    for (const table of CORE_TABLES) {
+    for (const table of A5_001_TABLES) {
       assert.match(
         sql,
         new RegExp(`create table public\\.${table}\\b`, "i"),
@@ -50,7 +58,7 @@ describe("A5-001 core operational migration", () => {
   });
 
   it("enables RLS and deny-all policies on operational tables", () => {
-    for (const table of CORE_TABLES) {
+    for (const table of A5_001_TABLES) {
       assert.match(
         sql,
         new RegExp(`alter table public\\.${table} enable row level security`, "i"),

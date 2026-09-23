@@ -42,4 +42,4 @@ Apply migrations (including `submit_project_request`) to your Supabase project b
 
 ## Current slice
 
-Public homepage, multi-step project intake, and server-side lead submission (Customer + Lead + LeadCreated via atomic RPC). Photo upload, email, admin, and attribution enrichment are later tasks.
+Public homepage, multi-step project intake, canonical lead submission (A5-004), and optional private project photo upload (A5-005). Email, admin, and attribution enrichment are later tasks.
