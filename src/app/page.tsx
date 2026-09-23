@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { LOCATIONS } from "@config/locations";
 import { SERVICES } from "@config/services";
 import { SITE } from "@config/site";
@@ -118,7 +119,7 @@ export default function HomePage() {
           {SERVICES.map((service) => (
             <ServiceCard key={service.id} service={service} />
           ))}
-          <a
+          <Link
             className={styles.unsureCard}
             href="/request-service"
             data-cta="service-unsure"
@@ -127,7 +128,7 @@ export default function HomePage() {
             <span className={styles.unsureBody}>
               Tell us what is happening at your home and A5 will help from there.
             </span>
-          </a>
+          </Link>
         </div>
       </Section>
 
@@ -161,14 +162,14 @@ export default function HomePage() {
       >
         <div className={styles.popularRow}>
           {SERVICES.map((service) => (
-            <a
+            <Link
               key={service.id}
               className={styles.popularLink}
               href="/request-service"
               data-cta={`popular-${service.id}`}
             >
               {service.name}
-            </a>
+            </Link>
           ))}
         </div>
       </Section>
