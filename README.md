@@ -2,7 +2,10 @@
 
 Technology-enabled home-services contractor and local project coordination platform beginning in Northern New Jersey.
 
-**Canonical public site:** [https://www.a5homeservices.com/](https://www.a5homeservices.com/)
+**Canonical public site:** [https://www.a5homeservices.com/](https://www.a5homeservices.com/)  
+**Canonical GitHub repository:** [https://github.com/zerotype19/a5](https://github.com/zerotype19/a5)
+
+Contact (owner-confirmed): `(973) 437-5517` · `hello@a5homeservices.com`
 
 ## Stack (approved)
 

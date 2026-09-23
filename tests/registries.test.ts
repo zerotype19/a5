@@ -42,6 +42,8 @@ describe("product registries", () => {
     assert.equal(SITE.name, "A5 Home Services");
     assert.equal(SITE.domain, "www.a5homeservices.com");
     assert.equal(SITE.url, "https://www.a5homeservices.com/");
+    assert.equal(SITE.phone, "(973) 437-5517");
+    assert.equal(SITE.email, "hello@a5homeservices.com");
   });
 });
 

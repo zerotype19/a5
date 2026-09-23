@@ -8,9 +8,10 @@ export const SITE = {
   legalName: "A5 Home Services",
   domain: "www.a5homeservices.com",
   url: "https://www.a5homeservices.com/",
-  /** Existing A5 number — owner must confirm exact value for production use. */
-  phone: "",
-  email: "",
+  /** Owner-confirmed 2026-09-23. */
+  phone: "(973) 437-5517",
+  /** Owner-confirmed 2026-09-23. */
+  email: "hello@a5homeservices.com",
   /** Service area summary derived from approved location registry. */
   serviceAreaSummary: "Northern New Jersey",
   locale: "en-US",
