@@ -1,0 +1,35 @@
+.block {
+  display: grid;
+  gap: var(--space-6);
+  align-items: end;
+}
+
+.copy {
+  max-width: 36rem;
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: clamp(1.85rem, 3.5vw, 2.65rem);
+  line-height: 1.12;
+  letter-spacing: -0.02em;
+  color: var(--color-on-hero);
+}
+
+.description {
+  margin-top: var(--space-3);
+  color: var(--color-on-hero-muted);
+  font-size: 1.0625rem;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+@media (min-width: 900px) {
+  .block {
+    grid-template-columns: 1.4fr auto;
+  }
+}
