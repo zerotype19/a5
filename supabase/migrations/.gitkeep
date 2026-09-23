@@ -1,3 +1,0 @@
-# Day 0: no product schema migrations.
-# Future migrations require an approved task and owner review.
-# Keep this directory present so /supabase/migrations/ is the canonical path.

@@ -9,6 +9,7 @@ Canonical public site: [https://www.a5homeservices.com/](https://www.a5homeservi
 | [`/GOVERNANCE.md`](../GOVERNANCE.md) | Development governance binding agents and contributors |
 | [`/docs/SECRETS.md`](./SECRETS.md) | Secret and env **names** only |
 | [`/docs/decisions/`](./decisions/) | Architecture Decision Records (ADR-001–ADR-010) |
+| [`/docs/migrations/`](./migrations/) | Migration CHANGE / REASON / ROLLBACK notes |
 | [`/config/`](../config/) | Approved services, locations, and site identity registries |
 
 ## Phase note
