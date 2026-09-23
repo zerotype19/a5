@@ -37,6 +37,7 @@ export function ProjectIntakeForm() {
   const [phase, setPhase] = useState<Phase>("form");
   const [publicReference, setPublicReference] = useState<string | null>(null);
   const [turnstileToken, setTurnstileToken] = useState<string | null>(null);
+  const [turnstileNonce, setTurnstileNonce] = useState(0);
   const headingRef = useRef<HTMLHeadingElement>(null);
   const idempotencyKeyRef = useRef<string | null>(null);
   const summaryId = useId();
@@ -84,11 +85,17 @@ export function ProjectIntakeForm() {
     if (phase === "sending" || phase === "success") return;
     if (turnstileRequired && !turnstileToken) return;
 
+    // Durable submission identity — keep across ambiguous failures so retries
+    // hit the same leads.submission_key. New form mounts get a new key.
     if (!idempotencyKeyRef.current) {
       idempotencyKeyRef.current =
         typeof crypto !== "undefined" && "randomUUID" in crypto
           ? crypto.randomUUID()
-          : `idem-${Date.now()}-${Math.random().toString(36).slice(2)}`;
+          : null;
+      if (!idempotencyKeyRef.current) {
+        setPhase("failure");
+        return;
+      }
     }
 
     setPhase("sending");
@@ -115,7 +122,16 @@ export function ProjectIntakeForm() {
         }),
       });
 
-      const result = (await response.json()) as SubmitProjectResult;
+      let result: SubmitProjectResult;
+      try {
+        result = (await response.json()) as SubmitProjectResult;
+      } catch {
+        // Ambiguous / unreadable response — keep submission key for retry.
+        setTurnstileToken(null);
+        setTurnstileNonce((n) => n + 1);
+        setPhase("failure");
+        return;
+      }
 
       if (result.success) {
         setPublicReference(result.publicReference);
@@ -123,16 +139,19 @@ export function ProjectIntakeForm() {
         return;
       }
 
-      // Allow a fresh idempotency key on explicit retry after failure.
-      idempotencyKeyRef.current = null;
+      // Keep submission key on all failures (including 502 / persistence).
+      // Re-challenge Turnstile on retry (tokens are single-use) — do not bypass.
       setTurnstileToken(null);
+      setTurnstileNonce((n) => n + 1);
       setPhase("failure");
 
       if (result.error === "validation" && result.stepHint) {
         setStep(result.stepHint === "review" ? "contact" : result.stepHint);
       }
     } catch {
-      idempotencyKeyRef.current = null;
+      // Network / connection interruption — keep the same submission key.
+      setTurnstileToken(null);
+      setTurnstileNonce((n) => n + 1);
       setPhase("failure");
     }
   }
@@ -244,6 +263,7 @@ export function ProjectIntakeForm() {
             sending={phase === "sending"}
             turnstileSiteKey={turnstileSiteKey}
             turnstileToken={turnstileToken}
+            turnstileNonce={turnstileNonce}
             onTurnstileToken={setTurnstileToken}
             turnstileRequired={turnstileRequired}
           />

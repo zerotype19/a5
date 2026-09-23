@@ -14,6 +14,7 @@ type Props = {
   sending: boolean;
   turnstileSiteKey: string | null;
   turnstileToken: string | null;
+  turnstileNonce: number;
   onTurnstileToken: (token: string | null) => void;
   turnstileRequired: boolean;
 };
@@ -25,6 +26,7 @@ export function StepReview({
   sending,
   turnstileSiteKey,
   turnstileToken,
+  turnstileNonce,
   onTurnstileToken,
   turnstileRequired,
 }: Props) {
@@ -102,6 +104,7 @@ export function StepReview({
       {turnstileSiteKey ? (
         <div className={styles.turnstileBlock}>
           <TurnstileWidget
+            key={turnstileNonce}
             siteKey={turnstileSiteKey}
             onToken={onTurnstileToken}
           />

@@ -1,18 +1,17 @@
 import assert from "node:assert/strict";
-import { readFileSync, readdirSync } from "node:fs";
+import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
-import { describe, it, beforeEach } from "node:test";
+import { describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import {
-  clearIdempotencyStoreForTests,
-  getIdempotentResult,
-  rememberIdempotentResult,
-} from "../src/lib/intake/idempotency.ts";
-import { validateSubmissionPayload } from "../src/lib/intake/validate-submission.ts";
+  parseSubmissionKey,
+  validateSubmissionPayload,
+} from "../src/lib/intake/validate-submission.ts";
 import {
   turnstileConfigured,
   verifyTurnstileToken,
 } from "../src/lib/turnstile/verify.ts";
+import { LEAD_SUBMISSION_KEY_COLUMN } from "../src/lib/db/schema.ts";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -128,21 +127,71 @@ describe("A5-004 server validation", () => {
   });
 });
 
-describe("A5-004 idempotency (app boundary)", () => {
-  beforeEach(() => {
-    clearIdempotencyStoreForTests();
+describe("A5-004 durable submission_key", () => {
+  const migration = read(
+    "supabase/migrations/20260923160000_a5_004_submit_project_request_rpc.sql",
+  );
+  const submit = read("src/lib/intake/submit-project-request.ts");
+  const form = read("src/components/intake/ProjectIntakeForm.tsx");
+
+  it("requires a valid UUID submission key for canonical submission", () => {
+    assert.equal(parseSubmissionKey(null), null);
+    assert.equal(parseSubmissionKey("short"), null);
+    assert.equal(parseSubmissionKey("not-a-uuid"), null);
+    assert.equal(
+      parseSubmissionKey("550e8400-e29b-41d4-a716-446655440000"),
+      "550e8400-e29b-41d4-a716-446655440000",
+    );
+    assert.match(submit, /parseSubmissionKey/);
+    assert.match(submit, /submission_key_required|submissionKey/);
+    assert.match(submit, /p_submission_key/);
   });
 
-  it("remembers and returns a prior public reference for the same key", () => {
-    assert.equal(getIdempotentResult("abc12345-key"), null);
-    rememberIdempotentResult("abc12345-key", "A5-DEADBEEF");
-    assert.equal(getIdempotentResult("abc12345-key"), "A5-DEADBEEF");
+  it("adds UNIQUE leads.submission_key in the A5-004 migration", () => {
+    assert.equal(LEAD_SUBMISSION_KEY_COLUMN, "submission_key");
+    assert.match(migration, /add column submission_key uuid/i);
+    assert.match(migration, /leads_submission_key_unique/i);
+    assert.match(migration, /unique \(submission_key\)/i);
   });
 
-  it("ignores short or missing keys", () => {
-    rememberIdempotentResult("short", "A5-X");
-    assert.equal(getIdempotentResult("short"), null);
-    assert.equal(getIdempotentResult(null), null);
+  it("RPC creates Customer + Lead + LeadCreated on first key and stores submission_key", () => {
+    assert.match(migration, /insert into public\.customers/i);
+    assert.match(migration, /insert into public\.leads/i);
+    assert.match(migration, /submission_key/);
+    assert.match(migration, /'LeadCreated'/);
+    assert.match(migration, /p_submission_key/);
+  });
+
+  it("same submission_key returns existing public_reference without a second lead", () => {
+    assert.match(
+      migration,
+      /where l\.submission_key = p_submission_key[\s\S]*return query select v_lead_id, v_reference/i,
+    );
+    assert.match(migration, /Already committed for this key|Retry \/ lost-response/i);
+  });
+
+  it("concurrent duplicate keys are protected by UNIQUE + unique_violation handler", () => {
+    assert.match(migration, /when unique_violation/i);
+    assert.match(migration, /leads_submission_key_unique/i);
+  });
+
+  it("failed transaction does not permanently consume key (exception subtransaction)", () => {
+    // unique_violation path looks up existing key; aborted inserts roll back via EXCEPTION block
+    assert.match(migration, /exception\s+when unique_violation/i);
+    assert.match(migration, /if v_lead_id is null then\s+raise;/i);
+  });
+
+  it("removes in-memory idempotency store as authority", () => {
+    assert.equal(existsSync(join(root, "src/lib/intake/idempotency.ts")), false);
+    assert.doesNotMatch(submit, /getIdempotentResult|rememberIdempotentResult|Map</);
+  });
+
+  it("client retains submission key on ambiguous failure and blocks success resubmit", () => {
+    assert.match(form, /idempotencyKeyRef/);
+    assert.match(form, /Network \/ connection interruption — keep the same submission key/);
+    assert.match(form, /Keep submission key on all failures/);
+    assert.doesNotMatch(form, /idempotencyKeyRef\.current = null/);
+    assert.match(form, /phase === "sending" \|\| phase === "success"/);
   });
 });
 
@@ -215,6 +264,7 @@ describe("A5-004 RPC migration + security", () => {
     assert.match(migration, /create or replace function public\.submit_project_request/i);
     assert.match(migration, /security definer/i);
     assert.match(migration, /set search_path = pg_catalog, public/i);
+    assert.match(migration, /p_submission_key uuid/i);
   });
 
   it("revokes EXECUTE from public/anon/authenticated and grants service_role only", () => {
@@ -235,7 +285,6 @@ describe("A5-004 RPC migration + security", () => {
     assert.match(migration, /insert into public\.leads/i);
     assert.match(migration, /'NEW'/);
     assert.match(migration, /'LeadCreated'/);
-    assert.match(migration, /location_id,\s*\n\s*project_description/);
     assert.match(migration, /null,\s*\n\s*trim\(p_project_description\)/);
   });
 });
@@ -257,10 +306,11 @@ describe("A5-004 UI + secrets boundary", () => {
     assert.doesNotMatch(review, /not enabled yet/i);
   });
 
-  it("prevents repeat submit while sending (UI boundary)", () => {
+  it("prevents repeat submit while sending and keeps durable key header", () => {
     assert.match(form, /phase === "sending"/);
     assert.match(review, /sending/);
     assert.match(form, /idempotency-key/i);
+    assert.match(form, /Keep submission key on all failures/);
   });
 
   it("preserves intake state on failure", () => {

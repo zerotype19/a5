@@ -1,11 +1,8 @@
 import { getSupabaseAdmin } from "../supabase/admin.ts";
 import { verifyTurnstileToken } from "../turnstile/verify.ts";
-import {
-  getIdempotentResult,
-  rememberIdempotentResult,
-} from "./idempotency.ts";
 import type { SubmitProjectResult } from "./submit-types.ts";
 import {
+  parseSubmissionKey,
   validateSubmissionPayload,
   type ValidatedSubmission,
 } from "./validate-submission.ts";
@@ -16,18 +13,36 @@ type RpcRow = {
 };
 
 export type SubmitOptions = {
-  idempotencyKey?: string | null;
+  /** Browser-generated UUID; durable idempotency via leads.submission_key. */
+  submissionKey?: string | null;
 };
 
 /**
  * Authoritative submit path:
- * validate → Turnstile → (idempotency hit?) → service-role RPC → success reference.
- * Success is returned only after the database transaction commits.
+ * validate → Turnstile → service-role RPC(submission_key) → success reference.
+ * Success is returned only after the database transaction commits (or an
+ * already-committed submission_key is looked up).
  */
 export async function submitProjectRequest(
   raw: unknown,
   options: SubmitOptions = {},
 ): Promise<SubmitProjectResult> {
+  const submissionKey = parseSubmissionKey(options.submissionKey);
+  if (!submissionKey) {
+    return {
+      success: false,
+      error: "validation",
+      issues: [
+        {
+          field: "submissionKey",
+          code: "submission_key_required",
+          message: "Missing submission key.",
+        },
+      ],
+      stepHint: "review",
+    };
+  }
+
   const validated = validateSubmissionPayload(raw);
   if (!validated.ok) {
     return {
@@ -56,14 +71,8 @@ export async function submitProjectRequest(
     return { success: false, error: "turnstile" };
   }
 
-  const existing = getIdempotentResult(options.idempotencyKey);
-  if (existing) {
-    return { success: true, publicReference: existing };
-  }
-
   try {
-    const reference = await persistSubmission(validated.value);
-    rememberIdempotentResult(options.idempotencyKey, reference);
+    const reference = await persistSubmission(submissionKey, validated.value);
     return { success: true, publicReference: reference };
   } catch (error) {
     const code =
@@ -78,10 +87,12 @@ export async function submitProjectRequest(
 }
 
 async function persistSubmission(
+  submissionKey: string,
   value: ValidatedSubmission,
 ): Promise<string> {
   const admin = getSupabaseAdmin();
   const { data, error } = await admin.rpc("submit_project_request", {
+    p_submission_key: submissionKey,
     p_full_name: value.fullName,
     p_phone: value.phone,
     p_email: value.email,

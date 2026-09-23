@@ -23,6 +23,18 @@ import type {
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const APPROVED_SERVICE_IDS = new Set<string>(SERVICES.map((s) => s.id));
+/** RFC 4122 UUID (versions 1–5); browser crypto.randomUUID() produces v4. */
+const SUBMISSION_KEY_RE =
+  /^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+
+export function parseSubmissionKey(
+  value: string | null | undefined,
+): string | null {
+  if (!value) return null;
+  const trimmed = value.trim();
+  if (!SUBMISSION_KEY_RE.test(trimmed)) return null;
+  return trimmed.toLowerCase();
+}
 
 export type ValidatedSubmission = {
   fullName: string;

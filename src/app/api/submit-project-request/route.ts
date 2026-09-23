@@ -23,7 +23,9 @@ export async function POST(request: Request) {
   }
 
   const idempotencyKey = request.headers.get("idempotency-key");
-  const result = await submitProjectRequest(body, { idempotencyKey });
+  const result = await submitProjectRequest(body, {
+    submissionKey: idempotencyKey,
+  });
 
   if (result.success) {
     return NextResponse.json(result, { status: 200 });

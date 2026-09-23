@@ -1,9 +1,27 @@
--- TASK A5-004: Atomic project submission RPC
--- CHANGE: Add public.submit_project_request(...) SECURITY DEFINER function
--- REASON: One transactional Customer + Lead + LeadCreated for validated server submits
+-- TASK A5-004: Atomic project submission RPC + durable submission_key
+-- CHANGE:
+--   1) Add leads.submission_key uuid UNIQUE (nullable; technical idempotency only)
+--   2) Add public.submit_project_request(...) SECURITY DEFINER function that
+--      atomically creates Customer + Lead + LeadCreated, keyed by submission_key
+-- REASON: One transactional Customer + Lead + LeadCreated for validated server
+--         submits, with durable idempotency across app instances / lost responses
 -- DESTRUCTIVE: NO
--- OWNER APPROVAL: A5-004 owner decision (Option 1)
+-- OWNER APPROVAL: A5-004 owner decision (Option 1) + A5-004 revision (durable key)
 -- DO NOT APPLY TO PRODUCTION without explicit owner approval
+
+-- ---------------------------------------------------------------------------
+-- Durable submission identity (idempotency)
+-- NOT a customer id, NOT attribution. Knowing the key is NOT authorization.
+-- ---------------------------------------------------------------------------
+
+alter table public.leads
+  add column submission_key uuid;
+
+comment on column public.leads.submission_key is
+  'Technical browser submission idempotency key (A5-004). Unique when set. Not a customer identifier or attribution field. Not an access credential.';
+
+alter table public.leads
+  add constraint leads_submission_key_unique unique (submission_key);
 
 -- ---------------------------------------------------------------------------
 -- submit_project_request
@@ -13,9 +31,15 @@
 --   - EXECUTE revoked from PUBLIC / anon / authenticated
 --   - EXECUTE granted only to service_role
 --   - Public browser never calls this directly; A5 server validates + Turnstile first
+-- IDEMPOTENCY:
+--   - p_submission_key required
+--   - UNIQUE(leads.submission_key) is concurrency authority
+--   - Existing key → return existing public_reference (no second Customer/Lead/event)
+--   - Failed txn before commit does not consume the key
 -- ---------------------------------------------------------------------------
 
 create or replace function public.submit_project_request(
+  p_submission_key uuid,
   p_full_name text,
   p_phone text,
   p_email text,
@@ -39,6 +63,22 @@ declare
   v_lead_id uuid;
   v_reference text;
 begin
+  if p_submission_key is null then
+    raise exception 'submission_key_required' using errcode = '22023';
+  end if;
+
+  -- Retry / lost-response path: already committed for this key
+  select l.id
+    into v_lead_id
+  from public.leads l
+  where l.submission_key = p_submission_key;
+
+  if v_lead_id is not null then
+    v_reference := 'A5-' || upper(substr(replace(v_lead_id::text, '-', ''), 1, 8));
+    return query select v_lead_id, v_reference;
+    return;
+  end if;
+
   -- Lightweight DB guardrails (authoritative app validation is server-side)
   if p_full_name is null or length(trim(p_full_name)) = 0 then
     raise exception 'invalid_full_name' using errcode = '22023';
@@ -79,82 +119,101 @@ begin
     raise exception 'invalid_urgency' using errcode = '22023';
   end if;
 
-  insert into public.customers (
-    full_name,
-    phone,
-    email,
-    preferred_contact_method
-  ) values (
-    trim(p_full_name),
-    trim(p_phone),
-    trim(p_email),
-    p_preferred_contact
-  )
-  returning id into v_customer_id;
+  -- Insert path; UNIQUE(submission_key) is the race authority.
+  -- EXCEPTION block rolls back this subtransaction on unique_violation so a
+  -- lost race does not leave a partial Customer without rolling back.
+  begin
+    insert into public.customers (
+      full_name,
+      phone,
+      email,
+      preferred_contact_method
+    ) values (
+      trim(p_full_name),
+      trim(p_phone),
+      trim(p_email),
+      p_preferred_contact
+    )
+    returning id into v_customer_id;
 
-  insert into public.leads (
-    customer_id,
-    service_id,
-    location_id,
-    project_description,
-    urgency,
-    status,
-    service_selection_status,
-    postal_code
-  ) values (
-    v_customer_id,
-    p_service_id,
-    null,
-    trim(p_project_description),
-    trim(p_urgency),
-    'NEW',
-    p_service_selection_status,
-    p_postal_code
-  )
-  returning id into v_lead_id;
+    insert into public.leads (
+      customer_id,
+      service_id,
+      location_id,
+      project_description,
+      urgency,
+      status,
+      service_selection_status,
+      postal_code,
+      submission_key
+    ) values (
+      v_customer_id,
+      p_service_id,
+      null,
+      trim(p_project_description),
+      trim(p_urgency),
+      'NEW',
+      p_service_selection_status,
+      p_postal_code,
+      p_submission_key
+    )
+    returning id into v_lead_id;
 
-  insert into public.lead_status_events (
-    lead_id,
-    from_status,
-    to_status,
-    event_type,
-    occurred_at
-  ) values (
-    v_lead_id,
-    null,
-    'NEW',
-    'LeadCreated',
-    now()
-  );
+    insert into public.lead_status_events (
+      lead_id,
+      from_status,
+      to_status,
+      event_type,
+      occurred_at
+    ) values (
+      v_lead_id,
+      null,
+      'NEW',
+      'LeadCreated',
+      now()
+    );
 
-  v_reference := 'A5-' || upper(substr(replace(v_lead_id::text, '-', ''), 1, 8));
+    v_reference := 'A5-' || upper(substr(replace(v_lead_id::text, '-', ''), 1, 8));
+    return query select v_lead_id, v_reference;
+  exception
+    when unique_violation then
+      select l.id
+        into v_lead_id
+      from public.leads l
+      where l.submission_key = p_submission_key;
 
-  return query select v_lead_id, v_reference;
+      if v_lead_id is null then
+        raise;
+      end if;
+
+      v_reference := 'A5-' || upper(substr(replace(v_lead_id::text, '-', ''), 1, 8));
+      return query select v_lead_id, v_reference;
+  end;
 end;
 $$;
 
 comment on function public.submit_project_request(
-  text, text, text, public.preferred_contact_method,
+  uuid, text, text, text, public.preferred_contact_method,
   public.service_selection_status, text, text, text, text
 ) is
-  'A5-004 atomic Customer+Lead+LeadCreated. Callable only via service_role after server validation/Turnstile. Not a public API.';
+  'A5-004 atomic Customer+Lead+LeadCreated keyed by submission_key. Callable only via service_role after server validation/Turnstile. Not a public API. submission_key is not an access credential.';
 
 revoke all on function public.submit_project_request(
-  text, text, text, public.preferred_contact_method,
+  uuid, text, text, text, public.preferred_contact_method,
   public.service_selection_status, text, text, text, text
 ) from public;
 
 revoke all on function public.submit_project_request(
-  text, text, text, public.preferred_contact_method,
+  uuid, text, text, text, public.preferred_contact_method,
   public.service_selection_status, text, text, text, text
 ) from anon;
 
 revoke all on function public.submit_project_request(
-  text, text, text, public.preferred_contact_method,
+  uuid, text, text, text, public.preferred_contact_method,
   public.service_selection_status, text, text, text, text
 ) from authenticated;
 
 grant execute on function public.submit_project_request(
-  text, text, text, public.preferred_contact_method,
+  uuid, text, text, text, public.preferred_contact_method,
   public.service_selection_status, text, text, text, text
 ) to service_role;
