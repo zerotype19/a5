@@ -6,20 +6,61 @@ import { phoneTelHref } from "@/lib/phone";
 import styles from "./intake.module.css";
 import { FormButton } from "./FormButton";
 
+export type PhotoAttachStatus = "none" | "all" | "partial" | "failed";
+
 type SuccessProps = {
   publicReference: string;
+  photoStatus?: PhotoAttachStatus;
+  attachedCount?: number;
+  failedCount?: number;
+  onRetryPhotos?: () => void;
+  photoRetrying?: boolean;
 };
 
-export function SubmissionSuccess({ publicReference }: SuccessProps) {
+export function SubmissionSuccess({
+  publicReference,
+  photoStatus = "none",
+  attachedCount = 0,
+  failedCount = 0,
+  onRetryPhotos,
+  photoRetrying,
+}: SuccessProps) {
+  let photoMessage: string | null = null;
+  if (photoStatus === "all") {
+    photoMessage = "Your photos were attached successfully.";
+  } else if (photoStatus === "partial") {
+    photoMessage = `We received your project request, but ${failedCount} of ${attachedCount + failedCount} photos couldn't be attached.`;
+  } else if (photoStatus === "failed") {
+    photoMessage =
+      "We received your project request, but one or more photos couldn't be attached.";
+  }
+
   return (
     <div className={styles.panel} data-intake="submission-success" role="status">
       <h2 className={styles.stepTitle}>We received your project request</h2>
       <p className={styles.stepHint}>
-        A5 will review the details and coordinate next steps.
+        {photoStatus === "all"
+          ? "A5 will review the details and your photos, then coordinate next steps."
+          : "A5 will review the details and coordinate next steps."}
       </p>
+      {photoMessage ? <p className={styles.stepHint}>{photoMessage}</p> : null}
       <p className={styles.referenceLine}>
         Reference: <strong>{publicReference}</strong>
       </p>
+      {(photoStatus === "partial" || photoStatus === "failed") &&
+      onRetryPhotos ? (
+        <div className={styles.resultActions}>
+          <FormButton
+            type="button"
+            variant="secondary"
+            disabled={photoRetrying}
+            onClick={onRetryPhotos}
+            dataCta="intake-retry-photos"
+          >
+            {photoRetrying ? "Retrying photos…" : "Retry photo upload"}
+          </FormButton>
+        </div>
+      ) : null}
       <div className={styles.resultActions}>
         <a
           className={styles.resultLinkPrimary}

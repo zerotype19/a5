@@ -1,16 +1,32 @@
 "use client";
 
 import styles from "../intake.module.css";
+import {
+  PhotoPicker,
+  type SelectedPhoto,
+} from "../PhotoPicker";
 import type { FieldErrors } from "../validation";
 import type { ProjectIntakeState } from "../types";
 
 type Props = {
   state: ProjectIntakeState;
   errors: FieldErrors;
+  photos: SelectedPhoto[];
+  photoError?: string;
   onChangeDescription: (value: string) => void;
+  onChangePhotos: (photos: SelectedPhoto[]) => void;
+  onPhotoClientError: (message: string | null) => void;
 };
 
-export function StepDetails({ state, errors, onChangeDescription }: Props) {
+export function StepDetails({
+  state,
+  errors,
+  photos,
+  photoError,
+  onChangeDescription,
+  onChangePhotos,
+  onPhotoClientError,
+}: Props) {
   const errorId = "description-error";
   const count = state.description.length;
 
@@ -47,16 +63,12 @@ export function StepDetails({ state, errors, onChangeDescription }: Props) {
         ) : null}
       </div>
 
-      <div className={styles.photoNote}>
-        <p className={styles.photoNoteTitle}>
-          Have photos? They can help us understand the project.
-        </p>
-        <p className={styles.photoNoteBody}>
-          Secure photo upload is coming in a later step. For now, a clear
-          written description is enough to continue.
-        </p>
-        <p className={styles.photoBadge}>Coming in next step</p>
-      </div>
+      <PhotoPicker
+        photos={photos}
+        error={photoError}
+        onChange={onChangePhotos}
+        onClientError={onPhotoClientError}
+      />
     </div>
   );
 }

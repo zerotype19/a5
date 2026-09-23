@@ -188,9 +188,11 @@ describe("A5-004 durable submission_key", () => {
 
   it("client retains submission key on ambiguous failure and blocks success resubmit", () => {
     assert.match(form, /idempotencyKeyRef/);
-    assert.match(form, /Network \/ connection interruption — keep the same submission key/);
-    assert.match(form, /Keep submission key on all failures/);
-    assert.doesNotMatch(form, /idempotencyKeyRef\.current = null/);
+    // Key is assigned once and never cleared on failure (no `= null` after init).
+    assert.equal(
+      (form.match(/idempotencyKeyRef\.current\s*=\s*null/g) || []).length,
+      0,
+    );
     assert.match(form, /phase === "sending" \|\| phase === "success"/);
   });
 });
@@ -310,7 +312,10 @@ describe("A5-004 UI + secrets boundary", () => {
     assert.match(form, /phase === "sending"/);
     assert.match(review, /sending/);
     assert.match(form, /idempotency-key/i);
-    assert.match(form, /Keep submission key on all failures/);
+    assert.equal(
+      (form.match(/idempotencyKeyRef\.current\s*=\s*null/g) || []).length,
+      0,
+    );
   });
 
   it("preserves intake state on failure", () => {

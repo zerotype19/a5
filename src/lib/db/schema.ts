@@ -65,12 +65,16 @@ export type LeadStatusEventTypeExample =
  */
 export const LEAD_SUBMISSION_KEY_COLUMN = "submission_key" as const;
 
+/** A5-005 — private homeowner project photo metadata. */
+export const PROJECT_PHOTOS_TABLE = "project_photos" as const;
+
 export const CORE_TABLES = [
   "services",
   "locations",
   "customers",
   "leads",
   "lead_status_events",
+  "project_photos",
 ] as const;
 
 export type CoreTable = (typeof CORE_TABLES)[number];
