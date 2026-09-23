@@ -4,6 +4,7 @@ import { useEffect, useId, useRef, useState } from "react";
 import type { ServiceId } from "@config/services";
 import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
+import type { SubmitProjectResult } from "@/lib/intake/submit-types";
 import { FormButton } from "./FormButton";
 import { IntakeProgress } from "./IntakeProgress";
 import styles from "./intake.module.css";
@@ -13,33 +14,53 @@ import { StepLocation } from "./steps/StepLocation";
 import { StepReview } from "./steps/StepReview";
 import { StepService } from "./steps/StepService";
 import { StepTiming } from "./steps/StepTiming";
+import {
+  SubmissionFailureBanner,
+  SubmissionSuccess,
+} from "./SubmissionResult";
 import type { IntakeStep, IntakeTiming, ProjectIntakeState } from "./types";
 import { INITIAL_INTAKE_STATE, INTAKE_STEPS } from "./types";
 import type { FieldErrors } from "./validation";
 import { validateStep } from "./validation";
 
+type Phase = "form" | "sending" | "success" | "failure";
+
+function turnstileSiteKeyFromEnv(): string | null {
+  const key = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY?.trim();
+  return key ? key : null;
+}
+
 export function ProjectIntakeForm() {
   const [step, setStep] = useState<IntakeStep>("service");
   const [state, setState] = useState<ProjectIntakeState>(INITIAL_INTAKE_STATE);
   const [errors, setErrors] = useState<FieldErrors>({});
+  const [phase, setPhase] = useState<Phase>("form");
+  const [publicReference, setPublicReference] = useState<string | null>(null);
+  const [turnstileToken, setTurnstileToken] = useState<string | null>(null);
+  const [turnstileNonce, setTurnstileNonce] = useState(0);
   const headingRef = useRef<HTMLHeadingElement>(null);
+  const idempotencyKeyRef = useRef<string | null>(null);
   const summaryId = useId();
+  const turnstileSiteKey = turnstileSiteKeyFromEnv();
+  const turnstileRequired = Boolean(turnstileSiteKey);
 
   useEffect(() => {
     headingRef.current?.focus();
-  }, [step]);
+  }, [step, phase]);
 
   function patch(partial: Partial<ProjectIntakeState>) {
     setState((prev) => ({ ...prev, ...partial }));
   }
 
   function goTo(next: IntakeStep) {
+    if (phase === "sending") return;
     setErrors({});
+    setPhase("form");
     setStep(next);
   }
 
   function handleContinue() {
-    if (step === "review") return;
+    if (step === "review" || phase === "sending") return;
     const currentErrors = validateStep(step, state);
     if (Object.keys(currentErrors).length > 0) {
       setErrors(currentErrors);
@@ -52,13 +73,104 @@ export function ProjectIntakeForm() {
   }
 
   function handleBack() {
+    if (phase === "sending") return;
     const index = INTAKE_STEPS.indexOf(step);
     if (index <= 0) return;
     setErrors({});
+    setPhase("form");
     setStep(INTAKE_STEPS[index - 1]);
   }
 
+  async function handleSubmit() {
+    if (phase === "sending" || phase === "success") return;
+    if (turnstileRequired && !turnstileToken) return;
+
+    // Durable submission identity — keep across ambiguous failures so retries
+    // hit the same leads.submission_key. New form mounts get a new key.
+    if (!idempotencyKeyRef.current) {
+      idempotencyKeyRef.current =
+        typeof crypto !== "undefined" && "randomUUID" in crypto
+          ? crypto.randomUUID()
+          : null;
+      if (!idempotencyKeyRef.current) {
+        setPhase("failure");
+        return;
+      }
+    }
+
+    setPhase("sending");
+
+    try {
+      const response = await fetch("/api/submit-project-request", {
+        method: "POST",
+        headers: {
+          "content-type": "application/json",
+          "idempotency-key": idempotencyKeyRef.current,
+        },
+        body: JSON.stringify({
+          serviceId: state.serviceId,
+          serviceSelectionStatus: state.serviceSelectionStatus,
+          zip: state.zip,
+          description: state.description,
+          timing: state.timing,
+          firstName: state.firstName,
+          lastName: state.lastName,
+          phone: state.phone,
+          email: state.email,
+          preferredContact: state.preferredContact,
+          turnstileToken,
+        }),
+      });
+
+      let result: SubmitProjectResult;
+      try {
+        result = (await response.json()) as SubmitProjectResult;
+      } catch {
+        // Ambiguous / unreadable response — keep submission key for retry.
+        setTurnstileToken(null);
+        setTurnstileNonce((n) => n + 1);
+        setPhase("failure");
+        return;
+      }
+
+      if (result.success) {
+        setPublicReference(result.publicReference);
+        setPhase("success");
+        return;
+      }
+
+      // Keep submission key on all failures (including 502 / persistence).
+      // Re-challenge Turnstile on retry (tokens are single-use) — do not bypass.
+      setTurnstileToken(null);
+      setTurnstileNonce((n) => n + 1);
+      setPhase("failure");
+
+      if (result.error === "validation" && result.stepHint) {
+        setStep(result.stepHint === "review" ? "contact" : result.stepHint);
+      }
+    } catch {
+      // Network / connection interruption — keep the same submission key.
+      setTurnstileToken(null);
+      setTurnstileNonce((n) => n + 1);
+      setPhase("failure");
+    }
+  }
+
   const errorCount = Object.keys(errors).length;
+
+  if (phase === "success" && publicReference) {
+    return (
+      <div className={styles.shell} data-intake="project-start">
+        <div className={styles.intro}>
+          <p className={styles.eyebrow}>Request service</p>
+          <h1 className={styles.pageTitle} ref={headingRef} tabIndex={-1}>
+            Thank you
+          </h1>
+        </div>
+        <SubmissionSuccess publicReference={publicReference} />
+      </div>
+    );
+  }
 
   return (
     <div className={styles.shell} data-intake="project-start">
@@ -79,6 +191,10 @@ export function ProjectIntakeForm() {
       </div>
 
       <IntakeProgress step={step} />
+
+      {phase === "failure" ? (
+        <SubmissionFailureBanner onRetry={() => setPhase("form")} />
+      ) : null}
 
       {errorCount > 0 ? (
         <div className={styles.errorSummary} id={summaryId} role="alert">
@@ -138,7 +254,19 @@ export function ProjectIntakeForm() {
         ) : null}
 
         {step === "review" ? (
-          <StepReview state={state} onEdit={goTo} />
+          <StepReview
+            state={state}
+            onEdit={goTo}
+            onSubmit={() => {
+              void handleSubmit();
+            }}
+            sending={phase === "sending"}
+            turnstileSiteKey={turnstileSiteKey}
+            turnstileToken={turnstileToken}
+            turnstileNonce={turnstileNonce}
+            onTurnstileToken={setTurnstileToken}
+            turnstileRequired={turnstileRequired}
+          />
         ) : null}
       </div>
 
@@ -173,6 +301,7 @@ export function ProjectIntakeForm() {
             type="button"
             variant="secondary"
             onClick={handleBack}
+            disabled={phase === "sending"}
             dataCta="intake-back"
           >
             Back

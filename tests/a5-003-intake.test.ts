@@ -129,11 +129,10 @@ describe("A5-003 project intake UI", () => {
     assert.match(review, /Edit/);
   });
 
-  it("keeps final submit disabled without fake success copy", () => {
-    assert.match(review, /disabled/);
+  it("exposes Send Project Request on review (wired in A5-004)", () => {
     assert.match(review, /Send Project Request/);
-    assert.doesNotMatch(review, /your request was submitted/i);
-    assert.match(review, /not enabled yet/i);
+    assert.match(review, /onSubmit/);
+    assert.doesNotMatch(review, /not enabled yet/i);
   });
 
   it("keeps a valid phone alternative from the site registry", () => {

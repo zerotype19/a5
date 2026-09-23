@@ -59,6 +59,12 @@ export const LEAD_STATUS_EVENT_TYPE_EXAMPLES = [
 export type LeadStatusEventTypeExample =
   (typeof LEAD_STATUS_EVENT_TYPE_EXAMPLES)[number];
 
+/**
+ * A5-004 — durable browser submission idempotency on leads.
+ * Technical identity only; not customer id / attribution / auth credential.
+ */
+export const LEAD_SUBMISSION_KEY_COLUMN = "submission_key" as const;
+
 export const CORE_TABLES = [
   "services",
   "locations",
