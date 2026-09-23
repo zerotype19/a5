@@ -1,0 +1,95 @@
+.footer {
+  background: var(--color-ink);
+  color: #d7dee4;
+  padding: var(--space-8) 1.25rem var(--space-6);
+}
+
+.inner {
+  max-width: var(--width-content);
+  margin: 0 auto;
+  display: grid;
+  gap: var(--space-6);
+}
+
+.brandCol {
+  display: grid;
+  gap: var(--space-3);
+  max-width: 22rem;
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.blurb {
+  color: #a8b4be;
+  font-size: 0.975rem;
+}
+
+.heading {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #9aabb8;
+  margin-bottom: var(--space-3);
+}
+
+.list {
+  list-style: none;
+  display: grid;
+  gap: 0.55rem;
+}
+
+.list a {
+  text-decoration: none;
+  color: #e8eef2;
+}
+
+.list a:hover {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.brandCol a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.brandCol a:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.bottom {
+  max-width: var(--width-content);
+  margin: var(--space-7) auto 0;
+  padding-top: var(--space-5);
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  justify-content: space-between;
+  font-size: 0.875rem;
+  color: #9aabb8;
+}
+
+.legal a {
+  color: #c5d0d8;
+  text-decoration: none;
+}
+
+.legal a:hover {
+  color: #fff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+@media (min-width: 800px) {
+  .inner {
+    grid-template-columns: 1.4fr 1fr 1fr 1fr;
+  }
+}

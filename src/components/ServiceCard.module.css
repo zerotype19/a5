@@ -1,0 +1,37 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: var(--space-5);
+  min-height: 8.5rem;
+  padding: 1.25rem 1.2rem;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  text-decoration: none;
+  box-shadow: var(--shadow-soft);
+  transition:
+    border-color var(--duration) var(--ease),
+    transform var(--duration) var(--ease),
+    background-color var(--duration) var(--ease);
+}
+
+.card:hover,
+.card:focus-visible {
+  border-color: var(--color-accent);
+  background: #fff;
+  transform: translateY(-2px);
+}
+
+.name {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+}
+
+.action {
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-accent);
+}

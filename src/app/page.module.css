@@ -1,39 +1,297 @@
-.main {
-  min-height: 100vh;
+.hero {
+  position: relative;
+  min-height: calc(100vh - var(--header-height));
+  display: grid;
+  align-items: end;
+  overflow: hidden;
+  color: var(--color-on-hero);
+}
+
+.heroPlane {
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(
+      115deg,
+      rgba(15, 42, 50, 0.94) 0%,
+      rgba(22, 64, 72, 0.88) 48%,
+      rgba(28, 85, 96, 0.82) 100%
+    ),
+    radial-gradient(ellipse at 80% 20%, rgba(215, 236, 236, 0.22), transparent 50%),
+    linear-gradient(180deg, var(--color-hero-from), var(--color-hero-to));
+}
+
+.heroPlane::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    -18deg,
+    transparent 0,
+    transparent 11px,
+    rgba(255, 255, 255, 0.025) 11px,
+    rgba(255, 255, 255, 0.025) 12px
+  );
+  opacity: 0.7;
+}
+
+.heroInner {
+  position: relative;
+  z-index: 1;
+  width: min(100%, var(--width-content));
+  margin: 0 auto;
+  padding: clamp(3.5rem, 10vh, 6.5rem) 1.25rem clamp(3rem, 8vh, 5rem);
+  animation: riseIn 700ms var(--ease) both;
+}
+
+.brandSignal {
+  font-family: var(--font-display);
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  letter-spacing: -0.03em;
+  margin-bottom: var(--space-4);
+}
+
+.heroTitle {
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 7vw, 4.5rem);
+  line-height: 1.02;
+  letter-spacing: -0.035em;
+  max-width: 12ch;
+  font-weight: 600;
+}
+
+.heroLede {
+  margin-top: var(--space-5);
+  max-width: 34rem;
+  font-size: clamp(1.05rem, 2vw, 1.2rem);
+  color: var(--color-on-hero-muted);
+}
+
+.heroActions {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  flex-wrap: wrap;
   gap: 0.75rem;
-  padding: 2rem;
-  max-width: 40rem;
+  margin-top: var(--space-6);
+}
+
+.heroLocal {
+  margin-top: var(--space-5);
+  max-width: 32rem;
+  font-size: 0.95rem;
+  color: rgba(197, 213, 216, 0.9);
+}
+
+.serviceGrid {
+  display: grid;
+  gap: 0.85rem;
+  grid-template-columns: 1fr;
+}
+
+.unsureCard {
+  display: grid;
+  gap: var(--space-3);
+  padding: 1.35rem 1.25rem;
+  border-radius: var(--radius-md);
+  border: 1px dashed var(--color-accent);
+  background: var(--color-accent-soft);
+  text-decoration: none;
+  transition: transform var(--duration) var(--ease);
+}
+
+.unsureCard:hover {
+  transform: translateY(-2px);
+}
+
+.unsureTitle {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  color: var(--color-ink);
+}
+
+.unsureBody {
+  color: var(--color-ink-soft);
+  font-size: 0.975rem;
+}
+
+.steps {
+  list-style: none;
+  display: grid;
+  gap: 1rem;
+}
+
+.step {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem;
+  padding: 1.25rem;
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-md);
+}
+
+.stepNum {
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 999px;
+  display: grid;
+  place-items: center;
+  background: var(--color-accent-soft);
+  color: var(--color-accent);
+  font-weight: 700;
+}
+
+.stepTitle {
+  font-size: 1.125rem;
+  margin-bottom: 0.35rem;
+}
+
+.stepBody {
+  color: var(--color-ink-soft);
+  font-size: 0.975rem;
+}
+
+.popularRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.popularLink {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  padding: 0.55rem 1rem;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-sm);
+  background: var(--color-surface);
+  text-decoration: none;
+  font-weight: 600;
+  color: var(--color-ink);
+  transition:
+    border-color var(--duration) var(--ease),
+    background-color var(--duration) var(--ease);
+}
+
+.popularLink:hover,
+.popularLink:focus-visible {
+  border-color: var(--color-accent);
+  background: #fff;
+}
+
+.locationList {
+  list-style: none;
+  display: grid;
+  gap: 0.65rem;
+  grid-template-columns: 1fr;
+}
+
+.locationItem {
+  padding: 0.95rem 1.1rem;
+  background: var(--color-surface);
+  border-left: 3px solid var(--color-accent);
+  font-weight: 600;
+}
+
+.whyGrid {
+  display: grid;
+  gap: 1rem;
+}
+
+.whyItem {
+  padding: 0.25rem 0 1rem;
+  border-bottom: 1px solid var(--color-line);
+}
+
+.whyTitle {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  margin-bottom: 0.4rem;
+  letter-spacing: -0.02em;
+}
+
+.whyBody {
+  color: var(--color-ink-soft);
+  max-width: 36rem;
+}
+
+.faqList {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.faqItem {
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-md);
+  padding: 0.35rem 1rem;
+}
+
+.faqItem summary {
+  cursor: pointer;
+  list-style: none;
+  padding: 0.95rem 0;
+  font-weight: 600;
+}
+
+.faqItem summary::-webkit-details-marker {
+  display: none;
+}
+
+.faqItem p {
+  padding: 0 0 1rem;
+  color: var(--color-ink-soft);
+  max-width: 42rem;
+}
+
+.finalCta {
+  padding: var(--space-8) 1.25rem;
+  background:
+    linear-gradient(145deg, #0f2a32 0%, #164048 55%, #1c5560 100%);
+}
+
+.finalInner {
+  max-width: var(--width-content);
   margin: 0 auto;
 }
 
-.eyebrow {
-  font-size: 0.75rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #5c5c5c;
+@media (min-width: 640px) {
+  .serviceGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .locationList {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .whyGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1.5rem 2rem;
+  }
+
+  .whyItem {
+    border-bottom: 0;
+    padding: 0;
+  }
 }
 
-.title {
-  font-size: clamp(1.75rem, 4vw, 2.25rem);
-  font-weight: 600;
-  line-height: 1.2;
-}
+@media (min-width: 960px) {
+  .serviceGrid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 
-.lede {
-  font-size: 1rem;
-  line-height: 1.5;
-  color: #333;
-}
+  .unsureCard {
+    grid-column: span 3;
+  }
 
-.meta {
-  font-size: 0.875rem;
-  color: #5c5c5c;
-}
+  .steps {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 
-.meta a {
-  text-decoration: underline;
-  text-underline-offset: 2px;
+  .locationList {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .heroInner {
+    padding-bottom: 5.5rem;
+  }
 }
