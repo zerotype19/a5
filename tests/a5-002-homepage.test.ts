@@ -53,10 +53,10 @@ describe("A5-002 public homepage", () => {
     assert.equal(LOCATIONS.length, 6);
   });
 
-  it("keeps primary CTA identifiable and linked to request placeholder", () => {
+  it("keeps primary CTA identifiable and linked to request intake", () => {
     assert.match(homepage, /dataCta="hero-get-help"/);
     assert.match(homepage, /href="\/request-service"/);
-    assert.match(requestService, /Project intake is coming online/);
+    assert.match(requestService, /ProjectIntakeForm/);
   });
 
   it("sets homepage metadata foundations", () => {
