@@ -38,6 +38,8 @@ values ('<AUTH_USER_UUID>', true);
 4. Sign in at `/admin/login` with that email/password.
 5. To revoke: `update public.admin_users set active = false where user_id = '<UUID>';`
 
+After applying the migration on a live Supabase project, reload the PostgREST schema cache if `admin_users` is missing from the API (`notify pgrst, 'reload schema';` or Dashboard → Settings → API → Reload).
+
 Never commit credentials. Rotate before production launch if build-phase secrets were shared.
 
 ## Rollback
