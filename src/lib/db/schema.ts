@@ -1,5 +1,5 @@
 /**
- * Compile-safe references for A5-001 core operational schema.
+ * Compile-safe references for A5 operational schema (A5-001 + A5-003A).
  * Mirror of approved migrations — not a runtime Supabase client.
  */
 
@@ -29,10 +29,20 @@ export const ATTRIBUTION_CONFIDENCE_VALUES = [
 export type AttributionConfidence =
   (typeof ATTRIBUTION_CONFIDENCE_VALUES)[number];
 
-export const PREFERRED_CONTACT_METHODS = ["phone", "email"] as const;
+/** A5-001 + A5-003A: phone | email | text */
+export const PREFERRED_CONTACT_METHODS = ["phone", "email", "text"] as const;
 
 export type PreferredContactMethod =
   (typeof PREFERRED_CONTACT_METHODS)[number];
+
+/**
+ * A5-003A — homeowner service choice signal.
+ * SELECTED ⇒ service_id set; NOT_SURE ⇒ service_id null (deliberate).
+ */
+export const SERVICE_SELECTION_STATUSES = ["SELECTED", "NOT_SURE"] as const;
+
+export type ServiceSelectionStatus =
+  (typeof SERVICE_SELECTION_STATUSES)[number];
 
 /** Example event_type vocabulary from project context §16 (non-exhaustive). */
 export const LEAD_STATUS_EVENT_TYPE_EXAMPLES = [
