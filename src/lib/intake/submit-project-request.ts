@@ -49,6 +49,10 @@ export async function submitProjectRequest(
 
   const turnstile = await verifyTurnstileToken(token);
   if (!turnstile.ok) {
+    if (turnstile.reason === "misconfigured") {
+      console.error("[submit] turnstile misconfigured");
+      return { success: false, error: "configuration" };
+    }
     return { success: false, error: "turnstile" };
   }
 
