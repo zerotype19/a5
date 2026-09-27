@@ -16,6 +16,12 @@ import {
   STALE_STATUS_MESSAGE,
 } from "../src/lib/admin/transitions.ts";
 import { LEAD_NOTES_TABLE, LEAD_STATUSES } from "../src/lib/db/schema.ts";
+import {
+  APPROVED_HOSTING_DEV_DEPENDENCIES,
+  APPROVED_HOSTING_RUNTIME_DEPENDENCIES,
+  BASELINE_DEV_DEPENDENCIES,
+  BASELINE_RUNTIME_DEPENDENCIES,
+} from "../config/approved-dependencies.ts";
 
 function read(path: string): string {
   return readFileSync(new URL(`../${path}`, import.meta.url), "utf8");
@@ -176,17 +182,31 @@ describe("A5-007 migration + authorization surface", () => {
     assert.match(panels, /History/);
   });
 
-  it("adds no new package.json dependencies", () => {
+  it("allows only baseline dependencies plus the approved hosting set", () => {
     const pkg = JSON.parse(read("package.json")) as {
       dependencies: Record<string, string>;
+      devDependencies: Record<string, string>;
     };
-    assert.deepEqual(Object.keys(pkg.dependencies).sort(), [
-      "@supabase/ssr",
-      "@supabase/supabase-js",
-      "next",
-      "react",
-      "react-dom",
-    ]);
+    const hostingRuntime = Object.keys(APPROVED_HOSTING_RUNTIME_DEPENDENCIES);
+    const hostingDev = Object.keys(APPROVED_HOSTING_DEV_DEPENDENCIES);
+    assert.deepEqual(
+      Object.keys(pkg.dependencies).sort(),
+      [...BASELINE_RUNTIME_DEPENDENCIES, ...hostingRuntime].sort(),
+    );
+    assert.deepEqual(
+      Object.keys(pkg.devDependencies).sort(),
+      [...BASELINE_DEV_DEPENDENCIES, ...hostingDev].sort(),
+    );
+    for (const [name, version] of Object.entries(
+      APPROVED_HOSTING_RUNTIME_DEPENDENCIES,
+    )) {
+      assert.equal(pkg.dependencies[name], version);
+    }
+    for (const [name, version] of Object.entries(
+      APPROVED_HOSTING_DEV_DEPENDENCIES,
+    )) {
+      assert.equal(pkg.devDependencies[name], version);
+    }
   });
 
   it("documents migration", () => {

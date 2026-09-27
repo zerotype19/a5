@@ -11,7 +11,7 @@ Contact (owner-confirmed): `(973) 437-5517` · `hello@a5homeservices.com`
 
 - Next.js + TypeScript + React
 - Supabase / Postgres (+ Storage)
-- Cloudflare (edge/hosting), Resend, Turnstile, GA4
+- Cloudflare Workers via the pinned vinext adapter (ADR-003), plus DNS, HTTPS, and Turnstile. Resend and GA4 are not required to launch.
 - `@supabase/supabase-js` — service-role **server-only** + anon for Auth/Storage (see `docs/DEPENDENCIES.md`)
 - `@supabase/ssr` — official cookie Auth sessions for `/admin` (A5-006)
 
@@ -41,7 +41,9 @@ Apply migrations to your Supabase project before testing live flows — producti
 | `npm run lint` | ESLint |
 | `npm run typecheck` | TypeScript (`tsc --noEmit`) |
 | `npm test` | Node test runner |
-| `npm run build` | Production build |
+| `npm run build` | Next.js production build |
+| `npm run build:vinext` | Cloudflare Workers build. `NEXT_PUBLIC_*` values are inlined here. |
+| `npm run deploy:vinext` | Deploy the built Worker with Wrangler. Requires a prior `build:vinext`. |
 
 ## Current slice
 
