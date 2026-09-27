@@ -20,7 +20,10 @@ supabase/
 | `20260923160000_a5_004_submit_project_request_rpc.sql` | A5-004 | Atomic submit RPC + submission_key |
 | `20260923170000_a5_005_project_photos_storage.sql` | A5-005 | Private project photos |
 | `20260923180000_a5_006_admin_users.sql` | A5-006 | Admin allowlist |
+| `20260923190000_a5_g001_authority_content_schema.sql` | A5-G001 | Authority/content registry + RLS published-only public read; see [`docs/migrations/A5-G001-authority-content-schema.md`](../docs/migrations/A5-G001-authority-content-schema.md) |
 | `20260923200000_a5_007_lead_operations.sql` | A5-007 | Notes, actor audit, atomic transitions, classification RPCs; see [`docs/migrations/A5-007-lead-operations.md`](../docs/migrations/A5-007-lead-operations.md) |
+
+Seed (separate from migration): `seeds/a5_g001_authority_fixtures.sql` — five DRAFT proof fixtures only.
 
 Apply migrations only to local/preview environments until the owner explicitly authorizes production apply.
 

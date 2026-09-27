@@ -76,6 +76,18 @@ export const PROJECT_PHOTOS_TABLE = "project_photos" as const;
 /** A5-006 — Supabase Auth allowlist for A5 Operations. */
 export const ADMIN_USERS_TABLE = "admin_users" as const;
 
+/** A5-G001 — public authority / content registry tables. */
+export const AUTHORITY_TABLES = [
+  "problems",
+  "problem_services",
+  "sources",
+  "content_pages",
+  "content_sources",
+  "content_relationships",
+] as const;
+
+export type AuthorityTable = (typeof AUTHORITY_TABLES)[number];
+
 /** A5-007 — private internal OWNER notes. */
 export const LEAD_NOTES_TABLE = "lead_notes" as const;
 
