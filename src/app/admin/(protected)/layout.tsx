@@ -4,6 +4,9 @@ import { resolveAdminAccess } from "@/lib/admin/authorize";
 import { AdminShell } from "@/components/admin/AdminShell";
 import styles from "@/components/admin/admin.module.css";
 
+/** Admin ops always need Auth + service-role — never statically prerender. */
+export const dynamic = "force-dynamic";
+
 export default async function AdminProtectedLayout({
   children,
 }: {
