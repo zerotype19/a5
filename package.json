@@ -8,21 +8,34 @@
     "start": "next start --port 43123",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
-    "test": "node --experimental-strip-types --test tests/**/*.test.ts"
+    "test": "node --experimental-strip-types --test tests/**/*.test.ts",
+    "dev:vinext": "vite dev --port 43125",
+    "build:vinext": "vite build",
+    "start:vinext": "wrangler dev --config dist/server/wrangler.json",
+    "deploy:vinext": "vinext-cloudflare deploy --config dist/server/wrangler.json"
   },
   "dependencies": {
     "@supabase/ssr": "^0.8.0",
     "@supabase/supabase-js": "^2.117.1",
+    "@vinext/cloudflare": "^1.0.0-beta.11",
     "next": "16.3.6",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "react-server-dom-webpack": "^19.2.8",
+    "vinext": "^1.0.0-beta.13"
   },
   "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.61.0",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^6.1.1",
+    "@vitejs/plugin-rsc": "^0.5.35",
     "eslint": "^9",
     "eslint-config-next": "16.3.6",
-    "typescript": "^5"
-  }
+    "typescript": "^5",
+    "vite": "^8.3.1",
+    "wrangler": "^4.142.0"
+  },
+  "type": "module"
 }
