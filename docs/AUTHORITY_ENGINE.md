@@ -146,7 +146,7 @@ Explicit `content_relationships` with constrained types:
 RELATED | PARENT | SUPPORTING_GUIDE | COMPARISON | COST_GUIDE | LOCAL_VARIANT
 ```
 
-Public pages only link to **PUBLISHED** targets. Orphan detection identifies `PUBLISHED + indexable` pages with no inbound eligible relationship — it does **not** auto-publish or auto-link.
+Public pages only link to **PUBLISHED** targets. Public reads of `content_relationships` require both endpoints to be **PUBLISHED**, so an unpublished target is not exposed as a graph edge or UUID. Orphan detection identifies `PUBLISHED + indexable` pages with no inbound eligible relationship — it does **not** auto-publish or auto-link.
 
 Commercial CTAs use canonical `/request-service` — no per-page lead forms.
 

@@ -11,7 +11,7 @@
 -- sources           — reusable provenance; PUBLIC metadata (no PII)
 -- content_pages     — canonical content registry; PUBLIC read ONLY when status=PUBLISHED
 -- content_sources   — page↔ source with constrained rel types; PUBLIC when page PUBLISHED
--- content_relationships — explicit internal links; PUBLIC when from_page PUBLISHED
+-- content_relationships — explicit internal links; PUBLIC only when from_page AND to_page are PUBLISHED
 --
 -- Solutions table intentionally deferred (document in AUTHORITY_ENGINE.md).
 -- Questions use page fields (primary_question / direct_answer) + QUESTION_ANSWER sections.
@@ -286,16 +286,23 @@ create policy content_sources_public_read on public.content_sources
     )
   );
 
--- content_relationships: readable when from_page is PUBLISHED
+-- content_relationships: public graph edges require BOTH endpoints PUBLISHED.
+-- A DRAFT/REVIEW/APPROVED/ARCHIVED target must not be visible as a public node or edge.
 create policy content_relationships_public_read on public.content_relationships
   for select
   to anon, authenticated
   using (
     exists (
       select 1
-      from public.content_pages cp
-      where cp.id = from_page_id
-        and cp.status = 'PUBLISHED'
+      from public.content_pages from_page
+      where from_page.id = from_page_id
+        and from_page.status = 'PUBLISHED'
+    )
+    and exists (
+      select 1
+      from public.content_pages to_page
+      where to_page.id = to_page_id
+        and to_page.status = 'PUBLISHED'
     )
   );
 

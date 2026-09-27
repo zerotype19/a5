@@ -522,6 +522,40 @@ describe("A5-G001 migration SQL", () => {
     assert.doesNotMatch(sql, /drop table public\.leads\b/i);
   });
 
+  it("exposes a content relationship only when both pages are PUBLISHED", () => {
+    const migrationsDir = join(root, "supabase", "migrations");
+    const fileName = readdirSync(migrationsDir)
+      .filter((name) => name.includes("a5_g001"))
+      .sort()[0];
+    assert.equal(
+      fileName,
+      "20260923190000_a5_g001_authority_content_schema.sql",
+    );
+    const sql = readFileSync(join(migrationsDir, fileName!), "utf8");
+    const policy = sql.match(
+      /create policy content_relationships_public_read[\s\S]*?\);/,
+    );
+    assert.ok(policy);
+    const usingClause = policy[0];
+    const requiresFrom = /from_page\.status = 'PUBLISHED'/.test(usingClause);
+    const requiresTo = /to_page\.status = 'PUBLISHED'/.test(usingClause);
+
+    function publiclyReadable(fromStatus: string, toStatus: string): boolean {
+      const fromOk = requiresFrom ? fromStatus === "PUBLISHED" : true;
+      const toOk = requiresTo ? toStatus === "PUBLISHED" : true;
+      return fromOk && toOk;
+    }
+
+    assert.equal(publiclyReadable("PUBLISHED", "PUBLISHED"), true);
+    assert.equal(publiclyReadable("PUBLISHED", "DRAFT"), false);
+    assert.equal(publiclyReadable("DRAFT", "PUBLISHED"), false);
+    assert.equal(publiclyReadable("DRAFT", "DRAFT"), false);
+    for (const status of ["IDEA", "REVIEW", "APPROVED", "ARCHIVED"]) {
+      assert.equal(publiclyReadable("PUBLISHED", status), false);
+      assert.equal(publiclyReadable(status, "PUBLISHED"), false);
+    }
+  });
+
   it("keeps seed fixtures separate and DRAFT", () => {
     const seed = readFileSync(
       join(root, "supabase", "seeds", "a5_g001_authority_fixtures.sql"),

@@ -22,7 +22,7 @@ Create authority/content tables and enums:
 | `sources` | table | Public read |
 | `content_pages` | table | Public read **only** `status = PUBLISHED` |
 | `content_sources` | table | Public read when parent page PUBLISHED |
-| `content_relationships` | table | Public read when from_page PUBLISHED |
+| `content_relationships` | table | Public read only when **both** `from_page` and `to_page` are `PUBLISHED` |
 
 ## REASON
 
@@ -44,6 +44,7 @@ None in the schema migration. Seed inserts five DRAFT fixtures + one problem + o
 
 - Anon/authenticated: SELECT published content only; no writes.
 - Draft/review/idea/approved/archived content: not publicly readable (`robots=noindex` is not authorization).
+- `content_relationships` public read requires `from_page.status = PUBLISHED` **and** `to_page.status = PUBLISHED`. Edges that point at unpublished records are not part of the public graph.
 - Service-role bypasses RLS for owner-controlled management/seeds.
 
 ## INDEXES

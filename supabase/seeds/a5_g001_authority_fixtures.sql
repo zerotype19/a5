@@ -207,7 +207,7 @@ values
   ('10000000-0000-4000-8000-000000000005', '00000000-0000-4000-8000-000000000001', 'BACKGROUND')
 on conflict do nothing;
 
--- Explicit relationships (draft graph — public rendering filters to PUBLISHED targets)
+-- Explicit relationships (draft graph). Public RLS hides an edge unless both pages are PUBLISHED; rendering also filters to PUBLISHED targets.
 insert into public.content_relationships (from_page_id, to_page_id, relationship_type)
 values
   ('10000000-0000-4000-8000-000000000001', '10000000-0000-4000-8000-000000000004', 'RELATED'),
