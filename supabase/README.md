@@ -25,6 +25,8 @@ supabase/
 
 Seed (separate from migration): `seeds/a5_g001_authority_fixtures.sql` — five DRAFT proof fixtures only.
 
+Seed (separate from migration): `seeds/a5_g002_service_hubs.sql` — eight SERVICE hubs at `REVIEW` / not indexable, plus problem entities. Does not publish. The masonry hub updates the existing G001 SERVICE fixture because only one SERVICE page is allowed per service. The other four G001 fixtures stay untouched.
+
 Apply migrations only to local/preview environments until the owner explicitly authorizes production apply.
 
 ## Local notes
