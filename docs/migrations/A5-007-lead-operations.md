@@ -1,7 +1,8 @@
 # A5-007 — Lead operations (notes, actor, atomic transitions)
 
 **Task:** A5-007  
-**Migration:** `supabase/migrations/20260923190000_a5_007_lead_operations.sql`  
+**Migration:** `supabase/migrations/20260923200000_a5_007_lead_operations.sql`  
+**Version:** `20260923200000` (after A5-006 `20260923180000` and A5-G001 `20260923190000`)  
 **Destructive:** NO  
 **Owner approval:** A5-007 task authorization  
 
@@ -22,7 +23,7 @@ Admin allowlist checks remain in the Next.js server boundary before RPC calls.
 
 ```bash
 # via Supabase SQL editor or CLI — owner-controlled for production
-psql "$DATABASE_URL" -f supabase/migrations/20260923190000_a5_007_lead_operations.sql
+psql "$DATABASE_URL" -f supabase/migrations/20260923200000_a5_007_lead_operations.sql
 # reload PostgREST if RPCs/columns missing from API:
 # select pg_notify('pgrst', 'reload schema');
 ```

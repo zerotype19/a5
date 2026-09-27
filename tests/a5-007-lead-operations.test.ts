@@ -92,7 +92,7 @@ describe("A5-007 classification display + registries", () => {
 
 describe("A5-007 migration + authorization surface", () => {
   const migration = read(
-    "supabase/migrations/20260923190000_a5_007_lead_operations.sql",
+    "supabase/migrations/20260923200000_a5_007_lead_operations.sql",
   );
 
   it("creates lead_notes with RLS deny-all and created_by", () => {
@@ -193,5 +193,7 @@ describe("A5-007 migration + authorization surface", () => {
     const doc = read("docs/migrations/A5-007-lead-operations.md");
     assert.match(doc, /lead_notes/);
     assert.match(doc, /admin_transition_lead_status/);
+    assert.match(doc, /20260923200000_a5_007_lead_operations\.sql/);
+    assert.doesNotMatch(doc, /20260923190000_a5_007_lead_operations\.sql/);
   });
 });
