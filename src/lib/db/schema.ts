@@ -91,6 +91,32 @@ export type AuthorityTable = (typeof AUTHORITY_TABLES)[number];
 /** A5-007 — private internal OWNER notes. */
 export const LEAD_NOTES_TABLE = "lead_notes" as const;
 
+export const VENDOR_STATUSES = [
+  "PROSPECT",
+  "VETTING",
+  "APPROVED",
+  "ACTIVE",
+  "PAUSED",
+  "SUSPENDED",
+  "INACTIVE",
+] as const;
+
+export type VendorStatus = (typeof VENDOR_STATUSES)[number];
+
+export const LEAD_ASSIGNMENT_STATUSES = [
+  "ASSIGNED",
+  "ACCEPTED",
+  "PASSED",
+  "CANCELLED",
+] as const;
+
+export type LeadAssignmentStatus = (typeof LEAD_ASSIGNMENT_STATUSES)[number];
+
+export const VENDORS_TABLE = "vendors" as const;
+export const VENDOR_SERVICES_TABLE = "vendor_services" as const;
+export const VENDOR_LOCATIONS_TABLE = "vendor_locations" as const;
+export const LEAD_ASSIGNMENTS_TABLE = "lead_assignments" as const;
+
 export const CORE_TABLES = [
   "services",
   "locations",
@@ -99,6 +125,10 @@ export const CORE_TABLES = [
   "lead_status_events",
   "project_photos",
   "lead_notes",
+  "vendors",
+  "vendor_services",
+  "vendor_locations",
+  "lead_assignments",
 ] as const;
 
 export type CoreTable = (typeof CORE_TABLES)[number];
