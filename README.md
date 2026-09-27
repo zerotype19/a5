@@ -45,4 +45,4 @@ Apply migrations to your Supabase project before testing live flows — producti
 
 ## Current slice
 
-Public homepage, multi-step project intake, canonical lead submission (A5-004), optional private project photos (A5-005), and read-only **A5 Operations** admin shell with Supabase Auth + `admin_users` allowlist (A5-006). Lead editing and vendor routing are later tasks.
+Public homepage, multi-step project intake, canonical lead submission (A5-004), optional private project photos (A5-005), read-only **A5 Operations** admin shell with Supabase Auth + `admin_users` allowlist (A5-006), and the **A5 Authority Engine** foundation (A5-G001: content model, routes, publication gates — draft fixtures only; no page farm). See [`docs/AUTHORITY_ENGINE.md`](./docs/AUTHORITY_ENGINE.md). Lead editing and vendor routing are later tasks (Track A).
