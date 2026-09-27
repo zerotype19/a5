@@ -8,11 +8,13 @@
 
 A5 requires edge delivery, bot protection (Turnstile), and production hosting under owner control.
 
-The application is Next.js 16 App Router with server actions, Supabase cookie sessions, dynamic admin routes, and `node:crypto` photo grants. A vinext compatibility spike on this repository built that application for Cloudflare Workers and served it under `nodejs_compat` without changing product behavior. Real Supabase and Turnstile calls remain a deployment step, not an application rewrite.
+The application is Next.js 16 App Router with server actions, Supabase cookie sessions, dynamic admin routes, and `node:crypto` photo grants. A vinext compatibility spike built that application for Cloudflare Workers under `nodejs_compat` without changing product behavior.
+
+On 2026-09-27 the production Worker `a5-home-services` passed the real paths against the existing Supabase project and a production Turnstile widget: token verification, transactional lead creation, idempotent retry, private photo storage, anon denial, Supabase cookie login, admin allowlist denial, server actions, and admin note and status mutations. That proof locks Workers as the production host. Attaching `www.a5homeservices.com` stays a later step, after the G001 relationship policy retest and owner approval of the privacy page.
 
 ## Decision
 
-A5's Next.js application is hosted on Cloudflare Workers using the approved vinext adapter. Cloudflare also provides DNS, HTTPS, and Turnstile. Supabase provides Postgres, Auth, and private Storage.
+Cloudflare Workers is the approved production host for A5. The Next.js application is hosted on Cloudflare Workers using the approved vinext adapter. Cloudflare also provides DNS, HTTPS, and Turnstile. Supabase provides Postgres, Auth, and private Storage.
 
 Vercel is not part of the production architecture.
 
