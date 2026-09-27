@@ -31,6 +31,8 @@ The approved hosting packages are exact pins. They are not upgraded as part of o
 
 Production Worker name: `a5-home-services`.
 
+Pages that set `revalidate` use the approved `@vinext/cloudflare` KV data adapter. The Worker binding is `VINEXT_KV_CACHE`. That is cache storage, not a new application package.
+
 Canonical origin remains `https://www.a5homeservices.com`. The apex host redirects to `www`. Only that host is eligible for indexing.
 
 ## Build-time and runtime configuration

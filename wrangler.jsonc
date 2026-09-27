@@ -10,5 +10,11 @@
     "directory": "dist/client",
     "not_found_handling": "none",
     "binding": "ASSETS"
-  }
+  },
+  "kv_namespaces": [
+    {
+      "binding": "VINEXT_KV_CACHE",
+      "id": "100460eb8ce84b12a136617372d9aba6"
+    }
+  ]
 }
