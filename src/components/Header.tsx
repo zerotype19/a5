@@ -9,7 +9,7 @@ import styles from "./Header.module.css";
 
 const NAV = [
   { href: "/#services", label: "Services" },
-  { href: "/#areas", label: "Areas We Serve" },
+  { href: "/#areas", label: "Areas" },
   { href: "/#how-it-works", label: "How It Works" },
 ] as const;
 
@@ -47,7 +47,7 @@ export function Header() {
             variant="primary"
             dataCta="header-get-help"
           >
-            Get Help With a Project
+            Request Service
           </Button>
         </div>
 
@@ -99,7 +99,7 @@ export function Header() {
             className={styles.mobileCta}
             dataCta="header-get-help-mobile"
           >
-            Get Help With a Project
+            Request Service
           </Button>
         </nav>
       </div>

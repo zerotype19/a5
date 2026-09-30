@@ -88,7 +88,8 @@ export function PhotoPicker({
         Have photos? Photos can help us understand what&apos;s going on.
       </p>
       <p className={styles.photoNoteBody}>
-        Optional — up to {MAX_PROJECT_PHOTOS} photos (JPEG, PNG, or WEBP), 10 MB
+        Optional — up to {MAX_PROJECT_PHOTOS} photos. A wide shot of the area
+        and a close-up of the problem help most. JPEG, PNG, or WEBP, 10 MB
         each. You can finish without uploading.
       </p>
 

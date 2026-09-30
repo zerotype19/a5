@@ -435,6 +435,7 @@ export function ProjectIntakeForm() {
         {step === "review" ? (
           <StepReview
             state={state}
+            photoCount={photos.length}
             onEdit={goTo}
             onSubmit={() => {
               void handleSubmit();
