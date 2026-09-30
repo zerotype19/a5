@@ -16,6 +16,7 @@ import {
   type PreferredContactMethod,
   type ServiceSelectionStatus,
 } from "../db/schema.ts";
+import { normalizeFirstLandingPage } from "./landing-page.ts";
 import type {
   SubmitProjectRequestPayload,
   SubmitValidationIssue,
@@ -46,6 +47,7 @@ export type ValidatedSubmission = {
   postalCode: string;
   projectDescription: string;
   urgency: string;
+  firstLandingPage: string | null;
 };
 
 export type StepHint =
@@ -230,6 +232,7 @@ export function validateSubmissionPayload(
       postalCode: zip,
       projectDescription: description,
       urgency: timing as IntakeTiming,
+      firstLandingPage: normalizeFirstLandingPage(raw.firstLandingPage),
     },
   };
 }

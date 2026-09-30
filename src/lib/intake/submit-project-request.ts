@@ -102,6 +102,7 @@ async function persistSubmission(
     p_postal_code: value.postalCode,
     p_project_description: value.projectDescription,
     p_urgency: value.urgency,
+    p_first_landing_page: value.firstLandingPage,
   });
 
   if (error) {

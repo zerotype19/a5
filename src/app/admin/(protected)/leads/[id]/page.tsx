@@ -137,6 +137,8 @@ export default async function AdminLeadDetailPage({
             <dd>{lead.urgency ?? "—"}</dd>
             <dt>ZIP</dt>
             <dd>{lead.postalCode ?? "—"}</dd>
+            <dt>Landing page</dt>
+            <dd>{lead.firstLandingPage ?? "—"}</dd>
           </dl>
         </section>
       </div>

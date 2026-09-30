@@ -51,6 +51,7 @@ export type LeadDetail = {
   serviceLabel: string;
   postalCode: string | null;
   locationId: string | null;
+  firstLandingPage: string | null;
   customer: {
     id: string;
     fullName: string;
@@ -161,7 +162,7 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
   const { data: lead, error } = await admin
     .from("leads")
     .select(
-      "id, created_at, updated_at, status, project_description, urgency, service_id, service_selection_status, postal_code, location_id, customers(id, full_name, phone, email, preferred_contact_method)",
+      "id, created_at, updated_at, status, project_description, urgency, service_id, service_selection_status, postal_code, location_id, first_landing_page, customers(id, full_name, phone, email, preferred_contact_method)",
     )
     .eq("id", leadId)
     .maybeSingle();
@@ -300,6 +301,7 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
     ),
     postalCode: (lead.postal_code as string | null) ?? null,
     locationId: (lead.location_id as string | null) ?? null,
+    firstLandingPage: (lead.first_landing_page as string | null) ?? null,
     customer: {
       id: customer.id,
       fullName: customer.full_name,
