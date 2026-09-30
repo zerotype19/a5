@@ -165,7 +165,7 @@ export default function HomePage() {
             <Link
               key={service.id}
               className={styles.popularLink}
-              href="/request-service"
+              href={`/services/${service.slug}`}
               data-cta={`popular-${service.id}`}
             >
               {service.name}
