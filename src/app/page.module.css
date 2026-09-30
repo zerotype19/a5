@@ -1,8 +1,6 @@
 .hero {
   position: relative;
-  min-height: calc(100vh - var(--header-height));
-  display: grid;
-  align-items: end;
+  display: block;
   overflow: hidden;
   color: var(--color-on-hero);
 }
@@ -40,23 +38,25 @@
   z-index: 1;
   width: min(100%, var(--width-content));
   margin: 0 auto;
-  padding: clamp(3.5rem, 10vh, 6.5rem) 1.25rem clamp(3rem, 8vh, 5rem);
+  padding: 2.5rem 1.25rem 2.75rem;
   animation: riseIn 700ms var(--ease) both;
 }
 
 .brandSignal {
-  font-family: var(--font-display);
-  font-size: clamp(1.5rem, 3vw, 2rem);
-  letter-spacing: -0.03em;
-  margin-bottom: var(--space-4);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  margin-bottom: 0.75rem;
+  color: var(--color-on-hero-muted);
 }
 
 .heroTitle {
   font-family: var(--font-display);
-  font-size: clamp(2.4rem, 7vw, 4.5rem);
-  line-height: 1.02;
+  font-size: clamp(2.35rem, 5.4vw, 3.75rem);
+  line-height: 1.05;
   letter-spacing: -0.035em;
-  max-width: 12ch;
+  max-width: 14ch;
   font-weight: 600;
 }
 
@@ -244,7 +244,7 @@
 }
 
 .finalCta {
-  padding: var(--space-8) 1.25rem;
+  padding: 2.75rem 1.25rem;
   background:
     linear-gradient(145deg, #0f2a32 0%, #164048 55%, #1c5560 100%);
 }
@@ -291,7 +291,4 @@
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
-  .heroInner {
-    padding-bottom: 5.5rem;
-  }
 }

@@ -52,7 +52,7 @@ export function Footer() {
           <ul className={styles.list}>
             {SERVICES.map((service) => (
               <li key={service.id}>
-                <Link href="/#services">{service.name}</Link>
+                <Link href={`/services/${service.slug}`}>{service.name}</Link>
               </li>
             ))}
           </ul>
