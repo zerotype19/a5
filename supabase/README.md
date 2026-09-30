@@ -23,6 +23,8 @@ supabase/
 | `20260923190000_a5_g001_authority_content_schema.sql` | A5-G001 | Authority/content registry + RLS published-only public read; see [`docs/migrations/A5-G001-authority-content-schema.md`](../docs/migrations/A5-G001-authority-content-schema.md) |
 | `20260923200000_a5_007_lead_operations.sql` | A5-007 | Notes, actor audit, atomic transitions, classification RPCs; see [`docs/migrations/A5-007-lead-operations.md`](../docs/migrations/A5-007-lead-operations.md) |
 | `20260923210000_a5_008_vendor_assignment.sql` | A5-008 | Vendors, coverage, manual assignment RPC; see [`docs/migrations/A5-008-vendor-assignment.md`](../docs/migrations/A5-008-vendor-assignment.md) |
+| `20260930023000_a5_009_vendor_email.sql` | A5-009 | Vendor email capability and Accept / Pass |
+| `20260930150000_first_landing_page.sql` | — | Persist `leads.first_landing_page` on submit; see [`docs/migrations/first-landing-page.md`](../docs/migrations/first-landing-page.md) |
 
 Seed (separate from migration): `seeds/a5_g001_authority_fixtures.sql` — five DRAFT proof fixtures only.
 

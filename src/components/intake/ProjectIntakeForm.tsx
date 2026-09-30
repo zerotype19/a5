@@ -5,6 +5,7 @@ import type { ServiceId } from "@config/services";
 import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
 import { uploadPhotoToSignedUrl } from "@/lib/photos/browser-upload";
+import { readFirstLandingPage } from "@/lib/intake/landing-page";
 import type { SubmitProjectResult } from "@/lib/intake/submit-types";
 import { FormButton } from "./FormButton";
 import { IntakeProgress } from "./IntakeProgress";
@@ -241,6 +242,7 @@ export function ProjectIntakeForm() {
           email: state.email,
           preferredContact: state.preferredContact,
           turnstileToken,
+          firstLandingPage: readFirstLandingPage(),
         }),
       });
 
