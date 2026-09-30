@@ -10,11 +10,11 @@ export function ServiceCard({ service }: Props) {
   return (
     <Link
       className={styles.card}
-      href="/request-service"
+      href={`/services/${service.slug}`}
       data-cta={`service-${service.id}`}
     >
       <span className={styles.name}>{service.name}</span>
-      <span className={styles.action}>Start a project</span>
+      <span className={styles.action}>View service</span>
     </Link>
   );
 }
