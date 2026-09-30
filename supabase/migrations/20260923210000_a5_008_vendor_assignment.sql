@@ -410,8 +410,12 @@ begin
       return;
     end if;
 
-    delete from public.vendor_services where vendor_id = v_id;
-    delete from public.vendor_locations where vendor_id = v_id;
+    -- Qualify vendor_id. RETURNS TABLE exposes vendor_id, so an
+    -- unqualified reference is ambiguous (42702) and updates fail.
+    delete from public.vendor_services as vs
+     where vs.vendor_id = v_id;
+    delete from public.vendor_locations as vl
+     where vl.vendor_id = v_id;
   end if;
 
   insert into public.vendor_services (vendor_id, service_id)

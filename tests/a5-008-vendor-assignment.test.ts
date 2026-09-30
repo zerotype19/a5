@@ -74,7 +74,10 @@ describe("A5-008 assignment boundary", () => {
     assert.equal(VENDOR_STATUSES.includes("DISCOVERED"), true);
     assert.equal(VENDOR_STATUSES.includes("ACTIVE"), true);
     assert.equal(VENDOR_STATUSES.includes("PAUSED"), true);
-    assert.equal(VENDOR_STATUSES.includes("PROSPECT"), false);
+    assert.equal(
+      (VENDOR_STATUSES as readonly string[]).includes("PROSPECT"),
+      false,
+    );
     assert.match(migration, /accepting_requires_active/);
     assert.match(migration, /'DISCOVERED'/);
     assert.deepEqual([...LEAD_ASSIGNMENT_STATUSES], [
@@ -91,6 +94,7 @@ describe("A5-008 assignment boundary", () => {
     assert.match(migration, /vendors_deny_all/);
     assert.match(migration, /status = 'ACTIVE'/);
     assert.match(migration, /accepting_leads = true/);
+    assert.match(migration, /vs\.vendor_id = v_id/);
     assert.match(migration, /admin_assign_lead_to_vendor/);
     assert.match(migration, /VendorAssigned/);
     assert.match(migration, /assigned_by/);
