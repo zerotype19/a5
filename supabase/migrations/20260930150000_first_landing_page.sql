@@ -20,7 +20,7 @@ drop function if exists public.submit_project_request(
   text
 );
 
-create function public.submit_project_request(
+create or replace function public.submit_project_request(
   p_submission_key uuid,
   p_full_name text,
   p_phone text,
@@ -151,7 +151,7 @@ begin
       p_submission_key,
       v_landing,
       case when v_landing is null then null else now() end,
-      case when v_landing is null then 'UNKNOWN' else 'KNOWN' end
+      case when v_landing is null then 'UNKNOWN'::public.attribution_confidence else 'KNOWN'::public.attribution_confidence end
     )
     returning id into v_lead_id;
 

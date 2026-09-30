@@ -188,6 +188,10 @@ describe("first landing page persistence", () => {
       /where l\.submission_key = p_submission_key;[\s\S]*return query select v_lead_id, v_reference;/,
     );
     assert.match(migration, /drop function if exists public\.submit_project_request/i);
+    assert.match(
+      migration,
+      /'UNKNOWN'::public\.attribution_confidence/,
+    );
     assert.match(migration, /to service_role/);
   });
 
