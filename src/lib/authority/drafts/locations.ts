@@ -3,8 +3,10 @@
  * DRAFT only — not wired to any route, seed, or sitemap.
  * Madison updates the live page in place. The other five are new pages.
  * This file does not create service × location URLs.
+ * Homeowner copy must not explain that rule.
  */
 
+import type { ContentSection } from "../types.ts";
 import type { ClaimToVerify, LocationHubDraft } from "./types.ts";
 import { LIVE_MADISON_LOCATION_PAGE_ID } from "./types.ts";
 
@@ -19,24 +21,6 @@ const SERVICES = [
   "/services/electrical",
 ] as const;
 
-/** Problem URLs that are already published. Do not add the other 28 here. */
-const PUBLISHED_PROBLEMS = [
-  "/services/masonry/brick-step-repair",
-  "/services/masonry/loose-mortar",
-  "/services/masonry/sunken-pavers",
-  "/services/plumbing/visible-pipe-leak",
-  "/services/plumbing/running-toilet",
-  "/services/drywall/water-damaged-ceiling",
-  "/services/drywall/hole-in-drywall",
-  "/services/drywall/drywall-crack",
-  "/services/electrical/failed-light-fixture",
-  "/services/electrical/dead-outlet",
-  "/services/tile/crumbling-grout",
-  "/services/painting/peeling-exterior-paint",
-  "/services/handyman/sticking-interior-door",
-  "/services/landscaping/yard-surface-grading",
-] as const;
-
 const TOWN_PATHS = [
   "/home-services/florham-park",
   "/home-services/madison",
@@ -46,14 +30,30 @@ const TOWN_PATHS = [
   "/home-services/east-hanover",
 ] as const;
 
-function linksFor(locationId: string): readonly string[] {
-  const own = `/home-services/${locationId}`;
-  const towns = TOWN_PATHS.filter((path) => path !== own);
-  const extra =
-    locationId === "madison"
-      ? ["/madison/masonry", "/guides/why-brick-steps-crack"]
-      : [];
-  return [...SERVICES, ...PUBLISHED_PROBLEMS, ...towns, ...extra];
+const SERVICE_DIRECTORY =
+  "Handyman, masonry, landscaping, painting, drywall, tile, plumbing, and electrical. Open the trade that matches the work, then send the request from there if you already know which one it is.";
+
+function nearbyFor(locationId: string): readonly string[] {
+  return TOWN_PATHS.filter((path) => path !== `/home-services/${locationId}`);
+}
+
+function primaryLinks(
+  problemPaths: readonly string[],
+  extra: readonly string[] = [],
+): readonly string[] {
+  return [...SERVICES, ...problemPaths, ...extra];
+}
+
+function howItWorks(example: string): ContentSection {
+  return {
+    type: "RICH_TEXT",
+    heading: "How A5 works",
+    paragraphs: [
+      example,
+      "Add up to five photos: one wide shot, the damaged spot, a close view, something for scale, and any sign of water.",
+      "A5 reviews what you sent and coordinates an appropriate local provider.",
+    ],
+  };
 }
 
 const florhamParkClaim: ClaimToVerify = {
@@ -121,21 +121,28 @@ const eastHanoverClaim: ClaimToVerify = {
 
 const florhamPark: LocationHubDraft = {
   locationId: "florham-park",
-  title: "Florham Park home repairs",
-  metaTitle: "Florham Park home repairs | A5",
+  title: "Home services in Florham Park, NJ",
+  metaTitle: "Home services in Florham Park, NJ | A5",
   metaDescription:
-    "A Florham Park starting point for paint, mortar, leaks, and grading — then the service page that matches the job.",
-  h1: "Florham Park: start with the house, not a town slogan",
-  primaryQuestion: "What should a Florham Park homeowner open first?",
+    "A5 coordinates masonry, painting, plumbing, electrical, and other home repairs in Florham Park. Start from the problem and send photos.",
+  h1: "Home services in Florham Park, NJ",
+  primaryQuestion: "What kinds of projects can A5 help coordinate in Florham Park?",
   directAnswer:
-    "Open the problem, not a generic 'home services in Florham Park' page. A5 takes project requests in the borough. The useful next click is the service or problem page that matches what you can see: failing paint, loose mortar, a leak, or water sitting against the house.",
+    "Home repairs you can point at: peeling exterior paint, mortar falling out of brick, water sitting against the house, a door that sticks, a leak, or a small list of finish items. A5 coordinates that work in Florham Park. Describe what you see, add photos, and A5 reviews the request and lines up a local provider.",
   claimsToVerify: [florhamParkClaim],
   relatedProblemSlugs: [
     "peeling-exterior-paint",
     "loose-mortar",
     "yard-surface-grading",
+    "brick-step-repair",
   ],
-  linkPaths: linksFor("florham-park"),
+  linkPaths: primaryLinks([
+    "/services/painting/peeling-exterior-paint",
+    "/services/masonry/loose-mortar",
+    "/services/landscaping/yard-surface-grading",
+    "/services/masonry/brick-step-repair",
+  ]),
+  nearbyLocationPaths: nearbyFor("florham-park"),
   disposition: {
     action: "create",
     canonicalPath: "/home-services/florham-park",
@@ -144,64 +151,97 @@ const florhamPark: LocationHubDraft = {
   sections: [
     {
       type: "INTRO",
-      body: "Florham Park is one borough, with its own municipal site, inside the small set of towns A5 serves. This page is the local front door. It does not repeat the same sentence with a different town name, and it does not invent a Florham Park job history.",
+      body: "If the house is in Florham Park, start with the repair. The borough is the place. The problem is how A5 knows who should look at it.",
     },
     {
       type: "RICH_TEXT",
-      heading: "Florham Park is its own borough",
+      heading: "Common home projects",
       paragraphs: [
-        "Florham Park is a borough. It was incorporated on March 20, 1899, and it operates under the borough form of government. Permits and inspections, when a job needs them, belong to that borough's offices.",
-        "Madison and East Hanover are separate A5 location pages. East Hanover's own site names Florham Park as an adjacent municipality. A request still has to name Florham Park if that is the house. Towns that are not in the registry are outside this page.",
+        "Exterior paint that is peeling, blistering, or coming off in sheets. The painting pages separate a coating failure from a surface that has to be repaired first.",
+        "Brick steps and mortar joints that are crumbling or washing out. Masonry covers repair versus rebuilding.",
+        "A yard or walk where water sits against the house after rain. Landscaping covers surface grading, not a standing lawn-care plan.",
+        "Doors, trim, and a short punch list. Handyman work is the mixed small stuff, once plumbing and electrical items are pulled out of the list.",
       ],
     },
     {
       type: "RICH_TEXT",
-      heading: "Three published pages that do not depend on a local study",
+      heading: "Start with what you see",
       paragraphs: [
-        "Peeling exterior paint is a prep problem. The painting page says whether the failure is the coating or the surface under it.",
-        "Loose mortar is a joint problem. The masonry page separates repointing from a wall that needs rebuilding.",
-        "Water pooling against the house is a grading question. The landscaping page covers surface drainage and stops short of promising a lawn program.",
+        "Peeling exterior paint, if the coating is what failed.",
+        "Loose mortar, if the joints between bricks are the problem.",
+        "Yard surface grading, if water is pooling in the yard or along the foundation.",
+        "Brick step repair, if the treads themselves are cracking or breaking up.",
+      ],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Services available",
+      paragraphs: [SERVICE_DIRECTORY],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Local context",
+      paragraphs: [
+        "Florham Park is a borough. It was incorporated on March 20, 1899, and it operates under the borough form of government. If a job needs a permit, that question belongs to the borough. It does not change the photos or the description A5 needs.",
+      ],
+    },
+    howItWorks(
+      "For a Florham Park house, name the borough and say what is failing: the paint, the mortar, the water, or the door.",
+    ),
+    {
+      type: "RICH_TEXT",
+      heading: "Nearby areas A5 serves",
+      paragraphs: [
+        "A5 also coordinates projects in Madison, Chatham, Morris Township, Morristown, and East Hanover.",
       ],
     },
     {
       type: "QUESTION_ANSWER",
       items: [
         {
-          question: "Is there a Florham Park plumbing or electrical page?",
+          question: "What if the job might need a permit?",
           answer:
-            "Not yet. Plumbing and electrical stay on /services/plumbing and /services/electrical. A town-and-trade URL would be a separate page, and this batch does not create one.",
-        },
-        {
-          question: "Where do photos go?",
-          answer:
-            "On the request. Up to five: the whole elevation or room, the failed spot, a close view of the material, anything that shows water, and a shot that shows how large the area is.",
+            "Say so on the request. Florham Park handles its own permits. A5 still needs the description and photos to coordinate the work.",
         },
       ],
     },
-    { type: "SOURCE_LIST", heading: "Florham Park source" },
-    { type: "RELATED_CONTENT", heading: "Florham Park related pages" },
+    { type: "SOURCE_LIST", heading: "Sources" },
+    { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Request service in Florham Park",
-      description:
-        "Name the town, the problem, and what you can see. A5 reviews the request.",
+      title: "Tell us what needs fixing",
+      description: "Florham Park, the problem, and a few photos are enough to start.",
     },
   ],
 };
 
 const madison: LocationHubDraft = {
   locationId: "madison",
-  title: "Madison home repairs",
-  metaTitle: "Madison, NJ home repairs | A5",
+  title: "Home services in Madison, NJ",
+  metaTitle: "Home services in Madison, NJ | A5",
   metaDescription:
-    "Madison's help center: borough context, the existing masonry page, and the problem pages that already exist.",
-  h1: "Madison: the borough page, plus one masonry page that already exists",
-  primaryQuestion: "Where does a Madison project start?",
+    "A5 coordinates home repairs in Madison, including masonry. Start with brick steps, a ceiling stain, or another problem you can see.",
+  h1: "Home services in Madison, NJ",
+  primaryQuestion: "What kinds of projects can A5 help coordinate in Madison?",
   directAnswer:
-    "Start here if the useful fact is the town, then go to the problem. Madison is a borough in southeast Morris County. A5 already has one town-and-trade page, masonry in Madison. Every other trade still lives on its service hub until a later, separate page is approved.",
+    "Masonry, plumbing, electrical, painting, drywall, tile, handyman work, and yard drainage for houses in Madison. Brick steps, walks, and mortar already have a Madison masonry page. A ceiling stain, a sticking door, or a sunken paver starts from that problem. Send the description and photos, and A5 reviews the request and coordinates a local provider.",
   claimsToVerify: [madisonClaim],
-  relatedProblemSlugs: ["brick-step-repair", "water-damaged-ceiling", "loose-mortar"],
-  linkPaths: linksFor("madison"),
+  relatedProblemSlugs: [
+    "brick-step-repair",
+    "loose-mortar",
+    "water-damaged-ceiling",
+    "sunken-pavers",
+  ],
+  linkPaths: primaryLinks(
+    [
+      "/services/masonry/brick-step-repair",
+      "/services/masonry/loose-mortar",
+      "/services/drywall/water-damaged-ceiling",
+      "/services/masonry/sunken-pavers",
+    ],
+    ["/madison/masonry", "/guides/why-brick-steps-crack"],
+  ),
+  nearbyLocationPaths: nearbyFor("madison"),
   disposition: {
     action: "update-in-place",
     canonicalPath: "/home-services/madison",
@@ -210,62 +250,94 @@ const madison: LocationHubDraft = {
   sections: [
     {
       type: "INTRO",
-      body: "This replaces the thin Madison page that only said A5 serves the town. The borough is real, the masonry-in-Madison page is already published, and the rest of the help still lives on the service and problem URLs.",
+      body: "Madison homeowners can start with the trade or with the thing that is failing. Masonry in this borough already has its own page. Everything else starts from the problem.",
     },
     {
       type: "RICH_TEXT",
-      heading: "What the borough site actually establishes",
+      heading: "Common home projects",
       paragraphs: [
-        "Madison is a borough in southeast Morris County. Its municipal offices are in the Hartley Dodge Memorial Building at 50 Kings Road. That is the local context this page will stand on. It is not a ranking, a housing census, or a list of jobs A5 has finished.",
-        "Brick steps and loose mortar already have their own pages, and the Madison masonry page is the local variant of that trade. A water stain on a ceiling still starts at the drywall problem page, with plumbing and painting as related trades, not as alternate Madison URLs.",
+        "Brick steps, walks, patios, and mortar. See masonry in Madison (/madison/masonry) for work in this borough, and use the brick-step and loose-mortar pages to sort repair from rebuilding.",
+        "A water stain or a soft spot on a ceiling. That starts as a drywall problem. If a leak is still active, plumbing is part of the same request, and painting comes after the surface is sound.",
+        "Pavers that sink, rock, or hold water. Masonry covers resetting them.",
+        "A short list of doors, trim, and mounting. Handyman work stays on that list only when it does not change plumbing or wiring.",
       ],
     },
     {
       type: "RICH_TEXT",
-      heading: "The one town-and-trade URL that is live",
+      heading: "Start with what you see",
       paragraphs: [
-        "/madison/masonry is published. It is masonry in this borough, not a template for /madison/plumbing or /madison/electrical.",
-        "The brick-step guide at /guides/why-brick-steps-crack stays linked from masonry. This town page does not replace that guide.",
+        "Brick step repair, when the treads are crumbling or cracked.",
+        "Loose mortar, when the joints are falling out.",
+        "A water-damaged ceiling, when the stain or the soft spot is the thing you noticed.",
+        "Sunken pavers, when the walk or patio moves underfoot.",
+      ],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Services available",
+      paragraphs: [SERVICE_DIRECTORY],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Local context",
+      paragraphs: [
+        "Madison is a borough in southeast Morris County. Its municipal offices are in the Hartley Dodge Memorial Building at 50 Kings Road. That is the borough office, not an A5 shop.",
+      ],
+    },
+    howItWorks(
+      "For a Madison house, say Madison, point at the masonry page if the work is brick or stone, and otherwise name the problem you can see.",
+    ),
+    {
+      type: "RICH_TEXT",
+      heading: "Nearby areas A5 serves",
+      paragraphs: [
+        "A5 also coordinates projects in Florham Park, Chatham, Morris Township, Morristown, and East Hanover.",
       ],
     },
     {
       type: "QUESTION_ANSWER",
       items: [
         {
-          question: "Does this page claim Madison houses are a certain age or material?",
+          question: "Where should brick steps go?",
           answer:
-            "No. Age and wall material are questions for the house in front of you. The drywall hub already says the first question is which material is on the wall.",
-        },
-        {
-          question: "What should the request include?",
-          answer:
-            "Madison as the town, the service or problem, and up to five photos: the approach to the house or room, the damage, a close-up, a size reference, and any active water.",
+            "Masonry in Madison (/madison/masonry), plus the brick-step page if you want to see what to photograph before anyone visits.",
         },
       ],
     },
-    { type: "SOURCE_LIST", heading: "Madison source" },
-    { type: "RELATED_CONTENT", heading: "Madison related pages" },
+    { type: "SOURCE_LIST", heading: "Sources" },
+    { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Request service in Madison",
-      description: "Say what is failing and send the photos with the request.",
+      title: "Tell us what needs fixing",
+      description: "Madison, the problem, and photos of the damage are enough to start.",
     },
   ],
 };
 
 const chatham: LocationHubDraft = {
   locationId: "chatham",
-  title: "Chatham home repairs",
-  metaTitle: "Chatham home repairs | A5",
+  title: "Home services in Chatham, NJ",
+  metaTitle: "Home services in Chatham, NJ | A5",
   metaDescription:
-    "Chatham Borough and Chatham Township are different offices. This page routes the repair without pretending they are one building department.",
-  h1: "Chatham: two municipalities, one service-area page",
-  primaryQuestion: "Which Chatham is this page for?",
+    "A5 coordinates home repairs in Chatham. Say whether the house is in the borough or the township, then describe the problem.",
+  h1: "Home services in Chatham, NJ",
+  primaryQuestion: "What kinds of projects can A5 help coordinate in Chatham?",
   directAnswer:
-    "A5's registry has one Chatham service area. Chatham Borough and Chatham Township are separate municipalities, with different offices. This page does not choose a construction department for you. It sends the repair to the service or problem page, and the request should say which municipality the house is in.",
+    "Doors that stick, toilets that run, outlets with no power, drywall holes, leaks, and the other ordinary repairs in a house. A5 coordinates that work for Chatham. On the request, say whether the house is in Chatham Borough or Chatham Township so the right municipal office is obvious if a permit comes up.",
   claimsToVerify: [chathamBoroughClaim, chathamTownshipClaim],
-  relatedProblemSlugs: ["sticking-interior-door", "running-toilet", "dead-outlet"],
-  linkPaths: linksFor("chatham"),
+  relatedProblemSlugs: [
+    "sticking-interior-door",
+    "running-toilet",
+    "dead-outlet",
+    "hole-in-drywall",
+  ],
+  linkPaths: primaryLinks([
+    "/services/handyman/sticking-interior-door",
+    "/services/plumbing/running-toilet",
+    "/services/electrical/dead-outlet",
+    "/services/drywall/hole-in-drywall",
+  ]),
+  nearbyLocationPaths: nearbyFor("chatham"),
   disposition: {
     action: "create",
     canonicalPath: "/home-services/chatham",
@@ -274,64 +346,97 @@ const chatham: LocationHubDraft = {
   sections: [
     {
       type: "INTRO",
-      body: "Typing 'Chatham' into a home-services page hides a real split. The borough and the township share a name and a ZIP conversation, and they do not share a government. A repair page that ignores that will send someone to the wrong counter.",
+      body: "Chatham is a place to get a repair done. Borough or township matters when you say where the house is. It does not change how you describe a sticking door or a running toilet.",
     },
     {
       type: "RICH_TEXT",
-      heading: "Two offices, both on the record",
+      heading: "Common home projects",
       paragraphs: [
-        "Chatham Borough's municipal site lists its offices at 54 Fairmount Avenue, Chatham, NJ 07928, and it has a borough clerk. Chatham Township is a separate municipality, with offices at 58 Meyersville Road, Chatham, NJ 07928, and a mayor and township committee. Use the office that matches the house. A5 does not merge those governments into one permit desk.",
-        "There is no /chatham/plumbing page and no /chatham/electrical page. Licensed-trade questions stay on the plumbing and electrical hubs, which already cite the state license rules.",
+        "Interior doors that rub, stick, or no longer latch. That is handyman work unless the frame or the floor is moving.",
+        "A toilet that keeps running, or a drip you can see. Plumbing covers the fixture and the supply.",
+        "A light, switch, or outlet that failed. Electrical covers the device. If you are not sure it is safe to wait, say that on the request.",
+        "Holes, cracks, and ceiling stains in drywall, and tile or paint when the surface itself has failed.",
       ],
     },
     {
       type: "RICH_TEXT",
-      heading: "Interior problems that do not need a town legend",
+      heading: "Start with what you see",
       paragraphs: [
-        "A door that sticks or will not latch is on the handyman problem page. Say whether the house is in the borough or the township when you send it.",
-        "A toilet that keeps running is a plumbing problem, not a Chatham-specific fixture.",
-        "An outlet with no power is an electrical problem. The dead-outlet page is the place to sort the breaker, the device, and when to stop.",
+        "A sticking interior door, if the door is the complaint.",
+        "A running toilet, if the water will not stop.",
+        "A dead outlet, if the breaker is on and the device is not.",
+        "A hole in drywall, if the wall is what needs to be patched.",
+      ],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Services available",
+      paragraphs: [SERVICE_DIRECTORY],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Local context",
+      paragraphs: [
+        "Chatham Borough and Chatham Township are separate municipalities. Chatham Borough's municipal site lists its offices at 54 Fairmount Avenue, Chatham, NJ 07928, and it has a borough clerk. Chatham Township is a separate municipality, with offices at 58 Meyersville Road, Chatham, NJ 07928, and a mayor and township committee.",
+        "Use the office that matches the house if you are asking about a permit. Tell A5 which one the house is in either way.",
+      ],
+    },
+    howItWorks(
+      "For a Chatham house, write Borough or Township with the address, then describe the door, the toilet, the outlet, or whatever else failed.",
+    ),
+    {
+      type: "RICH_TEXT",
+      heading: "Nearby areas A5 serves",
+      paragraphs: [
+        "A5 also coordinates projects in Madison, Florham Park, Morris Township, Morristown, and East Hanover.",
       ],
     },
     {
       type: "QUESTION_ANSWER",
       items: [
         {
-          question: "Will A5 add a second Chatham location?",
+          question: "Borough or township — which do I put on the request?",
           answer:
-            "Not in this batch. The registry has one Chatham id. Splitting borough and township into two location records would be a registry change, which this draft does not make.",
-        },
-        {
-          question: "How many photos does the form take?",
-          answer:
-            "Five. For these interior jobs: the closed door or fixture, the gap or the running water, the hardware or the outlet, the nearby wall, and one wider shot of the room.",
+            "Whichever the house is actually in. They are different offices: 54 Fairmount Avenue for the borough, 58 Meyersville Road for the township.",
         },
       ],
     },
-    { type: "SOURCE_LIST", heading: "Chatham sources" },
-    { type: "RELATED_CONTENT", heading: "Chatham related pages" },
+    { type: "SOURCE_LIST", heading: "Sources" },
+    { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Request service in Chatham",
+      title: "Tell us what needs fixing",
       description:
-        "Say borough or township, then describe the problem. The request form is the intake.",
+        "Include Borough or Township with the problem and the photos.",
     },
   ],
 };
 
 const morrisTownship: LocationHubDraft = {
   locationId: "morris-township",
-  title: "Morris Township home repairs",
-  metaTitle: "Morris Township home repairs | A5",
+  title: "Home services in Morris Township, NJ",
+  metaTitle: "Home services in Morris Township, NJ | A5",
   metaDescription:
-    "Morris Township is not the Town of Morristown. Start here, then use the service page for the actual repair.",
-  h1: "Morris Township: a Morristown street address, a different government",
-  primaryQuestion: "Is Morris Township the same as Morristown?",
+    "A5 coordinates home repairs in Morris Township. A Morristown mailing address can still be the township. Start from the problem.",
+  h1: "Home services in Morris Township, NJ",
+  primaryQuestion:
+    "What kinds of projects can A5 help coordinate in Morris Township?",
   directAnswer:
-    "No. Morris Township's municipal building is at 50 Woodland Avenue, which uses a Morristown street address. The Town of Morristown is a separate government, with its own page. A project in the township should be requested as Morris Township.",
+    "Tile, drywall, masonry, plumbing, electrical, painting, handyman work, and yard drainage for houses in Morris Township. A mailing label that says Morristown does not make the house part of the town. Describe the crack, the grout, the pavers, or the leak, add photos, and A5 reviews the request and coordinates a local provider.",
   claimsToVerify: [morrisTownshipClaim],
-  relatedProblemSlugs: ["crumbling-grout", "drywall-crack", "sunken-pavers"],
-  linkPaths: linksFor("morris-township"),
+  relatedProblemSlugs: [
+    "crumbling-grout",
+    "drywall-crack",
+    "sunken-pavers",
+    "sticking-interior-door",
+  ],
+  linkPaths: primaryLinks([
+    "/services/tile/crumbling-grout",
+    "/services/drywall/drywall-crack",
+    "/services/masonry/sunken-pavers",
+    "/services/handyman/sticking-interior-door",
+  ]),
+  nearbyLocationPaths: nearbyFor("morris-township"),
   disposition: {
     action: "create",
     canonicalPath: "/home-services/morris-township",
@@ -340,63 +445,94 @@ const morrisTownship: LocationHubDraft = {
   sections: [
     {
       type: "INTRO",
-      body: "The confusing part of this town is the mail, not the masonry. A Woodland Avenue address can look like Morristown and still be the township. This page exists so that mix-up happens before intake, not after.",
+      body: "If the house is in Morris Township, say that on the request even when the mail says Morristown. Then describe the repair the same way you would anywhere else.",
     },
     {
       type: "RICH_TEXT",
-      heading: "Read the government, not only the ZIP",
+      heading: "Common home projects",
       paragraphs: [
-        "Morris Township's municipal building is at 50 Woodland Avenue, Morristown, NJ 07960. That street address is not the Town of Morristown's town hall. Town hall for the Town of Morristown is a different building, on South Street, and it is described on the Morristown page.",
-        "A5 serves both. They are two location hubs. A service-in-this-township URL, such as a plumbing page under the township slug, is not part of this draft.",
+        "Grout that is crumbling or washing out of a floor, a backsplash, or a shower. Tile covers whether the tile has to come up.",
+        "A drywall crack that opens again after it was filled. Drywall covers the patch, and whether the crack is telling you the house is moving.",
+        "Pavers that rock or have dropped. Masonry covers resetting the walk or patio.",
+        "Doors that stick, plus plumbing and electrical failures when those are the actual problem.",
       ],
     },
     {
       type: "RICH_TEXT",
-      heading: "Problems that stay on the service URL",
+      heading: "Start with what you see",
       paragraphs: [
-        "Grout that is washing out is a tile problem. The crumbling-grout page asks whether the tile has to come up.",
-        "A crack that keeps returning is a drywall problem until someone sees whether the house is moving.",
-        "Pavers that rock or sink are a masonry reset, covered on the sunken-pavers page, not a township program.",
+        "Crumbling grout, if the joints are the failure.",
+        "A drywall crack, if the line in the wall or ceiling keeps coming back.",
+        "Sunken pavers, if the surface moves underfoot.",
+        "A sticking interior door, if the door is what you want fixed.",
+      ],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Services available",
+      paragraphs: [SERVICE_DIRECTORY],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Local context",
+      paragraphs: [
+        "Morris Township's municipal building is at 50 Woodland Avenue, Morristown, NJ 07960. That street address is not the Town of Morristown's town hall. Town hall for the town is on South Street. Use Morris Township on the request when the house is in the township.",
+      ],
+    },
+    howItWorks(
+      "For a township house, write Morris Township even if the ZIP or the mail app says Morristown, then describe the grout, the crack, or the pavers.",
+    ),
+    {
+      type: "RICH_TEXT",
+      heading: "Nearby areas A5 serves",
+      paragraphs: [
+        "A5 also coordinates projects in Morristown, Madison, Chatham, Florham Park, and East Hanover.",
       ],
     },
     {
       type: "QUESTION_ANSWER",
       items: [
         {
-          question: "Which page should a Convent Station address use?",
+          question: "The address says Morristown. Which is it?",
           answer:
-            "If the house is in Morris Township, use this page and say Morris Township on the request. Convent Station is a mailing name that shows up on the township's own contact block. It is not a seventh A5 town.",
-        },
-        {
-          question: "What photos help?",
-          answer:
-            "Five at most: the area, the crack or the loose unit, a straight-on close view, a shot with a ruler or a hand for scale, and one that shows the floor or wall around it.",
+            "Look at the municipality, not only the mailing city. Township offices are at 50 Woodland Avenue. The Town of Morristown is a different government.",
         },
       ],
     },
-    { type: "SOURCE_LIST", heading: "Morris Township source" },
-    { type: "RELATED_CONTENT", heading: "Morris Township related pages" },
+    { type: "SOURCE_LIST", heading: "Sources" },
+    { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Request service in Morris Township",
-      description: "Use the township name even if the mailing city says Morristown.",
+      title: "Tell us what needs fixing",
+      description: "Say Morris Township, then the problem and the photos.",
     },
   ],
 };
 
 const morristown: LocationHubDraft = {
   locationId: "morristown",
-  title: "Morristown home repairs",
-  metaTitle: "Morristown home repairs | A5",
+  title: "Home services in Morristown, NJ",
+  metaTitle: "Home services in Morristown, NJ | A5",
   metaDescription:
-    "The Town of Morristown has its own government and its own help page. Leaks and electrical faults stay on the trade pages.",
-  h1: "Morristown: the town, not the township around it",
-  primaryQuestion: "What does the Town of Morristown page cover?",
+    "A5 coordinates home repairs in the Town of Morristown. Leaks, lights, and wall damage start from the problem you can see.",
+  h1: "Home services in Morristown, NJ",
+  primaryQuestion: "What kinds of projects can A5 help coordinate in Morristown?",
   directAnswer:
-    "Houses in the Town of Morristown. The town uses a strong mayor–council government under the Faulkner Act, and town hall is at 200 South Street. Morris Township is the neighboring page. A leak or a dead light is still a plumbing or electrical problem, not a town-hall service.",
+    "Leaks you can see, lights that failed, holes in drywall, running toilets, and the rest of the repair list for houses in the Town of Morristown. Morris Township is a different place, with its own page. Describe the failure, add photos, and A5 reviews the request and coordinates a local provider.",
   claimsToVerify: [morristownClaim],
-  relatedProblemSlugs: ["visible-pipe-leak", "failed-light-fixture", "hole-in-drywall"],
-  linkPaths: linksFor("morristown"),
+  relatedProblemSlugs: [
+    "visible-pipe-leak",
+    "failed-light-fixture",
+    "hole-in-drywall",
+    "running-toilet",
+  ],
+  linkPaths: primaryLinks([
+    "/services/plumbing/visible-pipe-leak",
+    "/services/electrical/failed-light-fixture",
+    "/services/drywall/hole-in-drywall",
+    "/services/plumbing/running-toilet",
+  ]),
+  nearbyLocationPaths: nearbyFor("morristown"),
   disposition: {
     action: "create",
     canonicalPath: "/home-services/morristown",
@@ -405,63 +541,94 @@ const morristown: LocationHubDraft = {
   sections: [
     {
       type: "INTRO",
-      body: "Morristown is the compact town government, with wards, a mayor, and a council under the Faulkner Act. Treating it as a synonym for Morris Township sends the request to the wrong place and the wrong municipal office.",
+      body: "This is the Town of Morristown. If the house is in the township instead, use that area. Either way, the repair starts from what failed.",
     },
     {
       type: "RICH_TEXT",
-      heading: "Town hall is on South Street",
+      heading: "Common home projects",
       paragraphs: [
-        "Morristown is a town with a strong mayor–council government under the Faulkner Act. Town hall is at 200 South Street. That is the civic fact for this hub. It is not a claim about how many brick houses or rental units are on a given block.",
-        "There is no /morristown/plumbing URL in this batch. State licensing for plumbing and electrical is already on those service hubs.",
+        "A pipe, valve, or supply line you can see leaking. Shut the water off if you can, then plumbing takes it from the description and photos.",
+        "A light that quit, flickers, or sparked. Electrical sorts a bulb from a fixture from wiring you should leave alone.",
+        "A hole or a soft spot in a wall or ceiling. Drywall covers the patch. If the spot is wet, say that.",
+        "Paint, tile, masonry, and small carpentry when those are the surfaces that failed.",
       ],
     },
     {
       type: "RICH_TEXT",
-      heading: "Urgent problems still use the trade page",
+      heading: "Start with what you see",
       paragraphs: [
-        "Water you can see coming from a pipe or valve starts on the visible-leak page: stop the water, then describe it.",
-        "A light that quit or flickers starts on the failed-fixture page, which separates a bulb from wiring.",
-        "A hole in drywall starts on that problem page. Patch versus replace is about the hole, not about which Morristown ward it is in.",
+        "A visible pipe leak, if water is coming out now.",
+        "A failed light fixture, if the light is the complaint.",
+        "A hole in drywall, if the opening in the wall is what you want closed.",
+        "A running toilet, if the tank will not stop filling.",
+      ],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Services available",
+      paragraphs: [SERVICE_DIRECTORY],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Local context",
+      paragraphs: [
+        "Morristown is a town with a strong mayor–council government under the Faulkner Act. Town hall is at 200 South Street. That building is the town's, not Morris Township's. Township offices are on Woodland Avenue.",
+      ],
+    },
+    howItWorks(
+      "For a house in the town, write Town of Morristown, then say whether it is a leak, a light, a hole, or something else.",
+    ),
+    {
+      type: "RICH_TEXT",
+      heading: "Nearby areas A5 serves",
+      paragraphs: [
+        "A5 also coordinates projects in Morris Township, Madison, Chatham, Florham Park, and East Hanover.",
       ],
     },
     {
       type: "QUESTION_ANSWER",
       items: [
         {
-          question: "Does A5 dispatch from town hall?",
+          question: "Is this the township page?",
           answer:
-            "No. Town hall is the municipality. A5 intake is the request form. The town page only makes the place unambiguous.",
-        },
-        {
-          question: "Which photos, if the problem is a leak or a light?",
-          answer:
-            "Up to five: the fixture or the wet area, the shutoff if you can see it, a close view of the failed part, the surrounding ceiling or wall, and one wide shot.",
+            "No. This is the Town of Morristown. Town hall is at 200 South Street. Morris Township is the other area A5 serves.",
         },
       ],
     },
-    { type: "SOURCE_LIST", heading: "Morristown source" },
-    { type: "RELATED_CONTENT", heading: "Morristown related pages" },
+    { type: "SOURCE_LIST", heading: "Sources" },
+    { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Request service in Morristown",
-      description: "Say Town of Morristown if that is the house, then describe the failure.",
+      title: "Tell us what needs fixing",
+      description: "Town of Morristown, the failure, and photos are enough to start.",
     },
   ],
 };
 
 const eastHanover: LocationHubDraft = {
   locationId: "east-hanover",
-  title: "East Hanover home repairs",
-  metaTitle: "East Hanover home repairs | A5",
+  title: "Home services in East Hanover, NJ",
+  metaTitle: "Home services in East Hanover, NJ | A5",
   metaDescription:
-    "East Hanover is a township incorporated in 1928, next to Florham Park. Grading and exterior paint start on the published problem pages.",
-  h1: "East Hanover: a township between two rivers, next to Florham Park",
-  primaryQuestion: "What is locally true about East Hanover, and what is not?",
+    "A5 coordinates drainage, paint, masonry, and other home repairs in East Hanover. Start from what the yard or the house is doing.",
+  h1: "Home services in East Hanover, NJ",
+  primaryQuestion: "What kinds of projects can A5 help coordinate in East Hanover?",
   directAnswer:
-    "The township was incorporated in 1928. Its municipal description puts the Passaic River on the east, the Whippany River on the west, and Florham Park on the border. That is geography from the township's own page. It is not a statement that a particular yard floods, and it is not a promise of a lawn-care route.",
+    "Yard drainage, peeling exterior paint, loose mortar, sunken pavers, and the other home repairs in East Hanover. Describe where the water sits or what the surface is doing, add photos, and A5 reviews the request and coordinates a local provider. A river on the township map is not a finding about your lot.",
   claimsToVerify: [eastHanoverClaim],
-  relatedProblemSlugs: ["yard-surface-grading", "peeling-exterior-paint", "sunken-pavers"],
-  linkPaths: linksFor("east-hanover"),
+  relatedProblemSlugs: [
+    "yard-surface-grading",
+    "peeling-exterior-paint",
+    "sunken-pavers",
+    "loose-mortar",
+  ],
+  linkPaths: primaryLinks([
+    "/services/landscaping/yard-surface-grading",
+    "/services/painting/peeling-exterior-paint",
+    "/services/masonry/sunken-pavers",
+    "/services/masonry/loose-mortar",
+  ]),
+  nearbyLocationPaths: nearbyFor("east-hanover"),
   disposition: {
     action: "create",
     canonicalPath: "/home-services/east-hanover",
@@ -470,47 +637,66 @@ const eastHanover: LocationHubDraft = {
   sections: [
     {
       type: "INTRO",
-      body: "East Hanover's useful local fact is the map the township publishes: a township of about 8.2 square miles, rivers on two sides, and Florham Park next door. The repair still starts from the symptom.",
+      body: "East Hanover repairs start the same way as any other house A5 takes on: what you can see, photos, and a request. The township map is only there so the place is clear.",
     },
     {
       type: "RICH_TEXT",
-      heading: "Use the township description, then stop",
+      heading: "Common home projects",
       paragraphs: [
-        "East Hanover is a township incorporated in 1928. Its own description puts the Passaic River on the east side, the Whippany River on the west, and Florham Park among the adjacent municipalities. Those sentences are the sourced local context.",
-        "The same page also promotes local employers and shopping. This help center does not repeat that. A homeowner with a soft spot in the lawn does not need a corporate directory.",
+        "Water that pools in the yard or against the foundation. Landscaping covers surface grading. It is not a promise of recurring lawn care.",
+        "Exterior paint that is peeling or flaking. Painting covers the prep, including when older paint has to be treated carefully.",
+        "Brick steps and mortar, and pavers that have settled or rock when you step on them. Masonry covers those repairs.",
+        "Plumbing, electrical, drywall, tile, and handyman items when the failure is inside the house.",
       ],
     },
     {
       type: "RICH_TEXT",
-      heading: "Water, coating, and paving — without a flood claim",
+      heading: "Start with what you see",
       paragraphs: [
-        "If water pools in the yard or against the house, the grading page is the published place to sort surface drainage. A river on the township border does not mean your lot floods.",
-        "Peeling exterior paint is the painting problem page. Prep matters more than the town name.",
-        "Sunken or rocking pavers are the masonry reset page. De-icing guidance, where it applies, stays on that masonry material, not on an East Hanover legend.",
+        "Yard surface grading, if water is the problem outside.",
+        "Peeling exterior paint, if the coating is failing.",
+        "Sunken pavers, if the walk or patio has dropped.",
+        "Loose mortar, if the brick joints are emptying out.",
+      ],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Services available",
+      paragraphs: [SERVICE_DIRECTORY],
+    },
+    {
+      type: "RICH_TEXT",
+      heading: "Local context",
+      paragraphs: [
+        "East Hanover is a township incorporated in 1928. Its own description puts the Passaic River on the east side, the Whippany River on the west, and Florham Park among the adjacent municipalities. That describes the township. It does not mean a particular property floods.",
+      ],
+    },
+    howItWorks(
+      "For an East Hanover house, say where the water sits or which surface failed, and send the photos from the yard or the wall.",
+    ),
+    {
+      type: "RICH_TEXT",
+      heading: "Nearby areas A5 serves",
+      paragraphs: [
+        "A5 also coordinates projects in Florham Park, Madison, Chatham, Morris Township, and Morristown.",
       ],
     },
     {
       type: "QUESTION_ANSWER",
       items: [
         {
-          question: "Is Hanover Township included?",
+          question: "Does a river nearby mean the yard floods?",
           answer:
-            "No. East Hanover's own adjacent-town list includes Hanover Township. Hanover Township is not an A5 location. A house there is outside this page.",
-        },
-        {
-          question: "What should a grading or paint request show?",
-          answer:
-            "Five photos at most: the yard or elevation, the low spot or the peeled area, a close view, a shot after rain if you have one, and one that shows the house wall or the walk next to it.",
+            "No. The township's description names the rivers and the Florham Park border. Your request should say what this lot actually does after rain.",
         },
       ],
     },
-    { type: "SOURCE_LIST", heading: "East Hanover source" },
-    { type: "RELATED_CONTENT", heading: "East Hanover related pages" },
+    { type: "SOURCE_LIST", heading: "Sources" },
+    { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Request service in East Hanover",
-      description:
-        "Describe where the water sits or what the surface is doing. Intake decides the next step.",
+      title: "Tell us what needs fixing",
+      description: "East Hanover, what you see, and photos are enough to start.",
     },
   ],
 };
@@ -523,6 +709,15 @@ export const LOCATION_HUB_DRAFTS: readonly LocationHubDraft[] = [
   morristown,
   eastHanover,
 ];
+
+export const LOCATION_SECTION_HEADINGS = [
+  "Common home projects",
+  "Start with what you see",
+  "Services available",
+  "Local context",
+  "How A5 works",
+  "Nearby areas A5 serves",
+] as const;
 
 export const LOCATION_BATCH_PROBLEM_SLUGS = [
   "peeling-exterior-paint",

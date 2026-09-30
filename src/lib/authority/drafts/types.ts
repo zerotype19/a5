@@ -184,8 +184,10 @@ export type LocationHubDisposition = {
 export type LocationHubDraft = DraftBase & {
   locationId: LocationId;
   disposition: LocationHubDisposition;
-  /** Only paths that are already published, or the other hubs in this same batch. */
+  /** Service hubs, published problems, and the live Madison masonry page. */
   linkPaths: readonly string[];
+  /** Other approved towns. Render these in one secondary section. */
+  nearbyLocationPaths: readonly string[];
 };
 
 export function problemDraftFields(draft: ProblemPageDraft): DraftPageFields {

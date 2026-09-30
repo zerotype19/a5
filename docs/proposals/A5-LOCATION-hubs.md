@@ -1,6 +1,8 @@
 # A5 location hubs — draft for owner review
 
-Six LOCATION pages, one per registry town. Drafts only. Nothing here is published, indexed, or inserted.
+Six LOCATION pages, one per registry town. Drafts only. Nothing here is published or inserted.
+
+Homeowner copy answers what A5 can coordinate in that town, then points at published problems and the eight service hubs. Municipal facts stay in a short local-context section. Other towns appear only under “Nearby areas A5 serves.”
 
 ## Canonicals
 
@@ -13,17 +15,12 @@ Six LOCATION pages, one per registry town. Drafts only. Nothing here is publishe
 | Morristown | create | `/home-services/morristown` |
 | East Hanover | create | `/home-services/east-hanover` |
 
-Madison masonry (`/madison/masonry`) stays the only service × location URL. This batch does not add `/madison/plumbing` or any other town-and-trade page.
+`/madison/masonry` stays the only service × location URL. These drafts do not add any others.
 
-## What the copy is allowed to say
+## Distinctions kept
 
-Each page uses one municipal fact from that town's own site: form of government, office address, or, for East Hanover, the township's published geography. Chatham names both the borough (54 Fairmount Avenue) and the township (58 Meyersville Road) and does not pick a building department. Morris Township's Woodland Avenue address is not treated as Morristown town hall.
-
-Problem links are the 14 pages already published. The other 28 problem entities are not drafted and are not linked.
-
-## Not in this batch
-
-- Publishing or deploying
-- Service × location pages chosen by demand
-- Search Console or Bing setup
-- A5-009 email, Accept, or Pass
+- Chatham Borough (54 Fairmount Avenue) and Chatham Township (58 Meyersville Road) are named, and the request should say which one.
+- Morris Township’s 50 Woodland Avenue address is not Morristown town hall. Morristown town hall remains 200 South Street.
+- Madison links to the live masonry page. Hartley Dodge, 50 Kings Road, stays in local context.
+- East Hanover’s river borders stay in local context and are not treated as a flood finding.
+- Florham Park’s 1899 incorporation stays in local context, not in the opening answer.
