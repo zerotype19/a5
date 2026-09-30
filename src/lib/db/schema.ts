@@ -55,6 +55,7 @@ export const LEAD_STATUS_EVENT_TYPE_EXAMPLES = [
   "LocationClassified",
   "VendorAssigned",
   "VendorAccepted",
+  "VendorPassed",
   "CustomerContacted",
   "EstimateCreated",
   "LeadWon",
@@ -114,6 +115,11 @@ export const VENDORS_TABLE = "vendors" as const;
 export const VENDOR_SERVICES_TABLE = "vendor_services" as const;
 export const VENDOR_LOCATIONS_TABLE = "vendor_locations" as const;
 export const LEAD_ASSIGNMENTS_TABLE = "lead_assignments" as const;
+export const ASSIGNMENT_CAPABILITIES_TABLE = "assignment_capabilities" as const;
+
+export const NOTIFICATION_STATUSES = ["PENDING", "SENT", "FAILED"] as const;
+
+export type NotificationStatus = (typeof NOTIFICATION_STATUSES)[number];
 
 export const CORE_TABLES = [
   "services",
@@ -127,6 +133,7 @@ export const CORE_TABLES = [
   "vendor_services",
   "vendor_locations",
   "lead_assignments",
+  "assignment_capabilities",
 ] as const;
 
 export type CoreTable = (typeof CORE_TABLES)[number];

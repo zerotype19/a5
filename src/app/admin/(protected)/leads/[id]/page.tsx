@@ -32,10 +32,13 @@ export default async function AdminLeadDetailPage({
     notFound();
   }
   const [eligibleVendors, assignments] = await Promise.all([
-    loadEligibleVendors({
-      serviceId: lead.serviceId,
-      locationId: lead.locationId,
-    }),
+    loadEligibleVendors(
+      {
+        serviceId: lead.serviceId,
+        locationId: lead.locationId,
+      },
+      lead.id,
+    ),
     loadLeadAssignments(id),
   ]);
 

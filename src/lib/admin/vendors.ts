@@ -1,8 +1,12 @@
 import { getLocationById, type LocationId } from "../../../config/locations.ts";
 import { getServiceById, type ServiceId } from "../../../config/services.ts";
 import { getSupabaseAdmin } from "../supabase/admin.ts";
-import type { LeadAssignmentStatus, VendorStatus } from "../db/schema.ts";
-import { isVendorEligible } from "./eligibility.ts";
+import type {
+  LeadAssignmentStatus,
+  NotificationStatus,
+  VendorStatus,
+} from "../db/schema.ts";
+import { isVendorEligible, withoutPassedVendors } from "./eligibility.ts";
 
 export type VendorCoverage = {
   id: string;
@@ -34,6 +38,11 @@ export type AssignmentRow = {
   acceptedAt: string | null;
   passedAt: string | null;
   passReason: string | null;
+  vendorEmail: string | null;
+  notificationStatus: NotificationStatus | null;
+  notificationAttemptedAt: string | null;
+  notificationSentAt: string | null;
+  notificationError: string | null;
 };
 
 type VendorRecord = {
@@ -146,13 +155,16 @@ export async function loadVendor(id: string): Promise<VendorCoverage | null> {
   return mapVendor(data as VendorRecord, coverage.services, coverage.locations);
 }
 
-export async function loadEligibleVendors(lead: {
-  serviceId: string | null;
-  locationId: string | null;
-}): Promise<VendorCoverage[]> {
+export async function loadEligibleVendors(
+  lead: {
+    serviceId: string | null;
+    locationId: string | null;
+  },
+  leadId?: string,
+): Promise<VendorCoverage[]> {
   if (!lead.serviceId || !lead.locationId) return [];
   const vendors = await loadVendors();
-  return vendors.filter((vendor) =>
+  const eligible = vendors.filter((vendor) =>
     isVendorEligible(
       {
         id: vendor.id,
@@ -164,6 +176,20 @@ export async function loadEligibleVendors(lead: {
       lead,
     ),
   );
+  if (!leadId) return eligible;
+  const admin = getSupabaseAdmin();
+  const passed = await admin
+    .from("lead_assignments")
+    .select("vendor_id")
+    .eq("lead_id", leadId)
+    .eq("status", "PASSED");
+  if (passed.error) {
+    throw new Error(`admin_passed_vendors:${passed.error.code ?? "error"}`);
+  }
+  return withoutPassedVendors(
+    eligible,
+    (passed.data ?? []).map((row) => row.vendor_id as string),
+  );
 }
 
 export async function loadLeadAssignments(leadId: string): Promise<AssignmentRow[]> {
@@ -171,29 +197,36 @@ export async function loadLeadAssignments(leadId: string): Promise<AssignmentRow
   const { data, error } = await admin
     .from("lead_assignments")
     .select(
-      "id, vendor_id, status, assigned_at, assigned_by, accepted_at, passed_at, pass_reason, vendors(business_name)",
+      "id, vendor_id, status, assigned_at, assigned_by, accepted_at, passed_at, pass_reason, notification_status, notification_attempted_at, notification_sent_at, notification_error, vendors(business_name, email)",
     )
     .eq("lead_id", leadId)
     .order("assigned_at", { ascending: false });
   if (error) throw new Error(`admin_assignments:${error.code ?? "error"}`);
   return (data ?? []).map((row) => {
     const vendor = row.vendors as
-      | { business_name: string }
-      | { business_name: string }[]
+      | { business_name: string; email: string | null }
+      | { business_name: string; email: string | null }[]
       | null;
-    const name = Array.isArray(vendor)
-      ? vendor[0]?.business_name
-      : vendor?.business_name;
+    const record = Array.isArray(vendor) ? vendor[0] : vendor;
+    const notice = row.notification_status as string | null;
     return {
       id: row.id as string,
       vendorId: row.vendor_id as string,
-      vendorName: name ?? "Vendor",
+      vendorName: record?.business_name ?? "Vendor",
       status: row.status as LeadAssignmentStatus,
       assignedAt: row.assigned_at as string,
       assignedBy: row.assigned_by as string,
       acceptedAt: (row.accepted_at as string | null) ?? null,
       passedAt: (row.passed_at as string | null) ?? null,
       passReason: (row.pass_reason as string | null) ?? null,
+      vendorEmail: record?.email ?? null,
+      notificationStatus:
+        notice === "PENDING" || notice === "SENT" || notice === "FAILED"
+          ? notice
+          : null,
+      notificationAttemptedAt: (row.notification_attempted_at as string | null) ?? null,
+      notificationSentAt: (row.notification_sent_at as string | null) ?? null,
+      notificationError: (row.notification_error as string | null) ?? null,
     };
   });
 }

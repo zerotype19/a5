@@ -32,3 +32,12 @@ export function isOpenAssignmentStatus(
 ): boolean {
   return status === "ASSIGNED" || status === "ACCEPTED";
 }
+
+/** A vendor who PASSED this lead is not offered again. */
+export function withoutPassedVendors<T extends { id: string }>(
+  vendors: readonly T[],
+  passedVendorIds: readonly string[],
+): T[] {
+  const passed = new Set(passedVendorIds);
+  return vendors.filter((vendor) => !passed.has(vendor.id));
+}

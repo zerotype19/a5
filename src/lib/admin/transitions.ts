@@ -2,6 +2,8 @@
  * Generic lead status transitions.
  * QUALIFIED → ASSIGNED is not listed. Only admin_assign_lead_to_vendor
  * may move a lead to ASSIGNED, together with a LeadAssignment row.
+ * ASSIGNED → ACCEPTED and ASSIGNED → QUALIFIED happen only in
+ * vendor_respond_to_assignment.
  */
 
 import { LEAD_STATUSES, type LeadStatus } from "../db/schema.ts";
