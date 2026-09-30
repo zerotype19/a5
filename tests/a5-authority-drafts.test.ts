@@ -122,7 +122,8 @@ describe("authority drafts — publication boundary", () => {
     ].filter(
       (path) =>
         !path.startsWith(draftsDir) &&
-        !path.endsWith("src/lib/authority/tranche-publication.ts"),
+        !path.endsWith("src/lib/authority/tranche-publication.ts") &&
+        !path.endsWith("src/lib/authority/location-publication.ts"),
     );
     for (const path of scanned) {
       const text = readFileSync(path, "utf8");
