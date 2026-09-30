@@ -9,6 +9,7 @@ import { contactMethodLabel, timingLabel } from "../validation";
 
 type Props = {
   state: ProjectIntakeState;
+  photoCount?: number;
   onEdit: (step: IntakeStep) => void;
   onSubmit: () => void;
   sending: boolean;
@@ -21,6 +22,7 @@ type Props = {
 
 export function StepReview({
   state,
+  photoCount = 0,
   onEdit,
   onSubmit,
   sending,
@@ -37,32 +39,67 @@ export function StepReview({
         ? (getServiceById(state.serviceId)?.name ?? state.serviceId)
         : "—";
 
-  const rows: { key: IntakeStep; label: string; value: string }[] = [
-    { key: "service", label: "Service", value: serviceLabel },
-    { key: "location", label: "ZIP", value: state.zip || "—" },
+  const groups: {
+    title: string;
+    edit: IntakeStep;
+    rows: { label: string; value: string }[];
+  }[] = [
     {
-      key: "details",
-      label: "Project description",
-      value: state.description.trim() || "—",
+      title: "Project",
+      edit: "service",
+      rows: [
+        { label: "Service", value: serviceLabel },
+        {
+          label: "Project description",
+          value: state.description.trim() || "—",
+        },
+      ],
     },
     {
-      key: "timing",
-      label: "Timing",
-      value: state.timing ? timingLabel(state.timing) : "—",
+      title: "Location",
+      edit: "location",
+      rows: [{ label: "ZIP", value: state.zip || "—" }],
     },
     {
-      key: "contact",
-      label: "Name",
-      value: `${state.firstName} ${state.lastName}`.trim() || "—",
+      title: "Timing",
+      edit: "timing",
+      rows: [
+        {
+          label: "Timing",
+          value: state.timing ? timingLabel(state.timing) : "—",
+        },
+      ],
     },
-    { key: "contact", label: "Phone", value: state.phone || "—" },
-    { key: "contact", label: "Email", value: state.email || "—" },
     {
-      key: "contact",
-      label: "Contact preference",
-      value: state.preferredContact
-        ? contactMethodLabel(state.preferredContact)
-        : "—",
+      title: "Contact",
+      edit: "contact",
+      rows: [
+        {
+          label: "Name",
+          value: `${state.firstName} ${state.lastName}`.trim() || "—",
+        },
+        { label: "Phone", value: state.phone || "—" },
+        { label: "Email", value: state.email || "—" },
+        {
+          label: "Contact preference",
+          value: state.preferredContact
+            ? contactMethodLabel(state.preferredContact)
+            : "—",
+        },
+      ],
+    },
+    {
+      title: "Photos",
+      edit: "details",
+      rows: [
+        {
+          label: "Attached",
+          value:
+            photoCount === 0
+              ? "None yet — photos are optional"
+              : `${photoCount} photo${photoCount === 1 ? "" : "s"}`,
+        },
+      ],
     },
   ];
 
@@ -77,22 +114,27 @@ export function StepReview({
       </p>
 
       <div className={styles.reviewList}>
-        {rows.map((row) => (
-          <div key={`${row.key}-${row.label}`} className={styles.reviewItem}>
+        {groups.map((group) => (
+          <section key={group.title} className={styles.reviewItem}>
             <div className={styles.reviewHead}>
-              <p className={styles.reviewLabel}>{row.label}</p>
+              <p className={styles.reviewLabel}>{group.title}</p>
               <button
                 type="button"
                 className={styles.editLink}
-                onClick={() => onEdit(row.key)}
+                onClick={() => onEdit(group.edit)}
                 disabled={sending}
-                data-cta={`intake-edit-${row.key}`}
+                data-cta={`intake-edit-${group.edit}`}
               >
                 Edit
               </button>
             </div>
-            <p className={styles.reviewValue}>{row.value}</p>
-          </div>
+            {group.rows.map((row) => (
+              <p key={row.label} className={styles.reviewValue}>
+                <span className={styles.progressMuted}>{row.label}: </span>
+                {row.value}
+              </p>
+            ))}
+          </section>
         ))}
       </div>
 

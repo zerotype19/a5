@@ -25,7 +25,8 @@ export function StepService({
     <fieldset className={styles.panel} aria-describedby={errors.serviceSelectionStatus || errors.serviceId ? errorId : undefined}>
       <legend className={styles.stepTitle}>What can we help with?</legend>
       <p className={styles.stepHint}>
-        Pick a service, or tell us what is happening if you are not sure.
+        You don&apos;t need to know the right trade. Pick a service, or choose
+        Not sure and describe what is happening.
       </p>
 
       {(errors.serviceSelectionStatus || errors.serviceId) && (
@@ -35,6 +36,20 @@ export function StepService({
       )}
 
       <div className={styles.choiceGrid}>
+        <button
+          type="button"
+          className={`${state.serviceSelectionStatus === "NOT_SURE" ? styles.choiceSelected : styles.choice} ${styles.unsureFull}`}
+          aria-pressed={state.serviceSelectionStatus === "NOT_SURE"}
+          data-cta="intake-service-not-sure"
+          onClick={onSelectNotSure}
+        >
+          <span>
+            <span className={styles.choiceTitle}>Not sure</span>
+            <span className={styles.choiceBody}>
+              Just tell us what is happening — we will help from there.
+            </span>
+          </span>
+        </button>
         {SERVICES.map((service) => {
           const selected =
             state.serviceSelectionStatus === "SELECTED" &&
@@ -52,20 +67,6 @@ export function StepService({
             </button>
           );
         })}
-        <button
-          type="button"
-          className={`${state.serviceSelectionStatus === "NOT_SURE" ? styles.choiceSelected : styles.choice} ${styles.unsureFull}`}
-          aria-pressed={state.serviceSelectionStatus === "NOT_SURE"}
-          data-cta="intake-service-not-sure"
-          onClick={onSelectNotSure}
-        >
-          <span>
-            <span className={styles.choiceTitle}>Not sure</span>
-            <span className={styles.choiceBody}>
-              Just tell us what is happening — we will help from there.
-            </span>
-          </span>
-        </button>
       </div>
     </fieldset>
   );

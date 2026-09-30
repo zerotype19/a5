@@ -28,7 +28,8 @@ export default async function VendorsPage() {
                 <th>Status</th>
                 <th>Accepting leads</th>
                 <th>Services</th>
-                <th>Locations</th>
+                <th>Towns</th>
+                <th>Contact</th>
               </tr>
             </thead>
             <tbody>
@@ -36,15 +37,24 @@ export default async function VendorsPage() {
                 const labels = coverageLabels(vendor);
                 return (
                   <tr key={vendor.id}>
-                    <td>
+                    <td data-label="Business">
                       <Link href={`/admin/vendors/${vendor.id}`}>
                         {vendor.businessName}
                       </Link>
                     </td>
-                    <td>{vendor.status}</td>
-                    <td>{vendor.acceptingLeads ? "Yes" : "No"}</td>
-                    <td>{labels.services}</td>
-                    <td>{labels.locations}</td>
+                    <td data-label="Status">
+                      <span className={styles.status} data-state={vendor.status}>
+                        {vendor.status}
+                      </span>
+                    </td>
+                    <td data-label="Accepting">
+                      {vendor.acceptingLeads ? "Accepting" : "Not accepting"}
+                    </td>
+                    <td data-label="Services">{labels.services}</td>
+                    <td data-label="Towns">{labels.locations}</td>
+                    <td data-label="Contact">
+                      {vendor.phone ?? vendor.email ?? "—"}
+                    </td>
                   </tr>
                 );
               })}

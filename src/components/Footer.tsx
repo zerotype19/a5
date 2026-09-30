@@ -63,7 +63,7 @@ export function Footer() {
           <ul className={styles.list}>
             {LOCATIONS.map((location) => (
               <li key={location.id}>
-                <Link href="/#areas">
+                <Link href={`/home-services/${location.slug}`}>
                   {location.name}, {location.state}
                 </Link>
               </li>

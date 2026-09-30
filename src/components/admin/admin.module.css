@@ -640,6 +640,98 @@
   text-decoration: underline;
 }
 
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.status::before {
+  content: "";
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.status[data-state="DISCOVERED"] {
+  border-style: dashed;
+  color: #5c4a12;
+  background: #f6efd8;
+}
+
+.status[data-state="ACTIVE"],
+.status[data-state="ACCEPTED"],
+.status[data-state="QUALIFIED"] {
+  border-style: solid;
+  color: var(--color-accent);
+  background: var(--color-accent-soft);
+}
+
+.status[data-state="NEW"],
+.status[data-state="ASSIGNED"] {
+  border-style: solid;
+  color: var(--color-ink);
+  background: var(--color-surface);
+}
+
+.nextAction {
+  margin-top: 0.75rem;
+  font-weight: 650;
+}
+
+@media (max-width: 720px) {
+  .table thead {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+  }
+
+  .table,
+  .table tbody,
+  .table tr,
+  .table td {
+    display: block;
+    width: 100%;
+    white-space: normal;
+  }
+
+  .table tr {
+    margin-bottom: 0.75rem;
+    padding: 0.75rem 0.9rem;
+    border: 1px solid var(--color-line);
+    border-radius: var(--radius-md);
+    background: var(--color-surface);
+  }
+
+  .table td {
+    border: 0;
+    padding: 0.2rem 0;
+  }
+
+  .table td::before {
+    content: attr(data-label);
+    display: inline-block;
+    min-width: 6.5rem;
+    margin-right: 0.5rem;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+}
+
 @media (max-width: 640px) {
   .topbar {
     flex-direction: column;

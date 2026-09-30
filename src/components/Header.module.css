@@ -141,9 +141,12 @@
 }
 
 .mobileLink {
-  display: block;
+  display: flex;
+  align-items: center;
+  min-height: 3rem;
   padding: 0.85rem 0.25rem;
   text-decoration: none;
+  font-size: var(--text-control);
   font-weight: 600;
   color: var(--color-ink);
   border-bottom: 1px solid rgba(197, 206, 214, 0.55);

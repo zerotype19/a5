@@ -1,10 +1,38 @@
 import Link from "next/link";
 import { CtaBlock } from "@/components/CtaBlock";
 import type {
+  ContentPageType,
   ContentSection,
   PublicContentPage,
 } from "@/lib/authority/types";
 import styles from "./AuthoritySections.module.css";
+
+const RELATED_TYPE: Partial<Record<ContentPageType, string>> = {
+  SERVICE: "Service",
+  PROBLEM: "Problem",
+  LOCATION: "Town",
+  GUIDE: "Guide",
+  COST_GUIDE: "Guide",
+  COMPARISON: "Comparison",
+  SERVICE_LOCATION: "Local service",
+};
+
+const RELATED_REASON: Partial<Record<ContentPageType, string>> = {
+  SERVICE: "The kind of work A5 coordinates",
+  PROBLEM: "What you are seeing, and what to photograph",
+  LOCATION: "Home services in this town",
+  GUIDE: "A longer explanation",
+  COST_GUIDE: "What tends to change the scope",
+  COMPARISON: "How the options differ",
+  SERVICE_LOCATION: "This service in this town",
+};
+
+function sectionTone(heading: string | null | undefined): string {
+  const text = heading ?? "";
+  if (/local context|nearby areas|sources/i.test(text)) return styles.quiet;
+  if (/photo/i.test(text)) return styles.callout;
+  return styles.block;
+}
 
 type Props = {
   page: PublicContentPage;
@@ -20,6 +48,11 @@ export function AuthoritySections({ page }: Props) {
           </h2>
           <p className={styles.question}>{page.primary_question}</p>
           <p className={styles.answer}>{page.direct_answer}</p>
+          <p className={styles.answerAction}>
+            <Link href="/request-service" data-cta="authority-direct-request">
+              Tell us what needs fixing
+            </Link>
+          </p>
         </section>
       ) : null}
 
@@ -52,7 +85,7 @@ function SectionBlock({
       );
     case "RICH_TEXT":
       return (
-        <section className={styles.block}>
+        <section className={sectionTone(section.heading)}>
           {section.heading ? (
             <h2 className={styles.heading}>{section.heading}</h2>
           ) : null}
@@ -103,12 +136,29 @@ function SectionBlock({
           <h2 className={styles.heading}>
             {section.heading ?? "Related"}
           </h2>
-          <ul className={styles.relatedList}>
-            {page.related_content.map((item) => (
-              <li key={item.id}>
-                <Link href={item.path}>{item.title}</Link>
-              </li>
-            ))}
+          <ul className={styles.relatedGrid}>
+            {page.related_content.map((item) => {
+              const compact =
+                item.page_type === "SERVICE" || item.page_type === "LOCATION";
+              return (
+                <li key={item.id}>
+                  <Link
+                    className={compact ? styles.relatedChip : styles.relatedCard}
+                    href={item.path}
+                  >
+                    <span className={styles.relatedType}>
+                      {RELATED_TYPE[item.page_type] ?? "Related"}
+                    </span>
+                    <span className={styles.relatedTitle}>{item.title}</span>
+                    {compact ? null : (
+                      <span className={styles.relatedReason}>
+                        {RELATED_REASON[item.page_type] ?? "Related help"}
+                      </span>
+                    )}
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         </section>
       );

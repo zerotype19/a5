@@ -37,16 +37,19 @@ export function SubmissionSuccess({
 
   return (
     <div className={styles.panel} data-intake="submission-success" role="status">
-      <h2 className={styles.stepTitle}>We received your project request</h2>
+      <h2 className={styles.stepTitle}>Request received</h2>
+      <p className={styles.referenceLine}>
+        Reference number: <strong>{publicReference}</strong>
+      </p>
       <p className={styles.stepHint}>
-        {photoStatus === "all"
-          ? "A5 will review the details and your photos, then coordinate next steps."
-          : "A5 will review the details and coordinate next steps."}
+        What happens next: A5 reviews the project
+        {photoStatus === "all" ? " and your photos" : ""} and coordinates an
+        appropriate local provider. There is no promised response time.
+      </p>
+      <p className={styles.stepHint}>
+        A5 may call or email you using the contact details on this request.
       </p>
       {photoMessage ? <p className={styles.stepHint}>{photoMessage}</p> : null}
-      <p className={styles.referenceLine}>
-        Reference: <strong>{publicReference}</strong>
-      </p>
       {(photoStatus === "partial" || photoStatus === "failed") &&
       onRetryPhotos ? (
         <div className={styles.resultActions}>

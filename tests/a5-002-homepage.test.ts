@@ -18,10 +18,15 @@ const requestService = readFileSync(
 );
 
 describe("A5-002 public homepage", () => {
-  it("renders homepage module with brand-first hero copy", () => {
-    assert.match(homepage, /One call\. Any project\. Done right\./);
+  it("renders homepage module with problem-first hero copy", () => {
+    assert.match(
+      homepage,
+      /Home repairs, without figuring out the contractor first\./,
+    );
     assert.match(homepage, /SITE\.name/);
-    assert.match(homepage, /Get Help With a Project/);
+    assert.match(homepage, /Tell us what needs fixing/);
+    assert.match(header, /Request Service/);
+    assert.doesNotMatch(header, /Admin/);
   });
 
   it("uses canonical business name from site registry", () => {

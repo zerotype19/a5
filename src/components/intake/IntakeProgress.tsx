@@ -25,6 +25,13 @@ export function IntakeProgress({ step }: Props) {
       <p className={styles.progressLabel}>
         Step {current} of {total}
         <span className={styles.progressMuted}> · {STEP_LABELS[step]}</span>
+        <span className={styles.progressMuted}>
+          {" "}
+          ·{" "}
+          {current === total
+            ? "Last step"
+            : `${total - current} step${total - current === 1 ? "" : "s"} left`}
+        </span>
       </p>
       <ol className={styles.progressTrack} aria-hidden="true">
         {INTAKE_STEPS.map((id, i) => (

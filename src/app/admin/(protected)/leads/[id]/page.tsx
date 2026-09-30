@@ -11,6 +11,21 @@ import { LeadAssignmentPanel } from "@/components/admin/LeadAssignmentPanel";
 import { loadEligibleVendors, loadLeadAssignments } from "@/lib/admin/vendors";
 import styles from "@/components/admin/admin.module.css";
 
+function nextAction(status: string): string {
+  switch (status) {
+    case "NEW":
+      return "Next: qualify this lead.";
+    case "QUALIFIED":
+      return "Next: assign a vendor.";
+    case "ASSIGNED":
+      return "Next: follow up with the assigned vendor.";
+    case "ACCEPTED":
+      return "Vendor accepted. Confirm the homeowner has been contacted.";
+    default:
+      return "Review the history before changing status.";
+  }
+}
+
 type Params = Promise<{ id: string }>;
 type SearchParams = Promise<{ notice?: string; error?: string }>;
 
@@ -52,10 +67,13 @@ export default async function AdminLeadDetailPage({
       <header className={styles.leadHeader}>
         <h1 className={styles.title}>{lead.publicReference}</h1>
         <p className={styles.lede}>
-          <strong>{lead.status}</strong>
+          <span className={styles.status} data-state={lead.status}>
+            {lead.status}
+          </span>
           {" · "}
           Created {formatAdminDateTime(lead.createdAt)}
         </p>
+        <p className={styles.nextAction}>{nextAction(lead.status)}</p>
       </header>
 
       <div className={styles.detailGrid}>
