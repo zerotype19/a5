@@ -119,7 +119,11 @@ describe("authority drafts — publication boundary", () => {
       join(root, "config/services.ts"),
       join(root, "config/locations.ts"),
       join(root, "config/site.ts"),
-    ].filter((path) => !path.startsWith(draftsDir));
+    ].filter(
+      (path) =>
+        !path.startsWith(draftsDir) &&
+        !path.endsWith("src/lib/authority/tranche-publication.ts"),
+    );
     for (const path of scanned) {
       const text = readFileSync(path, "utf8");
       assert.doesNotMatch(
@@ -378,23 +382,37 @@ describe("authority drafts — sources and canonical URLs", () => {
   });
 });
 
-describe("authority drafts — indexable URL budget (ADR-010 ~40–50)", () => {
-  it("fits tranche 1 inside the budget and shows the full G002 corpus would not", () => {
+describe("authority drafts — quality gate, not a page-count ceiling", () => {
+  it("keeps this tranche distinct and does not generate service × town × problem pages", () => {
     const core = CORE_SITEMAP_ROUTES.length;
     const hubs = SERVICES.length;
-    const locationHubs = LOCATIONS.length;
     const tranche = PROBLEM_PAGE_DRAFTS.length;
-    const fullCorpus = Object.keys(G002_PROBLEM_SERVICE_LINKS).length;
-
     assert.equal(core, 2);
+    assert.equal(hubs, 8);
     assert.equal(tranche, 14);
-    assert.equal(fullCorpus, 42);
-
-    assert.equal(core + hubs + tranche, 24);
-    assert.equal(core + hubs + locationHubs + tranche, 30);
-    assert.ok(core + hubs + locationHubs + tranche <= 40);
-
-    assert.equal(core + hubs + fullCorpus, 52);
-    assert.ok(core + hubs + fullCorpus > 50);
+    assert.equal(Object.keys(G002_PROBLEM_SERVICE_LINKS).length, 42);
+    const paths = [
+      ...SERVICE_HUB_DRAFTS.map((hub) => `/services/${hub.serviceId}`),
+      ...PROBLEM_PAGE_DRAFTS.map(
+        (draft) => `/services/${draft.primaryServiceId}/${draft.problemSlug}`,
+      ),
+    ];
+    assert.equal(new Set(paths).size, paths.length);
+    assert.equal(paths.filter((path) => path.endsWith("/brick-step-repair")).length, 1);
+    assert.equal(
+      paths.filter((path) => path.endsWith("/water-damaged-ceiling")).length,
+      1,
+    );
+    assert.equal(
+      paths.includes("/services/drywall/water-damaged-ceiling"),
+      true,
+    );
+    assert.equal(LOCATIONS.length, 6);
+    assert.equal(
+      SERVICE_HUB_DRAFTS.some((hub) =>
+        hub.primaryQuestion.startsWith("What can A5 help with for "),
+      ),
+      false,
+    );
   });
 });
