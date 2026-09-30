@@ -49,6 +49,10 @@ describe("A5-D001 design system", () => {
     assert.match(footer, /\/home-services\/\$\{location\.slug\}/);
     assert.doesNotMatch(homepage, /instant matching/i);
     assert.doesNotMatch(homepage, /fully vetted/i);
+    assert.doesNotMatch(homepage, /borrowed reviews/i);
+    assert.doesNotMatch(homepage, /does not publish ratings/i);
+    assert.match(homepage, /A clear starting point/);
+    assert.match(homepage, /Private project details/);
   });
 
   it("keeps public navigation free of admin and uses one primary header CTA", () => {

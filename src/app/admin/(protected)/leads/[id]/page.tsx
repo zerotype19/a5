@@ -18,6 +18,8 @@ function nextAction(status: string): string {
     case "QUALIFIED":
       return "Next: assign a vendor.";
     case "ASSIGNED":
+      // D001 manual follow-up. Once A5-009 vendor email ships, this line must
+      // say whether a notification was sent and whether the vendor responded.
       return "Next: follow up with the assigned vendor.";
     case "ACCEPTED":
       return "Vendor accepted. Confirm the homeowner has been contacted.";

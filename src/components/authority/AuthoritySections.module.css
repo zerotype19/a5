@@ -43,17 +43,15 @@
   display: inline-flex;
   align-items: center;
   min-height: 2.75rem;
-  padding: 0.45rem 0.95rem;
-  border-radius: var(--radius-sm);
-  background: var(--color-accent);
-  color: var(--color-on-hero);
+  color: var(--color-accent);
   font-size: var(--text-control);
   font-weight: 650;
-  text-decoration: none;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
 }
 
 .answerAction a:hover {
-  background: var(--color-accent-hover);
+  color: var(--color-accent-hover);
 }
 
 .answer {
