@@ -41,6 +41,12 @@ Actual values belong in environment configuration (local `.env`, preview/staging
 | `ENABLE_AUTOMATIC_ROUTING` | `false` | Automatic vendor routing |
 | `ENABLE_PROGRAMMATIC_PUBLISHING` | `false` | Programmatic content publishing |
 
+## Build-time public values vs runtime secrets
+
+`NEXT_PUBLIC_SUPABASE_URL`, `NEXT_PUBLIC_SUPABASE_ANON_KEY`, and `NEXT_PUBLIC_TURNSTILE_SITE_KEY` are read while `vite build` runs and inlined into the Worker bundle. Set them in the build environment for the target being deployed. A preview build must not be promoted to production.
+
+`SUPABASE_SERVICE_ROLE_KEY` and `TURNSTILE_SECRET_KEY` are Worker secrets. Wrangler stores them for the Worker. They are not build inputs and must not appear in client assets.
+
 ## If a credential is exposed
 
 ```text
