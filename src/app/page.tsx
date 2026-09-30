@@ -230,31 +230,33 @@ export default function HomePage() {
 
       <Section
         id="why-a5"
-        eyebrow="What you can count on"
-        title="Clear process, not borrowed reviews."
-        description="A5 does not publish ratings or project photos it does not have."
+        eyebrow="Why start here"
+        title="A clear starting point."
+        description="See how A5 works, where it coordinates, and how your project details are handled before you send anything."
       >
         <ul className={styles.trustList}>
           <li>
-            <h3>A visible process</h3>
+            <h3>A clear starting point</h3>
             <p>
               You see the steps before you send anything.{" "}
               <a href="#how-it-works">How A5 works</a>
             </p>
           </li>
           <li>
-            <h3>Privacy</h3>
+            <h3>Local coverage</h3>
             <p>
-              Contact details and photos are for the request, not a public
-              gallery. <Link href="/privacy">Privacy</Link>
+              A5 coordinates eight services in six Northern New Jersey towns.
             </p>
           </li>
           <li>
-            <h3>Real coverage</h3>
-            <p>Six towns, eight services, and published help pages — nothing invented.</p>
+            <h3>Private project details</h3>
+            <p>
+              Your contact details and photos stay with the project request.{" "}
+              <Link href="/privacy">Privacy</Link>
+            </p>
           </li>
           <li>
-            <h3>Useful reading</h3>
+            <h3>Useful homeowner guidance</h3>
             <p>
               <Link href="/guides/why-brick-steps-crack">
                 Why brick steps crack
