@@ -2,7 +2,8 @@
  * A5-009 vendor opportunity email.
  * One link to the token page. Accept and Pass are POST actions on that page
  * so a mail scanner cannot change assignment state by prefetching a GET link.
- * Customer name, phone, and email are not parameters and are not rendered.
+ * Only controlled fields are rendered. The homeowner's free-text description
+ * can contain contact details, so it is shown only on the token page.
  */
 
 import { SITE } from "../../../config/site.ts";
@@ -48,11 +49,9 @@ export function buildVendorOpportunityEmail(input: {
   serviceLabel: string;
   locationLabel: string;
   timingLabel: string;
-  description: string;
   photoCount: number;
   opportunityUrl: string;
 }): { subject: string; text: string; html: string } {
-  const description = input.description.trim() || "No description was provided.";
   const photos = photoLine(input.photoCount);
   const subject = "New project opportunity — A5 Home Services";
   const text = [
@@ -64,12 +63,9 @@ export function buildVendorOpportunityEmail(input: {
     `Location: ${input.locationLabel}`,
     `Timing: ${input.timingLabel}`,
     "",
-    "Project:",
-    description,
-    "",
     photos,
     "",
-    "Would you like to take this project? Open the secure page to accept or pass:",
+    "Review the project details securely, then accept or pass:",
     input.opportunityUrl,
     "",
     "This link expires in 72 hours. It only opens this project.",
@@ -83,10 +79,9 @@ export function buildVendorOpportunityEmail(input: {
 <p>Service<br>${escapeHtml(input.serviceLabel)}</p>
 <p>Location<br>${escapeHtml(input.locationLabel)}</p>
 <p>Timing<br>${escapeHtml(input.timingLabel)}</p>
-<p>Project<br>${escapeHtml(description).replaceAll("\n", "<br>")}</p>
 <p>${escapeHtml(photos)}</p>
-<p>Would you like to take this project?</p>
-<p><a href="${escapeHtml(input.opportunityUrl)}">Review this project</a></p>
+<p>Review the project details securely:</p>
+<p><a href="${escapeHtml(input.opportunityUrl)}">View project</a></p>
 <p>This link expires in 72 hours. It only opens this project.</p>
 </body>
 </html>`;

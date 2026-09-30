@@ -63,7 +63,7 @@ export async function deliverVendorNotification(
   const leadId = loaded.data.lead_id as string;
   const lead = await db
     .from("leads")
-    .select("service_id, location_id, urgency, project_description")
+    .select("service_id, location_id, urgency")
     .eq("id", leadId)
     .maybeSingle();
   if (lead.error || !lead.data) {
@@ -101,7 +101,6 @@ export async function deliverVendorNotification(
     serviceLabel: service?.name ?? "Not specified",
     locationLabel: location ? `${location.name}, ${location.state}` : "Not specified",
     timingLabel: timingDisplay(lead.data.urgency as string | null),
-    description: String(lead.data.project_description ?? ""),
     photoCount: photos.count ?? 0,
     opportunityUrl: opportunityPageUrl(token.raw),
   });

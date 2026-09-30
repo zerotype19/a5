@@ -114,28 +114,90 @@ describe("A5-009 capability", () => {
 });
 
 describe("A5-009 email privacy", () => {
-  it("links to the opportunity page and omits homeowner contact", () => {
-    const url = opportunityPageUrl("abc");
-    assert.match(url, /\/opportunity\/abc$/);
-    const message = buildVendorOpportunityEmail({
+  const leaks = [
+    "973-555-0142",
+    "(201) 555 0199",
+    "+1 862.555.0123",
+    "jane.homeowner@example.com",
+    "JANE@EXAMPLE.ORG",
+    "14 Ridgedale Ave",
+    "Apt 3B",
+    "07932",
+    "gate code 4411",
+    "Stair rail",
+  ];
+  const description = [
+    "Stair rail is loose. Call me at 973-555-0142 or (201) 555 0199,",
+    "text +1 862.555.0123, email jane.homeowner@example.com or JANE@EXAMPLE.ORG.",
+    "I live at 14 Ridgedale Ave, Apt 3B, Florham Park NJ 07932 — gate code 4411.",
+  ].join("\n");
+
+  function emailFromLeadRow() {
+    const row = {
       serviceLabel: "Handyman",
       locationLabel: "Florham Park, NJ",
       timingLabel: "As soon as possible",
-      description: "Repair a loose stair rail.",
-      photoCount: 2,
-      opportunityUrl: url,
-    });
-    assert.match(message.text, /Handyman/);
-    assert.match(message.text, /Florham Park, NJ/);
-    assert.match(message.text, /2 project photos are on the secure page/);
-    assert.ok(message.text.includes(url));
-    assert.doesNotMatch(message.text, /homeowner@|555-|full name|customer phone/i);
+      description,
+      photoCount: 3,
+      opportunityUrl: opportunityPageUrl("abc"),
+    };
+    return buildVendorOpportunityEmail(row);
+  }
+
+  it("renders only controlled fields and the opportunity link", () => {
+    const url = opportunityPageUrl("abc");
+    assert.match(url, /\/opportunity\/abc$/);
+    const message = emailFromLeadRow();
+    for (const body of [message.text, message.html]) {
+      assert.match(body, /New project opportunity/);
+      assert.match(body, /Handyman/);
+      assert.match(body, /Florham Park, NJ/);
+      assert.match(body, /As soon as possible/);
+      assert.match(body, /3 project photos are on the secure page/);
+      assert.match(body, /Review the project details securely/);
+      assert.ok(body.includes(url));
+    }
+    assert.match(message.html, />View project<\/a>/);
     assert.doesNotMatch(message.html, /<img /i);
-    const source = readFileSync(
+  });
+
+  it("keeps a homeowner description with contact details out of both bodies", () => {
+    const message = emailFromLeadRow();
+    for (const body of [message.subject, message.text, message.html]) {
+      for (const leak of leaks) {
+        assert.equal(
+          body.toLowerCase().includes(leak.toLowerCase()),
+          false,
+          `email leaked ${leak}`,
+        );
+      }
+      assert.doesNotMatch(body, /@example\./i);
+      assert.doesNotMatch(body, /555/);
+    }
+  });
+
+  it("does not read or accept the description for the email", () => {
+    const email = readFileSync(
       join(root, "src/lib/opportunity/email.ts"),
       "utf8",
     );
-    assert.doesNotMatch(source, /full_name|preferred_contact|customerPhone|customerEmail/);
+    const notify = readFileSync(
+      join(root, "src/lib/opportunity/notify.ts"),
+      "utf8",
+    );
+    assert.doesNotMatch(email, /description:|input\.description/);
+    assert.doesNotMatch(notify, /project_description|description:/);
+    assert.doesNotMatch(email, /full_name|preferred_contact|customerPhone|customerEmail/);
+  });
+
+  it("still shows the description on the opportunity page", () => {
+    const load = readFileSync(join(root, "src/lib/opportunity/load.ts"), "utf8");
+    const page = readFileSync(
+      join(root, "src/app/opportunity/[token]/page.tsx"),
+      "utf8",
+    );
+    assert.match(load, /project_description/);
+    assert.match(page, /project\.description/);
   });
 });
 
