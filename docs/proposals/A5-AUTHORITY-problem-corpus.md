@@ -98,18 +98,23 @@ The problem pages share one help-article structure on purpose: what you're seein
 - Local context uses only the six registry towns. Tile names the service area only, because no real tile-specific local fact was available.
 - No imagery exists in `public/`, so hub visuals are text descriptions in `typicalProjectVisuals`, each labeled "Typical projects".
 
-## Claims to verify before publish
+## Sources attached
 
-Listed per page in `claimsToVerify` (`drafts/claims.ts`). Suggested sources are for the owner to check and attach; none were retrieved or attached here.
+Each remaining factual claim in `drafts/claims.ts` has `sourceUrl` and `exactSupportedClaim`. Wording that those sources do not support was removed or narrowed on the page:
 
-- Northern NJ freeze-thaw winters / humid summers — Office of the NJ State Climatologist
-- De-icing salt and masonry deterioration — Brick Industry Association technical notes
-- Mortar and freezing temperatures — manufacturer / BIA guidance
-- NJ plumbing and electrical licensing — NJ Division of Consumer Affairs boards
-- Permits for some plumbing/electrical work — NJ DCA, Uniform Construction Code
-- 811 before digging; private lines not marked — New Jersey One Call
-- Pre-1978 lead paint and certified-firm requirement — U.S. EPA RRP
-- Plaster-to-drywall housing mix across the six towns — U.S. Census ACS "Year Structure Built"
+- Freeze-thaw is limited to NOAA 1991–2020 January normals at Canoe Brook (USC00281335): high 39.5°F, low 21.9°F. Summer humidity, indoor winter dryness, and a separate measurement for each town were removed.
+- De-icing salt is limited to Brick Industry Association Technical Note 14B: residue on clay-paver walks can stain joints and cause efflorescence. It is no longer described as speeding surface flaking.
+- Mortar and freezing cites BIA Technical Note 1.
+- Plumbing contracting cites the NJ master-plumber board FAQ / N.J.S.A. 45:14C-12.3.
+- Electrical contracting cites N.J.S.A. 45:5A-9.
+- Permits cite N.J.A.C. 5:23-2.7, 2.14, and 2.17A. Like-capacity water-heater replacement is minor work and still needs a permit. A new circuit is not ordinary maintenance.
+- 811 cites N.J.A.C. 14:2-3.1 and New Jersey One Call's private-facilities page.
+- Lead paint cites 40 CFR Part 745 Subpart E, including the small-repair and lead-free exceptions.
+- The claim that the six towns range from plaster houses to drywall houses was removed. Census year-built data does not identify wall material.
+
+## Canonical pages
+
+Problem entities stay on A5-G002 (`5477208`). This branch does not insert `problems` rows. `brick-step-repair` updates G001 content page `10000000-0000-4000-8000-000000000004` at `/services/masonry/brick-step-repair`. The other 13 problem drafts would be one new `content_pages` row each, at `/services/{primary}/{slug}`, after that G002 problem row exists.
 
 ## Dependencies and conflicts to resolve before publish
 

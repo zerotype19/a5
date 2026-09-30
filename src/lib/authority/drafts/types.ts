@@ -65,11 +65,51 @@ export const G002_PROBLEM_SERVICE_LINKS: Readonly<
   "recurring-electrical-issue": ["electrical"],
 };
 
-/** A statement that must be checked against a source before the page is published. */
+/**
+ * A factual statement on a draft, tied to the primary source that supports it.
+ * `exactSupportedClaim` is what the source says. Page copy must stay inside it.
+ */
 export type ClaimToVerify = {
   claim: string;
-  suggestedSource: string;
+  sourceTitle: string;
+  sourceUrl: string;
+  exactSupportedClaim: string;
 };
+
+/** G001 fixture page for brick-step-repair. Update this row; do not insert another. */
+export const G001_BRICK_STEP_PAGE_ID = "10000000-0000-4000-8000-000000000004";
+
+export type ProblemPageDisposition = {
+  action: "update-in-place" | "create-page-for-existing-problem";
+  canonicalPath: string;
+  existingContentPageId: string | null;
+  /** G002 seed uses the slug as the problems.id. This draft does not insert that row. */
+  problemEntityId: string;
+  problemEntitySource: "g001-fixture-kept-by-g002" | "g002-seed";
+};
+
+export function problemPageDisposition(
+  problemSlug: string,
+  primaryServiceId: string,
+): ProblemPageDisposition {
+  const canonicalPath = `/services/${primaryServiceId}/${problemSlug}`;
+  if (problemSlug === "brick-step-repair") {
+    return {
+      action: "update-in-place",
+      canonicalPath: "/services/masonry/brick-step-repair",
+      existingContentPageId: G001_BRICK_STEP_PAGE_ID,
+      problemEntityId: "brick-step-repair",
+      problemEntitySource: "g001-fixture-kept-by-g002",
+    };
+  }
+  return {
+    action: "create-page-for-existing-problem",
+    canonicalPath,
+    existingContentPageId: null,
+    problemEntityId: problemSlug,
+    problemEntitySource: "g002-seed",
+  };
+}
 
 type DraftBase = {
   title: string;
@@ -93,6 +133,7 @@ export type ProblemPageDraft = DraftBase & {
   problemSlug: string;
   primaryServiceId: ServiceId;
   relatedServiceIds: readonly ServiceId[];
+  disposition: ProblemPageDisposition;
 };
 
 export type DraftPageFields = {
