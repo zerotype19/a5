@@ -1,6 +1,6 @@
 import type { AssignmentRow, VendorCoverage } from "@/lib/admin/vendors";
 import { coverageLabels } from "@/lib/admin/vendors";
-import { assignLeadToVendor } from "@/lib/admin/vendor-actions";
+import { assignLeadToVendor, sendVendorEmail } from "@/lib/admin/vendor-actions";
 import { isOpenAssignmentStatus } from "@/lib/admin/eligibility";
 import { formatAdminDateTime } from "@/lib/admin/format";
 import styles from "./admin.module.css";
@@ -31,8 +31,8 @@ export function LeadAssignmentPanel({
         Assignment
       </h2>
       <p className={styles.empty}>
-        Vendor notification is not enabled. An assignment does not mean the
-        vendor has seen it.
+        Assignment is saved even if the vendor email fails. Notification does
+        not mean the vendor has accepted.
       </p>
       {current ? (
         <div className={styles.panel}>
@@ -40,13 +40,41 @@ export function LeadAssignmentPanel({
           <dl className={styles.dl}>
             <dt>Vendor</dt>
             <dd>{current.vendorName}</dd>
-            <dt>Status</dt>
+            <dt>Assignment status</dt>
             <dd>{current.status}</dd>
+            <dt>Notification</dt>
+            <dd>{current.notificationStatus ?? "Not sent"}</dd>
             <dt>Assigned</dt>
             <dd>{formatAdminDateTime(current.assignedAt)}</dd>
-            <dt>Assigned by</dt>
-            <dd>{current.assignedBy}</dd>
+            <dt>Email sent</dt>
+            <dd>{formatAdminDateTime(current.notificationSentAt)}</dd>
+            <dt>Accepted</dt>
+            <dd>{formatAdminDateTime(current.acceptedAt)}</dd>
+            <dt>Passed</dt>
+            <dd>{formatAdminDateTime(current.passedAt)}</dd>
           </dl>
+          {current.status === "ASSIGNED" && !current.vendorEmail ? (
+            <p className={styles.empty}>
+              Vendor email required before notification can be sent.
+            </p>
+          ) : null}
+          {current.status === "ASSIGNED" &&
+          current.vendorEmail &&
+          current.notificationStatus !== "SENT" ? (
+            <form className={styles.form} action={sendVendorEmail}>
+              <input type="hidden" name="leadId" value={leadId} />
+              <input type="hidden" name="assignmentId" value={current.id} />
+              <button type="submit">
+                {current.notificationStatus === "FAILED" ||
+                current.notificationStatus === "PENDING"
+                  ? "Retry email"
+                  : "Send vendor email"}
+              </button>
+            </form>
+          ) : null}
+          {current.notificationError ? (
+            <p className={styles.empty}>Last email error: {current.notificationError}</p>
+          ) : null}
         </div>
       ) : null}
       {status === "QUALIFIED" && !current ? (
@@ -92,8 +120,9 @@ export function LeadAssignmentPanel({
               <tr>
                 <th>Vendor</th>
                 <th>Status</th>
+                <th>Notification</th>
                 <th>Assigned</th>
-                <th>Assigned by</th>
+                <th>Email sent</th>
               </tr>
             </thead>
             <tbody>
@@ -101,8 +130,9 @@ export function LeadAssignmentPanel({
                 <tr key={row.id}>
                   <td>{row.vendorName}</td>
                   <td>{row.status}</td>
+                  <td>{row.notificationStatus ?? "Not sent"}</td>
                   <td>{formatAdminDateTime(row.assignedAt)}</td>
-                  <td>{row.assignedBy}</td>
+                  <td>{formatAdminDateTime(row.notificationSentAt)}</td>
                 </tr>
               ))}
             </tbody>

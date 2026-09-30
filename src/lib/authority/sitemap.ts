@@ -25,6 +25,7 @@ export const SITEMAP_EXCLUSIONS = [
   "/privacy",
   "/terms",
   "/api",
+  "/opportunity",
 ] as const;
 
 export type SitemapContentInput = Pick<

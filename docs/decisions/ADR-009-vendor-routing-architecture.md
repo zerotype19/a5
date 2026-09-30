@@ -30,4 +30,7 @@ Fulfillment is the production priority ahead of the next content batch.
 - Services and locations must match the approved registries. Unknown values are rejected.
 - Import creates `DISCOVERED` vendors with `accepting_leads = false`. Import never activates a vendor.
 - There is no in-app Google scraper. Public ratings are not an A5 score.
-- Assignment stays manual. Email Accept/Pass (A5-009) follows after Assign is live. No vendor portal.
+- Email Accept/Pass (A5-009) is the vendor response. There is no vendor portal.
+- A vendor email is a delivery attempt. It does not roll back a successful assignment.
+- The raw opportunity token is emailed once. The database stores only its SHA-256 hash. Links expire after 72 hours. A retry revokes older hashes for that assignment.
+- Accept and Pass are POST actions on `/opportunity/{token}`. They are one transaction and return the lead to QUALIFIED on pass. A vendor who passed is not assigned that lead again.

@@ -8,6 +8,7 @@ import { isValidUsPhone } from "../../components/intake/validation.ts";
 import { getSupabaseAdmin } from "../supabase/admin.ts";
 import { VENDOR_STATUSES, type VendorStatus } from "../db/schema.ts";
 import { resolveAdminAccess } from "./authorize.ts";
+import { deliverVendorNotification } from "../opportunity/notify.ts";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -157,13 +158,15 @@ export async function assignLeadToVendor(formData: FormData): Promise<void> {
   }
 
   const row = (Array.isArray(data) ? data[0] : data) as
-    | { ok?: boolean; error_code?: string | null }
+    | { ok?: boolean; error_code?: string | null; assignment_id?: string | null }
     | undefined;
-  if (!row?.ok) {
+  if (!row?.ok || !row.assignment_id) {
     const message =
       row?.error_code === "vendor_not_eligible"
         ? "That vendor is not eligible for this lead."
-        : row?.error_code === "unclassified"
+        : row?.error_code === "vendor_previously_passed"
+          ? "That vendor already passed on this lead."
+          : row?.error_code === "unclassified"
           ? "Classify service and location before assignment."
           : row?.error_code === "active_assignment_exists"
             ? "This lead already has an open assignment."
@@ -174,9 +177,42 @@ export async function assignLeadToVendor(formData: FormData): Promise<void> {
     redirect(`/admin/leads/${leadId}?${params.toString()}`);
   }
 
+  const delivery = await deliverVendorNotification(row.assignment_id, admin.userId);
   revalidatePath(`/admin/leads/${leadId}`);
   revalidatePath("/admin/leads");
   revalidatePath("/admin");
-  params.set("notice", "Vendor assigned. Notification is not enabled.");
+  params.set(
+    "notice",
+    delivery.ok
+      ? "Vendor assigned and email sent."
+      : delivery.code === "vendor_email_required"
+        ? "Vendor assigned. Vendor email is required before the notification can be sent."
+        : "Vendor assigned. The email could not be sent. You can retry.",
+  );
+  redirect(`/admin/leads/${leadId}?${params.toString()}`);
+}
+
+export async function sendVendorEmail(formData: FormData): Promise<void> {
+  const admin = await gateAdmin();
+  const leadId = String(formData.get("leadId") ?? "");
+  const assignmentId = String(formData.get("assignmentId") ?? "");
+  const params = new URLSearchParams();
+  if (!isUuid(leadId) || !isUuid(assignmentId)) {
+    params.set("error", "Choose an assignment before sending email.");
+    redirect(`/admin/leads/${leadId || "invalid"}?${params.toString()}`);
+  }
+  const delivery = await deliverVendorNotification(assignmentId, admin.userId);
+  revalidatePath(`/admin/leads/${leadId}`);
+  if (delivery.ok) {
+    params.set("notice", "Vendor email sent.");
+  } else if (delivery.code === "vendor_email_required") {
+    params.set("error", "Vendor email is required before the notification can be sent.");
+  } else if (delivery.code === "already_sent") {
+    params.set("notice", "This assignment already has a sent email.");
+  } else if (delivery.code === "vendor_not_active" || delivery.code === "vendor_not_eligible") {
+    params.set("error", "Only an active vendor who is accepting leads can be emailed.");
+  } else {
+    params.set("error", "The vendor email could not be sent. The assignment was not changed.");
+  }
   redirect(`/admin/leads/${leadId}?${params.toString()}`);
 }

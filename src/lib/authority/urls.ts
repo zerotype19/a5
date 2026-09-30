@@ -21,6 +21,7 @@ export const RESERVED_ROOT_SEGMENTS = new Set([
   "cost-guides",
   "compare",
   "projects",
+  "opportunity",
   "favicon.ico",
   "_next",
 ]);

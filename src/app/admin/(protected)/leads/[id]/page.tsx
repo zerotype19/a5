@@ -8,19 +8,35 @@ import {
 } from "@/lib/admin/format";
 import { LeadOperationsPanels } from "@/components/admin/LeadOperationsPanels";
 import { LeadAssignmentPanel } from "@/components/admin/LeadAssignmentPanel";
-import { loadEligibleVendors, loadLeadAssignments } from "@/lib/admin/vendors";
+import { isOpenAssignmentStatus } from "@/lib/admin/eligibility";
+import {
+  loadEligibleVendors,
+  loadLeadAssignments,
+  type AssignmentRow,
+} from "@/lib/admin/vendors";
 import styles from "@/components/admin/admin.module.css";
 
-function nextAction(status: string): string {
+function nextAction(status: string, assignments: AssignmentRow[]): string {
+  const open = assignments.find((row) => isOpenAssignmentStatus(row.status));
   switch (status) {
     case "NEW":
       return "Next: qualify this lead.";
     case "QUALIFIED":
       return "Next: assign a vendor.";
     case "ASSIGNED":
-      // D001 manual follow-up. Once A5-009 vendor email ships, this line must
-      // say whether a notification was sent and whether the vendor responded.
-      return "Next: follow up with the assigned vendor.";
+      if (!open?.vendorEmail) {
+        return "Next: this vendor has no email, so notification cannot be sent.";
+      }
+      if (open.notificationStatus === "SENT") {
+        return "Next: the vendor email was sent. Wait for accept or pass.";
+      }
+      if (
+        open.notificationStatus === "FAILED" ||
+        open.notificationStatus === "PENDING"
+      ) {
+        return "Next: retry the vendor email.";
+      }
+      return "Next: send the vendor email.";
     case "ACCEPTED":
       return "Vendor accepted. Confirm the homeowner has been contacted.";
     default:
@@ -49,10 +65,13 @@ export default async function AdminLeadDetailPage({
     notFound();
   }
   const [eligibleVendors, assignments] = await Promise.all([
-    loadEligibleVendors({
-      serviceId: lead.serviceId,
-      locationId: lead.locationId,
-    }),
+    loadEligibleVendors(
+      {
+        serviceId: lead.serviceId,
+        locationId: lead.locationId,
+      },
+      lead.id,
+    ),
     loadLeadAssignments(id),
   ]);
 
@@ -75,7 +94,9 @@ export default async function AdminLeadDetailPage({
           {" · "}
           Created {formatAdminDateTime(lead.createdAt)}
         </p>
-        <p className={styles.nextAction}>{nextAction(lead.status)}</p>
+        <p className={styles.nextAction}>
+          {nextAction(lead.status, assignments)}
+        </p>
       </header>
 
       <div className={styles.detailGrid}>

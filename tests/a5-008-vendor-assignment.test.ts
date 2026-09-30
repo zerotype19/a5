@@ -117,8 +117,7 @@ describe("A5-008 assignment boundary", () => {
       "utf8",
     );
     assert.match(nav, /\/admin\/vendors/);
-    assert.match(panel, /Vendor notification is not enabled/);
-    assert.match(panel, /admin_assign_lead_to_vendor|assignLeadToVendor/);
+    assert.match(panel, /assignLeadToVendor/);
     assert.match(actions, /resolveAdminAccess/);
     assert.doesNotMatch(actions, /SUPABASE_SERVICE_ROLE_KEY/);
     const transitions = readFileSync(
