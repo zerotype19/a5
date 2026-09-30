@@ -10,6 +10,10 @@ export type VendorCoverage = {
   contactName: string | null;
   phone: string | null;
   email: string | null;
+  website: string | null;
+  source: string | null;
+  sourceUrl: string | null;
+  discoveryNotes: string | null;
   status: VendorStatus;
   acceptingLeads: boolean;
   registrationNumber: string | null;
@@ -38,6 +42,10 @@ type VendorRecord = {
   contact_name: string | null;
   phone: string | null;
   email: string | null;
+  website: string | null;
+  source: string | null;
+  source_url: string | null;
+  discovery_notes: string | null;
   status: VendorStatus;
   accepting_leads: boolean;
   registration_number: string | null;
@@ -94,6 +102,10 @@ function mapVendor(
     contactName: row.contact_name,
     phone: row.phone,
     email: row.email,
+    website: row.website,
+    source: row.source,
+    sourceUrl: row.source_url,
+    discoveryNotes: row.discovery_notes,
     status: row.status,
     acceptingLeads: row.accepting_leads,
     registrationNumber: row.registration_number,
@@ -110,7 +122,7 @@ export async function loadVendors(): Promise<VendorCoverage[]> {
   const { data, error } = await admin
     .from("vendors")
     .select(
-      "id, business_name, contact_name, phone, email, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes",
+      "id, business_name, contact_name, phone, email, website, source, source_url, discovery_notes, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes",
     )
     .order("business_name", { ascending: true });
   if (error) throw new Error(`admin_vendors:${error.code ?? "error"}`);
@@ -124,7 +136,7 @@ export async function loadVendor(id: string): Promise<VendorCoverage | null> {
   const { data, error } = await admin
     .from("vendors")
     .select(
-      "id, business_name, contact_name, phone, email, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes",
+      "id, business_name, contact_name, phone, email, website, source, source_url, discovery_notes, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes",
     )
     .eq("id", id)
     .maybeSingle();

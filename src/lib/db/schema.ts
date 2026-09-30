@@ -92,12 +92,10 @@ export type AuthorityTable = (typeof AUTHORITY_TABLES)[number];
 export const LEAD_NOTES_TABLE = "lead_notes" as const;
 
 export const VENDOR_STATUSES = [
-  "PROSPECT",
-  "VETTING",
+  "DISCOVERED",
   "APPROVED",
   "ACTIVE",
   "PAUSED",
-  "SUSPENDED",
   "INACTIVE",
 ] as const;
 

@@ -13,6 +13,8 @@ export default async function VendorsPage() {
         </p>
       </header>
       <p>
+        <Link href="/admin/vendors/import">Import CSV</Link>
+        {" · "}
         <Link href="/admin/vendors/new">Create vendor</Link>
       </p>
       {vendors.length === 0 ? (

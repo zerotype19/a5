@@ -16,6 +16,8 @@
 
 Eligibility is `ACTIVE` + `accepting_leads` + service match + location match. Null lead service or location matches no vendor. No ZIP inference. No vendor notification.
 
+CSV import (`/admin/vendors/import`) inserts `DISCOVERED` rows only. `accepting_leads` is allowed only when status is `ACTIVE`. The candidate file is `data/vendors/northern-nj-candidates.csv`. Loading that file does not approve or activate anyone.
+
 ## Apply (non-prod)
 
 ```bash

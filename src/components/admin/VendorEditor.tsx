@@ -32,8 +32,28 @@ export function VendorEditor({ vendor, error }: Props) {
         <input name="email" type="email" defaultValue={vendor?.email ?? ""} />
       </label>
       <label className={styles.fieldLabel}>
+        Website
+        <input name="website" defaultValue={vendor?.website ?? ""} />
+      </label>
+      <label className={styles.fieldLabel}>
+        Source
+        <input name="source" defaultValue={vendor?.source ?? ""} />
+      </label>
+      <label className={styles.fieldLabel}>
+        Source URL
+        <input name="sourceUrl" defaultValue={vendor?.sourceUrl ?? ""} />
+      </label>
+      <label className={styles.fieldLabel}>
+        Discovery notes
+        <textarea
+          name="discoveryNotes"
+          rows={3}
+          defaultValue={vendor?.discoveryNotes ?? ""}
+        />
+      </label>
+      <label className={styles.fieldLabel}>
         Status
-        <select name="status" defaultValue={vendor?.status ?? "PROSPECT"}>
+        <select name="status" defaultValue={vendor?.status ?? "DISCOVERED"}>
           {VENDOR_STATUSES.map((status) => (
             <option key={status} value={status}>
               {status}

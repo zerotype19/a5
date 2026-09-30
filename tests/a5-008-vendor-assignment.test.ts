@@ -71,8 +71,12 @@ describe("A5-008 assignment boundary", () => {
   });
 
   it("ships vendors, coverage, and one-open-assignment constraint", () => {
+    assert.equal(VENDOR_STATUSES.includes("DISCOVERED"), true);
     assert.equal(VENDOR_STATUSES.includes("ACTIVE"), true);
     assert.equal(VENDOR_STATUSES.includes("PAUSED"), true);
+    assert.equal(VENDOR_STATUSES.includes("PROSPECT"), false);
+    assert.match(migration, /accepting_requires_active/);
+    assert.match(migration, /'DISCOVERED'/);
     assert.deepEqual([...LEAD_ASSIGNMENT_STATUSES], [
       "ASSIGNED",
       "ACCEPTED",

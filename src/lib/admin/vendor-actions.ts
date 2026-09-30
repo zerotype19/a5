@@ -38,8 +38,13 @@ export async function saveVendor(formData: FormData): Promise<void> {
   const contactName = String(formData.get("contactName") ?? "").trim();
   const phone = String(formData.get("phone") ?? "").trim();
   const email = String(formData.get("email") ?? "").trim();
+  const website = String(formData.get("website") ?? "").trim();
+  const source = String(formData.get("source") ?? "").trim();
+  const sourceUrl = String(formData.get("sourceUrl") ?? "").trim();
+  const discoveryNotes = String(formData.get("discoveryNotes") ?? "").trim();
   const status = String(formData.get("status") ?? "");
-  const accepting = formData.get("acceptingLeads") === "on";
+  const accepting =
+    status === "ACTIVE" && formData.get("acceptingLeads") === "on";
   const registration = String(formData.get("registrationNumber") ?? "").trim();
   const license = String(formData.get("licenseNumber") ?? "").trim();
   const insurance = formData.get("insuranceVerified") === "on";
@@ -77,6 +82,15 @@ export async function saveVendor(formData: FormData): Promise<void> {
   if (notes.length > 2000) {
     fail("Credential notes must be 2000 characters or fewer.");
   }
+  if (discoveryNotes.length > 2000) {
+    fail("Discovery notes must be 2000 characters or fewer.");
+  }
+  if (website && !/^https?:\/\//i.test(website)) {
+    fail("Website must start with http:// or https://.");
+  }
+  if (sourceUrl && !/^https?:\/\//i.test(sourceUrl)) {
+    fail("Source URL must start with http:// or https://.");
+  }
 
   const db = getSupabaseAdmin();
   const { data, error } = await db.rpc("admin_upsert_vendor", {
@@ -85,6 +99,10 @@ export async function saveVendor(formData: FormData): Promise<void> {
     p_contact_name: contactName || null,
     p_phone: phone || null,
     p_email: email || null,
+    p_website: website || null,
+    p_source: source || null,
+    p_source_url: sourceUrl || null,
+    p_discovery_notes: discoveryNotes || null,
     p_status: status as VendorStatus,
     p_accepting_leads: accepting,
     p_registration_number: registration || null,

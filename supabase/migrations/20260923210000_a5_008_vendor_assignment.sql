@@ -14,12 +14,10 @@
 -- ---------------------------------------------------------------------------
 
 create type public.vendor_status as enum (
-  'PROSPECT',
-  'VETTING',
+  'DISCOVERED',
   'APPROVED',
   'ACTIVE',
   'PAUSED',
-  'SUSPENDED',
   'INACTIVE'
 );
 
@@ -43,7 +41,11 @@ create table public.vendors (
   contact_name text,
   phone text,
   email text,
-  status public.vendor_status not null default 'PROSPECT',
+  website text,
+  source text,
+  source_url text,
+  discovery_notes text,
+  status public.vendor_status not null default 'DISCOVERED',
   accepting_leads boolean not null default false,
   registration_number text,
   license_number text,
@@ -60,6 +62,21 @@ create table public.vendors (
   ),
   constraint vendors_email_len check (
     email is null or char_length(email) between 3 and 200
+  ),
+  constraint vendors_website_len check (
+    website is null or char_length(website) between 8 and 300
+  ),
+  constraint vendors_source_len check (
+    source is null or char_length(source) between 1 and 80
+  ),
+  constraint vendors_source_url_len check (
+    source_url is null or char_length(source_url) between 8 and 500
+  ),
+  constraint vendors_discovery_notes_len check (
+    discovery_notes is null or char_length(discovery_notes) between 1 and 2000
+  ),
+  constraint vendors_accepting_requires_active check (
+    accepting_leads = false or status = 'ACTIVE'
   ),
   constraint vendors_registration_len check (
     registration_number is null or char_length(registration_number) between 1 and 80
@@ -279,6 +296,10 @@ create or replace function public.admin_upsert_vendor(
   p_contact_name text,
   p_phone text,
   p_email text,
+  p_website text,
+  p_source text,
+  p_source_url text,
+  p_discovery_notes text,
   p_status public.vendor_status,
   p_accepting_leads boolean,
   p_registration_number text,
@@ -318,6 +339,11 @@ begin
     return;
   end if;
 
+  if p_accepting_leads and p_status is distinct from 'ACTIVE' then
+    return query select false, 'accepting_requires_active'::text, null::uuid;
+    return;
+  end if;
+
   if p_service_ids is null or p_location_ids is null then
     return query select false, 'invalid_input'::text, null::uuid;
     return;
@@ -339,13 +365,18 @@ begin
 
   if p_vendor_id is null then
     insert into public.vendors (
-      business_name, contact_name, phone, email, status, accepting_leads,
-      registration_number, license_number, insurance_verified, credentials_notes
+      business_name, contact_name, phone, email, website, source, source_url,
+      discovery_notes, status, accepting_leads, registration_number, license_number,
+      insurance_verified, credentials_notes
     ) values (
       trim(p_business_name),
       nullif(trim(coalesce(p_contact_name, '')), ''),
       nullif(trim(coalesce(p_phone, '')), ''),
       nullif(lower(trim(coalesce(p_email, ''))), ''),
+      nullif(trim(coalesce(p_website, '')), ''),
+      nullif(trim(coalesce(p_source, '')), ''),
+      nullif(trim(coalesce(p_source_url, '')), ''),
+      nullif(trim(coalesce(p_discovery_notes, '')), ''),
       p_status,
       p_accepting_leads,
       nullif(trim(coalesce(p_registration_number, '')), ''),
@@ -360,6 +391,10 @@ begin
            contact_name = nullif(trim(coalesce(p_contact_name, '')), ''),
            phone = nullif(trim(coalesce(p_phone, '')), ''),
            email = nullif(lower(trim(coalesce(p_email, ''))), ''),
+           website = nullif(trim(coalesce(p_website, '')), ''),
+           source = nullif(trim(coalesce(p_source, '')), ''),
+           source_url = nullif(trim(coalesce(p_source_url, '')), ''),
+           discovery_notes = nullif(trim(coalesce(p_discovery_notes, '')), ''),
            status = p_status,
            accepting_leads = p_accepting_leads,
            registration_number = nullif(trim(coalesce(p_registration_number, '')), ''),
@@ -394,16 +429,16 @@ end;
 $$;
 
 comment on function public.admin_upsert_vendor(
-  uuid, text, text, text, text, public.vendor_status, boolean, text, text, boolean, text, text[], text[], uuid
+  uuid, text, text, text, text, text, text, text, text, public.vendor_status, boolean, text, text, boolean, text, text[], text[], uuid
 ) is
-  'A5-008 create or update a vendor and replace service/location coverage in one transaction. service_role only.';
+  'A5-008 create or update a vendor and replace service/location coverage in one transaction. service_role only. accepting_leads requires ACTIVE.';
 
 revoke all on function public.admin_upsert_vendor(
-  uuid, text, text, text, text, public.vendor_status, boolean, text, text, boolean, text, text[], text[], uuid
+  uuid, text, text, text, text, text, text, text, text, public.vendor_status, boolean, text, text, boolean, text, text[], text[], uuid
 ) from public, anon, authenticated;
 
 grant execute on function public.admin_upsert_vendor(
-  uuid, text, text, text, text, public.vendor_status, boolean, text, text, boolean, text, text[], text[], uuid
+  uuid, text, text, text, text, text, text, text, text, public.vendor_status, boolean, text, text, boolean, text, text[], text[], uuid
 ) to service_role;
 
 -- ---------------------------------------------------------------------------
