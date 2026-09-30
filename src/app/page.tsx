@@ -9,40 +9,73 @@ import { ServiceCard } from "@/components/ServiceCard";
 import { phoneTelHref } from "@/lib/phone";
 import styles from "./page.module.css";
 
-const HOW_IT_WORKS = [
+const SERVICE_LINES: Record<(typeof SERVICES)[number]["id"], string> = {
+  handyman: "Doors, fixtures, and smaller repairs",
+  masonry: "Steps, walks, mortar, and pavers",
+  landscaping: "Yards, grading, and surface water",
+  painting: "Interior and exterior paint",
+  drywall: "Ceilings, cracks, and water stains",
+  tile: "Floors, showers, and grout",
+  plumbing: "Leaks, toilets, and fixtures",
+  electrical: "Outlets, switches, and lights",
+};
+
+/** Published problem pages only. Paths match the live canonical URLs. */
+const PROBLEMS = [
   {
-    step: "1",
-    title: "Tell us what you need",
-    body: "Describe the project and optionally share photos.",
+    href: "/services/masonry/brick-step-repair",
+    title: "Brick steps cracking",
   },
   {
-    step: "2",
-    title: "We coordinate the right professional",
-    body: "A5 reviews the request and connects with an appropriate local professional.",
+    href: "/services/drywall/water-damaged-ceiling",
+    title: "Water stain on ceiling",
   },
   {
-    step: "3",
-    title: "Get your project moving",
-    body: "The professional contacts the homeowner to discuss next steps.",
+    href: "/services/electrical/dead-outlet",
+    title: "Outlet stopped working",
+  },
+  {
+    href: "/services/handyman/sticking-interior-door",
+    title: "Door won't close",
+  },
+  {
+    href: "/services/plumbing/running-toilet",
+    title: "Toilet keeps running",
+  },
+  {
+    href: "/services/painting/peeling-exterior-paint",
+    title: "Paint peeling",
+  },
+  {
+    href: "/services/masonry/sunken-pavers",
+    title: "Pavers sinking",
+  },
+  {
+    href: "/services/landscaping/yard-surface-grading",
+    title: "Water sitting in yard",
   },
 ] as const;
 
-const WHY_A5 = [
+const HOW_IT_WORKS = [
   {
-    title: "One place to start",
-    body: "Bring the project to A5 instead of chasing multiple contractors on your own.",
+    step: "1",
+    title: "Tell us what's wrong",
+    body: "Describe the project in plain language. You do not need to name the trade.",
   },
   {
-    title: "Local professionals",
-    body: "A5 works with local service professionals serving our approved Northern New Jersey communities.",
+    step: "2",
+    title: "Add photos",
+    body: "Up to five photos. Optional, and useful when the problem is visible.",
   },
   {
-    title: "Projects of all sizes",
-    body: "From smaller repairs to larger home improvements across our approved services.",
+    step: "3",
+    title: "A5 reviews the project",
+    body: "A5 reads what you sent and figures out the right kind of help.",
   },
   {
-    title: "Simple coordination",
-    body: "A5 handles the handoff so homeowners have a clear next step.",
+    step: "4",
+    title: "We coordinate the appropriate local provider",
+    body: "That provider contacts you to discuss next steps.",
   },
 ] as const;
 
@@ -79,11 +112,11 @@ export default function HomePage() {
         <div className={styles.heroInner}>
           <p className={styles.brandSignal}>{SITE.name}</p>
           <h1 id="hero-heading" className={styles.heroTitle}>
-            One call. Any project. Done right.
+            Home repairs, without figuring out the contractor first.
           </h1>
           <p className={styles.heroLede}>
-            Tell us what your home needs. A5 coordinates the right local
-            professional to get it done.
+            Tell A5 what&apos;s wrong. Add a few photos. We&apos;ll review the
+            project and help coordinate the right local service provider.
           </p>
           <div className={styles.heroActions}>
             <Button
@@ -91,53 +124,72 @@ export default function HomePage() {
               variant="onHero"
               dataCta="hero-get-help"
             >
-              Get Help With a Project
+              Tell us what needs fixing
             </Button>
-            <Button
-              href={tel}
-              variant="onHeroSecondary"
-              dataCta="hero-call"
-              external
-            >
-              Call A5 · {SITE.phone}
+            <Button href="/#services" variant="onHeroSecondary" dataCta="hero-browse">
+              Browse services
             </Button>
           </div>
+          <p className={styles.heroLocal}>Northern New Jersey.</p>
           <p className={styles.heroLocal}>
-            Serving homeowners across Morris County and surrounding Northern New
-            Jersey communities.
+            <a href={tel} data-cta="hero-call">
+              Or call {SITE.phone}
+            </a>
           </p>
         </div>
       </section>
 
       <Section
+        id="problems"
+        eyebrow="What needs fixing?"
+        title="Start with the problem, not the trade."
+        description="These are real situations homeowners describe. Each one opens a page that explains what you are seeing."
+      >
+        <ul className={styles.problemList}>
+          {PROBLEMS.map((problem) => (
+            <li key={problem.href}>
+              <Link className={styles.problemLink} href={problem.href}>
+                {problem.title}
+              </Link>
+            </li>
+          ))}
+        </ul>
+      </Section>
+
+      <Section
         id="services"
+        tone="muted"
         eyebrow="Services"
-        title="What do you need help with?"
+        title="Eight kinds of work A5 coordinates."
         description="Choose an approved service, or tell us what is happening if you are not sure which trade fits."
       >
         <div className={styles.serviceGrid}>
           {SERVICES.map((service) => (
-            <ServiceCard key={service.id} service={service} />
+            <ServiceCard
+              key={service.id}
+              service={service}
+              line={SERVICE_LINES[service.id]}
+            />
           ))}
-          <Link
-            className={styles.unsureCard}
-            href="/request-service"
-            data-cta="service-unsure"
-          >
-            <span className={styles.unsureTitle}>Not sure what you need?</span>
-            <span className={styles.unsureBody}>
-              Tell us what is happening at your home and A5 will help from there.
-            </span>
-          </Link>
         </div>
+        <Link
+          className={styles.unsureCard}
+          href="/request-service"
+          data-cta="service-unsure"
+        >
+          <span className={styles.unsureTitle}>Not sure what you need?</span>
+          <span className={styles.unsureBody}>
+            You don&apos;t need to know the right trade. Tell us what is
+            happening at your home and A5 will help from there.
+          </span>
+        </Link>
       </Section>
 
       <Section
         id="how-it-works"
-        tone="muted"
         eyebrow="How A5 works"
-        title="A clear path from request to professional"
-        description="Simple coordination — without promises about timing, pricing, or guaranteed matching."
+        title="A clear path from request to a local provider."
+        description="Coordination only. Timing, price, and who is available are not promised here."
       >
         <ol className={styles.steps}>
           {HOW_IT_WORKS.map((item) => (
@@ -155,36 +207,22 @@ export default function HomePage() {
       </Section>
 
       <Section
-        id="popular-services"
-        eyebrow="Popular services"
-        title="Start with the work your home needs"
-        description="Each option below comes from the approved A5 service registry."
-      >
-        <div className={styles.popularRow}>
-          {SERVICES.map((service) => (
-            <Link
-              key={service.id}
-              className={styles.popularLink}
-              href={`/services/${service.slug}`}
-              data-cta={`popular-${service.id}`}
-            >
-              {service.name}
-            </Link>
-          ))}
-        </div>
-      </Section>
-
-      <Section
         id="areas"
         tone="muted"
-        eyebrow="Local coverage"
-        title="Serving a focused Northern New Jersey cluster"
-        description="A5 starts with geographic density — these approved communities only."
+        eyebrow="Where"
+        title="Serving Northern New Jersey"
+        description="A5 currently coordinates work in these six communities."
       >
         <ul className={styles.locationList}>
           {LOCATIONS.map((location) => (
-            <li key={location.id} className={styles.locationItem}>
-              {location.name}, {location.state}
+            <li key={location.id}>
+              <Link
+                className={styles.locationLink}
+                href={`/home-services/${location.slug}`}
+              >
+                {location.name}
+                <span className={styles.locationState}>{location.state}</span>
+              </Link>
             </li>
           ))}
         </ul>
@@ -192,18 +230,40 @@ export default function HomePage() {
 
       <Section
         id="why-a5"
-        eyebrow="Why A5"
-        title="Built around one trusted starting point"
-        description="A5 is designed to feel like one home-services company — not a contractor marketplace."
+        eyebrow="Why start here"
+        title="A clear starting point."
+        description="See how A5 works, where it coordinates, and how your project details are handled before you send anything."
       >
-        <div className={styles.whyGrid}>
-          {WHY_A5.map((item) => (
-            <article key={item.title} className={styles.whyItem}>
-              <h3 className={styles.whyTitle}>{item.title}</h3>
-              <p className={styles.whyBody}>{item.body}</p>
-            </article>
-          ))}
-        </div>
+        <ul className={styles.trustList}>
+          <li>
+            <h3>A clear starting point</h3>
+            <p>
+              You see the steps before you send anything.{" "}
+              <a href="#how-it-works">How A5 works</a>
+            </p>
+          </li>
+          <li>
+            <h3>Local coverage</h3>
+            <p>
+              A5 coordinates eight services in six Northern New Jersey towns.
+            </p>
+          </li>
+          <li>
+            <h3>Private project details</h3>
+            <p>
+              Your contact details and photos stay with the project request.{" "}
+              <Link href="/privacy">Privacy</Link>
+            </p>
+          </li>
+          <li>
+            <h3>Useful homeowner guidance</h3>
+            <p>
+              <Link href="/guides/why-brick-steps-crack">
+                Why brick steps crack
+              </Link>
+            </p>
+          </li>
+        </ul>
       </Section>
 
       <Section

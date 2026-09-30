@@ -31,8 +31,27 @@
 .question {
   margin: 0 0 var(--space-2);
   font-family: var(--font-display);
-  font-size: 1.25rem;
+  font-size: var(--text-h3);
   color: var(--color-ink);
+}
+
+.answerAction {
+  margin: var(--space-4) 0 0;
+}
+
+.answerAction a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  color: var(--color-accent);
+  font-size: var(--text-control);
+  font-weight: 650;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.answerAction a:hover {
+  color: var(--color-accent-hover);
 }
 
 .answer {
@@ -48,8 +67,28 @@
 .heading {
   margin: 0 0 var(--space-3);
   font-family: var(--font-display);
-  font-size: 1.5rem;
+  font-size: var(--text-h2);
   color: var(--color-ink);
+}
+
+.quiet {
+  max-width: 42rem;
+  padding: var(--space-4);
+  border-radius: var(--radius-md);
+  background: rgba(255, 255, 255, 0.35);
+}
+
+.quiet .heading {
+  font-size: var(--text-h3);
+  color: var(--color-ink-soft);
+}
+
+.callout {
+  max-width: 42rem;
+  padding: var(--space-4) var(--space-5);
+  border-left: 3px solid var(--color-accent);
+  background: var(--color-surface);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
 }
 
 .body {
@@ -118,4 +157,58 @@
 .table thead th {
   background: var(--color-surface);
   font-weight: 650;
+}
+
+.relatedGrid {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+  margin: 0;
+  padding: 0;
+}
+
+.relatedChip,
+.relatedCard {
+  display: grid;
+  gap: 0.2rem;
+  text-decoration: none;
+  color: var(--color-ink);
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-md);
+}
+
+.relatedChip {
+  padding: 0.55rem 0.8rem;
+}
+
+.relatedCard {
+  padding: 0.85rem 0.95rem;
+  min-width: min(100%, 16rem);
+  max-width: 22rem;
+}
+
+.relatedChip:hover,
+.relatedCard:hover,
+.relatedChip:focus-visible,
+.relatedCard:focus-visible {
+  border-color: var(--color-accent);
+}
+
+.relatedType {
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+}
+
+.relatedTitle {
+  font-weight: 650;
+}
+
+.relatedReason {
+  font-size: var(--text-small);
+  color: var(--color-ink-soft);
 }

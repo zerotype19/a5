@@ -176,7 +176,7 @@ AI may later assist with research, briefs, outlines, drafts, internal-link sugge
 
 AI may **not** autonomously: publish, invent local facts, invent project experience, invent reviews, invent prices, invent regulations, or invent sources.
 
-`ENABLE_PROGRAMMATIC_PUBLISHING` remains `false`.
+`ENABLE_PROGRAMMATIC_PUBLISHING` remains `false`. There is no fixed indexable-page count. Automated service × location × problem permutations stay prohibited (ADR-010).
 
 ---
 

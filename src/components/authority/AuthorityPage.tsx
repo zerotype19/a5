@@ -10,8 +10,18 @@ import {
   serializeJsonLd,
 } from "@/lib/authority/schema";
 import { buildContentPathFromRecord } from "@/lib/authority/urls";
-import type { PublicContentPage } from "@/lib/authority/types";
+import type { ContentPageType, PublicContentPage } from "@/lib/authority/types";
 import styles from "./AuthorityPage.module.css";
+
+const TYPE_LABEL: Partial<Record<ContentPageType, string>> = {
+  SERVICE: "Service",
+  PROBLEM: "Problem",
+  LOCATION: "Town",
+  GUIDE: "Guide",
+  COST_GUIDE: "Guide",
+  COMPARISON: "Comparison",
+  SERVICE_LOCATION: "Local service",
+};
 
 type Props = {
   page: PublicContentPage;
@@ -60,7 +70,7 @@ export function AuthorityPage({ page, children }: Props) {
   }
 
   return (
-    <main className={styles.main}>
+    <main className={styles.main} data-kind={page.page_type}>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: serializeJsonLd(schemas) }}
@@ -73,6 +83,9 @@ export function AuthorityPage({ page, children }: Props) {
           </p>
         ) : null}
         <header className={styles.header}>
+          {TYPE_LABEL[page.page_type] ? (
+            <p className={styles.kind}>{TYPE_LABEL[page.page_type]}</p>
+          ) : null}
           <h1 className={styles.h1}>{page.h1}</h1>
         </header>
         <AuthoritySections page={page} />

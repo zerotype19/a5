@@ -14,7 +14,7 @@ type Props = {
 export function CtaBlock({
   title,
   description,
-  primaryLabel = "Get Help With a Project",
+  primaryLabel = "Tell us what needs fixing",
   primaryHref = "/request-service",
   primaryCta = "final-get-help",
 }: Props) {
