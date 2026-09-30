@@ -4,6 +4,7 @@
  * or a seed. Publishing requires an owner-approved content_pages record.
  */
 
+import type { LocationId } from "../../../../config/locations.ts";
 import type { ServiceId } from "../../../../config/services.ts";
 import type { ContentPageType, ContentSection } from "../types.ts";
 
@@ -170,6 +171,23 @@ export function hubDraftFields(draft: ServiceHubDraft): DraftPageFields {
   };
 }
 
+/** Live Madison LOCATION row. Update it; do not insert a second town page. */
+export const LIVE_MADISON_LOCATION_PAGE_ID =
+  "10000000-0000-4000-8000-000000000002";
+
+export type LocationHubDisposition = {
+  action: "update-in-place" | "create";
+  canonicalPath: string;
+  existingContentPageId: string | null;
+};
+
+export type LocationHubDraft = DraftBase & {
+  locationId: LocationId;
+  disposition: LocationHubDisposition;
+  /** Only paths that are already published, or the other hubs in this same batch. */
+  linkPaths: readonly string[];
+};
+
 export function problemDraftFields(draft: ProblemPageDraft): DraftPageFields {
   return {
     slug: draft.problemSlug,
@@ -179,6 +197,24 @@ export function problemDraftFields(draft: ProblemPageDraft): DraftPageFields {
     primary_service_id: draft.primaryServiceId,
     primary_location_id: null,
     primary_problem_id: draft.problemSlug,
+    status: DRAFT_STATUS,
+    indexable: false,
+    cost_methodology: null,
+    last_reviewed_at: null,
+    public_project_approved: false,
+    direct_answer: draft.directAnswer,
+  };
+}
+
+export function locationDraftFields(draft: LocationHubDraft): DraftPageFields {
+  return {
+    slug: draft.locationId,
+    page_type: "LOCATION",
+    title: draft.title,
+    h1: draft.h1,
+    primary_service_id: null,
+    primary_location_id: draft.locationId,
+    primary_problem_id: null,
     status: DRAFT_STATUS,
     indexable: false,
     cost_methodology: null,
