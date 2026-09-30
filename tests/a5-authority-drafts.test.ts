@@ -18,6 +18,7 @@ import {
 } from "../src/lib/authority/drafts/problems.ts";
 import { SERVICE_HUB_DRAFTS } from "../src/lib/authority/drafts/service-hubs.ts";
 import {
+  G001_BRICK_STEP_PAGE_ID,
   G002_PROBLEM_SERVICE_LINKS,
   PHOTO_SHOT_LIMIT,
   hubDraftFields,
@@ -279,10 +280,10 @@ describe("authority drafts — claims and rendering safety", () => {
       const text = draftText(draft);
       if (/\b811\b/.test(text)) assert.ok(hasClaim(draft, CLAIM_NJ_811), draft.title);
       if (/1978/.test(text)) assert.ok(hasClaim(draft, CLAIM_EPA_RRP), draft.title);
-      if (/Plumbing is a licensed trade/.test(text)) {
+      if (/Plumbing contracting is a licensed trade/.test(text)) {
         assert.ok(hasClaim(draft, CLAIM_NJ_PLUMBING_LICENSE), draft.title);
       }
-      if (/Electrical work in New Jersey is a licensed trade/.test(text)) {
+      if (/Electrical contracting is a licensed trade/.test(text)) {
         assert.ok(hasClaim(draft, CLAIM_NJ_ELECTRICAL_LICENSE), draft.title);
       }
       if (
@@ -328,6 +329,51 @@ describe("authority drafts — claims and rendering safety", () => {
         draft.metaDescription.length <= 170,
         `${draft.title} description (${draft.metaDescription.length})`,
       );
+    }
+  });
+});
+
+describe("authority drafts — sources and canonical URLs", () => {
+  it("attaches a primary URL and the exact supported claim to every flagged statement", () => {
+    const claims = ALL_DRAFTS.flatMap((draft) => draft.claimsToVerify);
+    assert.ok(claims.length > 0);
+    for (const claim of claims) {
+      assert.match(claim.sourceUrl, /^https:\/\//);
+      assert.ok(claim.sourceTitle.length > 8);
+      assert.ok(claim.exactSupportedClaim.length > 40);
+      assert.ok(claim.claim.length > 20);
+    }
+  });
+
+  it("does not claim the six towns are a measured plaster-to-drywall mix", () => {
+    for (const draft of ALL_DRAFTS) {
+      assert.doesNotMatch(draftText(draft), /original plaster/);
+      assert.doesNotMatch(draftText(draft), /newer construction and additions finished in drywall/);
+    }
+  });
+
+  it("updates brick-step-repair in place and does not insert problem entities", () => {
+    const brick = PROBLEM_PAGE_DRAFTS.find((draft) => draft.problemSlug === "brick-step-repair");
+    assert.ok(brick);
+    assert.equal(brick.disposition.action, "update-in-place");
+    assert.equal(brick.disposition.canonicalPath, "/services/masonry/brick-step-repair");
+    assert.equal(brick.disposition.existingContentPageId, G001_BRICK_STEP_PAGE_ID);
+    assert.equal(brick.primaryServiceId, "masonry");
+    const paths = PROBLEM_PAGE_DRAFTS.map((draft) => draft.disposition.canonicalPath);
+    assert.equal(new Set(paths).size, paths.length);
+    for (const draft of PROBLEM_PAGE_DRAFTS) {
+      if (draft.problemSlug === "brick-step-repair") continue;
+      assert.equal(draft.disposition.action, "create-page-for-existing-problem");
+      assert.equal(draft.disposition.existingContentPageId, null);
+      assert.equal(draft.disposition.problemEntityId, draft.problemSlug);
+      assert.equal(
+        draft.disposition.canonicalPath,
+        `/services/${draft.primaryServiceId}/${draft.problemSlug}`,
+      );
+    }
+    const draftsDir = join(root, "src/lib/authority/drafts");
+    for (const path of sourceFiles(draftsDir)) {
+      assert.doesNotMatch(readFileSync(path, "utf8"), /insert into public\.problems/i);
     }
   });
 });

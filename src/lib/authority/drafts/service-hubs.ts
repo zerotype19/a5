@@ -6,7 +6,6 @@
 import {
   CLAIM_DEICING_SALT,
   CLAIM_EPA_RRP,
-  CLAIM_HOUSING_AGE,
   CLAIM_MORTAR_COLD_WEATHER,
   CLAIM_NJ_811,
   CLAIM_NJ_CLIMATE,
@@ -117,8 +116,8 @@ const handyman: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Seasonal movement in northern New Jersey homes",
       paragraphs: [
-        "Across Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover, humid summers and dry, heated winters are normal, and wood doors and trim move with them. A door that sticks in August and swings freely in January is often seasonal swelling rather than a failing door.",
-        "That affects the fix. If a door only sticks in humid months, say so — the adjustment is different from a door that has sagged on its hinges year-round.",
+        "Wood doors and trim move with the seasons. A door that sticks in August and swings freely in January is often seasonal swelling rather than a failing door.",
+        "That affects the fix. If a door only sticks in summer, say so — the adjustment is different from a door that has sagged on its hinges year-round.",
       ],
     },
     {
@@ -181,7 +180,7 @@ const handyman: ServiceHubDraft = {
     "punch-list-repairs",
     "hole-in-drywall",
   ],
-  claimsToVerify: [CLAIM_NJ_CLIMATE],
+  claimsToVerify: [],
 };
 
 const masonry: ServiceHubDraft = {
@@ -246,8 +245,8 @@ const masonry: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Winter is the pattern in northern New Jersey",
       paragraphs: [
-        "Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover all see repeated freezing and thawing through the winter. Water that gets into cracked mortar or porous brick expands when it freezes, and each cycle opens the crack a little further. A small crack in fall can be a loose brick by spring.",
-        "De-icing salt adds to it. Salt spread on steps and walks carries water into masonry and can speed up surface flaking on brick and concrete. If you use salt, mention it; it helps explain the damage pattern.",
+        "Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover sit near the Canoe Brook weather station. Winters in this part of northern New Jersey regularly cross the freezing point. At that station, the 1991–2020 January normal is a high of 39.5°F and a low of 21.9°F. Water that gets into cracked mortar or porous brick expands when it freezes.",
+        "On clay-paver walks, de-icing residue can penetrate the joints and result in staining and efflorescence. If you use a de-icer on a walk or on steps, mention it.",
         "Downspouts and grading matter as much as the masonry. A downspout that empties at the base of the front steps, or a walk that slopes toward the house, keeps feeding water to the same spot. Say where your downspouts discharge.",
       ],
     },
@@ -379,7 +378,7 @@ const landscaping: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "A northern New Jersey yard calendar",
       paragraphs: [
-        "Yards in Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover work on the same seasons: freezing and thawing through winter, and humid summers. The timing below follows that pattern.",
+        "Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover sit near the Canoe Brook weather station. Winters in this part of northern New Jersey regularly cross the freezing point. At that station, the 1991–2020 January normal is a high of 39.5°F and a low of 21.9°F. The timing below follows that winter, then the growing season.",
         "Early spring: clearing winter debris and last year's growth, cutting back perennials, and checking beds and edges before growth starts. A good time to notice where water sat over the winter.",
         "Late spring into early summer: planting beds and filling gaps once the ground has warmed and dried enough to work.",
         "Summer: maintenance and watering matter more than big changes; new plantings need consistent water through hot, dry stretches.",
@@ -408,7 +407,7 @@ const landscaping: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Before anyone digs",
       paragraphs: [
-        "In New Jersey, excavation generally starts with a call to 811 so underground utility lines are marked. On planting and grading jobs, the professional doing the digging normally makes that request; it is fine to ask whether it has been done.",
+        "New Jersey requires notice to New Jersey One Call before excavation, except in an emergency. Member utilities are marked. Private lines such as irrigation, invisible pet fences, and landscape lighting are not marked unless that facility's owner participates. On planting and grading jobs, the professional doing the digging normally makes that request; it is fine to ask whether it has been done.",
         "Know where your irrigation lines, pet containment wire, and low-voltage landscape lighting run, if you have them. Private lines like these are not marked by the utility request.",
       ],
     },
@@ -565,7 +564,7 @@ const painting: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Older homes and lead paint",
       paragraphs: [
-        "Homes built before 1978 may have lead-based paint in older layers. Federal rules require renovation, repair, and painting work that disturbs paint in those homes to be done by certified firms using lead-safe practices.",
+        "When someone is paid to disturb paint in a home built before 1978, federal rules generally require a certified firm and lead-safe work practices. Very small repairs, and surfaces shown to be lead-free, are outside that requirement.",
         "If your home was built before 1978, say so in your request. It affects how prep is done and who can do it. In the meantime, do not dry-sand or heat-strip old paint yourself.",
       ],
     },
@@ -659,7 +658,7 @@ const painting: ServiceHubDraft = {
     "paint-after-patching",
     "water-damaged-ceiling",
   ],
-  claimsToVerify: [CLAIM_EPA_RRP, CLAIM_NJ_CLIMATE],
+  claimsToVerify: [CLAIM_EPA_RRP],
 };
 
 const drywall: ServiceHubDraft = {
@@ -728,7 +727,7 @@ const drywall: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Drywall or plaster?",
       paragraphs: [
-        "Across Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover, homes range from older houses with original plaster to newer construction and additions finished in drywall. Plaster feels harder and colder, sounds solid when tapped, and often cracks in long, branching lines.",
+        "In Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover, the first question is which material is on the wall. Plaster and drywall are repaired differently. Plaster often feels harder, sounds more solid when tapped, and can crack in long branching lines. The year a house was built does not by itself tell you which one is on the wall.",
         "Plaster repair uses different methods and materials from drywall. If you are not sure which you have, tap the wall and describe the sound, or photograph the edge of a hole where the material is visible.",
       ],
     },
@@ -814,7 +813,7 @@ const drywall: ServiceHubDraft = {
     "water-damaged-ceiling",
     "unfinished-drywall-repair",
   ],
-  claimsToVerify: [CLAIM_HOUSING_AGE],
+  claimsToVerify: [],
 };
 
 const tile: ServiceHubDraft = {
@@ -1045,8 +1044,8 @@ const plumbing: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Who does plumbing work",
       paragraphs: [
-        "Plumbing is a licensed trade in New Jersey, and it is reasonable to ask any plumber for their license number before work starts. A5 coordinates qualified plumbing professionals; A5 office staff do not perform plumbing work.",
-        "Some plumbing work, such as water heater replacement, can require a permit and inspection through your town's construction office. The plumber typically handles that; ask whether it applies to your job.",
+        "Plumbing contracting is a licensed trade in New Jersey. It is reasonable to ask for the plumber's license before work starts. A5 coordinates qualified plumbing professionals; A5 office staff do not perform plumbing work.",
+        "Replacing a water heater with one of like capacity is minor work under New Jersey's Uniform Construction Code, and minor work still requires a permit. Ask whether your job is in that category; the town construction office applies the code.",
         "A5 coordinates plumbing projects for homes in Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover. If you know whether your home is on public water or a private well, include it.",
       ],
     },
@@ -1222,7 +1221,7 @@ const electrical: ServiceHubDraft = {
       type: "RICH_TEXT",
       heading: "Who does electrical work",
       paragraphs: [
-        "Electrical work in New Jersey is a licensed trade, and many jobs beyond a like-for-like device swap need a permit and inspection through your town's construction office. It is reasonable to ask the electrician for their license number and whether a permit applies.",
+        "Electrical contracting is a licensed trade in New Jersey. It is reasonable to ask for the contractor's license and business permit. A new electrical circuit is not ordinary maintenance, so ask whether your job needs a construction permit. The town construction office applies the code.",
         "A5 coordinates qualified electrical professionals for homes in Madison, Chatham, Florham Park, Morristown, Morris Township, and East Hanover. A5 office staff do not perform electrical work, and handyman visits through A5 do not include wiring.",
       ],
     },

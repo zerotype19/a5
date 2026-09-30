@@ -6,7 +6,6 @@
 import type { ServiceId } from "../../../../config/services.ts";
 import type { ContentSection, QuestionAnswerItem } from "../types.ts";
 import {
-  CLAIM_DEICING_SALT,
   CLAIM_EPA_RRP,
   CLAIM_MORTAR_COLD_WEATHER,
   CLAIM_NJ_811,
@@ -14,7 +13,11 @@ import {
   CLAIM_NJ_ELECTRICAL_LICENSE,
   CLAIM_NJ_PLUMBING_LICENSE,
 } from "./claims.ts";
-import type { ClaimToVerify, ProblemPageDraft } from "./types.ts";
+import {
+  problemPageDisposition,
+  type ClaimToVerify,
+  type ProblemPageDraft,
+} from "./types.ts";
 
 export const PROBLEM_HEADINGS = {
   seeing: "What you're seeing",
@@ -111,6 +114,7 @@ function problemPage(copy: ProblemCopy): ProblemPageDraft {
     sections,
     relatedProblemSlugs: copy.relatedProblemSlugs,
     claimsToVerify: copy.claimsToVerify ?? [],
+    disposition: problemPageDisposition(copy.problemSlug, copy.primaryServiceId),
   };
 }
 
@@ -127,7 +131,7 @@ const brickSteps = problemPage({
   directAnswer:
     "Brick steps usually crack or crumble because water gets into the mortar and brick and freezes, because the base under the steps has settled, or both. Crumbling mortar and a few damaged bricks on steps that are still level and tight to the house can usually be repaired. Steps that tilt, rock, or have pulled away from the house usually need to be rebuilt on a sound base.",
   intro:
-    "Front steps take more abuse than almost any other masonry: foot traffic, snow shovels, de-icing salt, and water from roofs and downspouts, all through a northern New Jersey winter of repeated freezing and thawing.",
+    "Front steps take more abuse than almost any other masonry: foot traffic, snow shovels, and water from roofs and downspouts. Winters in this part of northern New Jersey regularly cross the freezing point. At Canoe Brook, the long-record station nearest these towns, the 1991–2020 January normal is a high of 39.5°F and a low of 21.9°F.",
   seeing: [
     "Mortar between bricks that is sandy, cracked, recessed, or falling out, especially on the treads and edges.",
     "Brick faces that are flaking or popping off (spalling), or bricks cracked straight through.",
@@ -146,7 +150,7 @@ const brickSteps = problemPage({
     "Freeze-thaw damage: water in porous brick and failed mortar expands when it freezes and opens cracks a little more each cycle.",
     "Settlement: the fill or base under the steps compacts or washes out, so the steps sink or pull away from the foundation.",
     "Water: downspouts discharging near the steps, gutters overflowing onto them, or treads that slope back toward the house and hold water.",
-    "De-icing salt, which can speed up surface flaking on brick and concrete.",
+    "De-icer used on the steps. Mention it if you use one; this page does not treat salt as a proven cause of the flaking.",
     "Age: mortar wears out before brick does and eventually needs repointing even on sound steps.",
   ],
   photograph: [
@@ -177,7 +181,7 @@ const brickSteps = problemPage({
     {
       question: "Can brick steps be repaired in winter?",
       answer:
-        "Mortar needs to cure above freezing, so full repairs are usually scheduled in milder weather. An unsafe step can still be assessed and made safer in the meantime.",
+        "Mortar should not freeze while it is being placed, and newly finished masonry has to be protected from freezing, so full repairs are usually scheduled in milder weather. An unsafe step can still be assessed and made safer in the meantime.",
     },
     {
       question: "Should I switch to concrete or stone steps?",
@@ -198,7 +202,7 @@ const brickSteps = problemPage({
     description:
       "Describe what is happening and add up to five photos, including one from the side. A5 reviews it and coordinates a masonry professional.",
   },
-  claimsToVerify: [CLAIM_NJ_CLIMATE, CLAIM_DEICING_SALT, CLAIM_MORTAR_COLD_WEATHER],
+  claimsToVerify: [CLAIM_NJ_CLIMATE, CLAIM_MORTAR_COLD_WEATHER],
 });
 
 const looseMortar = problemPage({
@@ -225,7 +229,7 @@ const looseMortar = problemPage({
   causes: [
     "Age: mortar is intentionally softer than brick and erodes first.",
     "Water: joints that stay wet — under a leaking gutter, near a downspout, or at ground level — fail faster.",
-    "Freeze-thaw cycles, which open wet joints a little more each winter.",
+    "Winter freezing, which can open a wet joint a little more each year.",
     "Earlier repairs with mortar harder than the brick, which can make brick edges crack or spall instead of the joint.",
     "Movement: cracks that step diagonally through joints can mean settling, which is a different conversation from ordinary wear.",
   ],
@@ -276,7 +280,7 @@ const looseMortar = problemPage({
     description:
       "Tell A5 where the wall or steps are and add a wide shot plus a close-up of the joints.",
   },
-  claimsToVerify: [CLAIM_NJ_CLIMATE],
+  claimsToVerify: [],
 });
 
 const sunkenPavers = problemPage({
@@ -349,7 +353,7 @@ const sunkenPavers = problemPage({
     description:
       "Add a wide shot, a close-up of the low spot, and a photo after rain if you have one. A5 coordinates a masonry professional.",
   },
-  claimsToVerify: [CLAIM_NJ_CLIMATE],
+  claimsToVerify: [],
 });
 
 const activeLeak = problemPage({
@@ -402,7 +406,7 @@ const activeLeak = problemPage({
     "Repeated pinhole leaks in the same pipe run can point to broader pipe aging, and the plumber may discuss replacing a longer section.",
   ],
   whoYouNeed: [
-    "A qualified plumbing professional. Plumbing is a licensed trade in New Jersey, and A5 office staff do not perform plumbing work. A5 coordinates the plumber after intake.",
+    "A qualified plumbing professional. Plumbing contracting is a licensed trade in New Jersey. It is reasonable to ask for the plumber's license before work starts. A5 office staff do not perform plumbing work.",
     "If the leak damaged drywall, a ceiling, tile, or paint, A5 can coordinate those as related steps once the plumbing is fixed.",
   ],
   costFactors: [
@@ -750,7 +754,7 @@ const drywallCrack = problemPage({
     {
       question: "Why do cracks show up in winter?",
       answer:
-        "Indoor air gets dry during the heating season, framing shrinks, and cracks often appear or widen then.",
+        "Cracks often show up or widen in winter as wood framing moves. This page does not treat indoor dryness as a measured climate figure.",
     },
   ],
   related:
@@ -766,7 +770,7 @@ const drywallCrack = problemPage({
     description:
       "Photograph the whole crack and a close-up for width. Mention if it has been patched before.",
   },
-  claimsToVerify: [CLAIM_NJ_CLIMATE],
+  claimsToVerify: [],
 });
 
 const lightingFailure = problemPage({
@@ -820,7 +824,7 @@ const lightingFailure = problemPage({
     "Looking further fits several flickering lights, lights that dim with appliances, or a problem that continues after the fixture and switch are replaced.",
   ],
   whoYouNeed: [
-    "A qualified electrical professional. Electrical work in New Jersey is a licensed trade, and A5 routes fixture and switch work to electrical, not handyman visits.",
+    "A qualified electrical professional. Electrical contracting is a licensed trade in New Jersey. It is reasonable to ask for the contractor's license and business permit. A5 routes fixture and switch work to electrical, not handyman visits.",
     "A5 does not offer emergency electrical dispatch. For burning smells, sparking, or heat, turn off the breaker if safe, and call 911 if there is smoke or fire.",
   ],
   costFactors: [
@@ -909,7 +913,7 @@ const deadOutlet = problemPage({
     "Older homes with two-prong outlets may need more than a simple swap to add grounding; the electrician explains the options.",
   ],
   whoYouNeed: [
-    "A qualified electrical professional. A5 routes outlet work to electrical, not a handyman visit.",
+    "A qualified electrical professional. Electrical contracting is a licensed trade in New Jersey. It is reasonable to ask for the contractor's license and business permit. A5 routes outlet work to electrical, not a handyman visit.",
     "A5 does not offer emergency electrical dispatch. For heat, burning smells, or sparking, turn off the breaker if safe and call 911 if there is smoke or fire.",
   ],
   costFactors: [
@@ -1035,7 +1039,7 @@ const peelingExteriorPaint = problemPage({
   primaryQuestion:
     "Why is the paint on my house peeling, and do I need a full repaint?",
   directAnswer:
-    "Exterior paint usually peels because moisture is getting behind it, because a new coat did not bond to what was underneath, or because old layers have lost flexibility. Small, isolated failures can be scraped, primed, and touched up; widespread peeling usually calls for full prep and repaint of that side or surface. On homes built before 1978, scraping old paint must be done with lead-safe practices.",
+    "Exterior paint usually peels because moisture is getting behind it, because a new coat did not bond to what was underneath, or because old layers have lost flexibility. Small, isolated failures can be scraped, primed, and touched up; widespread peeling usually calls for full prep and repaint of that side or surface. When someone is paid to disturb paint in a home built before 1978, federal rules generally require a certified firm and lead-safe work practices. Very small repairs, and surfaces shown to be lead-free, are outside that requirement.",
   intro:
     "Peeling paint is more than cosmetic. Once paint lifts, bare wood takes on water, and trim and siding can start to rot.",
   seeing: [
@@ -1066,7 +1070,7 @@ const peelingExteriorPaint = problemPage({
     "Fixing the moisture source — gutters, caulking, venting — keeps the new paint from failing the same way.",
   ],
   whoYouNeed: [
-    "A painting professional for prep and paint. On homes built before 1978, work that disturbs paint has to be done by a firm certified for lead-safe renovation under federal rules.",
+    "A painting professional for prep and paint. When someone is paid to disturb paint in a home built before 1978, federal rules generally require a certified firm and lead-safe work practices.",
     "Rotted wood repair may be handled by the painter or a carpenter; mention it in your request.",
   ],
   costFactors: [
@@ -1100,7 +1104,7 @@ const peelingExteriorPaint = problemPage({
     description:
       "Add a close-up of the peeling and a photo of each side you want painted, and mention if the house was built before 1978.",
   },
-  claimsToVerify: [CLAIM_EPA_RRP, CLAIM_NJ_CLIMATE],
+  claimsToVerify: [CLAIM_EPA_RRP],
 });
 
 const stickingDoor = problemPage({
@@ -1119,14 +1123,14 @@ const stickingDoor = problemPage({
     "A door that rubs or won't click shut is small, daily friction. It is also one of the most fixable things in a house.",
   seeing: [
     "The door rubs at the top corner on the latch side.",
-    "The door sticks in humid months and works fine in winter.",
+    "The door sticks in summer and works fine in winter.",
     "The latch does not catch, or you have to lift or push the door to latch it.",
     "Uneven gaps around the door when it is closed.",
     "The door swings open or closed on its own.",
   ],
   causes: [
     "Loose hinge screws, especially at the top hinge, which let the door sag.",
-    "Seasonal swelling of wood in humid weather; northern New Jersey summers are humid and heated winters are dry.",
+    "Seasonal swelling of wood. A door that sticks in summer and swings freely in winter is a common pattern; this page does not treat that as a measured humidity figure for each town.",
     "A strike plate that no longer lines up with the latch.",
     "Paint buildup on the door edge or jamb.",
     "A frame that has shifted from settling, which is less common and often shows as uneven gaps on several doors.",
@@ -1178,7 +1182,7 @@ const stickingDoor = problemPage({
     description:
       "Add a photo of the closed door showing the gaps, and list any other small repairs. A5 coordinates a handyman.",
   },
-  claimsToVerify: [CLAIM_NJ_CLIMATE],
+  claimsToVerify: [],
 });
 
 const waterPooling = problemPage({
@@ -1225,7 +1229,7 @@ const waterPooling = problemPage({
   whoYouNeed: [
     "A landscape professional for surface grading. A5 coordinates it under landscaping.",
     "If a sunken walk or patio is part of the water path, masonry can be coordinated as a related step.",
-    "In New Jersey, digging generally starts with a call to 811 to mark underground utilities; the professional doing the work normally handles it.",
+    "New Jersey requires notice to New Jersey One Call before excavation, except in an emergency. Member utilities are marked. Private lines such as irrigation, invisible pet fences, and landscape lighting are not marked unless that facility's owner participates. The professional doing the digging normally makes that request.",
   ],
   costFactors: [
     "Length of foundation and area to regrade.",
