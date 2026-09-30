@@ -1,5 +1,5 @@
 .section {
-  padding: var(--space-8) 1.25rem;
+  padding: 2.5rem 1.25rem;
 }
 
 .default {
@@ -22,7 +22,7 @@
 
 .header {
   max-width: 40rem;
-  margin-bottom: var(--space-6);
+  margin-bottom: 1.15rem;
 }
 
 .eyebrow {

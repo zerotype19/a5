@@ -226,7 +226,7 @@ export default function HomePage() {
         <div className={styles.finalInner}>
           <CtaBlock
             title="Have something around the house that needs attention?"
-            description="Tell A5 what you need. Call or start a project request — intake is coming online soon."
+            description="Tell A5 what you need. Call or start a project request."
           />
         </div>
       </section>

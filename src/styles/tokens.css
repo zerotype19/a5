@@ -88,6 +88,14 @@ a {
   outline-offset: 3px;
 }
 
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: none;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(11, 95, 99, 0.16);
+}
+
 .srOnly {
   position: absolute;
   width: 1px;

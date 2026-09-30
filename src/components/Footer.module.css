@@ -1,7 +1,7 @@
 .footer {
   background: var(--color-ink);
   color: #d7dee4;
-  padding: var(--space-8) 1.25rem var(--space-6);
+  padding: 2.75rem 1.25rem 1.75rem;
 }
 
 .inner {

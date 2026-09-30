@@ -25,9 +25,9 @@ export function Header() {
   return (
     <header className={styles.header}>
       <div className={styles.inner}>
-        <Link className={styles.brand} href="/" onClick={close}>
+        <Link className={styles.brand} href="/" onClick={close} aria-label={SITE.name}>
           <span className={styles.brandMark}>A5</span>
-          <span className={styles.brandName}>{SITE.name}</span>
+          <span className={styles.brandName}>Home Services</span>
         </Link>
 
         <nav className={styles.desktopNav} aria-label="Primary">
