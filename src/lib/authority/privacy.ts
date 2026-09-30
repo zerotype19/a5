@@ -11,6 +11,10 @@ export const AUTHORITY_FORBIDDEN_TABLES = [
   "lead_notes",
   "project_photos",
   "admin_users",
+  "vendors",
+  "vendor_services",
+  "vendor_locations",
+  "lead_assignments",
 ] as const;
 
 /** Columns / concepts that must never appear in public content projections. */

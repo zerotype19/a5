@@ -1,7 +1,7 @@
 /**
- * Canonical lead status transitions for A5-007 (no vendor infrastructure).
- * Source of truth for ADVANCE STATUS / QUALIFY / UNSERVICEABLE UI + server validation.
- * ASSIGNED and later funnel steps remain unavailable until A5-008.
+ * Generic lead status transitions.
+ * QUALIFIED → ASSIGNED is not listed. Only admin_assign_lead_to_vendor
+ * may move a lead to ASSIGNED, together with a LeadAssignment row.
  */
 
 import { LEAD_STATUSES, type LeadStatus } from "../db/schema.ts";

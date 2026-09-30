@@ -7,6 +7,8 @@ import {
   formatPreferredContact,
 } from "@/lib/admin/format";
 import { LeadOperationsPanels } from "@/components/admin/LeadOperationsPanels";
+import { LeadAssignmentPanel } from "@/components/admin/LeadAssignmentPanel";
+import { loadEligibleVendors, loadLeadAssignments } from "@/lib/admin/vendors";
 import styles from "@/components/admin/admin.module.css";
 
 type Params = Promise<{ id: string }>;
@@ -29,6 +31,13 @@ export default async function AdminLeadDetailPage({
   if (!lead) {
     notFound();
   }
+  const [eligibleVendors, assignments] = await Promise.all([
+    loadEligibleVendors({
+      serviceId: lead.serviceId,
+      locationId: lead.locationId,
+    }),
+    loadLeadAssignments(id),
+  ]);
 
   const locationLabel = lead.locationId
     ? (getLocationById(lead.locationId as LocationId)?.name ?? lead.locationId)
@@ -147,6 +156,15 @@ export default async function AdminLeadDetailPage({
           </dl>
         </div>
       </section>
+
+      <LeadAssignmentPanel
+        leadId={lead.id}
+        status={lead.status}
+        serviceId={lead.serviceId}
+        locationId={lead.locationId}
+        eligible={eligibleVendors}
+        assignments={assignments}
+      />
 
       <LeadOperationsPanels
         lead={lead}
