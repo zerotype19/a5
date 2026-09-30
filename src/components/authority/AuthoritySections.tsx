@@ -114,15 +114,17 @@ function SectionBlock({
       );
     case "CTA":
       return (
-        <CtaBlock
-          title={section.title ?? "Request service"}
-          description={
-            section.description ??
-            "Tell A5 what your home needs. We will review and coordinate next steps."
-          }
-          primaryHref="/request-service"
-          primaryCta="authority-request-service"
-        />
+        <section className={styles.ctaBand} aria-label="Request service">
+          <CtaBlock
+            title={section.title ?? "Request service"}
+            description={
+              section.description ??
+              "Tell A5 what your home needs. We will review and coordinate next steps."
+            }
+            primaryHref="/request-service"
+            primaryCta="authority-request-service"
+          />
+        </section>
       );
     case "COST_FACTORS":
       return (
