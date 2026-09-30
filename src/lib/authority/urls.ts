@@ -107,3 +107,17 @@ export function buildCanonicalUrl(path: string): string {
 export function isReservedRootSegment(segment: string): boolean {
   return RESERVED_ROOT_SEGMENTS.has(segment.toLowerCase());
 }
+
+/**
+ * A problem can relate to more than one service, but only the primary
+ * service path is canonical. Other service URLs redirect there.
+ */
+export function problemCanonicalRedirect(input: {
+  requestedService: string;
+  primaryServiceId: string | null;
+  canonicalPath: string | null;
+}): string | null {
+  if (!input.canonicalPath || !input.primaryServiceId) return null;
+  if (input.requestedService === input.primaryServiceId) return null;
+  return input.canonicalPath;
+}
