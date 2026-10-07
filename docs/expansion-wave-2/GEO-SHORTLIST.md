@@ -25,7 +25,3 @@ For each selected town and initial service: participating provider, backup if av
 ## Implemented wave
 
 Subsequent owner direction selected this three-town wave for completion. The site accepts requests for individual availability review in Livingston, Summit and Hanover Township. Six curated service/town pages were prepared (handyman/painting, plumbing/tile, landscaping/masonry respectively). This does not establish provider capacity, and no ZIP-to-municipality mapping or vendor activation is introduced. See RELEASE.md for final publication evidence.
-
-## Implemented wave
-
-Subsequent owner direction selected this three-town wave for completion. The site accepts requests for individual availability review in Livingston, Summit and Hanover Township. Six curated service/town pages were prepared (handyman/painting, plumbing/tile, landscaping/masonry respectively). This does not establish provider capacity, and no ZIP-to-municipality mapping or vendor activation is introduced. See RELEASE.md for final publication evidence.

@@ -1,6 +1,6 @@
 # Content and geographic expansion — October 7, 2026
 
-Release in preparation. Final deployment and live checks will be appended here.
+Published and deployed. PR #26 merged as `855171c707418d53b7a656532de210d7a9672d49`; Cloudflare Worker version `1a44af14-cc10-4dea-beb7-660ee2e3ffdd`.
 
 ## Exact scope
 
@@ -25,3 +25,15 @@ The pre-release rows are saved in .wrangler/expansion-wave-2/release-before.json
 ## Measurement
 
 The existing GA4 property and Search Console sitemap cover the new cohort. Publication is not evidence of indexing or lead growth. Track search impressions/clicks and requests from the exact new paths; compare qualified leads and outcomes after enough requests mature. Paid acquisition remains deferred. Provider coverage must be confirmed per request until the owner supplies verified standing coverage.
+
+## Live verification
+
+- Publication completed at 2026-10-07T21:54:59.385Z. All 35 intended records matched the released answers and sections; Supabase has 62 published records and nine locations.
+- Location data was seeded through the same authenticated, idempotent REST release path; the checked-in migration records the equivalent SQL. It was not applied through Supabase migration history. No schema DDL or vendor mappings changed.
+- Added nine source records and 124 reciprocal content relationships. New-record preparation timestamps were aligned to actual release time; the publisher now stamps staging time instead of carrying proposed draft timestamps into production.
+- At 2026-10-07T21:57:04.469Z, all 67 sitemap URLs returned 200 with one H1, correct canonical, indexable robots and no emoji/text arrows. All 35 changed answers were present. Root trailing-slash equivalence is normalized by the checker.
+- The Summit-context intake form displayed the individual-availability notice. The temporary /authority-preview route returned 404. Published Livingston hub and its selected local links were also verified in the browser.
+- CI run 37692570621 passed. Local tests (241), lint, types, Next and vinext builds passed. Existing middleware and bundler warnings remain nonblocking.
+- The live sitemap is updated at the already-submitted Search Console URL. An additional manual resubmission was not performed because the signed-in Mac browser was locked; no new indexing/ranking result is claimed.
+
+Private operational evidence: .wrangler/expansion-wave-2/release-before.json, release-receipt.json, after.json, live-verification.json and deploy.log. The exact reviewed content hash is recorded in MANIFEST.json. No credentials are committed.

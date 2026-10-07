@@ -36,3 +36,7 @@ Record Search Console indexing and query/page impressions for the exact manifest
 The owner approved this exact package. Publication used authenticated Supabase REST rather than the SQL alternative: new records were staged privately, sources and relationships were attached, and one atomic batch published all 20 reviewed records. The manifest hash and unchanged existing record were verified before writes; a baseline and receipt are preserved in `.wrangler/authority-expansion/`. Existing records and links were not deleted. This does not enable programmatic publishing.
 
 To reverse content visibility if needed, return the 19 new IDs to DRAFT/nonindexable and restore the original Madison row from the baseline; preserve the records and relationship graph. Roll back the Worker separately using the version recorded in the deployment receipt.
+
+## Subsequent wave
+
+The original release counts above remain historical. Wave 2 is now published: 8 service hubs, 9 town hubs, 18 local service pages, 18 problem pages and 9 guides (62 records; 67 sitemap URLs). See [wave 2 release](../expansion-wave-2/RELEASE.md).

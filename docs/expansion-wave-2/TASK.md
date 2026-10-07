@@ -29,4 +29,6 @@ The owner directed work to continue until the expansion is complete. The concret
 
 The completion scope above supersedes the earlier draft-only deliverables. New municipality rows identify request geography. Provider coverage remains unconfirmed and is not inferred from those rows; no vendor mappings are created.
 
-The completion scope above supersedes the earlier draft-only deliverables. New municipality rows identify request geography. Provider coverage remains unconfirmed and is not inferred from those rows; no vendor mappings are created.
+## Completion
+
+Published and verified: 62 records and 67 sitemap URLs. See [release evidence](RELEASE.md). Earlier draft-only statements above describe the initial preparation, not the current state.
