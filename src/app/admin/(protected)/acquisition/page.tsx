@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { requireAdminAccess } from "@/lib/admin/authorize";
 import { getSupabaseAdmin } from "@/lib/supabase/admin";
@@ -28,7 +29,7 @@ export default async function AcquisitionPage() {
     groups.set(source, count);
   }
   return <>{header}
-    <section className={styles.section} aria-label="Operations email queue"><div className={styles.attention}><strong>{queue.data?.length ?? 0} unsent operations alerts</strong><p>{process.env.ENABLE_OPERATIONS_ALERTS === "true" ? "Check delivery and follow up on any delayed requests." : "Automatic operations alerts are disabled. Review new leads directly in the workspace."}</p><Link href="/admin/leads?attention=1">Review new leads ↗</Link></div></section>
+    <section className={styles.section} aria-label="Operations email queue"><div className={styles.attention}><strong>{queue.data?.length ?? 0} unsent operations alerts</strong><p>{process.env.ENABLE_OPERATIONS_ALERTS === "true" ? "Check delivery and follow up on any delayed requests." : "Automatic operations alerts are disabled. Review new leads directly in the workspace."}</p><Link href="/admin/leads?attention=1">Review new leads <ArrowIcon direction="up-right" /></Link></div></section>
     <section className={styles.section}><h2 className={styles.sectionTitle}>First source of attributed requests</h2>{groups.size ? <div className={styles.tableWrap}><table className={styles.table}><thead><tr><th scope="col">First source</th><th scope="col">Requests</th><th scope="col">Currently won</th></tr></thead><tbody>{[...groups].sort((a,b) => b[1].leads - a[1].leads).map(([source, count]) => <tr key={source}><td data-label="Source">{source}</td><td data-label="Requests">{count.leads}</td><td data-label="Won">{count.won}</td></tr>)}</tbody></table></div> : <p className={styles.empty}>No attribution records in this window. Requests without attribution still appear in Leads.</p>}</section>
     <div className={styles.panel}><h2>How to read this report</h2><p className={styles.mutedCopy}>Sources are reported by the visitor’s browser and are not independently verified. Missing attribution is not assigned to organic search. Counts include at most 1,000 records per query.</p><p className={styles.mutedCopy}>Cost per qualified lead and acquisition cost require reconciled spend and income. Won reflects each lead’s current status, not necessarily a win during this reporting period.</p></div>
   </>;

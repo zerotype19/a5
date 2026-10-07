@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { Button } from "@/components/Button";
 import { PageIntro } from "./PageIntro";
@@ -16,7 +17,7 @@ export async function ContentIndex({ type, title, description, empty }: {
       const path = buildContentPathFromRecord(page);
       return path ? <li key={page.id}><Link href={path} className={styles.card}>
         <h2>{page.h1}</h2>{page.meta_description && <p>{page.meta_description}</p>}
-        <span>Read more <span aria-hidden="true">↗</span></span>
+        <span>Read more <span aria-hidden="true"><ArrowIcon direction="up-right" /></span></span>
       </Link></li> : null;
     })}</ul> : <div className={styles.empty}><p>{empty}</p><Button href="/request-service">Tell us about your project</Button></div>}
   </main>;

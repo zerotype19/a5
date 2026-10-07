@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import { LEAD_STATUSES, type LeadStatus } from "@/lib/db/schema";
@@ -109,8 +110,8 @@ export default async function AdminLeadsPage({
         dateMode="date"
       />
       <nav className={styles.pagination} aria-label="Lead pages">
-        {page > 1 && <Link href={pageHref(page - 1)} className={styles.secondaryButton}>← Previous</Link>}
-        {loaded.length > pageSize && <Link href={pageHref(page + 1)} className={styles.secondaryButton}>Next →</Link>}
+        {page > 1 && <Link href={pageHref(page - 1)} className={styles.secondaryButton}><ArrowIcon direction="left" /> Previous</Link>}
+        {loaded.length > pageSize && <Link href={pageHref(page + 1)} className={styles.secondaryButton}>Next <ArrowIcon /></Link>}
       </nav>
     </>
   );

@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import { notFound } from "next/navigation";
@@ -22,7 +23,7 @@ export default async function VendorDetailPage({
   if (!vendor) notFound();
   return (
     <>
-      <Link className={styles.backLink} href="/admin/vendors">← All vendors</Link>
+      <Link className={styles.backLink} href="/admin/vendors"><ArrowIcon direction="left" /> All vendors</Link>
       <AdminPageHeader title={vendor.businessName} description="Work through the contact details, coverage and credentials, then save the relationship settings." />
       {query.notice ? (
         <p className={styles.flashNotice} role="status">
