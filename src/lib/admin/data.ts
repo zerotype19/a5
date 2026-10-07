@@ -44,6 +44,7 @@ export type LeadDetail = {
   status: LeadStatus;
   createdAt: string;
   updatedAt: string;
+  outcome?: {estimated:number|null; actual:number|null; contactedAt:string|null; estimateAt:string|null; closedAt:string|null; lossReason:string|null; followUpAt:string|null};
   projectDescription: string;
   urgency: string | null;
   serviceId: string | null;
@@ -174,6 +175,13 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
   }
   if (!lead) return null;
 
+  let outcome: LeadDetail["outcome"];
+  if (process.env.ENABLE_LEAD_OUTCOMES === "true") {
+    const {data:details,error:outcomeError} = await admin.from("leads").select("estimated_project_value,actual_project_value,contacted_at,estimate_recorded_at,closed_at,loss_reason,follow_up_at,updated_at").eq("id",leadId).single();
+    if (outcomeError) throw new Error(`admin_lead_outcome:${outcomeError.code}`);
+    // Keep the original version from the first read: a concurrent change will fail the save safely.
+    outcome = {estimated:details.estimated_project_value,actual:details.actual_project_value,contactedAt:details.contacted_at,estimateAt:details.estimate_recorded_at,closedAt:details.closed_at,lossReason:details.loss_reason,followUpAt:details.follow_up_at};
+  }
   const customerRaw = Array.isArray(lead.customers)
     ? lead.customers[0]
     : lead.customers;
@@ -293,6 +301,7 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
     createdAt: lead.created_at as string,
     updatedAt: lead.updated_at as string,
     projectDescription: lead.project_description as string,
+    outcome,
     urgency: (lead.urgency as string | null) ?? null,
     serviceId: (lead.service_id as string | null) ?? null,
     serviceSelectionStatus:
@@ -328,4 +337,15 @@ export function rejectPublicPhotoCredential(input: {
 }): never {
   void input;
   throw new Error("photo_signed_read_requires_admin");
+}
+
+
+export async function loadDueFollowUps() {
+  if (process.env.ENABLE_LEAD_OUTCOMES !== "true") return null;
+  const {data,error,count} = await getSupabaseAdmin().from("leads")
+    .select("id,follow_up_at,status",{count:"exact"}).lte("follow_up_at",new Date().toISOString())
+    .in("status",["QUALIFIED","ACCEPTED","CONTACTED","ESTIMATE"])
+    .order("follow_up_at").order("id").limit(20);
+  if(error) throw new Error(`admin_follow_ups:${error.code}`);
+  return {count:count??0,rows:(data??[]).map(row=>({id:row.id as string,reference:publicReferenceFromLeadId(row.id as string),due:row.follow_up_at as string,status:row.status as LeadStatus}))};
 }

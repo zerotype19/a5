@@ -2,7 +2,11 @@
 
 Status: owner accepted and explicitly requested production deployment on October 7, 2026. See RELEASE-2026-10-07.md for release evidence; the initial preparation and remaining business-readiness checklist below are retained for context.
 
-## Source reconciliation
+## Current reconciliation
+
+The launch migration and public release below are complete; subsequent foundation and authority releases are live at main `62b1826c5503198cf950cfbddc690bf8df8dd3e4`. ENABLE_LAUNCH_PIPELINE is true. The original preparation notes are historical. The current checklist is [PLAN-COMPLETION-AUDIT-2026-10-07.md](PLAN-COMPLETION-AUDIT-2026-10-07.md). The owner supplied the internal recipient and GA4 ID; delivery, account settings and production activation are not yet verified. The operations branch prepares a gated five-minute Cloudflare scheduler using existing secrets. Pilot and expansion decisions are deferred.
+
+## Historical source reconciliation
 
 The original attached repository `/Users/kevinmcgovern/a5` is an older `feature/a5-d001-problem-first` checkout at `695dbd9` with uncommitted work. The newer `main` worktree `/Users/kevinmcgovern/a5-worktrees/d001` is at `b01e95d` and contains additional uncommitted public-site and operations changes matching observed live copy. A fresh origin fetch found no newer main commit.
 
@@ -32,11 +36,11 @@ Correction to the preliminary audit: current main already has first-landing-page
 | Response promise | Named lead owner, actual staffed hours, feasible first-response target and escalation owner | Not supplied; no invented public deadline |
 | Social proof | Permissioned real project photos, accurate attribution, actual customer reviews and named team bio | Not supplied; illustrative assets are labeled |
 | Terms/privacy | Confirm business role, provider relationship, analytics and data practices | Draft prepared; review pending |
-| Analytics | Real GA4 ID, stream settings, consent/event test and Search Console access | Not configured or connected by this task |
+| Analytics | Real GA4 ID, stream settings, consent/event test and Search Console access | ID supplied; stream settings and activation verification pending |
 | Email delivery | Verified sender, operations recipient, secrets, supervised test, scheduler ownership and alert monitoring | Code ready; disabled and unsent |
-| Production data | Apply reviewed additive migration and prove production-role permissions/idempotency | Not applied |
+| Production data | Apply reviewed additive migration and prove production-role permissions/idempotency | Launch migration applied; outcome migration prepared and locally tested |
 | Pilot economics | Approved monthly cap, capacity and A5 contribution per won project | Not supplied; ads remain drafts |
-| Release | Confirm baseline, accept design and staging checks, owner deploy | Not released |
+| Release | Confirm baseline, accept design and staging checks, owner deploy | Launch, foundation and authority releases deployed; new operations slice not released |
 
 ## Release sequence
 
@@ -47,7 +51,7 @@ Correction to the preliminary audit: current main already has first-landing-page
 5. Verify an authorized test lead including duplicate retry, bot rejection, photo failure/retry, acquisition row, outbox row, admin-only access and vendor handoff. The local preview has only public read credentials and intentionally cannot create production leads.
 6. After migration succeeds, enable `ENABLE_LAUNCH_PIPELINE=true`. It switches the server to the additive wrapper RPC. Keep `ENABLE_OPERATIONS_ALERTS=false` until delivery is tested. Existing submission behavior is retained when the pipeline flag is false.
 7. Configure GA4 only after disabling Enhanced Measurement automatic page/history changes, form interactions and other automatic events. This implementation sends a controlled set of manual events and strips query/referrer paths. Disable unwanted data collection at the GA4 stream, then test accepted/declined/revoked choices in the network inspector. Never send contact details, project descriptions or photos. See Google's [manual pageview guidance](https://developers.google.com/analytics/devguides/collection/ga4/views).
-8. Configure `OPERATIONS_ALERT_EMAIL`, approved Resend sender/domain and runtime secrets. The explicitly enabled worker command is `node --env-file=.env.local scripts/process-lead-notifications.mjs --send`. Schedule it using an owner-managed environment with secrets, never a browser or public endpoint. Nothing is scheduled automatically by this package.
+8. Configure `OPERATIONS_ALERT_EMAIL`, approved Resend sender/domain and runtime secrets. The explicitly enabled worker command is `node --env-file=.env.local scripts/process-lead-notifications.mjs --send`. Schedule it using an owner-managed environment with secrets, never a browser or public endpoint. The later operations slice prepares a five-minute Cloudflare cron, gated by ENABLE_OPERATIONS_ALERTS; it remains inactive until release and configuration checks.
 9. Verify browser, mobile and accessible keyboard journeys in staging, all eight service pages, safe 404s, site-map contents, canonical host redirects, robots and social previews. Validate schema using Rich Results Test, and crawl/index access using Search Console. Obtain real mobile field performance after release; a development screenshot is not a Core Web Vitals result.
 10. Owner performs the production migration/release. Public build variables must be correct at vinext build time. Turnstile remains required in production. Re-run a supervised production smoke test before enabling ads.
 

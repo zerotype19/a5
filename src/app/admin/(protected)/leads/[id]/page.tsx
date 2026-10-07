@@ -38,7 +38,11 @@ function nextAction(status: string, assignments: AssignmentRow[]): string {
       }
       return "Next: send the vendor email.";
     case "ACCEPTED":
-      return "Vendor accepted. Confirm the homeowner has been contacted.";
+      return "Vendor accepted. Record homeowner contact and the next follow-up in step 4.";
+    case "CONTACTED": return "Record an estimate once the provider has confirmed it with the homeowner.";
+    case "ESTIMATE": return "Follow up on the estimate, then record whether the project was won or lost.";
+    case "WON": return "Project won. Keep the confirmed project value and internal notes up to date.";
+    case "LOST": return "Project closed as lost. Review the recorded reason and history.";
     default:
       return "Review the history before changing status.";
   }

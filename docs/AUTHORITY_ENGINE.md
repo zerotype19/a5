@@ -1,7 +1,7 @@
 # A5 Authority Engine
 
 **Task:** A5-G001  
-**Status (October 7, 2026):** Production has 8 service hubs, 6 town hubs, 14 problem pages, 1 local service page and 1 guide. See `docs/authority-expansion/MANIFEST.json` for the current unpublished expansion; do not treat old proposal status as the live inventory.
+**Status (October 7, 2026):** Production has 49 published records: 8 service hubs, 6 town hubs, 14 problem pages, 12 local service pages and 9 guides. The sitemap contains 54 URLs including core/collection entries. The approved expansion is published; see `docs/authority-expansion/MANIFEST.json` and `docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md`.
 
 ## Authority philosophy
 

@@ -28,3 +28,9 @@ Pilot sheet columns: week, service, town, campaign, spend, submitted leads, inva
 A pilot budget is an owner decision. Start with two or three ready services in verified coverage, use a capped experiment and compare mature cohorts. Diagnose low volume before interpreting rates. Stop/pause if fulfillment fails, tracking fails or the pre-agreed loss ceiling is reached. Do not optimize just for cheap form fills.
 
 SEO/GEO scorecard: eligible indexed pages, service/town impressions and clicks, landing engagement, qualified requests and wins. Add a stable set of factual homeowner questions for periodic manual AI visibility checks; record date, engine, prompt and cited URL. A mention is not a lead and a missing referrer is not proof of AI traffic. Search Console query reports are aggregate, not user-level attribution.
+
+## October 7 configuration and limitations
+
+Owner-supplied GA4 stream: `G-ZLD8SRP78F`. Keep build-time activation pending verification of the stream's automatic-event settings and consent behavior. Browser account access and Search Console property verification are pending. Pilot budget, initial services and expansion priorities are deferred by the owner.
+
+The new outcome workflow records when an operator marks contact, estimate or closure. These are recorded-at timestamps, not independent proof of the actual contact time; historical/backfilled status changes must not be used as exact response-time evidence. Estimated and actual amounts are provider project values. A5 income/contribution still requires an agreed definition and separate reconciliation.

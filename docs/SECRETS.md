@@ -55,11 +55,13 @@ STOP → REVOKE → ROTATE → INVESTIGATE
 
 Deleting the exposed text alone is not sufficient.
 
-## Launch pipeline additions (October 7, disabled until release)
+## Launch pipeline additions (October 7)
 
-- ENABLE_LAUNCH_PIPELINE: server flag, default false; requires 20261007170000 migration before true.
+- ENABLE_LAUNCH_PIPELINE: server flag, default false; requires 20261007170000 migration before true. Applied and enabled in production.
 - ENABLE_OPERATIONS_ALERTS: explicit email worker flag, default false; requires delivery verification and a supervised scheduler.
 - OPERATIONS_ALERT_EMAIL: private operations notification recipient; configure at runtime, never a public build variable.
 - NEXT_PUBLIC_GA_MEASUREMENT_ID: existing public variable; valid G- ID enables the consent UI, not automatic consent. Configure GA4 stream as described in docs/launch/READINESS.md.
 
 Existing Resend and Supabase secrets are reused. The local preview uses only public content read configuration; do not copy production service-role or Turnstile secret keys into preview assets.
+
+- ENABLE_LEAD_OUTCOMES: default false; enable only after applying `20261007200000_a5_lead_outcomes.sql`. Supports audited outcomes, monetary values and due follow-ups. Disable to roll back UI access without deleting history.
