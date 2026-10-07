@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { SITE } from "@config/site";
@@ -23,6 +24,6 @@ export default function AboutPage() {
       <p>You do not need a finished plan. Tell us what is happening, what you would like to change, and when you hope to start. For immediate danger, contact emergency services or the appropriate utility; A5 is not an emergency dispatch service.</p>
       <p>Prefer a conversation? <a href={phoneTelHref(SITE.phone)}>Call {SITE.phone}</a> or <a href={`mailto:${SITE.email}`}>email A5</a>.</p>
     </div>
-    <Button href="/request-service">Request service →</Button>
+    <Button href="/request-service">Request service <ArrowIcon /></Button>
   </div></main>;
 }

@@ -1,4 +1,5 @@
 "use client";
+import { ArrowIcon } from "@/components/ArrowIcon";
 
 import { useState } from "react";
 import { Brand } from "../Brand";
@@ -46,7 +47,7 @@ export function AdminShell({
       <a className={styles.skipLink} href="#operations-content">Skip to workspace</a>
       <header className={styles.topbar}>
         <Brand href="/admin" context="Operations" />
-        <div className={styles.account}><span>{email ?? "Internal workspace"}</span><Link href="/">View website ↗</Link><button type="button" className={styles.signOut} onClick={signOut} disabled={signingOut}>{signingOut ? "Signing out…" : "Sign out"}</button></div>
+        <div className={styles.account}><span>{email ?? "Internal workspace"}</span><Link href="/">View website <ArrowIcon direction="up-right" /></Link><button type="button" className={styles.signOut} onClick={signOut} disabled={signingOut}>{signingOut ? "Signing out…" : "Sign out"}</button></div>
       </header>
       {signOutError && <p role="alert" className={styles.flashError}>{signOutError}</p>}
       <div className={styles.workspace}>

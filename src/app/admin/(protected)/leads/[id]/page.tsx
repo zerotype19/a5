@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { loadLeadDetail } from "@/lib/admin/data";
@@ -83,7 +84,7 @@ export default async function AdminLeadDetailPage({
     <>
       {(query.notice || query.error) && <p className={query.error ? styles.flashError : styles.flashNotice} role={query.error ? "alert" : "status"}>{query.error ?? query.notice}</p>}
       <Link className={styles.backLink} href="/admin/leads">
-        ← All leads
+        <ArrowIcon direction="left" /> All leads
       </Link>
 
       <header className={styles.leadHeader}>
