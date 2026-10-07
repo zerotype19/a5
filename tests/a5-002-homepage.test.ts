@@ -52,7 +52,7 @@ describe("A5-002 public homepage", () => {
 
   it("presents all approved locations", () => {
     assert.match(homepage, /LOCATIONS\.map/);
-    assert.equal(LOCATIONS.length, 6);
+    assert.equal(LOCATIONS.length, 9);
   });
 
   it("keeps primary CTA identifiable and linked to request intake", () => {

@@ -1,10 +1,12 @@
 # Plan completion audit — October 7, 2026
 
-The public-site foundation and the approved authority expansion are released. The operating plan is not yet complete: the most consequential implementation gap is the post-acceptance lead lifecycle. Measurement activation, internal alerts, fulfillment evidence and the launch pilot also remain open.
+The public foundation, authority expansion and operations workflow are now released. GA4 received verification events, Search Console access and sitemap submission are verified, and the scheduled internal alert was accepted by the email provider. [Current release evidence](../operations/RELEASE-2026-10-07.md) records the results and limits. The operating plan remains open for daily ownership, verified fulfillment/business evidence, full-path rehearsal and final content review/publication. Paid pilot spending remains deferred. The owner authorized beginning content and geographic expansion on October 7; specific new towns and verified provider reach are being established.
+
+The baseline and gap table below preserve the original audit findings; the implementation progress section records what has since closed.
 
 This audit reconciles repository plans, migrations, current source, merged releases and read-only production aggregates. It does not activate services, send messages, change vendor records, configure accounts or authorize new publication. No customer descriptions or contact information were needed. The separate owner-controlled master build specification referenced by GOVERNANCE.md is not present in these checkouts; conclusions cover the available repository plans and conversation approvals.
 
-## Verified baseline
+## Original audit baseline
 
 - Production code: main merge `62b1826c5503198cf950cfbddc690bf8df8dd3e4`; Cloudflare Worker `cc8715d3-eda0-4a3e-8a0e-2c2f887fbc59`. Releases PR #21–#24.
 - Supabase remains the system of record, Auth and private photo storage. Cloudflare remains hosting and bot protection.
@@ -15,7 +17,7 @@ This audit reconciles repository plans, migrations, current source, merged relea
 - Launch attribution/outbox migration is applied and ENABLE_LAUNCH_PIPELINE is true. Previous production transaction tests proved RPC behavior and duplicate handling without retaining test leads.
 - 228 tests, lint, TypeScript and both production builds passed at release. The 54 sitemap routes and mobile/desktop layouts were checked. This is not a claim of actual-device testing, field Core Web Vitals or search indexing.
 
-## Remaining commitments and acceptance criteria
+## Original commitments and acceptance criteria
 
 | Priority | Workstream | Evidence / current state | Completion criterion |
 | --- | --- | --- | --- |
@@ -85,4 +87,10 @@ Automatic vendor routing, AI classification/scoring, SMS, programmatic publishin
 
 ## Implementation progress after owner approval
 
-Operations completion is implemented on `codex/a5-operations-completion`, not deployed. See [verification and remaining gates](../operations/VERIFICATION.md). The owner supplied hello@a5homeservices.com for internal alerts and GA4 G-ZLD8SRP78F. Account access, delivery, provider/business evidence and the existing-content editorial pass remain open. Pilot/expansion choices are explicitly deferred. The documentation reconciliation for README, authority inventory, original readiness, ADR-007 and ADR-009 is complete; historical release records are retained.
+PR #25 merged and deployed: lead outcome workflow, audited project values/follow-up dates and scheduled internal alerts are live. The controlled alert has SENT state with one attempt, and the scheduled handler recorded one sent, zero failed and no exceptions. The owner confirmed inbox receipt on October 7.
+
+GA4 G-ZLD8SRP78F is deployed with consent checks and received realtime verification events. Search Console access, sitemap resubmission and a representative live URL inspection/indexing request are complete. Current indexing reports lag the latest release; no ranking or lead-quality outcome is claimed.
+
+A first editorial draft pass covers all eight existing service hubs and fourteen problem pages. See [the review package](../editorial/REVIEW-STATUS.md). It remains unpublished pending technical/source review, scope evidence, rendered preview and final content approval.
+
+README, authority inventory, original readiness, ADR-007 and ADR-009 reconciliation is complete. Historical release records are retained. Full-path fulfillment rehearsal, actual provider evidence, operator ownership, business model and genuine project/team evidence remain open. Paid pilot spending remains deferred. Content/geographic expansion is now authorized to begin; see ../expansion-wave-2/TASK.md.

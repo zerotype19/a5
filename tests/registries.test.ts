@@ -23,8 +23,8 @@ describe("product registries", () => {
     );
   });
 
-  it("includes exactly the six approved MVP locations", () => {
-    assert.equal(LOCATIONS.length, 6);
+  it("includes the six original towns and three expansion towns", () => {
+    assert.equal(LOCATIONS.length, 9);
     assert.deepEqual(
       LOCATIONS.map((location) => location.id),
       [
@@ -34,6 +34,9 @@ describe("product registries", () => {
         "morris-township",
         "morristown",
         "east-hanover",
+        "livingston",
+        "summit",
+        "hanover-township",
       ],
     );
   });

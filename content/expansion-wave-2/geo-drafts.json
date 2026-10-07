@@ -1,0 +1,749 @@
+[
+  {
+    "page_type": "LOCATION",
+    "slug": "livingston",
+    "location": "livingston",
+    "service": null,
+    "title": "Home services in Livingston, NJ",
+    "h1": "A clearer start for home projects in Livingston.",
+    "meta_title": "Livingston Home Service Requests | A5",
+    "meta_description": "Plan repairs and improvements in Livingston, NJ. Explore service guidance and send A5 one request; provider availability is checked individually.",
+    "primary_question": "Can I send A5 a home-service request in Livingston?",
+    "direct_answer": "You can describe your Livingston project and send your ZIP code for review. A5 checks the location, scope and provider availability before coordinating a next step. Sending a request does not book an appointment or confirm that a provider is available.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Start with the repair you want to finish",
+        "paragraphs": [
+          "An entry door that catches, a wall ready for paint or a room with several unfinished repairs can all start with one description. Identify the rooms involved and the result you want. If work crosses trades, explain the whole project so the order can be discussed."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the starting point, not every trade",
+        "paragraphs": [
+          "If you know the work you need, use the service links below. If you are unsure, describe what has changed and the result you want. Include previous repairs and any work that must happen first. A5 can review the request without asking you to diagnose the property.",
+          "For planned work, share any preferred timing and whether materials have been chosen. The provider confirms the estimate, scope and scheduling after assessing the details."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Local planning reference",
+        "paragraphs": [
+          "For project-specific construction questions, use Livingston’s own Building Department contact information. A nearby town’s instructions may not answer questions about your property. Ask the provider to identify any approvals involved before agreeing on the work."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos and access details",
+        "paragraphs": [
+          "Send a wide view and a close-up of the affected area. Mention stairs, gates, parking or other access details relevant to the visit. Keep private access codes out of the initial description and photograph only areas you can reach safely."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore projects in Livingston",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/livingston/handyman",
+            "label": "Handyman project planning"
+          },
+          {
+            "href": "/livingston/painting",
+            "label": "Painting project planning"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "Related services and planning help"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Local reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Livingston home needs",
+        "description": "Send one clear request. A5 will review the location and work, then check for a suitable provider. Availability is confirmed individually."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://livingstonnj.org/m/directory/department?did=5",
+        "title": "Livingston Building Department",
+        "publisher": "Township of Livingston",
+        "claim": "Official building-department contact point for project-specific questions."
+      }
+    ]
+  },
+  {
+    "page_type": "LOCATION",
+    "slug": "summit",
+    "location": "summit",
+    "service": null,
+    "title": "Home services in Summit, NJ",
+    "h1": "A clearer start for home projects in Summit.",
+    "meta_title": "Summit Home Service Requests | A5",
+    "meta_description": "Plan repairs and improvements in Summit, NJ. Explore service guidance and send A5 one request; provider availability is checked individually.",
+    "primary_question": "Can I send A5 a home-service request in Summit?",
+    "direct_answer": "You can describe your Summit project and send your ZIP code for review. A5 checks the location, scope and provider availability before coordinating a next step. Sending a request does not book an appointment or confirm that a provider is available.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Keep connected bathroom work in the right order",
+        "paragraphs": [
+          "A faucet replacement and the tile around it may look like one job but need separate decisions. Say whether the problem is a contained plumbing issue, damaged finish or a planned update. Share what has already been repaired and what still needs access."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the starting point, not every trade",
+        "paragraphs": [
+          "If you know the work you need, use the service links below. If you are unsure, describe what has changed and the result you want. Include previous repairs and any work that must happen first. A5 can review the request without asking you to diagnose the property.",
+          "For planned work, share any preferred timing and whether materials have been chosen. The provider confirms the estimate, scope and scheduling after assessing the details."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Local planning reference",
+        "paragraphs": [
+          "Summit’s Construction Division publishes permit information and inspection-request instructions. When a project needs municipal review, discuss which documents and inspections apply with the provider and city. Do not assume a page about one project type covers another."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos and access details",
+        "paragraphs": [
+          "Send a wide view and a close-up of the affected area. Mention stairs, gates, parking or other access details relevant to the visit. Keep private access codes out of the initial description and photograph only areas you can reach safely."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore projects in Summit",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/summit/plumbing",
+            "label": "Plumbing project planning"
+          },
+          {
+            "href": "/summit/tile",
+            "label": "Tile project planning"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "Related services and planning help"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Local reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Summit home needs",
+        "description": "Send one clear request. A5 will review the location and work, then check for a suitable provider. Availability is confirmed individually."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.cityofsummit.org/162/Code-Administration",
+        "title": "Summit Construction Division",
+        "publisher": "City of Summit",
+        "claim": "Construction information includes permit documents and inspection-request instructions."
+      }
+    ]
+  },
+  {
+    "page_type": "LOCATION",
+    "slug": "hanover-township",
+    "location": "hanover-township",
+    "service": null,
+    "title": "Home services in Hanover Township, NJ",
+    "h1": "A clearer start for home projects in Hanover Township.",
+    "meta_title": "Hanover Township Home Service Requests | A5",
+    "meta_description": "Plan repairs and improvements in Hanover Township, NJ. Explore service guidance and send A5 one request; provider availability is checked individually.",
+    "primary_question": "Can I send A5 a home-service request in Hanover Township?",
+    "direct_answer": "You can describe your Hanover Township project and send your ZIP code for review. A5 checks the location, scope and provider availability before coordinating a next step. Sending a request does not book an appointment or confirm that a provider is available.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Identify the property municipality and the outdoor work",
+        "paragraphs": [
+          "Include Hanover Township in the request, along with your ZIP code and any Whippany or Cedar Knolls mailing reference. Show the relationship between the path, steps, planting bed and house when describing an outdoor project. Keep access and water observations in the same brief."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the starting point, not every trade",
+        "paragraphs": [
+          "If you know the work you need, use the service links below. If you are unsure, describe what has changed and the result you want. Include previous repairs and any work that must happen first. A5 can review the request without asking you to diagnose the property.",
+          "For planned work, share any preferred timing and whether materials have been chosen. The provider confirms the estimate, scope and scheduling after assessing the details."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Local planning reference",
+        "paragraphs": [
+          "Use Hanover Township’s own building and zoning resources rather than East Hanover’s. Its forms page provides construction guidance and separate links for the Whippany and Cedar Knolls fire districts. The appropriate municipal process depends on the property and proposed work."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos and access details",
+        "paragraphs": [
+          "Send a wide view and a close-up of the affected area. Mention stairs, gates, parking or other access details relevant to the visit. Keep private access codes out of the initial description and photograph only areas you can reach safely."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore projects in Hanover Township",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/hanover-township/landscaping",
+            "label": "Landscaping project planning"
+          },
+          {
+            "href": "/hanover-township/masonry",
+            "label": "Masonry project planning"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "Related services and planning help"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Local reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Hanover Township home needs",
+        "description": "Send one clear request. A5 will review the location and work, then check for a suitable provider. Availability is confirmed individually."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hanovertownship.com/163/Applications-Checklists-Forms",
+        "title": "Hanover Township applications, checklists and forms",
+        "publisher": "Township of Hanover",
+        "claim": "Municipal construction forms and portal guidance; separate Whippany and Cedar Knolls fire-district links."
+      }
+    ]
+  },
+  {
+    "page_type": "SERVICE_LOCATION",
+    "slug": "livingston-handyman",
+    "location": "livingston",
+    "service": "handyman",
+    "title": "Handyman requests in Livingston, NJ",
+    "h1": "Small repairs, organized into one Livingston request",
+    "meta_title": "Handyman in Livingston, NJ | A5",
+    "meta_description": "Plan handyman work in Livingston, NJ. Send project details and photos to A5 for review; provider availability is checked individually.",
+    "primary_question": "Can several small repairs be reviewed together in Livingston?",
+    "direct_answer": "Put the repairs in one room-by-room list, with the desired result for each. A5 checks the work and location before looking for a suitable provider. Some items may need a separate trade, and the provider confirms what can be handled together.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Turn a list of annoyances into a scope",
+        "paragraphs": [
+          "A bedroom door that will not latch, loose entry trim and shelving waiting to be mounted are easier to review when each item has a location and a goal. Prioritize the work that matters most. Mention materials you already own and whether you want help choosing the remaining parts."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Discuss what belongs together",
+        "paragraphs": [
+          "Ask whether the estimate includes the complete list or only selected tasks. Clarify material collection, paint touch-ups and cleanup rather than assuming they are part of every visit. Electrical or plumbing concerns should be identified separately for review by the appropriate trade."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Use the right local reference",
+        "paragraphs": [
+          "For any construction questions associated with the work, Livingston’s Building Department is the local contact point. The provider should assess the actual project before saying what approvals or inspections it needs."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos that help the review",
+        "paragraphs": [
+          "Send a wide view, close-ups of the affected areas and relevant material or product information. Describe access and any work already completed. Photograph only areas you can reach safely; a request is not an appointment or an accepted estimate."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the next step",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/services/handyman/punch-list-repairs",
+            "label": "Punch list repairs"
+          },
+          {
+            "href": "/services/handyman/sticking-interior-door",
+            "label": "Sticking interior door"
+          },
+          {
+            "href": "/guides/prepare-a-handyman-repair-list",
+            "label": "Prepare a handyman repair list"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "More service and area information"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "References"
+      },
+      {
+        "type": "CTA",
+        "title": "Request handyman help in Livingston",
+        "description": "Share your project and ZIP code. A5 will check the scope and local provider availability. The provider confirms the estimate and timing."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://livingstonnj.org/m/directory/department?did=5",
+        "title": "Livingston Building Department",
+        "publisher": "Township of Livingston",
+        "claim": "Official building-department contact point for project-specific questions."
+      }
+    ]
+  },
+  {
+    "page_type": "SERVICE_LOCATION",
+    "slug": "livingston-painting",
+    "location": "livingston",
+    "service": "painting",
+    "title": "Painting requests in Livingston, NJ",
+    "h1": "Plan the preparation before painting your Livingston home",
+    "meta_title": "Painting in Livingston, NJ | A5",
+    "meta_description": "Plan painting work in Livingston, NJ. Send project details and photos to A5 for review; provider availability is checked individually.",
+    "primary_question": "What should I include in a Livingston painting request?",
+    "direct_answer": "Name the rooms, trim or exterior surfaces you want painted and describe their current condition. Share any patches, peeling or previous water damage. A5 checks the request and provider availability; the painter assesses preparation and the area included in the estimate.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Define the surfaces and finish",
+        "paragraphs": [
+          "List walls, ceilings, doors and trim separately so the proposal can identify what is included. Say whether you are keeping the current color or making a change, and include product details if you have them. A photo of the whole room can be more useful than a close-up alone."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Make repair and painting boundaries clear",
+        "paragraphs": [
+          "If a wall has been patched, ask whether the estimate includes remaining preparation, primer and paint. Agree on whether the painted area is the patch, the wall or the full room. Mention unresolved dampness or damaged material before discussing a cosmetic finish."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan for older surfaces",
+        "paragraphs": [
+          "Share the approximate home age if known. EPA provides lead-safe renovation guidance for work in pre-1978 homes. The contractor should assess the work practices for the actual surfaces. Livingston’s Building Department provides the local contact point for construction questions."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos that help the review",
+        "paragraphs": [
+          "Send a wide view, close-ups of the affected areas and relevant material or product information. Describe access and any work already completed. Photograph only areas you can reach safely; a request is not an appointment or an accepted estimate."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the next step",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/services/painting/paint-after-patching",
+            "label": "Paint after patching"
+          },
+          {
+            "href": "/services/painting/peeling-exterior-paint",
+            "label": "Peeling exterior paint"
+          },
+          {
+            "href": "/guides/plan-a-painting-project",
+            "label": "Plan a painting project"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "More service and area information"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "References"
+      },
+      {
+        "type": "CTA",
+        "title": "Request painting help in Livingston",
+        "description": "Share your project and ZIP code. A5 will check the scope and local provider availability. The provider confirms the estimate and timing."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://livingstonnj.org/m/directory/department?did=5",
+        "title": "Livingston Building Department",
+        "publisher": "Township of Livingston",
+        "claim": "Official building-department contact point for project-specific questions."
+      },
+      {
+        "url": "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program",
+        "title": "EPA Lead Renovation, Repair and Painting Program",
+        "publisher": "US EPA",
+        "claim": "Lead-safe renovation guidance for work in pre-1978 homes."
+      }
+    ]
+  },
+  {
+    "page_type": "SERVICE_LOCATION",
+    "slug": "summit-plumbing",
+    "location": "summit",
+    "service": "plumbing",
+    "title": "Plumbing requests in Summit, NJ",
+    "h1": "Describe the plumbing issue before arranging a Summit visit",
+    "meta_title": "Plumbing in Summit, NJ | A5",
+    "meta_description": "Plan plumbing work in Summit, NJ. Send project details and photos to A5 for review; provider availability is checked individually.",
+    "primary_question": "Can I request help for a faucet, toilet or contained leak in Summit?",
+    "direct_answer": "Send the fixture location, a description of the water problem and your ZIP code. A5 reviews scheduled plumbing requests and checks provider availability. An uncontrolled active leak needs an emergency plumbing service rather than waiting for an A5 request.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Distinguish the fixture from surrounding damage",
+        "paragraphs": [
+          "Describe whether the water appears at a faucet, toilet, valve or visible pipe. Mention if cabinets, walls or ceilings also got wet. Keeping those details together helps the provider discuss the plumbing work and any separate finishing repairs."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Discuss repair and replacement before buying",
+        "paragraphs": [
+          "If you want to keep the fixture, say so. If you have a replacement in mind, share the model and current setup. Ask the plumber what parts, access and related connections need assessment before treating the product purchase as the complete scope."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Keep municipal steps in the plan",
+        "paragraphs": [
+          "Summit publishes construction permit information and inspection-request guidance. Ask the provider to identify which, if any, municipal steps apply to your project and who will handle them. Avoid scheduling finishing work around an assumed approval date."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos that help the review",
+        "paragraphs": [
+          "Send a wide view, close-ups of the affected areas and relevant material or product information. Describe access and any work already completed. Photograph only areas you can reach safely; a request is not an appointment or an accepted estimate."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the next step",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/services/plumbing/dripping-faucet",
+            "label": "Dripping faucet"
+          },
+          {
+            "href": "/services/plumbing/running-toilet",
+            "label": "Running toilet"
+          },
+          {
+            "href": "/guides/prepare-for-a-plumbing-service-visit",
+            "label": "Prepare for a plumbing service visit"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "More service and area information"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "References"
+      },
+      {
+        "type": "CTA",
+        "title": "Request plumbing help in Summit",
+        "description": "Share your project and ZIP code. A5 will check the scope and local provider availability. The provider confirms the estimate and timing."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.cityofsummit.org/162/Code-Administration",
+        "title": "Summit Construction Division",
+        "publisher": "City of Summit",
+        "claim": "Construction information includes permit documents and inspection-request instructions."
+      }
+    ]
+  },
+  {
+    "page_type": "SERVICE_LOCATION",
+    "slug": "summit-tile",
+    "location": "summit",
+    "service": "tile",
+    "title": "Tile requests in Summit, NJ",
+    "h1": "Plan a tile repair around the surface beneath it",
+    "meta_title": "Tile in Summit, NJ | A5",
+    "meta_description": "Plan tile work in Summit, NJ. Send project details and photos to A5 for review; provider availability is checked individually.",
+    "primary_question": "What helps a provider assess a Summit tile repair?",
+    "direct_answer": "Show the damaged tile or grout and the whole floor, wall or shower. Mention any movement, moisture and spare tile you have. A5 reviews the project and checks availability; the provider assesses whether a localized repair is appropriate before proposing the work.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Gather the tile information you already have",
+        "paragraphs": [
+          "Photograph spare tiles and box labels if available. Identify the size of the affected area and whether the concern is appearance, loose pieces or recurring joint damage. Do not remove tile just to make the initial request more detailed."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Separate the visible finish from the cause",
+        "paragraphs": [
+          "A damaged joint does not establish what has happened beneath the tile. Ask the provider to assess recurring movement or moisture before agreeing to regrouting or replacement. For showers, waterproofing is a separate consideration from the visible tile and grout."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Coordinate related work and local questions",
+        "paragraphs": [
+          "Mention any plumbing changes planned in the same area. Ask what needs to happen before the finish is repaired and who will handle each part. Summit’s Construction Division provides project and inspection guidance where municipal review applies."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos that help the review",
+        "paragraphs": [
+          "Send a wide view, close-ups of the affected areas and relevant material or product information. Describe access and any work already completed. Photograph only areas you can reach safely; a request is not an appointment or an accepted estimate."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the next step",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/services/tile/crumbling-grout",
+            "label": "Crumbling grout"
+          },
+          {
+            "href": "/guides/prepare-for-a-tile-repair",
+            "label": "Prepare for a tile repair"
+          },
+          {
+            "href": "/services/plumbing/dripping-faucet",
+            "label": "Dripping faucet"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "More service and area information"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "References"
+      },
+      {
+        "type": "CTA",
+        "title": "Request tile help in Summit",
+        "description": "Share your project and ZIP code. A5 will check the scope and local provider availability. The provider confirms the estimate and timing."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.cityofsummit.org/162/Code-Administration",
+        "title": "Summit Construction Division",
+        "publisher": "City of Summit",
+        "claim": "Construction information includes permit documents and inspection-request instructions."
+      },
+      {
+        "url": "https://www.schluter.com/schluter-us/en_US/Shower-System/Waterproofing/c/SS-W",
+        "title": "Schluter shower waterproofing systems",
+        "publisher": "Schluter Systems",
+        "claim": "A tiled shower uses a waterproofing assembly; visible tile/grout alone do not establish its condition."
+      }
+    ]
+  },
+  {
+    "page_type": "SERVICE_LOCATION",
+    "slug": "hanover-township-landscaping",
+    "location": "hanover-township",
+    "service": "landscaping",
+    "title": "Landscaping requests in Hanover Township, NJ",
+    "h1": "A practical plan for Hanover Township yards and planting beds",
+    "meta_title": "Landscaping in Hanover Township, NJ | A5",
+    "meta_description": "Plan landscaping work in Hanover Township, NJ. Send project details and photos to A5 for review; provider availability is checked individually.",
+    "primary_question": "How should I describe a landscaping project in Hanover Township?",
+    "direct_answer": "Identify the municipality, the area you want changed and what should remain. Include your ZIP code and any Whippany or Cedar Knolls mailing reference. A5 checks the location, project scope and provider availability before coordinating a next step.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Separate cleanup, planting and water concerns",
+        "paragraphs": [
+          "Describe an overgrown bed differently from a new planting project, and flag any area that holds water. Photos taken during or after rain can help explain the problem. Ask the provider to assess the work rather than assuming a cosmetic refresh addresses drainage."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Show what stays and how the area is reached",
+        "paragraphs": [
+          "Mark plants, edging and other features you want preserved. Include gates, slopes and known irrigation or landscape lighting in the brief. Discuss disposal and restoration of disturbed areas as part of the proposed scope."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Keep digging and municipal questions distinct",
+        "paragraphs": [
+          "NJ One Call explains that private facilities may need separate locating attention. The contractor should assess relevant locating requirements before digging. Hanover Township provides its own construction forms and portal guidance; use that municipality’s resources rather than East Hanover’s."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos that help the review",
+        "paragraphs": [
+          "Send a wide view, close-ups of the affected areas and relevant material or product information. Describe access and any work already completed. Photograph only areas you can reach safely; a request is not an appointment or an accepted estimate."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the next step",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/services/landscaping/overgrown-planting-beds",
+            "label": "Overgrown planting beds"
+          },
+          {
+            "href": "/services/landscaping/yard-surface-grading",
+            "label": "Yard surface grading"
+          },
+          {
+            "href": "/guides/plan-a-yard-cleanup-and-planting-project",
+            "label": "Plan a yard cleanup and planting project"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "More service and area information"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "References"
+      },
+      {
+        "type": "CTA",
+        "title": "Request landscaping help in Hanover Township",
+        "description": "Share your project and ZIP code. A5 will check the scope and local provider availability. The provider confirms the estimate and timing."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hanovertownship.com/163/Applications-Checklists-Forms",
+        "title": "Hanover Township applications, checklists and forms",
+        "publisher": "Township of Hanover",
+        "claim": "Municipal construction forms and portal guidance; separate Whippany and Cedar Knolls fire-district links."
+      },
+      {
+        "url": "https://www.nj1-call.org/training-safety/private-facilities/",
+        "title": "NJ One Call private facilities",
+        "publisher": "New Jersey One Call",
+        "claim": "Privately owned underground facilities may require separate locating attention."
+      }
+    ]
+  },
+  {
+    "page_type": "SERVICE_LOCATION",
+    "slug": "hanover-township-masonry",
+    "location": "hanover-township",
+    "service": "masonry",
+    "title": "Masonry requests in Hanover Township, NJ",
+    "h1": "Assess Hanover Township steps, walks and masonry repairs",
+    "meta_title": "Masonry in Hanover Township, NJ | A5",
+    "meta_description": "Plan masonry work in Hanover Township, NJ. Send project details and photos to A5 for review; provider availability is checked individually.",
+    "primary_question": "What should I send about damaged steps or paving in Hanover Township?",
+    "direct_answer": "Send the whole area, the visible damage and any change in alignment, along with the property municipality and ZIP code. A5 reviews the request and checks for an appropriate provider. Photos start the conversation; an on-site assessment determines the repair scope.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explain how the area is used",
+        "paragraphs": [
+          "Mention whether the steps are the only entrance, whether a walkway creates an access difficulty and which areas you want assessed. Describe what changed and whether previous repairs were made. Avoid trying to establish structural stability from a photo."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Compare the proposed work, not only the total",
+        "paragraphs": [
+          "Ask the provider to identify the area included, materials to be retained or replaced, preparation and cleanup. If water collects near the problem, include that observation in the discussion. The proposal should distinguish visible repairs from any additional assessment or base work."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Identify Hanover Township clearly",
+        "paragraphs": [
+          "Whippany and Cedar Knolls references can help describe the location, but include the property municipality too. Hanover Township’s construction resources are separate from East Hanover’s. Ask the provider to identify any project-specific municipal steps before work begins."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Photos that help the review",
+        "paragraphs": [
+          "Send a wide view, close-ups of the affected areas and relevant material or product information. Describe access and any work already completed. Photograph only areas you can reach safely; a request is not an appointment or an accepted estimate."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the next step",
+        "paragraphs": [],
+        "links": [
+          {
+            "href": "/services/masonry/brick-step-repair",
+            "label": "Brick step repair"
+          },
+          {
+            "href": "/services/masonry/sunken-pavers",
+            "label": "Sunken pavers"
+          },
+          {
+            "href": "/guides/compare-masonry-repair-proposals",
+            "label": "Compare masonry repair proposals"
+          }
+        ]
+      },
+      {
+        "type": "RELATED_CONTENT",
+        "heading": "More service and area information"
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "References"
+      },
+      {
+        "type": "CTA",
+        "title": "Request masonry help in Hanover Township",
+        "description": "Share your project and ZIP code. A5 will check the scope and local provider availability. The provider confirms the estimate and timing."
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://www.hanovertownship.com/163/Applications-Checklists-Forms",
+        "title": "Hanover Township applications, checklists and forms",
+        "publisher": "Township of Hanover",
+        "claim": "Municipal construction forms and portal guidance; separate Whippany and Cedar Knolls fire-district links."
+      }
+    ]
+  }
+]

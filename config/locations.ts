@@ -1,5 +1,5 @@
 /**
- * Canonical MVP location registry (Northern New Jersey cluster).
+ * Canonical location registry (Northern New Jersey cluster).
  * Approved locations only — do not add towns without owner approval.
  */
 
@@ -9,13 +9,18 @@ export type LocationId =
   | "chatham"
   | "morris-township"
   | "morristown"
-  | "east-hanover";
+  | "east-hanover"
+  | "livingston"
+  | "summit"
+  | "hanover-township";
 
 export type Location = {
   id: LocationId;
   name: string;
   slug: string;
   state: "NJ";
+  /** New-area requests need an explicit operator availability check. */
+  requestReviewRequired?: boolean;
 };
 
 export const LOCATIONS: readonly Location[] = [
@@ -40,6 +45,9 @@ export const LOCATIONS: readonly Location[] = [
     slug: "east-hanover",
     state: "NJ",
   },
+  { id: "livingston", name: "Livingston", slug: "livingston", state: "NJ", requestReviewRequired: true },
+  { id: "summit", name: "Summit", slug: "summit", state: "NJ", requestReviewRequired: true },
+  { id: "hanover-township", name: "Hanover Township", slug: "hanover-township", state: "NJ", requestReviewRequired: true },
 ] as const;
 
 export function getLocationById(id: LocationId): Location | undefined {

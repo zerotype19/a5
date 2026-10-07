@@ -59,7 +59,7 @@ describe("location hub drafts", () => {
   it("covers the six registry towns and no service × location pages", () => {
     assert.deepEqual(
       LOCATION_HUB_DRAFTS.map((draft) => draft.locationId),
-      LOCATIONS.map((location) => location.id),
+      LOCATIONS.slice(0, 6).map((location) => location.id),
     );
     for (const draft of LOCATION_HUB_DRAFTS) {
       const fields = locationDraftFields(draft);

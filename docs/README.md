@@ -14,4 +14,6 @@ Canonical public site: [https://www.a5homeservices.com/](https://www.a5homeservi
 
 ## Current plan
 
-The public foundation and approved authority expansion are released. Start with [the completion audit](launch/PLAN-COMPLETION-AUDIT-2026-10-07.md), [production release evidence](launch/RELEASE-2026-10-07.md), and [the operations completion task](operations/TASK.md). Historical Day 0 and task documents describe their original milestones, not current production readiness. Pilot spending and new geography/service selection are deferred by the owner.
+The public foundation and approved authority expansion are released. Start with [the completion audit](launch/PLAN-COMPLETION-AUDIT-2026-10-07.md), [current production release evidence](operations/RELEASE-2026-10-07.md), and [the operations completion task](operations/TASK.md). Historical Day 0 and task documents describe their original milestones, not current production readiness. Paid pilot spending remains deferred. The owner has now authorized starting content and geographic expansion; see [wave 2](expansion-wave-2/TASK.md).
+
+The [existing-page editorial review](editorial/REVIEW-STATUS.md) contains 22 unpublished revision drafts and their remaining evidence gates.

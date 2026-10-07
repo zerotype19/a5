@@ -1,0 +1,68 @@
+{
+  "esfi": {
+    "url": "https://www.esfi.org/electrical-safety-dos/",
+    "title": "Electrical safety warning signs",
+    "publisher": "Electrical Safety Foundation International",
+    "source_type": "INDUSTRY"
+  },
+  "electrical": {
+    "url": "https://www.njconsumeraffairs.gov/elec/",
+    "title": "NJ Board of Examiners of Electrical Contractors",
+    "publisher": "New Jersey Division of Consumer Affairs",
+    "source_type": "GOVERNMENT"
+  },
+  "plumbing": {
+    "url": "https://www.njconsumeraffairs.gov/plu/Pages/FAQ.aspx",
+    "title": "NJ Board of Examiners of Master Plumbers FAQ",
+    "publisher": "New Jersey Division of Consumer Affairs",
+    "source_type": "GOVERNMENT"
+  },
+  "water": {
+    "url": "https://www.epa.gov/watersense/fix-leak-week",
+    "title": "Fix a Leak Week: faucet and toilet leaks",
+    "publisher": "U.S. Environmental Protection Agency",
+    "source_type": "GOVERNMENT"
+  },
+  "lead": {
+    "url": "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program",
+    "title": "Lead Renovation, Repair and Painting Program",
+    "publisher": "U.S. Environmental Protection Agency",
+    "source_type": "GOVERNMENT"
+  },
+  "mold": {
+    "url": "https://www.epa.gov/mold/what-are-basic-mold-cleanup-steps",
+    "title": "Basic mold cleanup steps",
+    "publisher": "U.S. Environmental Protection Agency",
+    "source_type": "GOVERNMENT"
+  },
+  "dig": {
+    "url": "https://www.nj1-call.org/training-safety/private-facilities/",
+    "title": "Private facilities before excavation",
+    "publisher": "New Jersey One Call",
+    "source_type": "GOVERNMENT"
+  },
+  "usg": {
+    "url": "https://www.usg.com/en-US/p/product/sheetrock-brand-dust-control-patch-and-repair-compound-380138",
+    "title": "Sheetrock patch and repair compound",
+    "publisher": "USG",
+    "source_type": "MANUFACTURER"
+  },
+  "brick": {
+    "url": "https://www.gobrick.com/media/file/repointing-brick-masonry.pdf",
+    "title": "Repointing Brick Masonry",
+    "publisher": "Brick Industry Association",
+    "source_type": "INDUSTRY"
+  },
+  "pavers": {
+    "url": "https://www.cmha.org/news-and-insights/tips-to-maintain-the-investment-and-beauty-of-your-hardscape-project/",
+    "title": "Maintain your hardscape project",
+    "publisher": "Concrete Masonry & Hardscapes Association",
+    "source_type": "INDUSTRY"
+  },
+  "tile": {
+    "url": "https://www.schluter.com/schluter-us/en_US/Shower-System/Waterproofing/c/SS-W",
+    "title": "Shower waterproofing systems",
+    "publisher": "Schluter Systems",
+    "source_type": "MANUFACTURER"
+  }
+}

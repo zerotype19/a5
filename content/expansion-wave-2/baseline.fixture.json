@@ -1,0 +1,3901 @@
+{
+  "content_pages": [
+    {
+      "id": "20000000-0000-4000-8000-000000000007",
+      "slug": "electrical",
+      "page_type": "SERVICE",
+      "title": "Electrical help for lights, outlets, switches, and fans",
+      "meta_title": "Electrical help: lights, outlets, switches, and fans | A5",
+      "meta_description": "Is it one device or the whole circuit? Safety stop signs, what you can check without opening anything, what to photograph, and who does electrical work in NJ.",
+      "h1": "Electrical help for lights, outlets, switches, and fans",
+      "primary_service_id": "electrical",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "First: is there any sign of heat, burning, or sparking?",
+      "direct_answer": "If yes, stop there.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:52.295666+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000004",
+      "slug": "drywall",
+      "page_type": "SERVICE",
+      "title": "Drywall repair for holes, cracks, and damaged ceilings",
+      "meta_title": "Drywall repair: holes, cracks, and ceiling damage | A5",
+      "meta_description": "Patch or replace? How to size up a drywall hole, a returning crack, or a damaged ceiling, what to photograph, and what happens first when water is involved.",
+      "h1": "Drywall repair for holes, cracks, and damaged ceilings",
+      "primary_service_id": "drywall",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "Can this be patched?",
+      "direct_answer": "Most drywall damage can.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:51.920103+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000004",
+      "slug": "brick-step-repair",
+      "page_type": "PROBLEM",
+      "title": "Cracked or crumbling brick steps",
+      "meta_title": "Crumbling or cracked brick steps: repair or rebuild? | A5",
+      "meta_description": "Why brick front steps crack, crumble, or pull away from the house, what to photograph, and when a repair holds versus when the steps need rebuilding.",
+      "h1": "Cracked or crumbling brick steps",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": "brick-step-repair",
+      "primary_question": "Can my brick steps be repaired, or do they need to be rebuilt?",
+      "direct_answer": "If the steps are still level, solid and tight to the house, damaged mortar and individual bricks can often be repaired. If the steps are sinking, tilting, rocking or pulling away from the house, repairing the surface won't solve the underlying problem \u2014 part or all of the steps may need to be rebuilt on a sound base.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-23T18:00:00+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000001",
+      "slug": "loose-mortar",
+      "page_type": "PROBLEM",
+      "title": "Mortar falling out between bricks",
+      "meta_title": "Mortar falling out of brick joints: when to repoint | A5",
+      "meta_description": "Sandy, cracked, or missing mortar between bricks: what causes it, what to photograph, and when repointing is enough versus when the bricks or wall need more work.",
+      "h1": "Mortar falling out between bricks",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": "loose-mortar",
+      "primary_question": "Do I need to rebuild the brickwork?",
+      "direct_answer": "Usually not. If the bricks are still solid and the wall, steps, or walkway haven't shifted, deteriorated mortar can often be removed and replaced through repointing. The bigger question is whether the mortar is simply wearing out or whether the masonry itself is moving.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000005",
+      "slug": "tile",
+      "page_type": "SERVICE",
+      "title": "Tile repair without redoing the whole room",
+      "meta_title": "Tile repair: cracked tile, loose backsplash, and grout | A5",
+      "meta_description": "Can a few cracked tiles be replaced without redoing the floor? How matching, grout, and what's behind the tile decide a repair \u2014 and what to photograph first.",
+      "h1": "Tile repair without redoing the whole room",
+      "primary_service_id": "tile",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "Can just the damaged tile or grout be repaired?",
+      "direct_answer": "Often, yes.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:52.063159+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000002",
+      "slug": "sunken-pavers",
+      "page_type": "PROBLEM",
+      "title": "Sunken or rocking pavers",
+      "meta_title": "Sunken or rocking pavers on a walk or patio: fixes | A5",
+      "meta_description": "Why patio and walkway pavers sink, rock, or heave, what to photograph, and when lifting and resetting works versus when the base needs to be rebuilt.",
+      "h1": "Sunken or rocking pavers",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": "sunken-pavers",
+      "primary_question": "Can the existing pavers be reused?",
+      "direct_answer": "Often, yes. When a section of a walkway or patio sinks or starts rocking, the pavers themselves may be perfectly fine. The problem is usually underneath them. A localized repair often means lifting the existing pavers, correcting and compacting the base, and laying those same pavers back down.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000006",
+      "slug": "plumbing",
+      "page_type": "SERVICE",
+      "title": "Plumbing help for leaks, toilets, fixtures, and water heaters",
+      "meta_title": "Plumbing help: leaks, running toilets, and fixtures | A5",
+      "meta_description": "Is water moving right now? What to do first, how to tell a repair from a replacement, what to photograph, and who does plumbing work in New Jersey.",
+      "h1": "Plumbing help for leaks, toilets, fixtures, and water heaters",
+      "primary_service_id": "plumbing",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "Is water going somewhere it shouldn't?",
+      "direct_answer": "That's the first question.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:52.16129+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000006",
+      "slug": "hole-in-drywall",
+      "page_type": "PROBLEM",
+      "title": "Hole in a wall",
+      "meta_title": "Hole in drywall: patch or replace the section? | A5",
+      "meta_description": "Doorknob holes, anchor holes, and bigger damage: how drywall holes are patched or cut out, what to photograph, and what makes the repair invisible after paint.",
+      "h1": "Hole in a wall",
+      "primary_service_id": "drywall",
+      "primary_location_id": null,
+      "primary_problem_id": "hole-in-drywall",
+      "primary_question": "Can this be patched without replacing the wall?",
+      "direct_answer": "Almost always.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000003",
+      "slug": "visible-pipe-leak",
+      "page_type": "PROBLEM",
+      "title": "Water leaking from a pipe or valve",
+      "meta_title": "Active water leak at a pipe or valve: what to do first | A5",
+      "meta_description": "Water dripping from a pipe, valve, or supply line? How to stop it, what to photograph, repair versus replacement, and who fixes it. A5 is not an emergency plumber.",
+      "h1": "Water leaking from a pipe or valve",
+      "primary_service_id": "plumbing",
+      "primary_location_id": null,
+      "primary_problem_id": "visible-pipe-leak",
+      "primary_question": "What should I do first?",
+      "direct_answer": "Stop the water if you can do so safely.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000005",
+      "slug": "water-damaged-ceiling",
+      "page_type": "PROBLEM",
+      "title": "Water stain or soft spot on the ceiling",
+      "meta_title": "Water stain or sagging ceiling: what to fix first | A5",
+      "meta_description": "A ceiling stain, bubble, or soft spot after a leak: find the source, what to photograph, patch versus replace, and how plumbing, drywall, and paint fit together.",
+      "h1": "Water stain or soft spot on the ceiling",
+      "primary_service_id": "drywall",
+      "primary_location_id": null,
+      "primary_problem_id": "water-damaged-ceiling",
+      "primary_question": "I found water damage on my ceiling. What should I fix first?",
+      "direct_answer": "Fix the source of the water before repairing the ceiling. If the stain is below a bathroom, plumbing is often the first call. If it's on the top floor, the source may be the roof or condensation. Once the leak is stopped and the area is dry, firm drywall may only need stain-blocking primer and paint. Soft, sagging or crumbling drywall usually needs to be removed and replaced.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000007",
+      "slug": "drywall-crack",
+      "page_type": "PROBLEM",
+      "title": "Wall or ceiling crack that keeps coming back",
+      "meta_title": "Drywall crack that keeps coming back: causes and fixes | A5",
+      "meta_description": "Cracks over doors, along ceiling seams, and nail pops: why drywall cracks return, what to photograph, and when a crack is cosmetic versus worth a closer look.",
+      "h1": "Wall or ceiling crack that keeps coming back",
+      "primary_service_id": "drywall",
+      "primary_location_id": null,
+      "primary_problem_id": "drywall-crack",
+      "primary_question": "Why does the crack keep returning?",
+      "direct_answer": "A crack that was simply filled and painted can come back because the drywall joint underneath is still moving.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000004",
+      "slug": "running-toilet",
+      "page_type": "PROBLEM",
+      "title": "Toilet that keeps running",
+      "meta_title": "Toilet keeps running or refilling: causes and repairs | A5",
+      "meta_description": "A toilet that runs, hisses, or refills on its own usually has a worn flapper or fill valve. What to check, what to photograph, and when replacement makes sense.",
+      "h1": "Toilet that keeps running",
+      "primary_service_id": "plumbing",
+      "primary_location_id": null,
+      "primary_problem_id": "running-toilet",
+      "primary_question": "Why does my toilet keep running or refill by itself?",
+      "direct_answer": "Most running toilets don't need to be replaced. The usual causes are small parts inside the tank: a flapper that no longer seals, a float set too high, a fill valve that won't shut off completely, or a chain that's keeping the flapper open. Those parts can usually be repaired or replaced without replacing the toilet.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000008",
+      "slug": "failed-light-fixture",
+      "page_type": "PROBLEM",
+      "title": "Light that stopped working or keeps flickering",
+      "meta_title": "Light fixture not working or flickering: what to check | A5",
+      "meta_description": "A light that won't turn on or flickers: safe checks you can make, whether it's the bulb, fixture, or circuit, what to photograph, and who should fix it.",
+      "h1": "Light that stopped working or keeps flickering",
+      "primary_service_id": "electrical",
+      "primary_location_id": null,
+      "primary_problem_id": "failed-light-fixture",
+      "primary_question": "Is it the bulb, the fixture, or something electrical?",
+      "direct_answer": "Start with the simple things: try a known-good bulb and check whether the breaker has tripped.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000001",
+      "slug": "masonry",
+      "page_type": "SERVICE",
+      "title": "Masonry repair for steps, walks, patios, and walls",
+      "meta_title": "Masonry repair: cracked steps, mortar, and pavers | A5",
+      "meta_description": "Is it the brick, the mortar, or the ground underneath? How to read cracked steps, loose mortar, and sunken pavers, and when repair beats rebuilding \u2014 northern NJ.",
+      "h1": "Masonry repair for steps, walks, patios, and walls",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "Can this masonry be repaired, or does it need to be rebuilt?",
+      "direct_answer": "Often it can be repaired.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-23T18:00:00+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000b",
+      "slug": "peeling-exterior-paint",
+      "page_type": "PROBLEM",
+      "title": "Peeling exterior paint",
+      "meta_title": "Peeling exterior paint: causes, prep, and repainting | A5",
+      "meta_description": "Why house paint peels, blisters, or chalks, what to photograph, spot repair versus full repaint, and what homes built before 1978 need to know about lead.",
+      "h1": "Peeling exterior paint",
+      "primary_service_id": "painting",
+      "primary_location_id": null,
+      "primary_problem_id": "peeling-exterior-paint",
+      "primary_question": "Why is the paint coming off?",
+      "direct_answer": "Exterior paint usually peels because moisture got behind it, the previous coat didn't bond well, or older layers have started to fail.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000c",
+      "slug": "sticking-interior-door",
+      "page_type": "PROBLEM",
+      "title": "Interior door that sticks or won't latch",
+      "meta_title": "Interior door sticking or not latching: common fixes | A5",
+      "meta_description": "A door that rubs, sticks, or won't latch: seasonal swelling vs. sagging hinges, what to photograph, and when adjusting works versus when the door needs replacing.",
+      "h1": "Interior door that sticks or won't latch",
+      "primary_service_id": "handyman",
+      "primary_location_id": null,
+      "primary_problem_id": "sticking-interior-door",
+      "primary_question": "Why is my door suddenly rubbing, sticking or not latching?",
+      "direct_answer": "Most sticking doors can be adjusted rather than replaced. A loose hinge can let the door sag, seasonal changes can make a wood door swell, and a latch can stop lining up with the strike plate. Tightening or adjusting the hinges, moving the strike plate, or carefully trimming a rubbing edge solves many cases.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000d",
+      "slug": "yard-surface-grading",
+      "page_type": "PROBLEM",
+      "title": "Water pooling in the yard or against the house",
+      "meta_title": "Water pooling in the yard or by the foundation: grading | A5",
+      "meta_description": "Water that sits in the lawn or against the house after rain: common causes, what to photograph, and when surface grading fixes it versus a bigger drainage question.",
+      "h1": "Water pooling in the yard or against the house",
+      "primary_service_id": "landscaping",
+      "primary_location_id": null,
+      "primary_problem_id": "yard-surface-grading",
+      "primary_question": "Why does water keep collecting here?",
+      "direct_answer": "If water sits in the same place after every rain, there's usually a reason: the ground slopes toward a low spot, soil has settled near the house, or a downspout is dumping water where it has nowhere to go. Many surface-water problems can be improved by reshaping the grade and moving roof water farther from the house.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000009",
+      "slug": "dead-outlet",
+      "page_type": "PROBLEM",
+      "title": "Outlet not working",
+      "meta_title": "Outlet not working: GFCIs, breakers, and next steps | A5",
+      "meta_description": "An outlet that's dead or works on and off: how to check GFCIs and breakers safely, what to photograph, and when a qualified electrician needs to look at it.",
+      "h1": "Outlet not working",
+      "primary_service_id": "electrical",
+      "primary_location_id": null,
+      "primary_problem_id": "dead-outlet",
+      "primary_question": "Why did my outlet stop working?",
+      "direct_answer": "A dead outlet doesn't always mean the outlet itself has failed. A tripped GFCI somewhere else on the circuit, a tripped breaker, a wall switch, or a loose connection can all cut power to an outlet. Check the simple things first. If the outlet is still dead \u2014 or if it feels warm, looks scorched, sparks, or won't hold a plug securely \u2014 it's time for an electrician.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000a",
+      "slug": "crumbling-grout",
+      "page_type": "PROBLEM",
+      "title": "Grout crumbling or washing out",
+      "meta_title": "Crumbling or cracked grout: regrout or retile? | A5",
+      "meta_description": "Grout that cracks, crumbles, or washes out of floors and showers: what causes it, what to photograph, and when regrouting is enough versus when tile needs attention.",
+      "h1": "Grout crumbling or washing out",
+      "primary_service_id": "tile",
+      "primary_location_id": null,
+      "primary_problem_id": "crumbling-grout",
+      "primary_question": "Can I just regrout it?",
+      "direct_answer": "If the tile itself is solid, usually yes.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:03:57.286364+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "50000000-0000-4000-8000-000000000005",
+      "slug": "east-hanover",
+      "page_type": "LOCATION",
+      "title": "Home services in East Hanover, NJ",
+      "meta_title": "Home services in East Hanover, NJ | A5",
+      "meta_description": "Repairs in East Hanover. Describe what the house or the yard is doing and we'll help line up someone local.",
+      "h1": "Home services in East Hanover, NJ",
+      "primary_service_id": null,
+      "primary_location_id": "east-hanover",
+      "primary_problem_id": null,
+      "primary_question": "Need something fixed at home?",
+      "direct_answer": "Tell A5 what's going on.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:36:29.028857+00:00",
+      "updated_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "published_at": "2026-09-30T12:45:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:45:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000002",
+      "slug": "landscaping",
+      "page_type": "SERVICE",
+      "title": "Landscaping for cleanup, planting, and yard problems",
+      "meta_title": "Landscaping: cleanup, planting beds, and yard grading | A5",
+      "meta_description": "Cleanup, new beds, or water sitting in the yard? How to tell which landscape job you have, a northern NJ seasonal calendar, and what to photograph first.",
+      "h1": "Landscaping for cleanup, planting, and yard problems",
+      "primary_service_id": "landscaping",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What does your yard actually need?",
+      "direct_answer": "Sometimes it's obvious: the beds are overgrown and need to be cleaned up.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:51.700034+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000003",
+      "slug": "painting",
+      "page_type": "SERVICE",
+      "title": "Painting that starts with the surface, not the color",
+      "meta_title": "House painting: peeling paint, prep, and repainting | A5",
+      "meta_description": "Why paint peels, blisters, or chalks, when a touch-up works and when a full repaint is needed, and what older-home prep involves \u2014 for northern NJ homeowners.",
+      "h1": "Painting that starts with the surface, not the color",
+      "primary_service_id": "painting",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "Does this just need paint, or is there something to fix first?",
+      "direct_answer": "If the existing paint is solid and you're changing the color or freshening the room, the job may be straightforward.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:51.809194+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "50000000-0000-4000-8000-000000000002",
+      "slug": "chatham",
+      "page_type": "LOCATION",
+      "title": "Home services in Chatham, NJ",
+      "meta_title": "Home services in Chatham, NJ | A5",
+      "meta_description": "Repairs in Chatham Borough and Chatham Township. Tell us what's wrong and we'll help line up someone local.",
+      "h1": "Home services in Chatham, NJ",
+      "primary_service_id": null,
+      "primary_location_id": "chatham",
+      "primary_problem_id": null,
+      "primary_question": "Need something fixed at home?",
+      "direct_answer": "Tell us what's going on.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:36:29.028857+00:00",
+      "updated_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "published_at": "2026-09-30T12:45:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:45:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000002",
+      "slug": "madison",
+      "page_type": "LOCATION",
+      "title": "Home services in Madison, NJ",
+      "meta_title": "Home services in Madison, NJ | A5",
+      "meta_description": "Repairs in Madison, including brick and mortar. Describe what you see and we'll help line up someone local.",
+      "h1": "Home services in Madison, NJ",
+      "primary_service_id": null,
+      "primary_location_id": "madison",
+      "primary_problem_id": null,
+      "primary_question": "Need something fixed at home?",
+      "direct_answer": "Tell us what's going on.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-23T18:00:00+00:00",
+      "updated_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "published_at": "2026-09-30T12:45:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:45:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "50000000-0000-4000-8000-000000000003",
+      "slug": "morris-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Morris Township, NJ",
+      "meta_title": "Home services in Morris Township, NJ | A5",
+      "meta_description": "Repairs in Morris Township. A Morristown mailing address can still be the township. Tell us what's wrong.",
+      "h1": "Home services in Morris Township, NJ",
+      "primary_service_id": null,
+      "primary_location_id": "morris-township",
+      "primary_problem_id": null,
+      "primary_question": "Something around the house need fixing?",
+      "direct_answer": "Start with the problem.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:36:29.028857+00:00",
+      "updated_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "published_at": "2026-09-30T12:45:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:45:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000005",
+      "slug": "why-brick-steps-crack",
+      "page_type": "GUIDE",
+      "title": "Why brick steps crack",
+      "meta_title": "Why brick steps crack | A5",
+      "meta_description": "Why brick steps crack, what you can check without touching them, and when it is time to have a mason look.",
+      "h1": "Why brick steps crack",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": "brick-step-repair",
+      "primary_question": "Why do brick steps crack?",
+      "direct_answer": "Brick steps crack for ordinary reasons: the ground moves, water gets into the joints, freezing pries them open, and the mortar wears out. What you can see helps you decide how soon to call. It is not a diagnosis from the sidewalk.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-g001",
+      "reviewed_by": null,
+      "created_at": "2026-09-23T18:00:00+00:00",
+      "updated_at": "2026-09-30T00:30:45.668+00:00",
+      "reviewed_at": null,
+      "published_at": "2026-09-30T00:30:45.668+00:00",
+      "last_reviewed_at": null,
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000001",
+      "slug": "handyman",
+      "page_type": "SERVICE",
+      "title": "Handyman help for the repairs that pile up",
+      "meta_title": "Handyman help for doors, trim, and small repairs | A5",
+      "meta_description": "Is your repair list handyman work? What belongs on it, what to photograph, and what changes scope \u2014 for Madison, Chatham, Florham Park, and nearby NJ homes.",
+      "h1": "Handyman help for the repairs that pile up",
+      "primary_service_id": "handyman",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "Have a few things around the house that need fixing?",
+      "direct_answer": "That's exactly what handyman work is good for.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T00:30:51.466154+00:00",
+      "updated_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "published_at": "2026-09-30T12:00:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:00:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "50000000-0000-4000-8000-000000000004",
+      "slug": "morristown",
+      "page_type": "LOCATION",
+      "title": "Home services in Morristown, NJ",
+      "meta_title": "Home services in Morristown, NJ | A5",
+      "meta_description": "Repairs in the Town of Morristown. Tell us what failed and we'll help line up someone local.",
+      "h1": "Home services in Morristown, NJ",
+      "primary_service_id": null,
+      "primary_location_id": "morristown",
+      "primary_problem_id": null,
+      "primary_question": "Need help with a repair or project at home?",
+      "direct_answer": "Tell us what needs attention.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:36:29.028857+00:00",
+      "updated_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "published_at": "2026-09-30T12:45:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:45:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "50000000-0000-4000-8000-000000000001",
+      "slug": "florham-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Florham Park, NJ",
+      "meta_title": "Home services in Florham Park, NJ | A5",
+      "meta_description": "Repairs in Florham Park. Tell us what failed and we'll help line up someone local.",
+      "h1": "Home services in Florham Park, NJ",
+      "primary_service_id": null,
+      "primary_location_id": "florham-park",
+      "primary_problem_id": null,
+      "primary_question": "Need something fixed at home?",
+      "direct_answer": "Tell us what's going on.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-authority-draft",
+      "reviewed_by": "owner",
+      "created_at": "2026-09-30T12:36:29.028857+00:00",
+      "updated_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "published_at": "2026-09-30T12:45:00+00:00",
+      "last_reviewed_at": "2026-09-30T12:45:00+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "slug": "florham-park-handyman",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Handyman services in Florham Park, NJ",
+      "meta_title": "Handyman services in Florham Park, NJ",
+      "meta_description": "Plan a Florham Park repair visit for doors, trim, hardware and mounting. Organize your task list and request a preferred local vendor through A5.",
+      "h1": "Handyman services in Florham Park, NJ",
+      "primary_service_id": "handyman",
+      "primary_location_id": "florham-park",
+      "primary_problem_id": null,
+      "primary_question": "Can I combine several small repairs in a Florham Park service request?",
+      "direct_answer": "Yes. Send one prioritized list with the rooms, tasks and optional photos. A5 reviews the work and helps coordinate a suitable local provider. Identify electrical, plumbing or structural concerns separately so the request can be directed to the appropriate trade.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "slug": "florham-park-painting",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Painting services in Florham Park, NJ",
+      "meta_title": "Painting services in Florham Park, NJ",
+      "meta_description": "Request painting in Florham Park with a clear plan for rooms, trim, preparation and finish. A5 helps coordinate a preferred local vendor.",
+      "h1": "Painting services in Florham Park, NJ",
+      "primary_service_id": "painting",
+      "primary_location_id": "florham-park",
+      "primary_problem_id": null,
+      "primary_question": "What should I include in a Florham Park painting request?",
+      "direct_answer": "List the rooms or exterior surfaces, describe peeling, stains or damage, and say whether ceilings, doors and trim are included. Mention older painted surfaces and known moisture issues before preparation starts. Photos help a provider distinguish finishing work from repairs that need attention first.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000003",
+      "slug": "madison-masonry",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Masonry services in Madison, NJ",
+      "meta_title": "Masonry services in Madison, NJ",
+      "meta_description": "Plan masonry repairs in Madison for brick steps, mortar and walks. Compare repair scopes, prepare useful photos and request local help through A5.",
+      "h1": "Masonry services in Madison, NJ",
+      "primary_service_id": "masonry",
+      "primary_location_id": "madison",
+      "primary_problem_id": null,
+      "primary_question": "How do I start a masonry repair request in Madison?",
+      "direct_answer": "Show the whole set of steps, walk or wall and a close-up of the damage. Explain whether anything is loose, leaning or separating and mention previous repairs. A5 reviews the request; the masonry provider assesses whether targeted repair or more extensive work is appropriate.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-g001",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-09-23T18:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-09-30T00:30:45.668+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "slug": "madison-plumbing",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Plumbing services in Madison, NJ",
+      "meta_title": "Plumbing services in Madison, NJ",
+      "meta_description": "Request scheduled plumbing help in Madison for toilets, faucets and fixture projects. Prepare symptoms, photos and replacement details for provider review.",
+      "h1": "Plumbing services in Madison, NJ",
+      "primary_service_id": "plumbing",
+      "primary_location_id": "madison",
+      "primary_problem_id": null,
+      "primary_question": "Can A5 help arrange a scheduled plumbing visit in Madison?",
+      "direct_answer": "A5 can review a request for a running toilet, leaking fixture or planned replacement and help coordinate an appropriate local professional. Include the symptoms and whether water is actively leaking. Immediate hazards require urgent assistance; A5 is not an emergency dispatch service.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "slug": "chatham-electrical",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Electrical services in Chatham, NJ",
+      "meta_title": "Electrical services in Chatham, NJ",
+      "meta_description": "Plan scheduled electrical work in Chatham for lighting, outlets and fans. Confirm Borough or Township, product details and the scope before the visit.",
+      "h1": "Electrical services in Chatham, NJ",
+      "primary_service_id": "electrical",
+      "primary_location_id": "chatham",
+      "primary_problem_id": null,
+      "primary_question": "What does A5 need for an electrical request in Chatham?",
+      "direct_answer": "Describe the light, outlet, switch or fan and say whether it is a repair or planned change. Include your address and whether the property is in Chatham Borough or Chatham Township. Those are separate municipalities, so the professional should confirm the correct construction contact for the work.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "slug": "chatham-tile",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Tile services in Chatham, NJ",
+      "meta_title": "Tile services in Chatham, NJ",
+      "meta_description": "Plan tile and grout repair in Chatham around matching materials, moisture observations, access and Borough or Township project contacts.",
+      "h1": "Tile services in Chatham, NJ",
+      "primary_service_id": "tile",
+      "primary_location_id": "chatham",
+      "primary_problem_id": null,
+      "primary_question": "Can a small tile repair be assessed before replacing a larger area?",
+      "direct_answer": "A provider can assess whether a targeted repair is practical after reviewing the damage, available matching material and underlying conditions. Send the whole tiled area, a close-up and any spare tile information. Recurring moisture or loose tiles should be discussed before treating the issue as cosmetic.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "slug": "morris-township-landscaping",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Landscaping services in Morris Township, NJ",
+      "meta_title": "Landscaping services in Morris Township, NJ",
+      "meta_description": "Organize a Morris Township yard project around cleanup, planting and water concerns. Define priorities and request a preferred local vendor through A5.",
+      "h1": "Landscaping services in Morris Township, NJ",
+      "primary_service_id": "landscaping",
+      "primary_location_id": "morris-township",
+      "primary_problem_id": null,
+      "primary_question": "How should I separate yard cleanup from a drainage concern?",
+      "direct_answer": "List cleanup and planting tasks separately from standing water or proposed grade changes. Show the wider area, access route and where water appears. A provider should assess the cause and proposed scope before work is described simply as adding soil or refreshing a bed.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "slug": "morris-township-drywall",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Drywall services in Morris Township, NJ",
+      "meta_title": "Drywall services in Morris Township, NJ",
+      "meta_description": "Request drywall and ceiling repair in Morris Township. Plan around damage history, access, finish matching and painting responsibilities.",
+      "h1": "Drywall services in Morris Township, NJ",
+      "primary_service_id": "drywall",
+      "primary_location_id": "morris-township",
+      "primary_problem_id": null,
+      "primary_question": "What should I send for a Morris Township drywall repair?",
+      "direct_answer": "Show the whole wall or ceiling and the damaged section, describe how it happened, and mention leaks or previous repairs. Say whether painting is needed. If water caused the damage, the source and affected materials need assessment before the finish repair is planned.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "41925100-219a-447f-8ffb-3381330613e3",
+      "slug": "morristown-masonry",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Masonry services in Morristown, NJ",
+      "meta_title": "Masonry services in Morristown, NJ",
+      "meta_description": "Plan masonry work in Morristown for walks, pavers, mortar and steps. Clarify access, repair limits and restoration before requesting a local provider.",
+      "h1": "Masonry services in Morristown, NJ",
+      "primary_service_id": "masonry",
+      "primary_location_id": "morristown",
+      "primary_problem_id": null,
+      "primary_question": "What helps a provider assess a Morristown walkway or paver repair?",
+      "direct_answer": "Show the entire route, the uneven or damaged area and adjoining surfaces. Describe where water collects and whether the surface has been repaired before. Ask the provider to distinguish resetting or replacing visible material from any base work included in the proposal.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "slug": "morristown-painting",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Painting services in Morristown, NJ",
+      "meta_title": "Painting services in Morristown, NJ",
+      "meta_description": "Plan a Morristown painting project with clear preparation, surface and access details. Request a preferred local vendor through A5.",
+      "h1": "Painting services in Morristown, NJ",
+      "primary_service_id": "painting",
+      "primary_location_id": "morristown",
+      "primary_problem_id": null,
+      "primary_question": "How do I prepare an exterior painting request in Morristown?",
+      "direct_answer": "Identify the surfaces, show peeling or damaged areas and describe access around the property. Separate paint preparation from repairs to trim or other materials. Discuss older-paint concerns before disturbing coatings, and confirm any local review needed if the scope changes beyond painting.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "slug": "east-hanover-landscaping",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Landscaping services in East Hanover, NJ",
+      "meta_title": "Landscaping services in East Hanover, NJ",
+      "meta_description": "Plan East Hanover cleanup, planting and yard improvements. Separate maintenance from earthwork and clarify the scope before requesting a provider.",
+      "h1": "Landscaping services in East Hanover, NJ",
+      "primary_service_id": "landscaping",
+      "primary_location_id": "east-hanover",
+      "primary_problem_id": null,
+      "primary_question": "What should I clarify before a yard project involving earthwork in East Hanover?",
+      "direct_answer": "Describe whether the project is cleanup, planting or a change to ground levels. East Hanover's construction page identifies grading approval before a building permit when earthwork is involved. Confirm which reviews apply to the actual proposal before work begins; not every yard task has the same scope.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "slug": "east-hanover-plumbing",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Plumbing services in East Hanover, NJ",
+      "meta_title": "Plumbing services in East Hanover, NJ",
+      "meta_description": "Plan scheduled plumbing repairs and fixture replacements in East Hanover with clear symptoms, access details and scope questions.",
+      "h1": "Plumbing services in East Hanover, NJ",
+      "primary_service_id": "plumbing",
+      "primary_location_id": "east-hanover",
+      "primary_problem_id": null,
+      "primary_question": "How do I plan a fixture replacement in East Hanover?",
+      "direct_answer": "Share the existing fixture, the proposed replacement and any access limitations before ordering or scheduling. Ask the professional to confirm fit, connections, surrounding finish work and permit or inspection responsibilities. A5 coordinates scheduled requests; the provider confirms the actual installation scope.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "slug": "prepare-a-handyman-repair-list",
+      "page_type": "GUIDE",
+      "title": "How to prepare a handyman repair list",
+      "meta_title": "How to prepare a handyman repair list",
+      "meta_description": "Turn scattered home repairs into a clear request: priorities, photos, materials and questions to ask before work begins.",
+      "h1": "How to prepare a handyman repair list",
+      "primary_service_id": "handyman",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I include in a handyman request?",
+      "direct_answer": "Group the tasks by room, identify the most important repair, and show each item with a photo and a short description. Note which materials you already have. Separate electrical, plumbing and structural concerns so the request can be reviewed for the appropriate trade.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "slug": "compare-masonry-repair-proposals",
+      "page_type": "GUIDE",
+      "title": "How to compare masonry repair proposals",
+      "meta_title": "How to compare masonry repair proposals",
+      "meta_description": "Compare the scope behind masonry estimates: repair areas, base work, matching materials, access, cleanup and exclusions.",
+      "h1": "How to compare masonry repair proposals",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "How should I compare estimates for masonry repair?",
+      "direct_answer": "Compare the work each proposal includes before comparing the price. Identify the exact repair area, any base or drainage work, material matching, removal and disposal, and the treatment of steps or railings. Ask each provider to explain assumptions and exclusions in writing.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "slug": "plan-a-yard-cleanup-and-planting-project",
+      "page_type": "GUIDE",
+      "title": "Plan a yard cleanup and planting project",
+      "meta_title": "Plan a yard cleanup and planting project",
+      "meta_description": "Separate cleanup, planting and drainage concerns so your landscaping request has clear priorities and a useful scope.",
+      "h1": "Plan a yard cleanup and planting project",
+      "primary_service_id": "landscaping",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I include in a landscaping project brief?",
+      "direct_answer": "Mark the areas to clean up, what should stay, what you want changed and how debris should be handled. For planting, describe the use of the space and your maintenance preferences. List standing water or grade changes separately so the provider can assess them before proposing work.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "slug": "plan-a-painting-project",
+      "page_type": "GUIDE",
+      "title": "What to agree before a painting project",
+      "meta_title": "What to agree before a painting project",
+      "meta_description": "Build a painting brief covering surfaces, preparation, finish, protection, access and older-paint questions before comparing proposals.",
+      "h1": "What to agree before a painting project",
+      "primary_service_id": "painting",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should a painting proposal include?",
+      "direct_answer": "Identify the rooms or exterior surfaces, their condition, the preparation included and the finish you want. Agree on protection, repairs, materials, cleanup and touch-ups. If older painted surfaces will be disturbed, discuss lead-safe assessment and work practices before preparation begins.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "slug": "plan-drywall-repair-after-a-leak",
+      "page_type": "GUIDE",
+      "title": "Planning drywall repair after a leak",
+      "meta_title": "Planning drywall repair after a leak",
+      "meta_description": "Organize leak resolution, wall or ceiling assessment, access, finish matching and painting into a clear repair sequence.",
+      "h1": "Planning drywall repair after a leak",
+      "primary_service_id": "drywall",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should happen before damaged drywall is repaired?",
+      "direct_answer": "Explain the leak history and confirm that the water source has been assessed before arranging the finish repair. The provider should assess the affected material, discuss whether other work is needed, and define the repair and painting scope. Photos alone cannot establish that a cavity is dry or sound.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "slug": "prepare-for-a-tile-repair",
+      "page_type": "GUIDE",
+      "title": "How to prepare for a tile repair",
+      "meta_title": "How to prepare for a tile repair",
+      "meta_description": "Plan a tile repair around spare materials, the extent of damage, grout matching, access and the condition behind the visible finish.",
+      "h1": "How to prepare for a tile repair",
+      "primary_service_id": "tile",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What information helps a provider assess a tile repair?",
+      "direct_answer": "Show the whole tiled area and the damaged section, say whether tiles are loose or cracked, and mention any recurring moisture. Check for spare tiles and packaging, but let the provider assess compatibility. Ask whether the scope covers only the visible finish or also the underlying surface.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "slug": "prepare-for-a-plumbing-service-visit",
+      "page_type": "GUIDE",
+      "title": "Prepare for a scheduled plumbing visit",
+      "meta_title": "Prepare for a scheduled plumbing visit",
+      "meta_description": "Describe fixture problems clearly, gather useful product details and compare repair or replacement scopes before a scheduled plumbing visit.",
+      "h1": "Prepare for a scheduled plumbing visit",
+      "primary_service_id": "plumbing",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I send before a scheduled plumbing visit?",
+      "direct_answer": "Identify the fixture or visible pipe, explain when the issue occurs and share photos without dismantling anything. Mention active water leakage, access limitations, previous repairs and any replacement product you have chosen. A5 reviews scheduled requests; it is not an emergency dispatch service.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "slug": "plan-lighting-and-electrical-updates",
+      "page_type": "GUIDE",
+      "title": "Plan a lighting or electrical service request",
+      "meta_title": "Plan a lighting or electrical service request",
+      "meta_description": "Organize lighting, outlet and fan requests with clear symptoms, product details, access needs and questions for the electrical professional.",
+      "h1": "Plan a lighting or electrical service request",
+      "primary_service_id": "electrical",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I include in an electrical service request?",
+      "direct_answer": "Describe the affected light, outlet, switch or fan and when the issue occurs. Share product details for planned replacements and note whether other devices are affected. Do not remove covers or test wiring for photos. The electrical professional determines the assessment and installation requirements.",
+      "sections": [],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "owner-approved-authority-expansion",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-07T19:25:14.794+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "title": "Brick masonry maintenance overview (industry reference)",
+      "url": "https://www.bia.org/",
+      "publisher": "Brick Industry Association",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-09-23T18:00:00+00:00",
+      "reviewed_at": "2026-09-23T18:00:00+00:00",
+      "created_at": "2026-09-23T18:00:00+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000001",
+      "title": "NOAA NCEI 1991\u20132020 climate normals, Canoe Brook NJ (USC00281335)",
+      "url": "https://www.ncei.noaa.gov/access/services/data/v1?dataset=normals-monthly-1991-2020&stations=USC00281335&dataTypes=MLY-TMAX-NORMAL,MLY-TMIN-NORMAL&format=json",
+      "publisher": "NOAA National Centers for Environmental Information",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000002",
+      "title": "Brick Industry Association Technical Note 14B, de-icing agents on clay pavers",
+      "url": "https://www.gobrick.com/media/file/14b-paving-systems-using-clay-pavers-on-a-bituminous-setting-bed.pdf",
+      "publisher": "Brick Industry Association",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000003",
+      "title": "Brick Industry Association Technical Note 1, cold-weather masonry",
+      "url": "https://www.gobrick.com/media/file/1-tn1.pdf",
+      "publisher": "Brick Industry Association",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000004",
+      "title": "New Jersey State Board of Examiners of Master Plumbers",
+      "url": "https://www.njconsumeraffairs.gov/plu/Pages/FAQ.aspx",
+      "publisher": "New Jersey Division of Consumer Affairs",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000005",
+      "title": "N.J.S.A. 45:5A-9, electrical contractor license",
+      "url": "https://law.justia.com/codes/new-jersey/title-45/section-45-5a-9/",
+      "publisher": "New Jersey Legislature",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000006",
+      "title": "N.J.A.C. 5:23, Uniform Construction Code administration",
+      "url": "https://www.nj.gov/dca/codes/codreg/pdf_regs/njac_5_23_2.pdf",
+      "publisher": "New Jersey Department of Community Affairs",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000007",
+      "title": "New Jersey One Call, private facilities",
+      "url": "https://www.nj1-call.org/training-safety/private-facilities/",
+      "publisher": "New Jersey One Call",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000008",
+      "title": "40 CFR Part 745 Subpart E, lead renovation rule",
+      "url": "https://www.ecfr.gov/current/title-40/chapter-I/subchapter-R/part-745/subpart-E",
+      "publisher": "U.S. Environmental Protection Agency",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:00:00+00:00",
+      "reviewed_at": "2026-09-30T12:00:00+00:00",
+      "created_at": "2026-09-30T12:03:56.792548+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-000000000009",
+      "title": "Borough of Florham Park, Mayor and Council",
+      "url": "https://www.florhamparknj.gov/departments/mayorandcouncil",
+      "publisher": "Borough of Florham Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-00000000000a",
+      "title": "Borough of Madison official site",
+      "url": "https://www.rosenet.org/",
+      "publisher": "Borough of Madison",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-00000000000b",
+      "title": "Chatham Borough official site",
+      "url": "https://www.chathamborough.org/",
+      "publisher": "Chatham Borough",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-00000000000c",
+      "title": "Township of Chatham official site",
+      "url": "https://chathamtownship.org/",
+      "publisher": "Township of Chatham",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-00000000000d",
+      "title": "Morris Township official site",
+      "url": "https://morristwp.com/",
+      "publisher": "Morris Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-00000000000e",
+      "title": "Town of Morristown, local government",
+      "url": "https://www.townofmorristown.org/government",
+      "publisher": "Town of Morristown",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "40000000-0000-4000-8000-00000000000f",
+      "title": "Township of East Hanover, About East Hanover",
+      "url": "https://www.easthanovertownship.com/pages/about-east-hanover",
+      "publisher": "Township of East Hanover",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-09-30T12:45:00+00:00",
+      "reviewed_at": "2026-09-30T12:45:00+00:00",
+      "created_at": "2026-09-30T12:36:28.897732+00:00"
+    },
+    {
+      "id": "78b2f50a-a35f-4a8d-888f-113327358ab9",
+      "title": "ESFI Electrical Safety Dos",
+      "url": "https://www.esfi.org/electrical-safety-dos/",
+      "publisher": "Electrical Safety Foundation International",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "573433f1-18fd-4ef6-8c6d-f6e3d0a350ef",
+      "title": "EPA mold cleanup guidance",
+      "url": "https://www.epa.gov/mold/what-are-basic-mold-cleanup-steps",
+      "publisher": "U.S. Environmental Protection Agency",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+      "title": "Madison Building & Construction Department",
+      "url": "https://www.rosenet.org/153/Building-Construction-Department",
+      "publisher": "Borough of Madison",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "2dcc0469-542d-4308-897f-071bfafe7e0f",
+      "title": "Florham Park permitting",
+      "url": "https://www.florhamparknj.gov/Permitting",
+      "publisher": "Borough of Florham Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "2d03e7a1-c974-403a-8a50-204dc8b9b196",
+      "title": "Chatham Borough planning, zoning and construction",
+      "url": "https://www.chathamborough.org/departments/construction",
+      "publisher": "Borough of Chatham",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "8970530f-4bba-4d2c-84da-14077c80cdc5",
+      "title": "Chatham Township construction",
+      "url": "https://chathamtownship.org/directory/construction/",
+      "publisher": "Chatham Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "162f5bbb-6bdf-4b3d-851e-afc66fa18e24",
+      "title": "Morris Township building and construction",
+      "url": "https://www.morristwp.com/121/Building",
+      "publisher": "Morris Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "a5ed55ee-550c-4a89-8f2f-00ba1011837e",
+      "title": "Morristown building and construction",
+      "url": "https://www.townofmorristown.org/building",
+      "publisher": "Town of Morristown",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "56520e2c-d568-4e99-84b5-a85a715936d5",
+      "title": "East Hanover Construction Department",
+      "url": "https://www.easthanovertownship.com/Departments/construction-department",
+      "publisher": "Township of East Hanover",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    },
+    {
+      "id": "1e275fc2-26c3-4d9f-8bcb-a11c3fdb43fd",
+      "title": "EPA Lead Renovation, Repair and Painting Program",
+      "url": "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program",
+      "publisher": "U.S. Environmental Protection Agency",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-07T00:00:00+00:00",
+      "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+      "created_at": "2026-10-07T19:25:15.095842+00:00"
+    }
+  ],
+  "content_sources": [
+    {
+      "content_page_id": "10000000-0000-4000-8000-000000000005",
+      "source_id": "00000000-0000-4000-8000-000000000001",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "10000000-0000-4000-8000-000000000001",
+      "source_id": "40000000-0000-4000-8000-000000000003",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "20000000-0000-4000-8000-000000000002",
+      "source_id": "40000000-0000-4000-8000-000000000007",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "20000000-0000-4000-8000-000000000003",
+      "source_id": "40000000-0000-4000-8000-000000000008",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "20000000-0000-4000-8000-000000000006",
+      "source_id": "40000000-0000-4000-8000-000000000004",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "20000000-0000-4000-8000-000000000006",
+      "source_id": "40000000-0000-4000-8000-000000000006",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "20000000-0000-4000-8000-000000000007",
+      "source_id": "40000000-0000-4000-8000-000000000005",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "20000000-0000-4000-8000-000000000007",
+      "source_id": "40000000-0000-4000-8000-000000000006",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "30000000-0000-4000-8000-000000000003",
+      "source_id": "40000000-0000-4000-8000-000000000004",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "30000000-0000-4000-8000-000000000008",
+      "source_id": "40000000-0000-4000-8000-000000000005",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "30000000-0000-4000-8000-000000000009",
+      "source_id": "40000000-0000-4000-8000-000000000005",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "30000000-0000-4000-8000-00000000000b",
+      "source_id": "40000000-0000-4000-8000-000000000008",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "30000000-0000-4000-8000-00000000000d",
+      "source_id": "40000000-0000-4000-8000-000000000007",
+      "relationship_type": "REGULATORY"
+    },
+    {
+      "content_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "source_id": "2dcc0469-542d-4308-897f-071bfafe7e0f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "source_id": "2dcc0469-542d-4308-897f-071bfafe7e0f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "source_id": "1e275fc2-26c3-4d9f-8bcb-a11c3fdb43fd",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "10000000-0000-4000-8000-000000000003",
+      "source_id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "source_id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "source_id": "2d03e7a1-c974-403a-8a50-204dc8b9b196",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "source_id": "8970530f-4bba-4d2c-84da-14077c80cdc5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "source_id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "source_id": "78b2f50a-a35f-4a8d-888f-113327358ab9",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "source_id": "2d03e7a1-c974-403a-8a50-204dc8b9b196",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "source_id": "8970530f-4bba-4d2c-84da-14077c80cdc5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "source_id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "source_id": "162f5bbb-6bdf-4b3d-851e-afc66fa18e24",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "source_id": "162f5bbb-6bdf-4b3d-851e-afc66fa18e24",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "source_id": "573433f1-18fd-4ef6-8c6d-f6e3d0a350ef",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "source_id": "a5ed55ee-550c-4a89-8f2f-00ba1011837e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "source_id": "a5ed55ee-550c-4a89-8f2f-00ba1011837e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "source_id": "1e275fc2-26c3-4d9f-8bcb-a11c3fdb43fd",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "source_id": "56520e2c-d568-4e99-84b5-a85a715936d5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "source_id": "56520e2c-d568-4e99-84b5-a85a715936d5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "source_id": "1e275fc2-26c3-4d9f-8bcb-a11c3fdb43fd",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "source_id": "573433f1-18fd-4ef6-8c6d-f6e3d0a350ef",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "source_id": "78b2f50a-a35f-4a8d-888f-113327358ab9",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "content_relationships": [
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000005",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "10000000-0000-4000-8000-000000000005",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000005",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000006",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000006",
+      "to_page_id": "30000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000007",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000007",
+      "to_page_id": "30000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000007",
+      "to_page_id": "30000000-0000-4000-8000-00000000000c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000008",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000008",
+      "to_page_id": "30000000-0000-4000-8000-000000000009",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000009",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000009",
+      "to_page_id": "30000000-0000-4000-8000-000000000008",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000a",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000b",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000c",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000c",
+      "to_page_id": "30000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000d",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000d",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000001",
+      "to_page_id": "30000000-0000-4000-8000-00000000000c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-00000000000b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-00000000000a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000006",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000006",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000006",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000007",
+      "to_page_id": "30000000-0000-4000-8000-000000000008",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000007",
+      "to_page_id": "30000000-0000-4000-8000-000000000009",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "30000000-0000-4000-8000-00000000000b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-00000000000c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-000000000009",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "30000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-00000000000a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-00000000000c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000008",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-00000000000b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000001",
+      "to_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "to_page_id": "30000000-0000-4000-8000-00000000000c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000c",
+      "to_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "to_page_id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "to_page_id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000003",
+      "to_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "to_page_id": "50000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000001",
+      "to_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "to_page_id": "30000000-0000-4000-8000-00000000000b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000b",
+      "to_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "to_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "to_page_id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000001",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000002",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "10000000-0000-4000-8000-000000000005",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000005",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000003",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "10000000-0000-4000-8000-000000000003",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000006",
+      "to_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "to_page_id": "10000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000002",
+      "to_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000003",
+      "to_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000004",
+      "to_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "to_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "to_page_id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000007",
+      "to_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "to_page_id": "30000000-0000-4000-8000-000000000008",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000008",
+      "to_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "to_page_id": "30000000-0000-4000-8000-000000000009",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000009",
+      "to_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "to_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "to_page_id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000005",
+      "to_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "to_page_id": "50000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000002",
+      "to_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "to_page_id": "30000000-0000-4000-8000-00000000000a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000a",
+      "to_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "to_page_id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "to_page_id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000002",
+      "to_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000d",
+      "to_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "to_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "to_page_id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000004",
+      "to_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "to_page_id": "50000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000003",
+      "to_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "to_page_id": "30000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000006",
+      "to_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "to_page_id": "30000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000007",
+      "to_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "to_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "to_page_id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000001",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000002",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "10000000-0000-4000-8000-000000000005",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000005",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "41925100-219a-447f-8ffb-3381330613e3",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000003",
+      "to_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "to_page_id": "50000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000004",
+      "to_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "to_page_id": "30000000-0000-4000-8000-00000000000b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000b",
+      "to_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "to_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "to_page_id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000002",
+      "to_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000d",
+      "to_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "to_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "to_page_id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000006",
+      "to_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "to_page_id": "50000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "50000000-0000-4000-8000-000000000005",
+      "to_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000003",
+      "to_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000004",
+      "to_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "to_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "to_page_id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "relationship_type": "LOCAL_VARIANT"
+    },
+    {
+      "from_page_id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "to_page_id": "20000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000001",
+      "to_page_id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "to_page_id": "30000000-0000-4000-8000-00000000000c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000c",
+      "to_page_id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "10000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000001",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "10000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000004",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "30000000-0000-4000-8000-000000000001",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000001",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "30000000-0000-4000-8000-000000000002",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000002",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "to_page_id": "10000000-0000-4000-8000-000000000005",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "10000000-0000-4000-8000-000000000005",
+      "to_page_id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "to_page_id": "20000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000002",
+      "to_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "to_page_id": "30000000-0000-4000-8000-00000000000d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000d",
+      "to_page_id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "to_page_id": "20000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000003",
+      "to_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "to_page_id": "30000000-0000-4000-8000-00000000000b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000b",
+      "to_page_id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "to_page_id": "20000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000004",
+      "to_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "to_page_id": "30000000-0000-4000-8000-000000000006",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000006",
+      "to_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "to_page_id": "30000000-0000-4000-8000-000000000005",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000005",
+      "to_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "to_page_id": "30000000-0000-4000-8000-000000000007",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000007",
+      "to_page_id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "to_page_id": "20000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000005",
+      "to_page_id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "to_page_id": "30000000-0000-4000-8000-00000000000a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-00000000000a",
+      "to_page_id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "to_page_id": "20000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000006",
+      "to_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "to_page_id": "30000000-0000-4000-8000-000000000003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000003",
+      "to_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "to_page_id": "30000000-0000-4000-8000-000000000004",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000004",
+      "to_page_id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "to_page_id": "20000000-0000-4000-8000-000000000007",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "20000000-0000-4000-8000-000000000007",
+      "to_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "to_page_id": "30000000-0000-4000-8000-000000000008",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000008",
+      "to_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "to_page_id": "30000000-0000-4000-8000-000000000009",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "30000000-0000-4000-8000-000000000009",
+      "to_page_id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "relationship_type": "SUPPORTING_GUIDE"
+    }
+  ],
+  "problems": [
+    {
+      "id": "loose-or-damaged-trim",
+      "slug": "loose-or-damaged-trim",
+      "name": "Loose or damaged trim",
+      "description": "Baseboard, casing, or other interior trim that is loose, split, or pulling away from the wall.",
+      "created_at": "2026-09-30T00:30:46.514357+00:00"
+    },
+    {
+      "id": "wall-mounting",
+      "slug": "wall-mounting",
+      "name": "Wall mounting",
+      "description": "Mounting a television, shelf, curtain rod, or similar item where the homeowner wants it fastened securely.",
+      "created_at": "2026-09-30T00:30:46.793754+00:00"
+    },
+    {
+      "id": "worn-door-hardware",
+      "slug": "worn-door-hardware",
+      "name": "Worn door hardware",
+      "description": "A handle, lockset, hinge, or closer that is loose, worn, or no longer operating smoothly.",
+      "created_at": "2026-09-30T00:30:46.903336+00:00"
+    },
+    {
+      "id": "punch-list-repairs",
+      "slug": "punch-list-repairs",
+      "name": "Punch-list repairs",
+      "description": "A short list of small finish repairs after other work, or a set of minor items the homeowner wants handled together.",
+      "created_at": "2026-09-30T00:30:47.023215+00:00"
+    },
+    {
+      "id": "small-carpentry-repair",
+      "slug": "small-carpentry-repair",
+      "name": "Small carpentry repair",
+      "description": "A limited wood repair such as a shelf, casing return, or small section of trim \u2014 not a full remodel.",
+      "created_at": "2026-09-30T00:30:47.141999+00:00"
+    },
+    {
+      "id": "sunken-pavers",
+      "slug": "sunken-pavers",
+      "name": "Sunken pavers",
+      "description": "Patio or walkway pavers that have settled, rocked, or created a trip edge.",
+      "created_at": "2026-09-30T00:30:47.50233+00:00"
+    },
+    {
+      "id": "loose-mortar",
+      "slug": "loose-mortar",
+      "name": "Loose mortar",
+      "description": "Mortar joints that are cracking, receding, or falling out of brick or stone.",
+      "created_at": "2026-09-30T00:30:47.606236+00:00"
+    },
+    {
+      "id": "damaged-brick-walkway",
+      "slug": "damaged-brick-walkway",
+      "name": "Damaged brick walkway",
+      "description": "A brick walk that is heaving, broken, or uneven underfoot.",
+      "created_at": "2026-09-30T00:30:47.713542+00:00"
+    },
+    {
+      "id": "uneven-stone-patio",
+      "slug": "uneven-stone-patio",
+      "name": "Uneven stone patio",
+      "description": "A stone or paver patio surface that has shifted and is no longer a comfortable walking surface.",
+      "created_at": "2026-09-30T00:30:47.821299+00:00"
+    },
+    {
+      "id": "shifting-retaining-wall",
+      "slug": "shifting-retaining-wall",
+      "name": "Shifting retaining wall",
+      "description": "A low masonry retaining wall that is leaning, separating, or losing stones. Structural engineering is a separate question when movement is severe.",
+      "created_at": "2026-09-30T00:30:47.929585+00:00"
+    },
+    {
+      "id": "overgrown-planting-beds",
+      "slug": "overgrown-planting-beds",
+      "name": "Overgrown planting beds",
+      "description": "Beds that have filled with weeds, crowded plants, or spent growth the homeowner wants cleaned up.",
+      "created_at": "2026-09-30T00:30:48.03682+00:00"
+    },
+    {
+      "id": "landscape-cleanup",
+      "slug": "landscape-cleanup",
+      "name": "Landscape cleanup",
+      "description": "A yard that needs debris, leaves, or overgrowth cleared so the property is usable again.",
+      "created_at": "2026-09-30T00:30:48.170022+00:00"
+    },
+    {
+      "id": "new-planting-beds",
+      "slug": "new-planting-beds",
+      "name": "New planting beds",
+      "description": "A homeowner who wants beds edged, soil improved, and plants installed as a defined landscape project.",
+      "created_at": "2026-09-30T00:30:48.272095+00:00"
+    },
+    {
+      "id": "seasonal-yard-cleanup",
+      "slug": "seasonal-yard-cleanup",
+      "name": "Seasonal yard cleanup",
+      "description": "Spring or fall cleanup: leaves, cutbacks, and bed refresh rather than a full redesign.",
+      "created_at": "2026-09-30T00:30:48.492386+00:00"
+    },
+    {
+      "id": "worn-interior-paint",
+      "slug": "worn-interior-paint",
+      "name": "Worn interior paint",
+      "description": "Walls or ceilings whose paint is scuffed, faded, or ready for a fresh coat.",
+      "created_at": "2026-09-30T00:30:48.602891+00:00"
+    },
+    {
+      "id": "trim-paint-failure",
+      "slug": "trim-paint-failure",
+      "name": "Trim paint failure",
+      "description": "Window, door, or base trim whose paint is chipped or peeling while the surrounding walls may be fine.",
+      "created_at": "2026-09-30T00:30:48.820013+00:00"
+    },
+    {
+      "id": "paint-after-patching",
+      "slug": "paint-after-patching",
+      "name": "Paint after patching",
+      "description": "A wall or ceiling that has been repaired and now needs paint so the patch disappears.",
+      "created_at": "2026-09-30T00:30:48.933366+00:00"
+    },
+    {
+      "id": "hole-in-drywall",
+      "slug": "hole-in-drywall",
+      "name": "Hole in drywall",
+      "description": "A puncture, doorknob hole, or missing piece of drywall the homeowner wants patched.",
+      "created_at": "2026-09-30T00:30:49.050654+00:00"
+    },
+    {
+      "id": "ceiling-drywall-damage",
+      "slug": "ceiling-drywall-damage",
+      "name": "Ceiling drywall damage",
+      "description": "A ceiling that is sagging, cracked, or opened and needs drywall repair rather than paint alone.",
+      "created_at": "2026-09-30T00:30:49.271618+00:00"
+    },
+    {
+      "id": "unfinished-drywall-repair",
+      "slug": "unfinished-drywall-repair",
+      "name": "Unfinished drywall repair",
+      "description": "A patch that was started but not taped, coated, or sanded to a paintable surface.",
+      "created_at": "2026-09-30T00:30:49.502238+00:00"
+    },
+    {
+      "id": "cracked-floor-tile",
+      "slug": "cracked-floor-tile",
+      "name": "Cracked floor tile",
+      "description": "One or more floor tiles that are cracked and need replacement rather than a full floor redo.",
+      "created_at": "2026-09-30T00:30:49.60457+00:00"
+    },
+    {
+      "id": "loose-backsplash-tile",
+      "slug": "loose-backsplash-tile",
+      "name": "Loose backsplash tile",
+      "description": "Kitchen or bath backsplash tiles that have loosened or fallen.",
+      "created_at": "2026-09-30T00:30:49.705654+00:00"
+    },
+    {
+      "id": "bathroom-floor-tile-repair",
+      "slug": "bathroom-floor-tile-repair",
+      "name": "Bathroom floor tile repair",
+      "description": "Bathroom floor tile that is cracked, loose, or missing in a limited area.",
+      "created_at": "2026-09-30T00:30:49.812027+00:00"
+    },
+    {
+      "id": "cracked-shower-tile",
+      "slug": "cracked-shower-tile",
+      "name": "Cracked shower tile",
+      "description": "Shower wall tile that is cracked or loose. Waterproofing behind the tile is part of the project question, not something A5 diagnoses from a photo alone.",
+      "created_at": "2026-09-30T00:30:50.028426+00:00"
+    },
+    {
+      "id": "dripping-faucet",
+      "slug": "dripping-faucet",
+      "name": "Dripping faucet",
+      "description": "A faucet that drips or a handle that no longer shuts the water off cleanly.",
+      "created_at": "2026-09-30T00:30:50.14414+00:00"
+    },
+    {
+      "id": "running-toilet",
+      "slug": "running-toilet",
+      "name": "Running toilet",
+      "description": "A toilet that keeps running, refills constantly, or has a weak flush.",
+      "created_at": "2026-09-30T00:30:50.257668+00:00"
+    },
+    {
+      "id": "fixture-replacement",
+      "slug": "fixture-replacement",
+      "name": "Fixture replacement",
+      "description": "Replacing a faucet, toilet, or similar plumbing fixture as a planned project.",
+      "created_at": "2026-09-30T00:30:50.475036+00:00"
+    },
+    {
+      "id": "water-heater-replacement-project",
+      "slug": "water-heater-replacement-project",
+      "name": "Water heater replacement project",
+      "description": "A water heater the homeowner wants replaced or evaluated as a scheduled project rather than an urgent dispatch.",
+      "created_at": "2026-09-30T00:30:50.583011+00:00"
+    },
+    {
+      "id": "dead-outlet",
+      "slug": "dead-outlet",
+      "name": "Dead outlet",
+      "description": "An outlet that has no power or works intermittently.",
+      "created_at": "2026-09-30T00:30:50.779375+00:00"
+    },
+    {
+      "id": "faulty-switch",
+      "slug": "faulty-switch",
+      "name": "Faulty switch",
+      "description": "A switch that is loose, cracked, or no longer controls the light reliably.",
+      "created_at": "2026-09-30T00:30:50.872139+00:00"
+    },
+    {
+      "id": "ceiling-fan-project",
+      "slug": "ceiling-fan-project",
+      "name": "Ceiling fan project",
+      "description": "Installing or replacing a ceiling fan, including the question of whether the box and wiring can support it.",
+      "created_at": "2026-09-30T00:30:50.985823+00:00"
+    },
+    {
+      "id": "lighting-update",
+      "slug": "lighting-update",
+      "name": "Lighting update",
+      "description": "A planned change of lighting fixtures in a room or on a porch.",
+      "created_at": "2026-09-30T00:30:51.098055+00:00"
+    },
+    {
+      "id": "yard-surface-grading",
+      "slug": "yard-surface-grading",
+      "name": "Standing water",
+      "description": "A lawn or bed area where surface water sits because the grade slopes toward the house or a low spot. This is landscape grading, not a buried drainage system design.",
+      "created_at": "2026-09-30T00:30:48.384817+00:00"
+    },
+    {
+      "id": "failed-light-fixture",
+      "slug": "failed-light-fixture",
+      "name": "Light not working",
+      "description": "A light that does not work, flickers, or needs the fixture itself replaced.",
+      "created_at": "2026-09-30T00:30:50.686008+00:00"
+    },
+    {
+      "id": "visible-pipe-leak",
+      "slug": "visible-pipe-leak",
+      "name": "Pipe leak",
+      "description": "A leak the homeowner can see at a pipe, valve, or supply line. Not an emergency-dispatch promise.",
+      "created_at": "2026-09-30T00:30:50.366714+00:00"
+    },
+    {
+      "id": "drywall-crack",
+      "slug": "drywall-crack",
+      "name": "Drywall cracks",
+      "description": "A crack in a wall or ceiling that may be cosmetic or may need to be opened and retaped.",
+      "created_at": "2026-09-30T00:30:49.162322+00:00"
+    },
+    {
+      "id": "water-damaged-ceiling",
+      "slug": "water-damaged-ceiling",
+      "name": "Ceiling water damage",
+      "description": "A ceiling stain, bubble, or soft spot after a leak. The leak source, the drywall, and the finish are often separate parts of the same homeowner problem.",
+      "created_at": "2026-09-30T00:30:49.386047+00:00"
+    },
+    {
+      "id": "crumbling-grout",
+      "slug": "crumbling-grout",
+      "name": "Grout",
+      "description": "Grout that is cracking or washing out. This is a repair need, not a claim of specialty stone restoration.",
+      "created_at": "2026-09-30T00:30:49.921634+00:00"
+    },
+    {
+      "id": "sticking-interior-door",
+      "slug": "sticking-interior-door",
+      "name": "Sticking door",
+      "description": "An interior door that rubs, sticks, or no longer latches after seasonal movement or a loose hinge.",
+      "created_at": "2026-09-30T00:30:46.323572+00:00"
+    },
+    {
+      "id": "peeling-exterior-paint",
+      "slug": "peeling-exterior-paint",
+      "name": "Peeling paint",
+      "description": "Exterior siding or trim where paint is peeling, chalking, or failing and needs preparation before recoating.",
+      "created_at": "2026-09-30T00:30:48.72751+00:00"
+    },
+    {
+      "id": "recurring-electrical-issue",
+      "slug": "recurring-electrical-issue",
+      "name": "Recurring electrical issue",
+      "description": "A circuit, fixture, or device that keeps failing and needs a qualified electrical professional to look at the cause.",
+      "created_at": "2026-09-30T00:30:51.208533+00:00"
+    },
+    {
+      "id": "brick-step-repair",
+      "slug": "brick-step-repair",
+      "name": "Brick steps",
+      "description": "Brick front steps that are cracking, shifting, crumbling, or becoming uneven \u2014 a common masonry concern for Northern New Jersey homeowners.",
+      "created_at": "2026-09-23T18:00:00+00:00"
+    }
+  ],
+  "problem_services": [
+    {
+      "problem_id": "brick-step-repair",
+      "service_id": "masonry"
+    },
+    {
+      "problem_id": "sticking-interior-door",
+      "service_id": "handyman"
+    },
+    {
+      "problem_id": "loose-or-damaged-trim",
+      "service_id": "handyman"
+    },
+    {
+      "problem_id": "wall-mounting",
+      "service_id": "handyman"
+    },
+    {
+      "problem_id": "worn-door-hardware",
+      "service_id": "handyman"
+    },
+    {
+      "problem_id": "punch-list-repairs",
+      "service_id": "handyman"
+    },
+    {
+      "problem_id": "small-carpentry-repair",
+      "service_id": "handyman"
+    },
+    {
+      "problem_id": "sunken-pavers",
+      "service_id": "masonry"
+    },
+    {
+      "problem_id": "loose-mortar",
+      "service_id": "masonry"
+    },
+    {
+      "problem_id": "damaged-brick-walkway",
+      "service_id": "masonry"
+    },
+    {
+      "problem_id": "uneven-stone-patio",
+      "service_id": "masonry"
+    },
+    {
+      "problem_id": "shifting-retaining-wall",
+      "service_id": "masonry"
+    },
+    {
+      "problem_id": "overgrown-planting-beds",
+      "service_id": "landscaping"
+    },
+    {
+      "problem_id": "landscape-cleanup",
+      "service_id": "landscaping"
+    },
+    {
+      "problem_id": "new-planting-beds",
+      "service_id": "landscaping"
+    },
+    {
+      "problem_id": "yard-surface-grading",
+      "service_id": "landscaping"
+    },
+    {
+      "problem_id": "seasonal-yard-cleanup",
+      "service_id": "landscaping"
+    },
+    {
+      "problem_id": "worn-interior-paint",
+      "service_id": "painting"
+    },
+    {
+      "problem_id": "peeling-exterior-paint",
+      "service_id": "painting"
+    },
+    {
+      "problem_id": "trim-paint-failure",
+      "service_id": "painting"
+    },
+    {
+      "problem_id": "paint-after-patching",
+      "service_id": "painting"
+    },
+    {
+      "problem_id": "hole-in-drywall",
+      "service_id": "drywall"
+    },
+    {
+      "problem_id": "drywall-crack",
+      "service_id": "drywall"
+    },
+    {
+      "problem_id": "ceiling-drywall-damage",
+      "service_id": "drywall"
+    },
+    {
+      "problem_id": "water-damaged-ceiling",
+      "service_id": "plumbing"
+    },
+    {
+      "problem_id": "water-damaged-ceiling",
+      "service_id": "drywall"
+    },
+    {
+      "problem_id": "water-damaged-ceiling",
+      "service_id": "painting"
+    },
+    {
+      "problem_id": "unfinished-drywall-repair",
+      "service_id": "drywall"
+    },
+    {
+      "problem_id": "cracked-floor-tile",
+      "service_id": "tile"
+    },
+    {
+      "problem_id": "loose-backsplash-tile",
+      "service_id": "tile"
+    },
+    {
+      "problem_id": "bathroom-floor-tile-repair",
+      "service_id": "tile"
+    },
+    {
+      "problem_id": "crumbling-grout",
+      "service_id": "tile"
+    },
+    {
+      "problem_id": "cracked-shower-tile",
+      "service_id": "tile"
+    },
+    {
+      "problem_id": "dripping-faucet",
+      "service_id": "plumbing"
+    },
+    {
+      "problem_id": "running-toilet",
+      "service_id": "plumbing"
+    },
+    {
+      "problem_id": "visible-pipe-leak",
+      "service_id": "plumbing"
+    },
+    {
+      "problem_id": "fixture-replacement",
+      "service_id": "plumbing"
+    },
+    {
+      "problem_id": "water-heater-replacement-project",
+      "service_id": "plumbing"
+    },
+    {
+      "problem_id": "failed-light-fixture",
+      "service_id": "electrical"
+    },
+    {
+      "problem_id": "dead-outlet",
+      "service_id": "electrical"
+    },
+    {
+      "problem_id": "faulty-switch",
+      "service_id": "electrical"
+    },
+    {
+      "problem_id": "ceiling-fan-project",
+      "service_id": "electrical"
+    },
+    {
+      "problem_id": "lighting-update",
+      "service_id": "electrical"
+    },
+    {
+      "problem_id": "recurring-electrical-issue",
+      "service_id": "electrical"
+    }
+  ]
+}
