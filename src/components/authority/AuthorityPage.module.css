@@ -1,64 +1,21 @@
-.main {
-  padding: var(--space-7) var(--space-4) var(--space-9);
-  background:
-    radial-gradient(ellipse 80% 50% at 10% 0%, rgba(11, 95, 99, 0.06), transparent),
-    linear-gradient(180deg, var(--color-paper) 0%, var(--color-paper-deep) 100%);
-  min-height: 70vh;
+.main { padding: var(--space-6) var(--gutter) var(--page-space); min-height: 70vh; background: var(--color-paper); }
+.inner { max-width: calc(var(--width-content) - 2 * var(--gutter)); margin-inline: auto; }
+.fixtureNote { display: inline-block; font-size: var(--text-small); color: var(--color-muted); border: 1px solid var(--color-line); border-radius: var(--radius-sm); padding: var(--space-2) var(--space-3); margin-bottom: var(--space-4); }
+.articleLayout { display: grid; grid-template-columns: minmax(0, 15rem) minmax(0, 42rem); gap: var(--space-8); align-items: start; }
+.articleAside { position: sticky; top: calc(var(--header-height) + 2rem); }
+.articleAside h2 { font-family: var(--font-body); font-size: .9375rem; line-height: 1.5; font-weight: 700; }
+.articleAside ol { list-style: none; margin-top: var(--space-3); border-left: 1px solid var(--color-line); }
+.articleAside li a { display: block; padding: .5rem 0 .5rem var(--space-4); text-decoration: none; font-size: var(--text-small); line-height: 1.5; color: var(--color-ink-soft); }
+.articleAside li a:hover { color: var(--color-accent); text-decoration: underline; text-underline-offset: .2em; }
+.helpCard { padding: var(--space-5); margin-top: var(--space-6); border-radius: var(--radius-md); background: var(--color-accent-soft); }
+.helpCard p { font-size: var(--text-small); margin: var(--space-3) 0 var(--space-4); color: var(--color-ink-soft); }
+.helpCard a { padding-inline: 1rem; }
+.articleBody { min-width: 0; }
+@media (max-width: 850px) {
+  .articleLayout { grid-template-columns: minmax(0, 1fr); gap: var(--space-6); max-width: var(--width-editorial); }
+  .articleAside { position: static; }
+  .articleAside nav { padding: var(--space-4); border: 1px solid var(--color-line); border-radius: var(--radius-md); }
+  .articleAside ol { display: flex; flex-wrap: wrap; gap: .4rem 1rem; border: 0; }
+  .articleAside li a { padding: .4rem 0; }
+  .helpCard { display: none; }
 }
-
-.inner {
-  max-width: var(--width-editorial);
-  margin: 0 auto;
-}
-
-.kind {
-  margin: 0 0 var(--space-2);
-  font-size: var(--text-small);
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--color-accent);
-}
-
-.main[data-kind="GUIDE"] .h1,
-.main[data-kind="COST_GUIDE"] .h1 {
-  font-size: var(--text-display);
-  max-width: 16ch;
-}
-
-.main[data-kind="PROBLEM"] .header {
-  border-left: 3px solid var(--color-accent);
-  padding-left: var(--space-4);
-}
-
-.main[data-kind="LOCATION"] .kind,
-.main[data-kind="SERVICE_LOCATION"] .kind {
-  color: var(--color-ink-soft);
-}
-
-.header {
-  margin-bottom: var(--space-6);
-}
-
-.h1 {
-  margin: 0;
-  font-family: var(--font-display);
-  font-size: var(--text-h1);
-  line-height: 1.15;
-  color: var(--color-ink);
-  max-width: 20ch;
-}
-
-.fixtureNote {
-  display: inline-block;
-  margin: 0 0 var(--space-3);
-  padding: var(--space-1) var(--space-2);
-  font-size: 0.75rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--color-muted);
-  border: 1px solid var(--color-line);
-  border-radius: var(--radius-sm);
-}
-
-.main[data-kind="SERVICE"] .inner, .main[data-kind="SERVICE_LOCATION"] .inner { max-width: 74rem; }

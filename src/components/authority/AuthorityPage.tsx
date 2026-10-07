@@ -1,3 +1,7 @@
+import { Button } from "@/components/Button";
+import { PageIntro } from "@/components/templates/PageIntro";
+import { buildPageOutline } from "@/lib/authority/outline";
+import { requestHref } from "@/lib/intake/context";
 import { ServiceLanding } from "./ServiceLanding";
 import type { ReactNode } from "react";
 import { AuthorityBreadcrumbs } from "@/components/authority/AuthorityBreadcrumbs";
@@ -20,6 +24,8 @@ type Props = {
 };
 
 export function AuthorityPage({ page, children }: Props) {
+  const outline = buildPageOutline(page);
+  const kinds: Record<string, string> = { LOCATION: "In your neighborhood", PROBLEM: "Start with what you see", GUIDE: "Homeowner guide", COST_GUIDE: "Planning your project", COMPARISON: "Know your options", PROJECT: "Project story", CORE: "About A5" };
   const path =
     buildContentPathFromRecord(page, page.problem?.slug) ?? `/${page.slug}`;
   const crumbs = buildBreadcrumbs(page, {
@@ -75,7 +81,16 @@ export function AuthorityPage({ page, children }: Props) {
         ) : null}
         {page.page_type === "SERVICE" || page.page_type === "SERVICE_LOCATION" ? (
           <ServiceLanding page={page}><AuthoritySections page={page} />{children}</ServiceLanding>
-        ) : <><header className={styles.header}><h1 className={styles.h1}>{page.h1}</h1></header><AuthoritySections page={page} />{children}</>}
+        ) : <>
+          <PageIntro eyebrow={kinds[page.page_type]} title={page.h1} />
+          <div className={styles.articleLayout}>
+            <aside className={styles.articleAside}>
+              {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}
+              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and coordinate next steps.</p><Button href={requestHref({ service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service →</Button></div>
+            </aside>
+            <div className={styles.articleBody}><AuthoritySections page={page} />{children}</div>
+          </div>
+        </>}
 
       </div>
     </main>

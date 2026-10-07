@@ -1,3 +1,5 @@
+import Link from "next/link";
+import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import { VendorEditor } from "@/components/admin/VendorEditor";
 import styles from "@/components/admin/admin.module.css";
 
@@ -11,7 +13,8 @@ export default async function NewVendorPage({
   const query = await searchParams;
   return (
     <>
-      <h1 className={styles.title}>Create vendor</h1>
+      <Link className={styles.backLink} href="/admin/vendors">← All vendors</Link>
+      <AdminPageHeader title="Create vendor" description="Start with contact details, add coverage and credentials, then confirm the working relationship." />
       <VendorEditor error={query.error ?? null} />
     </>
   );

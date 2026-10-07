@@ -1,7 +1,8 @@
 "use client";
 
-import Link from "next/link";
-import { useId, useState } from "react";
+import { Brand } from "./Brand";
+import { useId, useRef, useState } from "react";
+import { usePathname } from "next/navigation";
 import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
 import { Button } from "./Button";
@@ -17,6 +18,8 @@ const NAV = [
 export function Header() {
   const [open, setOpen] = useState(false);
   const menuId = useId();
+  const toggle = useRef<HTMLButtonElement>(null);
+  const pathname = usePathname();
   const tel = phoneTelHref(SITE.phone);
 
   function close() {
@@ -24,16 +27,13 @@ export function Header() {
   }
 
   return (
-    <header className={styles.header}>
+    <header className={styles.header} onKeyDown={event => { if (event.key === "Escape" && open) { close(); toggle.current?.focus(); } }}>
       <div className={styles.inner}>
-        <Link className={styles.brand} href="/" onClick={close} aria-label={SITE.name}>
-          <span className={styles.brandMark}>A5</span>
-          <span className={styles.brandName}>Home Services</span>
-        </Link>
+        <Brand onClick={close} />
 
         <nav className={styles.desktopNav} aria-label="Primary">
           {NAV.map((item) => (
-            <a key={item.href} className={styles.navLink} href={item.href}>
+            <a key={item.href} className={styles.navLink} aria-current={pathname === item.href ? "page" : undefined} href={item.href}>
               {item.label}
             </a>
           ))}
@@ -48,12 +48,13 @@ export function Header() {
             variant="primary"
             dataCta="header-get-help"
           >
-            Request Service
+            Request service
           </Button>
         </div>
 
         <button
           type="button"
+          ref={toggle}
           className={styles.menuToggle}
           aria-expanded={open}
           aria-controls={menuId}
@@ -75,7 +76,7 @@ export function Header() {
         className={open ? `${styles.mobilePanel} ${styles.mobilePanelOpen}` : styles.mobilePanel}
         hidden={!open}
       >
-        <nav className={styles.mobileNav} aria-label="Mobile">
+        <nav className={styles.mobileNav} aria-label="Mobile" onClick={event => { if (event.target instanceof Element && event.target.closest("a")) close(); }}>
           {NAV.map((item) => (
             <a
               key={item.href}
@@ -100,7 +101,7 @@ export function Header() {
             className={styles.mobileCta}
             dataCta="header-get-help-mobile"
           >
-            Request Service
+            Request service
           </Button>
         </nav>
       </div>

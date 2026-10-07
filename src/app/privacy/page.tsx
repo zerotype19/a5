@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { SITE } from "@config/site";
-import styles from "../request-service/placeholder.module.css";
+import styles from "@/components/templates/templates.module.css";
 
 export const metadata: Metadata = {
   title: "Privacy",
@@ -11,9 +11,9 @@ export const metadata: Metadata = {
 
 export default function PrivacyPage() {
   return (
-    <main className={styles.main}>
+    <main className={`${styles.page} ${styles.reading} ${styles.prose}`}>
       <p className={styles.eyebrow}>Legal</p>
-      <h1 className={styles.title}>Privacy</h1>
+      <h1 className={styles.legalTitle}>Privacy</h1>
       <p className={styles.body}>
         This page describes how {SITE.name} handles information submitted
         through {SITE.domain}. It was last updated on October 7, 2026.

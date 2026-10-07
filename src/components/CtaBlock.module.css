@@ -10,7 +10,8 @@
 
 .title {
   font-family: var(--font-display);
-  font-size: clamp(1.85rem, 3.5vw, 2.65rem);
+  font-size: var(--text-h2);
+  font-weight: 500;
   line-height: 1.12;
   letter-spacing: -0.02em;
   color: var(--color-on-hero);
@@ -30,6 +31,6 @@
 
 @media (min-width: 900px) {
   .block {
-    grid-template-columns: 1.4fr auto;
+    grid-template-columns: 1fr;
   }
 }

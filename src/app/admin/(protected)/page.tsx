@@ -1,6 +1,7 @@
+import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import Link from "next/link";
 import { loadDashboard } from "@/lib/admin/data";
-import { DASHBOARD_STATUS_COUNTS } from "@/lib/admin/format";
+import { DASHBOARD_STATUS_COUNTS, formatStatus } from "@/lib/admin/format";
 import { LeadsTable } from "@/components/admin/LeadsTable";
 import styles from "@/components/admin/admin.module.css";
 
@@ -9,12 +10,7 @@ export default async function AdminDashboardPage() {
 
   return (
     <>
-      <h1 className={styles.title}>Dashboard</h1>
-      <p className={styles.lede}>
-        What is happening in A5 right now — canonical lead counts and what needs
-        attention.
-      </p>
-
+      <AdminPageHeader title="Overview" description="Review new requests, move active projects forward, and keep provider handoffs on track." actions={<Link className={styles.primaryButton} href="/admin/leads?attention=1">Review new leads ↗</Link>} />
       <section className={styles.section} aria-labelledby="needs-attention">
         <h2 id="needs-attention" className={styles.sectionTitle}>
           Needs attention
@@ -36,10 +32,10 @@ export default async function AdminDashboardPage() {
         ) : (
           <div className={styles.counts}>
             {DASHBOARD_STATUS_COUNTS.map((status) => (
-              <div key={status} className={styles.count}>
+              <Link key={status} href={`/admin/leads?status=${status}`} className={styles.count}>
                 <span className={styles.countValue}>{counts[status]}</span>
-                <span className={styles.countLabel}>{status}</span>
-              </div>
+                <span className={styles.countLabel}>{formatStatus(status)}</span>
+              </Link>
             ))}
           </div>
         )}

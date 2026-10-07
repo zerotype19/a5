@@ -1,3 +1,5 @@
+import Link from "next/link";
+import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import { notFound } from "next/navigation";
 import { VendorEditor } from "@/components/admin/VendorEditor";
 import { loadVendor } from "@/lib/admin/vendors";
@@ -20,7 +22,8 @@ export default async function VendorDetailPage({
   if (!vendor) notFound();
   return (
     <>
-      <h1 className={styles.title}>{vendor.businessName}</h1>
+      <Link className={styles.backLink} href="/admin/vendors">← All vendors</Link>
+      <AdminPageHeader title={vendor.businessName} description="Work through the contact details, coverage and credentials, then save the relationship settings." />
       {query.notice ? (
         <p className={styles.flashNotice} role="status">
           {query.notice}

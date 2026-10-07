@@ -57,7 +57,7 @@ describe("A5-D001 design system", () => {
 
   it("keeps public navigation free of admin and uses one primary header CTA", () => {
     const header = read("src/components/Header.tsx");
-    assert.match(header, /Request Service/);
+    assert.match(header, /Request service/);
     assert.doesNotMatch(header, /\/admin/);
     assert.match(header, /label: "Services"/);
     assert.match(header, /label: "Areas"/);

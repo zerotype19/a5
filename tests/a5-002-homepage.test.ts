@@ -18,14 +18,14 @@ const requestService = readFileSync(
 );
 
 describe("A5-002 public homepage", () => {
-  it("renders homepage module with problem-first hero copy", () => {
+  it("renders homepage module with clear home-service positioning", () => {
     assert.match(
       homepage,
-      /A home you love\./,
+      /services easier\./,
     );
     assert.match(homepage, /SITE\.phone/);
-    assert.match(homepage, /Tell us what needs fixing/);
-    assert.match(header, /Request Service/);
+    assert.match(homepage, /We make home/);
+    assert.match(header, /Request service/);
     assert.doesNotMatch(header, /Admin/);
   });
 
