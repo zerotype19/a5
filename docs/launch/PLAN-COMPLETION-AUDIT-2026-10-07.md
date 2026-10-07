@@ -1,6 +1,6 @@
 # Plan completion audit — October 7, 2026
 
-The public foundation, authority expansion and operations workflow are now released. GA4 received verification events, Search Console access and sitemap submission are verified, and the scheduled internal alert was accepted by the email provider. [Current release evidence](../operations/RELEASE-2026-10-07.md) records the results and limits. The operating plan remains open for inbox confirmation, daily ownership, verified fulfillment/business evidence, full-path rehearsal and final content review/publication. Pilot and expansion choices are deferred.
+The public foundation, authority expansion and operations workflow are now released. GA4 received verification events, Search Console access and sitemap submission are verified, and the scheduled internal alert was accepted by the email provider. [Current release evidence](../operations/RELEASE-2026-10-07.md) records the results and limits. The operating plan remains open for daily ownership, verified fulfillment/business evidence, full-path rehearsal and final content review/publication. Paid pilot spending remains deferred. The owner authorized beginning content and geographic expansion on October 7; specific new towns and verified provider reach are being established.
 
 The baseline and gap table below preserve the original audit findings; the implementation progress section records what has since closed.
 
@@ -87,10 +87,10 @@ Automatic vendor routing, AI classification/scoring, SMS, programmatic publishin
 
 ## Implementation progress after owner approval
 
-PR #25 merged and deployed: lead outcome workflow, audited project values/follow-up dates and scheduled internal alerts are live. The controlled alert has SENT state with one attempt, and the scheduled handler recorded one sent, zero failed and no exceptions. Inbox confirmation is still pending.
+PR #25 merged and deployed: lead outcome workflow, audited project values/follow-up dates and scheduled internal alerts are live. The controlled alert has SENT state with one attempt, and the scheduled handler recorded one sent, zero failed and no exceptions. The owner confirmed inbox receipt on October 7.
 
 GA4 G-ZLD8SRP78F is deployed with consent checks and received realtime verification events. Search Console access, sitemap resubmission and a representative live URL inspection/indexing request are complete. Current indexing reports lag the latest release; no ranking or lead-quality outcome is claimed.
 
 A first editorial draft pass covers all eight existing service hubs and fourteen problem pages. See [the review package](../editorial/REVIEW-STATUS.md). It remains unpublished pending technical/source review, scope evidence, rendered preview and final content approval.
 
-README, authority inventory, original readiness, ADR-007 and ADR-009 reconciliation is complete. Historical release records are retained. Full-path fulfillment rehearsal, actual provider evidence, operator ownership, business model and genuine project/team evidence remain open. Pilot/expansion choices remain explicitly deferred.
+README, authority inventory, original readiness, ADR-007 and ADR-009 reconciliation is complete. Historical release records are retained. Full-path fulfillment rehearsal, actual provider evidence, operator ownership, business model and genuine project/team evidence remain open. Paid pilot spending remains deferred. Content/geographic expansion is now authorized to begin; see ../expansion-wave-2/TASK.md.

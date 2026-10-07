@@ -16,6 +16,6 @@ See [the current release evidence](RELEASE-2026-10-07.md) for commit/Worker IDs,
 
 ## Remaining evidence
 
-The internal alert is SENT with one attempt and no error; inbox placement still awaits confirmation. The full public form/photo/vendor-response rehearsal, named operator/escalation ownership, verified fulfillment/business evidence, source review and publication of the 22-page editorial draft remain open. Search indexing and real conversion/fulfillment results require subsequent evidence.
+The internal alert is SENT with one attempt and no error; the owner confirmed inbox receipt on October 7. The full public form/photo/vendor-response rehearsal, named operator/escalation ownership, verified fulfillment/business evidence, source review and publication of the 22-page editorial draft remain open. Search indexing and real conversion/fulfillment results require subsequent evidence.
 
-The owner explicitly deferred pilot spending, initial pilot services and expansion priorities. No campaigns, vendor outreach or expanded coverage have been activated.
+The owner deferred pilot spending and initial pilot services, then authorized starting content and geographic expansion on October 7. No campaigns, vendor outreach or expanded coverage have been activated.

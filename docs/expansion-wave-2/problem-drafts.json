@@ -1,0 +1,330 @@
+{
+  "prepared_at": "2026-10-07",
+  "status": "DRAFT_NOT_PUBLISHED",
+  "pages": [
+    {
+      "slug": "punch-list-repairs",
+      "service": "handyman",
+      "title": "Home repair punch lists: turn small jobs into a clear request",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with the result, not the diagnosis",
+          "paragraphs": [
+            "Write \u201cmake the bedroom door close and latch\u201d rather than guessing which part needs replacing. For loose trim, identify the room and the affected section. For mounting work, name the item and show the intended location. A clear list makes it easier to discuss what belongs in the estimate."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate priorities from optional extras",
+          "paragraphs": [
+            "Mark the items you most want addressed and put lower-priority work underneath. Mention access restrictions and any dates that matter to you. A request does not reserve a visit or guarantee that every item can be completed together.",
+            "Include electrical or plumbing concerns in the description, but identify them clearly. A5 may need to coordinate a separate trade rather than treating the entire list as general handyman work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Agree on materials and the finished result",
+          "paragraphs": [
+            "Tell the provider which replacement handles, shelves or other materials you already own. Include product details before buying anything else for the work. Ask who will obtain remaining materials and whether painting, disposal or cleanup is included.",
+            "If work will disturb older painted surfaces, mention the approximate age of the home. EPA provides lead-safe renovation guidance for work in pre-1978 housing; the contractor should assess the requirements for the actual project."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Photos that make the list easier to review",
+          "paragraphs": [
+            "Use a wide view to locate each job and a detail photo for damage or hardware. The A5 form accepts up to five photos, so prioritize items that are hard to explain. Keep the remaining jobs in the written list."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Related planning help",
+          "paragraphs": [],
+          "links": [
+            {
+              "href": "/services/handyman",
+              "label": "Handyman services"
+            },
+            {
+              "href": "/guides/prepare-a-handyman-repair-list",
+              "label": "Prepare a handyman repair list"
+            },
+            {
+              "href": "/services/handyman/sticking-interior-door",
+              "label": "Help with a sticking door"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources"
+        },
+        {
+          "type": "CTA",
+          "title": "Tell us about the project",
+          "description": "Share your ZIP code, project details and optional photos. A5 reviews the request and checks for an appropriate provider. The provider confirms scope, estimate and timing."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program",
+          "claim": "Lead-safe renovation context for pre-1978 housing; does not establish scope or price for a specific repair."
+        }
+      ],
+      "page_type": "PROBLEM",
+      "status": "DRAFT",
+      "indexable": false,
+      "path": "/services/handyman/punch-list-repairs",
+      "primary_question": "Can I put several small home repairs in one request?",
+      "direct_answer": "Yes. Make one room-by-room list and describe the result you want for each item. A5 can review the list and check which tasks fit a handyman visit and which need another trade. The provider confirms the work, materials and timing before you commit.",
+      "h1": "Home repair punch lists: turn small jobs into a clear request",
+      "meta_description": "Organize doors, trim, hardware and other small repairs into one clear request. Learn which details help a provider assess your home repair list.",
+      "meta_title": "Home repair punch lists: turn small jobs into a clear request | A5"
+    },
+    {
+      "slug": "paint-after-patching",
+      "service": "painting",
+      "title": "Painting after a wall patch: agree on the finished result",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe what has already been done",
+          "paragraphs": [
+            "Tell us whether the opening is still exposed, the patch is installed, or the surface has already been sanded or painted. Mention whether a plumber or another trade still needs access. Include any continuing stain, dampness or damage so the provider can assess the right sequence."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the painting boundary explicit",
+          "paragraphs": [
+            "Ask whether the proposal covers only the repaired spot, the whole wall or another agreed area. Discuss what a satisfactory match would look like in that room and whether the provider recommends a wider painting area. Do not rely on \u201cfinish the patch\u201d as the only description of the result.",
+            "Share an existing paint can label or product details if available. Mention whether keeping the current color is essential or whether you are open to repainting. The provider should assess product selection and preparation for the existing surface."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Account for the cause of the original damage",
+          "paragraphs": [
+            "If water caused the damage, describe whether the source has been repaired and what work remains. Do not present a new coat of paint as a substitute for assessing an unresolved problem.",
+            "For older painted surfaces, include the approximate house age. EPA recommends lead-safe certified contractors for renovation, repair or painting work in pre-1978 homes; discuss the applicable requirements before surface preparation."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Send the patch and its surroundings",
+          "paragraphs": [
+            "Take one photo of the whole wall and another of the repair. Include surrounding texture and a paint label if you have one. In your request, say whether you want drywall finishing, painting or help coordinating both."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Related planning help",
+          "paragraphs": [],
+          "links": [
+            {
+              "href": "/services/painting",
+              "label": "Painting services"
+            },
+            {
+              "href": "/services/drywall",
+              "label": "Drywall services"
+            },
+            {
+              "href": "/services/drywall/hole-in-drywall",
+              "label": "Repairing a drywall hole"
+            },
+            {
+              "href": "/guides/plan-a-painting-project",
+              "label": "Plan a painting project"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources"
+        },
+        {
+          "type": "CTA",
+          "title": "Tell us about the project",
+          "description": "Share your ZIP code, project details and optional photos. A5 reviews the request and checks for an appropriate provider. The provider confirms scope, estimate and timing."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program",
+          "claim": "Lead-safe contractor guidance for work in pre-1978 homes."
+        }
+      ],
+      "page_type": "PROBLEM",
+      "status": "DRAFT",
+      "indexable": false,
+      "path": "/services/painting/paint-after-patching",
+      "primary_question": "Does a drywall patch include painting the wall?",
+      "direct_answer": "Do not assume that patching and painting are included in the same scope. Ask the provider whether the estimate covers preparation, primer, paint and the area to be painted. Show the surrounding wall and any paint information you have so the finished appearance can be discussed before work starts.",
+      "h1": "Painting after a wall patch: agree on the finished result",
+      "meta_description": "Planning paint after a drywall patch? Clarify preparation, primer, paint matching and the area included before agreeing to the work.",
+      "meta_title": "Painting after a wall patch: agree on the finished result | A5"
+    },
+    {
+      "slug": "dripping-faucet",
+      "service": "plumbing",
+      "title": "Dripping faucet: what to share before a plumbing visit",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Locate the water without taking the faucet apart",
+          "paragraphs": [
+            "Is water dripping from the spout, appearing around the handle or collecting below the sink? Note whether it happens continuously or only while the faucet is running. A short description of that pattern is more useful than guessing which internal part failed.",
+            "EPA identifies worn faucet washers and gaskets as common causes of faucet leaks. That is general background, not a diagnosis of your fixture. The manufacturer and model help the plumber identify the appropriate parts and instructions."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make repair and replacement separate options",
+          "paragraphs": [
+            "Tell the provider whether your goal is to keep the faucet or replace it as part of a planned update. If you already have a replacement, share its product details and photos of the existing setup before the visit. Ask what the proposal includes and whether related valves or connections need assessment.",
+            "Avoid assuming that all dripping faucets use the same parts or that buying a new fixture completes the scope. The plumber needs to assess the actual installation and access."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Flag water outside the fixture",
+          "paragraphs": [
+            "Mention any water reaching the cabinet, wall or floor. If an active leak is uncontrolled, do not wait for an A5 scheduled-service request; contact an emergency plumbing service. Keep away from water near electrical equipment. A5 does not provide emergency dispatch."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Useful photos for your request",
+          "paragraphs": [
+            "Show the whole faucet, the point where water appears and the accessible area beneath the sink. Include the brand or model information if visible. Leave the plumbing assembled; photos are for starting the conversation, not diagnosing a hidden fault."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Related planning help",
+          "paragraphs": [],
+          "links": [
+            {
+              "href": "/services/plumbing",
+              "label": "Plumbing services"
+            },
+            {
+              "href": "/services/plumbing/visible-pipe-leak",
+              "label": "A visible pipe leak"
+            },
+            {
+              "href": "/guides/prepare-for-a-plumbing-service-visit",
+              "label": "Prepare for a plumbing visit"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources"
+        },
+        {
+          "type": "CTA",
+          "title": "Tell us about the project",
+          "description": "Share your ZIP code, project details and optional photos. A5 reviews the request and checks for an appropriate provider. The provider confirms scope, estimate and timing."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.epa.gov/watersense/fix-leak-week",
+          "claim": "Worn faucet washers and gaskets are common leak causes; no diagnosis, pricing or quantified savings claim."
+        }
+      ],
+      "page_type": "PROBLEM",
+      "status": "DRAFT",
+      "indexable": false,
+      "path": "/services/plumbing/dripping-faucet",
+      "primary_question": "Does a dripping faucet need repair or replacement?",
+      "direct_answer": "A drip does not by itself tell you whether the faucet needs replacing. Identify where the water appears, whether it happens with the handle off and what fixture you have. A plumber can assess the cause, available parts and overall condition before discussing repair or replacement.",
+      "h1": "Dripping faucet: what to share before a plumbing visit",
+      "meta_description": "Describe a dripping kitchen or bathroom faucet, gather useful photos and compare repair with replacement before arranging a plumbing visit.",
+      "meta_title": "Dripping faucet: what to share before a plumbing visit | A5"
+    },
+    {
+      "slug": "overgrown-planting-beds",
+      "service": "landscaping",
+      "title": "Overgrown planting beds: plan what to keep, clear and refresh",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Mark what stays before discussing removal",
+          "paragraphs": [
+            "Identify plants you value, established features you want preserved and anything you are unsure about. You do not need to identify every species yourself. A wide photo and a few notes can show the provider which decisions need a closer look.",
+            "Describe the outcome you want: a clearer path, more visible edging, easier maintenance or a refreshed appearance. Avoid using \u201cclear everything\u201d if you expect selected plants or features to remain."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate cleanup from a new planting project",
+          "paragraphs": [
+            "Ask the provider to distinguish clearing debris, managing overgrowth, edging, disposal and any proposed new planting. If you want replacements, discuss the site and ongoing care before choosing plants. Do not assume a cleanup estimate also includes redesigning the bed.",
+            "Mention access through gates, nearby structures and any irrigation or lighting you know about. If digging is proposed, the contractor should assess the relevant locating requirements. NJ One Call explains that privately owned facilities may require separate attention."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep drainage observations in the request",
+          "paragraphs": [
+            "If the bed also holds water after rain, photograph that condition and say how long it lasts. A cosmetic cleanup request may not describe the whole project. Ask the provider to assess whether the water issue needs separate work rather than assuming new planting will resolve it."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Send a simple keep-and-change brief",
+          "paragraphs": [
+            "Include a wide view, close-ups of the most overgrown sections and notes identifying what should stay. Explain whether your priority is a one-time reset or a plan for ongoing care. The provider confirms scope, estimate and availability after reviewing the work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Related planning help",
+          "paragraphs": [],
+          "links": [
+            {
+              "href": "/services/landscaping",
+              "label": "Landscaping services"
+            },
+            {
+              "href": "/services/landscaping/yard-surface-grading",
+              "label": "Water collecting in the yard"
+            },
+            {
+              "href": "/guides/plan-a-yard-cleanup-and-planting-project",
+              "label": "Plan cleanup and planting"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources"
+        },
+        {
+          "type": "CTA",
+          "title": "Tell us about the project",
+          "description": "Share your ZIP code, project details and optional photos. A5 reviews the request and checks for an appropriate provider. The provider confirms scope, estimate and timing."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.nj1-call.org/training-safety/private-facilities/",
+          "claim": "Private-facility locating context; no assertion that every planting project has the same requirements."
+        }
+      ],
+      "page_type": "PROBLEM",
+      "status": "DRAFT",
+      "indexable": false,
+      "path": "/services/landscaping/overgrown-planting-beds",
+      "primary_question": "Do overgrown planting beds need clearing out completely?",
+      "direct_answer": "Start by separating the plants and features you want to keep from the areas you want changed. Ask a landscaping provider to assess the existing bed and discuss cleanup, pruning or replacement options. A clear scope helps avoid treating an entire planting bed as material to remove.",
+      "h1": "Overgrown planting beds: plan what to keep, clear and refresh",
+      "meta_description": "Plan an overgrown planting-bed cleanup around what to keep, remove and refresh. Prepare useful photos and a clear scope for a landscaping request.",
+      "meta_title": "Overgrown planting beds: plan what to keep, clear and refresh | A5"
+    }
+  ]
+}

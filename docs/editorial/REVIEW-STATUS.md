@@ -32,4 +32,4 @@ The October 7 public snapshot contains 49 published records. Twelve existing sou
 4. Validate exactly 22 intended IDs against current `updated_at` values, source links, registry relationships and section schema.
 5. Obtain owner approval for the final content, snapshot current rows, apply only the approved fields, and verify rendered copy, internal links, canonical URLs and schema.
 
-The paid pilot and geography/service expansion remain deferred by the owner. Real project photography, case studies, provider facts and business-model confirmation remain separate evidence tasks.
+Paid pilot spending remains deferred. The owner subsequently authorized starting content and geographic expansion; see ../expansion-wave-2/TASK.md. Real project photography, case studies, provider facts and business-model confirmation remain separate evidence tasks.
