@@ -31,3 +31,7 @@ The owner explicitly deferred pilot spending, initial pilot services and expansi
 Chrome has authenticated access to the A5 Supabase project and Google Analytics; the in-app browser has separate signed-out sessions. Verified GA4 account 411229070, property 558009939, web stream 16063200619 and measurement ID G-ZLD8SRP78F. Enhanced Measurement was enabled and is now disabled to match the manual-event contract. The production build environment now contains the supplied measurement ID; no updated bundle has been deployed. GA4 currently reports no data received.
 
 The additive migration completed a production schema dry run ending in ROLLBACK. Nothing was retained. The outcome journey rehearsal and committed migration still remain pending. Native Chrome controls work, but concurrent changes to the active tab interrupted staging the rehearsal; browser work paused pending a clear interaction window.
+
+## Authorized release preparation
+
+The owner explicitly authorized deployment and continued plan completion. The exact migration file passed the production rollback-only outcome journey, including audit counts and public-role execution denial, and was then committed successfully. PostgREST returned HTTP 200 for all five new columns. No rehearsal lead changes were retained. The production outbox is empty before activation. The release config enables outcomes and internal alerts; the GA4 build ID remains G-ZLD8SRP78F. Deployment and delivery evidence will be recorded separately.

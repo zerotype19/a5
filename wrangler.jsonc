@@ -20,8 +20,8 @@
   "triggers": { "crons": ["*/5 * * * *"] },
   "vars": {
     "ENABLE_LAUNCH_PIPELINE": "true",
-    "ENABLE_OPERATIONS_ALERTS": "false",
-    "ENABLE_LEAD_OUTCOMES": "false",
+    "ENABLE_OPERATIONS_ALERTS": "true",
+    "ENABLE_LEAD_OUTCOMES": "true",
     "OPERATIONS_ALERT_EMAIL": "hello@a5homeservices.com"
   }
 }
