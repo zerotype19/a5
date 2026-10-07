@@ -45,6 +45,8 @@ Apply migrations to your Supabase project before testing live flows — producti
 | `npm run build:vinext` | Cloudflare Workers build. `NEXT_PUBLIC_*` values are inlined here. |
 | `npm run deploy:vinext` | Deploy the built Worker with Wrangler. Requires a prior `build:vinext`. |
 
-## Current slice
+## Current production state
 
-Public homepage, multi-step project intake, canonical lead submission (A5-004), optional private project photos (A5-005), **A5 Operations** admin shell (A5-006 Auth allowlist + A5-007 lead qualification, classification, notes, and lifecycle transitions), and the **A5 Authority Engine** foundation (A5-G001: content model, routes, publication gates — draft fixtures only; no page farm). See [`docs/AUTHORITY_ENGINE.md`](./docs/AUTHORITY_ENGINE.md). Qualified leads can be manually assigned to an eligible vendor (A5-008). Vendor notification is not enabled.
+The public foundation, responsive templates and authority directory are deployed. Supabase holds 49 published content records: 8 service hubs, 6 town hubs, 12 service/town pages, 14 problem pages and 9 guides. The sitemap contains 54 URLs. Intake supports optional private photos, idempotent submission and acquisition attribution. Operations supports qualification, notes, manual vendor assignment and email Accept/Pass. Vendor notification is implemented; internal new-lead alerts are a separate gated capability.
+
+Use [the current completion audit](docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md) for remaining operating, measurement and evidence requirements. The [operations task](docs/operations/TASK.md) and [verification record](docs/operations/VERIFICATION.md) describe work in progress; implementation does not mean production activation. Pilot spending and expansion choices are deferred at the owner's request.

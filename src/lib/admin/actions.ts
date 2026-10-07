@@ -5,6 +5,7 @@ import { redirect } from "next/navigation";
 import { SERVICES, type ServiceId } from "../../../config/services.ts";
 import { LOCATIONS, type LocationId } from "../../../config/locations.ts";import { getSupabaseAdmin } from "../supabase/admin.ts";
 import { resolveAdminAccess } from "./authorize.ts";
+import { validateOutcome } from "./outcomes.ts";
 import type { LeadStatus } from "../db/schema.ts";
 import {
   eventTypeForTransition,
@@ -234,4 +235,27 @@ export async function addLeadNote(formData: FormData): Promise<void> {
 
   revalidatePath(leadPath(leadId));
   redirectWith(leadId, "notice", "Note added.");
+}
+
+
+export async function recordLeadOutcome(formData: FormData): Promise<void> {
+  const admin = await gateAdmin();
+  if (process.env.ENABLE_LEAD_OUTCOMES !== "true") redirect("/admin/leads");
+  const leadId = String(formData.get("leadId") ?? "");
+  if (!isUuid(leadId)) redirect("/admin/leads");
+  const from = String(formData.get("expectedStatus") ?? "");
+  const to = String(formData.get("toStatus") ?? "");
+  const updatedAt = String(formData.get("expectedUpdatedAt") ?? "");
+  if (!isLeadStatus(from) || !isLeadStatus(to) || !Number.isFinite(Date.parse(updatedAt))) redirectWith(leadId, "error", "Invalid outcome request.");
+  const result = validateOutcome({from, to, estimated:String(formData.get("estimated") ?? ""), actual:String(formData.get("actual") ?? ""), reason:String(formData.get("reason") ?? ""), followUp:String(formData.get("followUp") ?? "")});
+  if (!result.ok) redirectWith(leadId, "error", result.error);
+  const {data,error} = await getSupabaseAdmin().rpc("admin_record_lead_outcome", {
+    p_lead_id:leadId, p_expected_status:from, p_expected_updated_at:updatedAt,
+    p_to_status:to, p_actor_user_id:admin.userId, p_estimated_value:result.estimated,
+    p_actual_value:result.actual, p_loss_reason:result.reason, p_follow_up_at:result.followUp,
+  });
+  const row = (Array.isArray(data) ? data[0] : data) as RpcRow | undefined;
+  if (error || !row?.ok) redirectWith(leadId,"error",row?.error_code === "stale_status" ? STALE_STATUS_MESSAGE : "Outcome was not saved. Refresh and check the details before retrying.");
+  for (const path of [leadPath(leadId),"/admin/leads","/admin","/admin/acquisition"]) revalidatePath(path);
+  redirectWith(leadId,"notice", "Progress and outcome saved.");
 }

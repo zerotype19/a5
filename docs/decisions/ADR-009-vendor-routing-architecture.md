@@ -34,3 +34,7 @@ Fulfillment is the production priority ahead of the next content batch.
 - A vendor email is a delivery attempt. It does not roll back a successful assignment.
 - The raw opportunity token is emailed once. The database stores only its SHA-256 hash. Links expire after 72 hours. A retry revokes older hashes for that assignment.
 - Accept and Pass are POST actions on `/opportunity/{token}`. They are one transaction and return the lead to QUALIFIED on pass. A vendor who passed is not assigned that lead again.
+
+## Reconciliation — later September 30 owner-approved open assignment
+
+The September 30 `20260930180000_open_vendor_assignment.sql` migration and matching application eligibility rule supersede the earlier ACTIVE/accepting/service/geography assignment gates above. An operator may manually select a vendor; a vendor who already passed that lead remains excluded. Coverage and status are evidence for the operator to review, not enforced eligibility gates. The October 7 operations work preserves that released behavior. Automatic routing stays disabled, imports do not activate vendors, and verified fulfillment readiness is a separate operating obligation.

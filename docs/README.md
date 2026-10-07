@@ -12,6 +12,6 @@ Canonical public site: [https://www.a5homeservices.com/](https://www.a5homeservi
 | [`/docs/migrations/`](./migrations/) | Migration CHANGE / REASON / ROLLBACK notes |
 | [`/config/`](../config/) | Approved services, locations, and site identity registries |
 
-## Phase note
+## Current plan
 
-Day 0 establishes foundation only (structure, docs, skeleton, CI). Product features begin only after owner-approved Day 1+ tasks.
+The public foundation and approved authority expansion are released. Start with [the completion audit](launch/PLAN-COMPLETION-AUDIT-2026-10-07.md), [production release evidence](launch/RELEASE-2026-10-07.md), and [the operations completion task](operations/TASK.md). Historical Day 0 and task documents describe their original milestones, not current production readiness. Pilot spending and new geography/service selection are deferred by the owner.

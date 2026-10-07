@@ -5,7 +5,7 @@
   "compatibility_flags": [
     "nodejs_compat"
   ],
-  "main": "vinext/server/fetch-handler",
+  "main": "worker.ts",
   "assets": {
     "directory": "dist/client",
     "not_found_handling": "none",
@@ -17,8 +17,11 @@
       "id": "100460eb8ce84b12a136617372d9aba6"
     }
   ],
+  "triggers": { "crons": ["*/5 * * * *"] },
   "vars": {
     "ENABLE_LAUNCH_PIPELINE": "true",
-    "ENABLE_OPERATIONS_ALERTS": "false"
+    "ENABLE_OPERATIONS_ALERTS": "true",
+    "ENABLE_LEAD_OUTCOMES": "true",
+    "OPERATIONS_ALERT_EMAIL": "hello@a5homeservices.com"
   }
 }

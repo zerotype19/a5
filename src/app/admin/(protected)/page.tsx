@@ -1,12 +1,14 @@
 import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import Link from "next/link";
-import { loadDashboard } from "@/lib/admin/data";
-import { DASHBOARD_STATUS_COUNTS, formatStatus } from "@/lib/admin/format";
+import { loadDashboard, loadDueFollowUps } from "@/lib/admin/data";
+import { DASHBOARD_STATUS_COUNTS, formatStatus, formatAdminDateTime } from "@/lib/admin/format";
 import { LeadsTable } from "@/components/admin/LeadsTable";
 import styles from "@/components/admin/admin.module.css";
 
 export default async function AdminDashboardPage() {
   const { counts, needsAttention, recent, totalLeads } = await loadDashboard();
+
+  const followUps = await loadDueFollowUps();
 
   return (
     <>
@@ -23,6 +25,9 @@ export default async function AdminDashboardPage() {
         </div>
       </section>
 
+      {followUps && <section className={styles.section} aria-labelledby="due-followups"><h2 id="due-followups" className={styles.sectionTitle}>Follow-ups due · {followUps.count}</h2>
+        {followUps.count === 0 ? <p className={styles.empty}>No scheduled follow-ups are due.</p> : <><p className={styles.mutedCopy}>Earliest 20 due follow-ups. Open a lead to record progress or update its follow-up date.</p><div className={styles.tableWrap}><table className={styles.table}><thead><tr><th>Lead</th><th>Status</th><th>Due · UTC</th></tr></thead><tbody>{followUps.rows.map(row=><tr key={row.id}><td data-label="Lead"><Link href={`/admin/leads/${row.id}#followup`}>{row.reference}</Link></td><td data-label="Status">{formatStatus(row.status)}</td><td data-label="Due">{formatAdminDateTime(row.due)}</td></tr>)}</tbody></table></div></>}
+      </section>}
       <section className={styles.section} aria-labelledby="status-counts">
         <h2 id="status-counts" className={styles.sectionTitle}>
           By status
