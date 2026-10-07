@@ -1,0 +1,129 @@
+{
+  "preparedAt": "2026-10-07T19:08:36.426Z",
+  "status": "DRAFT",
+  "pages": [
+    {
+      "id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "path": "/florham-park/handyman",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "path": "/florham-park/painting",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000003",
+      "path": "/madison/masonry",
+      "type": "SERVICE_LOCATION",
+      "action": "update"
+    },
+    {
+      "id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "path": "/madison/plumbing",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "ed98d35c-1fbf-4b61-8dcd-c7fdd8cf286f",
+      "path": "/chatham/electrical",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "3f502b73-517c-45b4-85f9-bbe7610a29e2",
+      "path": "/chatham/tile",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "path": "/morris-township/landscaping",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "16a42e34-5403-460b-86bb-a239a8d0e727",
+      "path": "/morris-township/drywall",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "41925100-219a-447f-8ffb-3381330613e3",
+      "path": "/morristown/masonry",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "62441130-9789-46f3-8a44-ed5ec1c2dc88",
+      "path": "/morristown/painting",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "5c34e10d-1b8e-4cd6-869e-9a89d054aaa1",
+      "path": "/east-hanover/landscaping",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "path": "/east-hanover/plumbing",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "14065b3b-edc9-456d-8c25-4477d6926fc6",
+      "path": "/guides/prepare-a-handyman-repair-list",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "fd69de21-031d-4045-8592-587cf3ba29d8",
+      "path": "/guides/compare-masonry-repair-proposals",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "94cded1c-ce58-4f1b-83f3-b6fd4652700a",
+      "path": "/guides/plan-a-yard-cleanup-and-planting-project",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "69e7be52-f5a3-430e-86ff-c04507e21720",
+      "path": "/guides/plan-a-painting-project",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "b7116263-8c5c-4bf5-8e1c-14f891434375",
+      "path": "/guides/plan-drywall-repair-after-a-leak",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "f31291f9-577e-4d8a-8e4f-9b45bfbe4e2f",
+      "path": "/guides/prepare-for-a-tile-repair",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "a4b32802-2640-41db-88eb-a37a66d9f5da",
+      "path": "/guides/prepare-for-a-plumbing-service-visit",
+      "type": "GUIDE",
+      "action": "insert"
+    },
+    {
+      "id": "e086f08d-9b02-4479-8e05-a8e127e3edc4",
+      "path": "/guides/plan-lighting-and-electrical-updates",
+      "type": "GUIDE",
+      "action": "insert"
+    }
+  ],
+  "sourceCount": 10,
+  "relationships": 164,
+  "contentSha256": "130c8fa6e75e6f0530eeb811cc1750630eef14352acf7f16cee655079077ec48"
+}

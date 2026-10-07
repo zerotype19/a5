@@ -38,3 +38,7 @@ A5 has multiple page types (homepage, service hub, location hub, service × loca
 ## October 7 launch amendment — owner-authorized implementation, not published
 
 The shared request page is self-canonical and noindex, follow, and is excluded from the sitemap; query parameters supply validated service/location/problem context, not indexable variants. The informational /about page is an approved core sitemap entry. No additional service or location entities are introduced and existing publication gates remain enforced.
+
+## October 7 authority directory expansion
+
+The owner requested completing service/geography/use-case discovery and supporting content. `/services` and `/home-services` are browse directories, not new entities; `/guides` is the existing collection. These three useful navigation pages join the core sitemap. Existing canonical detail paths remain unchanged. Service/town records are selected editorially; no automatic three-way permutations are created.

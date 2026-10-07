@@ -9,8 +9,8 @@ import { Button } from "./Button";
 import styles from "./Header.module.css";
 
 const NAV = [
-  { href: "/#services", label: "Services" },
-  { href: "/#areas", label: "Areas" },
+  { href: "/services", label: "Services" },
+  { href: "/home-services", label: "Areas" },
   { href: "/#how-it-works", label: "How It Works" },
   { href: "/about", label: "About A5" },
 ] as const;

@@ -23,7 +23,7 @@ export function Footer() {
         {LOCATIONS.map(location => <li key={location.id}><Link href={`/home-services/${location.slug}`}>{location.name}</Link></li>)}
       </ul></nav>
       <nav aria-label="Footer resources"><h2 className={styles.heading}>About A5</h2><ul className={styles.list}>
-        <li><Link href="/about">About A5</Link></li>
+        <li><Link href="/services">All services</Link></li><li><Link href="/home-services">All service areas</Link></li><li><Link href="/about">About A5</Link></li>
         <li><Link href="/#how-it-works">How it works</Link></li>
         <li><Link href="/guides">Homeowner guides</Link></li>
         <li><Link href="/request-service">Request service</Link></li>

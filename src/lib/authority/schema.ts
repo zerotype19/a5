@@ -1,3 +1,4 @@
+import { getLocationById, type LocationId } from "../../../config/locations.ts";
 /**
  * Structured data builders (A5-G001).
  * Truthful schema only — no invented address, ratings, reviews, or hours.
@@ -20,6 +21,7 @@ export function buildOrganizationSchema(): JsonLd {
   return {
     "@context": "https://schema.org",
     "@type": "Organization",
+    "@id": `${SITE.url.replace(/\/$/, "")}#organization`,
     name: SITE.name,
     legalName: SITE.legalName,
     url: SITE.url,
@@ -49,20 +51,23 @@ export function buildServiceSchema(input: {
   serviceId: string;
   path: string;
   description?: string | null;
+  locationId?: string | null;
 }): JsonLd | null {
   const service = getServiceById(input.serviceId as ServiceId);
   if (!service) return null;
+  const location = input.locationId ? getLocationById(input.locationId as LocationId) : undefined;
   return {
     "@context": "https://schema.org",
     "@type": "Service",
-    name: service.name,
+    "@id": `${buildCanonicalUrl(input.path)}#service`,
+    name: location ? `${service.name} in ${location.name}, NJ` : service.name,
     serviceType: service.name,
     provider: {
       "@type": "Organization",
       name: SITE.name,
       url: SITE.url,
     },
-    areaServed: SITE.serviceAreaSummary,
+    areaServed: location ? {"@type":"Place",name:`${location.name}, New Jersey`} : SITE.serviceAreaSummary,
     url: buildCanonicalUrl(input.path),
     ...(input.description
       ? { description: input.description }
