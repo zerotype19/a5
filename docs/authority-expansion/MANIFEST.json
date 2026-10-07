@@ -1,6 +1,6 @@
 {
   "preparedAt": "2026-10-07T19:08:36.426Z",
-  "status": "DRAFT",
+  "status": "PUBLISHED",
   "pages": [
     {
       "id": "17664908-506a-40c6-846a-8cac280e56ba",
@@ -125,5 +125,6 @@
   ],
   "sourceCount": 10,
   "relationships": 164,
-  "contentSha256": "130c8fa6e75e6f0530eeb811cc1750630eef14352acf7f16cee655079077ec48"
+  "contentSha256": "130c8fa6e75e6f0530eeb811cc1750630eef14352acf7f16cee655079077ec48",
+  "publishedAt": "2026-10-07T19:25:14.794Z"
 }
