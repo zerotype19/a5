@@ -1,6 +1,6 @@
 # A5 launch package — October 7, 2026
 
-Status: implementation for owner review; not released. User authorized the assessment recommendations in the current task. No production content, database, email, DNS, advertisements, provider activation or deployment was changed.
+Status: owner accepted and explicitly requested production deployment on October 7, 2026. See RELEASE-2026-10-07.md for release evidence; the initial preparation and remaining business-readiness checklist below are retained for context.
 
 ## Source reconciliation
 
