@@ -1,9 +1,9 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getLocationById, type LocationId } from "@config/locations";
 import { loadLeadDetail } from "@/lib/admin/data";
 import {
   formatAdminDateTime,
+  formatStatus,
   formatPreferredContact,
 } from "@/lib/admin/format";
 import { LeadOperationsPanels } from "@/components/admin/LeadOperationsPanels";
@@ -20,7 +20,7 @@ function nextAction(status: string, assignments: AssignmentRow[]): string {
   const open = assignments.find((row) => isOpenAssignmentStatus(row.status));
   switch (status) {
     case "NEW":
-      return "Next: qualify this lead.";
+      return "Next: review the request, classify the service and town, then qualify.";
     case "QUALIFIED":
       return "Next: assign a vendor.";
     case "ASSIGNED":
@@ -75,12 +75,9 @@ export default async function AdminLeadDetailPage({
     loadLeadAssignments(id),
   ]);
 
-  const locationLabel = lead.locationId
-    ? (getLocationById(lead.locationId as LocationId)?.name ?? lead.locationId)
-    : null;
-
   return (
     <>
+      {(query.notice || query.error) && <p className={query.error ? styles.flashError : styles.flashNotice} role={query.error ? "alert" : "status"}>{query.error ?? query.notice}</p>}
       <Link className={styles.backLink} href="/admin/leads">
         ← All leads
       </Link>
@@ -89,7 +86,7 @@ export default async function AdminLeadDetailPage({
         <h1 className={styles.title}>{lead.publicReference}</h1>
         <p className={styles.lede}>
           <span className={styles.status} data-state={lead.status}>
-            {lead.status}
+            {formatStatus(lead.status)}
           </span>
           {" · "}
           Created {formatAdminDateTime(lead.createdAt)}
@@ -99,6 +96,8 @@ export default async function AdminLeadDetailPage({
         </p>
       </header>
 
+      <nav className={styles.workflowNav} aria-label="Lead workflow"><a href="#review">1. Review</a><a href="#qualify">2. Qualify</a><a href="#assignment">3. Handoff</a><a href="#followup">4. Outcome</a><a href="#notes">Notes</a></nav>
+      <h2 id="review" className={styles.sectionTitle}>1. Review the request</h2>
       <div className={styles.detailGrid}>
         <section className={styles.panel} aria-labelledby="customer-heading">
           <h2 id="customer-heading">Customer</h2>
@@ -178,29 +177,8 @@ export default async function AdminLeadDetailPage({
         </section>
       )}
 
-      <section className={styles.section} aria-labelledby="class-heading">
-        <h2 id="class-heading" className={styles.sectionTitle}>
-          Classification
-        </h2>
-        <div className={styles.panel}>
-          <dl className={styles.dl}>
-            <dt>Service</dt>
-            <dd>{lead.serviceLabel}</dd>
-            <dt>Homeowner</dt>
-            <dd>{lead.serviceSelectionStatus ?? "—"}</dd>
-            <dt>Location</dt>
-            <dd>
-              {locationLabel
-                ? `${locationLabel} (${lead.locationId})`
-                : "— (ZIP only)"}
-            </dd>
-            <dt>Raw ZIP</dt>
-            <dd>{lead.postalCode ?? "—"}</dd>
-          </dl>
-        </div>
-      </section>
-
-      <LeadAssignmentPanel
+      <LeadOperationsPanels lead={lead}>
+        <LeadAssignmentPanel
         leadId={lead.id}
         status={lead.status}
         serviceId={lead.serviceId}
@@ -208,12 +186,7 @@ export default async function AdminLeadDetailPage({
         eligible={eligibleVendors}
         assignments={assignments}
       />
-
-      <LeadOperationsPanels
-        lead={lead}
-        notice={query.notice ?? null}
-        error={query.error ?? null}
-      />
+      </LeadOperationsPanels>
     </>
   );
 }

@@ -263,3 +263,16 @@
   font-size: var(--text-small);
   color: var(--color-ink-soft);
 }
+
+/* Shared editorial rhythm: short paragraphs stay together, sections get breathing room. */
+.stack { gap: var(--space-7); }
+.heading { font-weight: 500; line-height: 1.25; }
+.question { font-family: var(--font-body); font-size: var(--text-h3); line-height: 1.45; }
+.body { margin-bottom: .85rem; }
+.body:last-child { margin-bottom: 0; }
+.block > ul:not([class]) { padding-left: var(--space-5); }
+.block > ul:not([class]) li + li { margin-top: var(--space-3); }
+.ctaBand { background: var(--color-hero-from); padding: var(--space-6); }
+.relatedGrid > li { min-width: 0; max-width: 100%; }
+.relatedCard, .relatedChip { max-width: 100%; }
+.sourceList { overflow-wrap: anywhere; font-size: var(--text-small); }

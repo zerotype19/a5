@@ -1,8 +1,10 @@
+import { SubmitButton } from "./SubmitButton";
+import Link from "next/link";
 import type { AssignmentRow, VendorCoverage } from "@/lib/admin/vendors";
 import { coverageLabels } from "@/lib/admin/vendors";
 import { assignLeadToVendor, sendVendorEmail } from "@/lib/admin/vendor-actions";
 import { isOpenAssignmentStatus } from "@/lib/admin/eligibility";
-import { formatAdminDateTime } from "@/lib/admin/format";
+import { formatAdminDateTime, formatStatus } from "@/lib/admin/format";
 import styles from "./admin.module.css";
 
 type Props = {
@@ -27,22 +29,20 @@ export function LeadAssignmentPanel({
   void locationId;
 
   return (
-    <section className={styles.section} aria-labelledby="assignment-heading">
+    <section id="assignment" className={styles.section} aria-labelledby="assignment-heading">
       <h2 id="assignment-heading" className={styles.sectionTitle}>
-        Assignment
+        3. Assign & notify
       </h2>
-      <p className={styles.empty}>
-        Assignment is saved even if the vendor email fails. Notification does
-        not mean the vendor has accepted.
-      </p>
+      <p className={styles.mutedCopy}>Choose a provider, then send the handoff email. A saved assignment remains in place if email fails; the provider must still accept.</p>
+      {status === "NEW" && <p className={styles.empty}>Qualify the request in step 2 to choose a provider.</p>}
       {current ? (
         <div className={styles.panel}>
           <h3>Current assignment</h3>
           <dl className={styles.dl}>
             <dt>Vendor</dt>
-            <dd>{current.vendorName}</dd>
+            <dd><Link href={`/admin/vendors/${current.vendorId}`}>{current.vendorName}</Link></dd>
             <dt>Assignment status</dt>
-            <dd>{current.status}</dd>
+            <dd>{formatStatus(current.status)}</dd>
             <dt>Notification</dt>
             <dd>{current.notificationStatus ?? "Not sent"}</dd>
             <dt>Assigned</dt>
@@ -65,12 +65,12 @@ export function LeadAssignmentPanel({
             <form className={styles.form} action={sendVendorEmail}>
               <input type="hidden" name="leadId" value={leadId} />
               <input type="hidden" name="assignmentId" value={current.id} />
-              <button type="submit">
+              <SubmitButton pendingLabel="Sending…">
                 {current.notificationStatus === "FAILED" ||
                 current.notificationStatus === "PENDING"
                   ? "Retry email"
                   : "Send vendor email"}
-              </button>
+              </SubmitButton>
             </form>
           ) : null}
           {current.notificationError ? (
@@ -99,13 +99,13 @@ export function LeadAssignmentPanel({
                   })}
                 </select>
               </label>
-              <button type="submit">Assign vendor</button>
+              <SubmitButton pendingLabel="Assigning…">Assign vendor</SubmitButton>
             </form>
           ) : (
             <p className={styles.empty}>No vendors in the database.</p>
           )
       ) : null}
-      <h3 className={styles.sectionTitle}>Assignment history</h3>
+      <details className={styles.secondaryDetails}><summary>Assignment history ({assignments.length})</summary>
       {assignments.length === 0 ? (
         <p className={styles.empty}>No assignments yet.</p>
       ) : (
@@ -113,27 +113,27 @@ export function LeadAssignmentPanel({
           <table className={styles.table}>
             <thead>
               <tr>
-                <th>Vendor</th>
-                <th>Status</th>
-                <th>Notification</th>
-                <th>Assigned</th>
-                <th>Email sent</th>
+                <th scope="col">Vendor</th>
+                <th scope="col">Status</th>
+                <th scope="col">Notification</th>
+                <th scope="col">Assigned</th>
+                <th scope="col">Email sent</th>
               </tr>
             </thead>
             <tbody>
               {assignments.map((row) => (
                 <tr key={row.id}>
-                  <td>{row.vendorName}</td>
-                  <td>{row.status}</td>
-                  <td>{row.notificationStatus ?? "Not sent"}</td>
-                  <td>{formatAdminDateTime(row.assignedAt)}</td>
-                  <td>{formatAdminDateTime(row.notificationSentAt)}</td>
+                  <td data-label="Vendor">{row.vendorName}</td>
+                  <td data-label="Status">{formatStatus(row.status)}</td>
+                  <td data-label="Notification">{row.notificationStatus ?? "Not sent"}</td>
+                  <td data-label="Assigned">{formatAdminDateTime(row.assignedAt)}</td>
+                  <td data-label="Email sent">{formatAdminDateTime(row.notificationSentAt)}</td>
                 </tr>
               ))}
             </tbody>
           </table>
         </div>
-      )}
+      )}</details>
     </section>
   );
 }

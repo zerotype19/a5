@@ -172,14 +172,14 @@ describe("A5-007 migration + authorization surface", () => {
     const detail = read("src/app/admin/(protected)/leads/[id]/page.tsx");
     assert.match(detail, /tel:/);
     assert.match(detail, /mailto:/);
-    assert.match(detail, /Classification/);
+    assert.match(detail, /href="#qualify"/);
     assert.match(detail, /LeadOperationsPanels/);
     assert.match(detail, /No photos attached/);
     const panels = read("src/components/admin/LeadOperationsPanels.tsx");
     assert.match(panels, /Qualify lead/);
     assert.match(panels, /Classify service/);
     assert.match(panels, /Add note/);
-    assert.match(panels, /History/);
+    assert.match(panels, /Activity history/);
   });
 
   it("allows only baseline dependencies plus the approved hosting set", () => {

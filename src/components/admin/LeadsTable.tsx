@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getLocationById, type LocationId } from "@config/locations";
 import type { LeadListRow } from "@/lib/admin/data";
-import { formatAdminDate, formatAdminDateTime } from "@/lib/admin/format";
+import { formatAdminDate, formatAdminDateTime, formatStatus } from "@/lib/admin/format";
 import styles from "./admin.module.css";
 
 function ageLabel(iso: string): string {
@@ -36,16 +36,16 @@ export function LeadsTable({
 
   return (
     <div className={styles.tableWrap}>
-      <table className={styles.table}>
+      <table className={styles.table}><caption className="srOnly">Homeowner requests</caption>
         <thead>
           <tr>
-            <th>Reference</th>
-            <th>Service</th>
-            <th>Town</th>
-            <th>Status</th>
-            <th>Age</th>
-            {showCustomer ? <th>Customer</th> : null}
-            <th>{dateMode === "date" ? "Date" : "Created"}</th>
+            <th scope="col">Reference</th>
+            <th scope="col">Service</th>
+            <th scope="col">Town</th>
+            <th scope="col">Status</th>
+            <th scope="col">Age</th>
+            {showCustomer ? <th scope="col">Customer</th> : null}
+            <th scope="col">{dateMode === "date" ? "Date" : "Created"}</th>
           </tr>
         </thead>
         <tbody>
@@ -58,7 +58,7 @@ export function LeadsTable({
               <td data-label="Town">{townLabel(row.locationId)}</td>
               <td data-label="Status">
                 <span className={styles.status} data-state={row.status}>
-                  {row.status}
+                  {formatStatus(row.status)}
                 </span>
               </td>
               <td data-label="Age">{ageLabel(row.createdAt)}</td>

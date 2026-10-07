@@ -1,3 +1,4 @@
+import { sectionHeading } from "@/lib/authority/outline";
 import { requestHref } from "@/lib/intake/context";
 import Link from "next/link";
 import { SITE } from "@config/site";
@@ -63,11 +64,10 @@ export function AuthoritySections({ page }: Props) {
       ) : null}
 
       {page.sections.map((section, index) => (
-        <SectionBlock
-          key={`${section.type}-${index}`}
-          section={section}
-          page={page}
-        />
+        section.type === "DIRECT_ANSWER" && page.primary_question && page.direct_answer ? null :
+        <div key={`${section.type}-${index}`} id={sectionHeading(section) ? `section-${index + 1}` : undefined}>
+          <SectionBlock section={section} page={page} />
+        </div>
       ))}
     </div>
   );
@@ -96,7 +96,7 @@ function SectionBlock({
             <h2 className={styles.heading}>{section.heading}</h2>
           ) : null}
           {section.paragraphs.map((paragraph) => (
-            <p key={paragraph.slice(0, 48)} className={styles.body}>
+            <p key={paragraph} className={styles.body}>
               {paragraph}
             </p>
           ))}
@@ -113,7 +113,7 @@ function SectionBlock({
           ) : null}
           <ContentLinks links={section.links} />
           {section.closing?.map((paragraph) => (
-            <p key={paragraph.slice(0, 48)} className={styles.body}>
+            <p key={paragraph} className={styles.body}>
               {paragraph}
             </p>
           ))}
@@ -191,7 +191,7 @@ function SectionBlock({
             }
             primaryHref={requestHref({service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug})}
             primaryCta="authority-request-service"
-            primaryLabel={section.primaryLabel}
+            primaryLabel="Request service"
             secondaryLabel={
               section.callLabel ? `${section.callLabel} ${SITE.phone}` : undefined
             }

@@ -366,10 +366,10 @@ export function ProjectIntakeForm({ initialService, contextLabel }: {initialServ
       <div className={styles.intro}>
         <p className={styles.eyebrow}>Request service</p>
         <h1 className={styles.pageTitle} ref={headingRef} tabIndex={-1}>
-          Tell us what&apos;s going on. We&apos;ll help from there.
+          Request a home service.
         </h1>
         <p className={styles.lede}>
-          A few questions about the house. Call if that&apos;s easier.
+          Share a few details about the work. A5 will review your request and coordinate next steps.
         </p>
         <p className={styles.phoneAlt}>
           Prefer to talk?{" "}

@@ -3,14 +3,14 @@
   align-items: center;
   justify-content: center;
   gap: var(--space-2);
-  min-height: 3rem;
+  min-height: 3.125rem;
   padding: 0.75rem 1.35rem;
   border-radius: var(--radius-sm);
   border: 1px solid transparent;
   font-family: var(--font-body);
   font-size: 0.9375rem;
-  font-weight: 600;
-  letter-spacing: 0.02em;
+  font-weight: 700;
+  letter-spacing: 0;
   text-decoration: none;
   text-align: center;
   cursor: pointer;
@@ -22,7 +22,7 @@
 }
 
 .button:hover {
-  transform: translateY(-1px);
+  box-shadow: 0 2px 6px #20372e14;
 }
 
 .primary {

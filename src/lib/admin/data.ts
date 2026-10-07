@@ -109,6 +109,7 @@ export async function loadDashboard(): Promise<{
 
 export async function loadLeadList(options?: {
   limit?: number;
+  offset?: number;
   status?: LeadStatus | null;
   serviceId?: string | null;
 }): Promise<LeadListRow[]> {
@@ -118,7 +119,7 @@ export async function loadLeadList(options?: {
     .select(
       "id, created_at, status, service_id, service_selection_status, postal_code, location_id, urgency, customers(full_name)",
     )
-    .order("created_at", { ascending: false });
+    .order("created_at", { ascending: false }).order("id", { ascending: false });
 
   if (options?.status) {
     query = query.eq("status", options.status);
@@ -127,7 +128,8 @@ export async function loadLeadList(options?: {
     query = query.eq("service_id", options.serviceId);
   }
   if (options?.limit) {
-    query = query.limit(options.limit);
+    const offset = options.offset ?? 0;
+    query = query.range(offset, offset + options.limit - 1);
   }
 
   const { data, error } = await query;

@@ -1,16 +1,5 @@
 import type { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "Cost guides",
-  robots: { index: false, follow: true },
-  alternates: { canonical: "/cost-guides" },
-};
-
-export default function CostGuidesIndexPage() {
-  return (
-    <main style={{ padding: "3rem 1rem", maxWidth: "42rem", margin: "0 auto" }}>
-      <h1>Cost guides</h1>
-      <p>No published cost guides yet.</p>
-    </main>
-  );
-}
+import { ContentIndex } from "@/components/templates/ContentIndex";
+export const metadata: Metadata = {title: 'Plan the project, then the budget.', description: 'Understand the work and the factors that can affect an estimate before you decide how to proceed.', robots: {index: false, follow: true}, alternates: {canonical: "/cost-guides"}};
+export const revalidate = 3600;
+export default function Page() { return <ContentIndex type="COST_GUIDE" title={'Plan the project, then the budget.'} description={'Understand the work and the factors that can affect an estimate before you decide how to proceed.'} empty={'We are preparing cost guides. For now, share the project details so a provider can discuss an estimate for your home.'} />; }

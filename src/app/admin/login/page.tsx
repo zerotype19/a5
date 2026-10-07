@@ -1,3 +1,4 @@
+import { Brand } from "@/components/Brand";
 import { redirect } from "next/navigation";
 import { resolveAdminAccess } from "@/lib/admin/authorize";
 import { AdminLoginForm } from "@/components/admin/AdminLoginForm";
@@ -12,7 +13,8 @@ export default async function AdminLoginPage() {
   return (
     <div className={styles.loginWrap}>
       <div className={styles.loginCard}>
-        <p className={styles.sub}>A5 Operations</p>
+        <Brand context="Operations" />
+        <p className={styles.sub}>Operations workspace</p>
         <h1>Sign in</h1>
         <AdminLoginForm />
       </div>

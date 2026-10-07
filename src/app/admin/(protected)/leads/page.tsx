@@ -1,7 +1,9 @@
+import Link from "next/link";
+import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
 import { LEAD_STATUSES, type LeadStatus } from "@/lib/db/schema";
 import { SERVICES } from "@config/services";
 import { loadLeadList } from "@/lib/admin/data";
-import { NEEDS_ATTENTION_STATUS } from "@/lib/admin/format";
+import { NEEDS_ATTENTION_STATUS, formatStatus } from "@/lib/admin/format";
 import { LeadsTable } from "@/components/admin/LeadsTable";
 import styles from "@/components/admin/admin.module.css";
 
@@ -9,6 +11,7 @@ type SearchParams = Promise<{
   status?: string;
   service?: string;
   attention?: string;
+  page?: string;
 }>;
 
 export default async function AdminLeadsPage({
@@ -28,20 +31,28 @@ export default async function AdminLeadsPage({
       ? params.service
       : null;
 
-  const rows = await loadLeadList({
+  const page = typeof params.page === "string" && /^[1-9]\d{0,3}$/.test(params.page) ? Number(params.page) : 1;
+  const pageSize = 50;
+  const loaded = await loadLeadList({
     status,
     serviceId: service,
-    limit: 100,
+    limit: pageSize + 1,
+    offset: (page - 1) * pageSize,
   });
+  const rows = loaded.slice(0, pageSize);
+  const pageHref = (next: number) => {
+    const query = new URLSearchParams();
+    if (status) query.set("status", status);
+    if (service) query.set("service", service);
+    if (needsAttention) query.set("attention", "1");
+    query.set("page", String(next));
+    return `/admin/leads?${query}`;
+  };
 
   return (
     <>
-      <h1 className={styles.title}>Leads</h1>
-      <p className={styles.lede}>
-        Operational queue — filter, open a lead, classify, qualify, and note.
-      </p>
-
-      <form className={styles.filters} method="get">
+      <AdminPageHeader title="Leads" description="Start with a request, review the details, then work through qualification, handoff and follow-up." />
+      <form key={`${status}-${service}-${needsAttention}`} className={styles.filters} method="get" aria-label="Filter leads">
         <label>
           Status
           <select
@@ -53,7 +64,7 @@ export default async function AdminLeadsPage({
             <option value="">All</option>
             {LEAD_STATUSES.map((s) => (
               <option key={s} value={s}>
-                {s}
+                {formatStatus(s)}
               </option>
             ))}
           </select>
@@ -81,21 +92,26 @@ export default async function AdminLeadsPage({
         <button type="submit" className={styles.signOut}>
           Apply
         </button>
+        <Link href="/admin/leads">Clear filters</Link>
       </form>
 
       {needsAttention ? (
         <p className={styles.mutedCopy}>
-          Needs attention = status {NEEDS_ATTENTION_STATUS} (deterministic; no
-          stored field).
+          Showing new requests waiting for review.
         </p>
       ) : null}
 
+      <p className={styles.mutedCopy}>{rows.length} request{rows.length === 1 ? "" : "s"} shown · page {page} · newest first.</p>
       <LeadsTable
         rows={rows}
         emptyMessage="No project requests match this view."
         showCustomer
         dateMode="date"
       />
+      <nav className={styles.pagination} aria-label="Lead pages">
+        {page > 1 && <Link href={pageHref(page - 1)} className={styles.secondaryButton}>← Previous</Link>}
+        {loaded.length > pageSize && <Link href={pageHref(page + 1)} className={styles.secondaryButton}>Next →</Link>}
+      </nav>
     </>
   );
 }
