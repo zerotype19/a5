@@ -408,7 +408,7 @@ describe("authority drafts — quality gate, not a page-count ceiling", () => {
       paths.includes("/services/drywall/water-damaged-ceiling"),
       true,
     );
-    assert.equal(LOCATIONS.length, 6);
+    assert.equal(LOCATIONS.length, 9);
     assert.equal(
       SERVICE_HUB_DRAFTS.some((hub) =>
         hub.primaryQuestion.startsWith("What can A5 help with for "),

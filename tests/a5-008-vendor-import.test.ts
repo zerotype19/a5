@@ -40,12 +40,12 @@ describe("A5-008 vendor CSV import", () => {
     const parsed = parseVendorCandidateCsv(
       csv([
         "Nope Co,,,,,hvac,madison,public-website,https://example.com,",
-        "Town Miss,,,,,handyman,summit,public-website,https://example.com,",
+        "Town Miss,,,,,handyman,unapproved-town,public-website,https://example.com,",
       ]),
     );
     assert.equal(parsed.rows.length, 0);
     assert.match(parsed.rejected[0]?.reason ?? "", /Unknown service "hvac"/);
-    assert.match(parsed.rejected[1]?.reason ?? "", /Unknown location "summit"/);
+    assert.match(parsed.rejected[1]?.reason ?? "", /Unknown location "unapproved-town"/);
   });
 
   it("does not change an existing vendor with the same name", () => {

@@ -22,3 +22,11 @@ No new database entities or live pages have been created by this research/draft 
 ## First-batch validation
 
 Four complete problem drafts are saved in CONTENT-REVIEW.md and problem-drafts.json. Each uses a distinct existing problem slug, a draft/nonindexable state, a self-contained answer, one final CTA and a narrow source ledger. All 13 distinct internal links returned HTTP 200. Geography research remains separate from public coverage claims. No runtime code, production data, dependencies or schema changed in this batch.
+
+## Completion scope after continued owner direction
+
+The owner directed work to continue until the expansion is complete. The concrete wave is Livingston, Summit and Hanover Township: three town hubs, six selected service/town pages, four new problem pages and the 22 existing-page edits. Public requests in new towns use explicit individual availability review; this does not activate providers or fabricate coverage mappings. Paid acquisition remains outside this release. The target public inventory is 62 records and 67 sitemap URLs.
+
+The completion scope above supersedes the earlier draft-only deliverables. New municipality rows identify request geography. Provider coverage remains unconfirmed and is not inferred from those rows; no vendor mappings are created.
+
+The completion scope above supersedes the earlier draft-only deliverables. New municipality rows identify request geography. Provider coverage remains unconfirmed and is not inferred from those rows; no vendor mappings are created.

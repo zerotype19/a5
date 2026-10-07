@@ -1,6 +1,6 @@
 # Existing-page editorial review
 
-Draft only; not published. This pass covers eight service hubs and fourteen problem pages. Technical/source review and provider scope evidence remain open. No URLs, publication status, metadata, sources or relationships change.
+Final wave 2 copy for eight service hubs and fourteen problem pages. Exact fields and conflict-detection timestamps are in existing-pages-draft.json. URLs and metadata are retained; source associations are in the wave 2 manifest. See ../expansion-wave-2/RELEASE.md for publication status.
 
 ## Electrical help for lights, outlets, switches, and fans
 
@@ -12,39 +12,17 @@ Describe the light, outlet, switch or fan that needs attention, and whether othe
 
 Get scheduled help with lights, outlets, switches and ceiling fans. Describe what is not working, whether other devices are affected and any fixture you want installed. A5 reviews the details and checks for an electrical provider suited to the work. If you notice heat, burning or sparking, address that hazard rather than waiting for a routine request.
 
-### What the provider will assess
+### Recognize urgent warning signs
 
-A dead outlet or light can usually wait for a scheduled electrician.
+Heat, burning smells, sparking or scorching need prompt professional attention. Stop using affected equipment and keep clear. If there is smoke or fire, leave the area and call 911. A5 reviews scheduled requests and does not provide emergency electrical dispatch.
 
-An outlet, switch, fixture, or panel that is hot, sparking, scorched, buzzing loudly, or smells like it's burning should not be treated as a normal repair request.
+### What to note before requesting service
 
-Turn off the affected breaker if you can do so safely.
+Describe which lights, outlets or switches are affected and when the problem began. Mention any repeated breaker trips or recent fixture changes. Leave covers in place and let an electrician investigate the wiring. Do not repeatedly reset a breaker or operate a damaged device to demonstrate the fault.
 
-If there's smoke or fire, leave the area and call 911.
+### Describe the pattern
 
-A5 does not provide emergency electrical dispatch.
-
-### For ordinary electrical problems, start simple
-
-If there's no sign of an immediate hazard, there are a few things you can safely check without opening anything.
-
-Dead outlet? Look for a tripped GFCI outlet nearby — the kind with TEST and RESET buttons. One GFCI can protect several outlets, sometimes in another room.
-
-Check the breaker too. Reset a tripped breaker once. If it trips again, leave it off.
-
-Light won't work? Try a known-good bulb of the correct type.
-
-If it's on a dimmer, make sure the bulb is designed to be dimmed.
-
-One switch acting strangely? Notice whether it's loose, cracked, buzzing, warm, or whether moving it changes what the light does.
-
-That's enough troubleshooting.
-
-Don't remove cover plates, pull outlets or switches from their boxes, or open the inside of the electrical panel.
-
-### One device or something bigger?
-
-This distinction helps. If one outlet, switch, or fixture has failed and everything else nearby works normally, the problem may be that device or its connection. If several outlets or lights are affected, a breaker repeatedly trips, or lights dim when appliances start, the electrician may need to look farther into the circuit. That doesn't automatically mean a major electrical problem. It simply means replacing the visible device may not be the whole repair.
+Tell the electrician whether one device or several areas are affected. Mention if the problem is intermittent or started after other work. These observations help define the assessment; they do not establish which component has failed.
 
 ### Common electrical projects
 
@@ -68,25 +46,23 @@ Electrical work stays with an electrical professional rather than being folded i
 
 ### Replacing a light or ceiling fan
 
-If you're replacing an existing fixture, send a photo of what's there now and, if you've chosen one, the new fixture. A ceiling fan deserves special attention. The electrical box above it must be designed and supported for the weight and movement of a fan. A box that safely held a light fixture is not automatically suitable for a fan. The electrician should confirm the existing support before installation.
+Share the existing fixture and the product details for the replacement. Ask the electrician to check the electrical box, support and compatibility before confirming installation. Include ceiling height and any access restrictions in the request.
 
 ### Older homes
 
-Two-prong outlets, older wiring, or a fuse panel aren't automatically emergencies. They can, however, change what looks like a simple device replacement. For example, replacing a two-prong outlet with a three-prong outlet isn't simply a matter of changing the face of the device if no equipment ground is present. You don't need to diagnose the wiring yourself. Just mention what you see.
+Mention visible two-prong outlets, a fuse panel or any uncertainty about previous electrical work. The electrician should assess the installation and explain the scope before you buy replacement devices. Do not open equipment to identify the wiring.
 
 ### Electrical work in New Jersey
 
-Electrical contracting is a licensed trade in New Jersey. A5 coordinates electrical projects with qualified electrical professionals. Some work — particularly new circuits or larger changes — may also require permits or inspections. The electrician should determine what's required for the specific job.
+Electrical contracting is a licensed trade in New Jersey. Ask the proposed provider to confirm the credentials and scope required for your project. Some work — particularly new circuits or larger changes — may also require permits or inspections. The electrician should determine what's required for the specific job.
 
 ### Photos that help
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The fixture, outlet or switch with all covers in place.
-
-- **Include the detail:** Visible damage from a safe distance.
-
-- **Add useful context:** The replacement product, if chosen, and visible circuit labels. Do not open electrical equipment for photos.
+- **Show the whole area** The fixture, outlet or switch with all covers in place.
+- **Include the detail** Visible damage from a safe distance.
+- **Add useful context** The replacement product, if chosen, and visible circuit labels. Do not open electrical equipment for photos.
 
 ### What affects the size of the job
 
@@ -108,11 +84,13 @@ Whether an electrical box can support a new fixture or fan.
 
 Permits and inspections where required.
 
+### Electrical help pages
+
+### Sources
+
 ### Request electrical help
 
 Tell us about your electrical project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Drywall repair for holes, cracks, and damaged ceilings
 
@@ -186,17 +164,17 @@ If you're not sure what your walls are made of, don't worry about diagnosing it.
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The full wall or ceiling around the damage.
+- **Show the whole area** The full wall or ceiling around the damage.
+- **Include the detail** The hole or crack with an object for scale, without reaching into it.
+- **Add useful context** A previous patch, surrounding texture and what is above any water damage.
 
-- **Include the detail:** The hole or crack with an object for scale, without reaching into it.
+### Drywall help pages
 
-- **Add useful context:** A previous patch, surrounding texture and what is above any water damage.
+### Planning references
 
 ### Request drywall help
 
 Tell us about your drywall project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Cracked or crumbling brick steps
 
@@ -254,21 +232,19 @@ Avoid filling failing mortar joints with caulk or general patching compound. It 
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The full staircase from the front.
-
-- **Include the detail:** Damaged brick or mortar and a side view showing alignment.
-
-- **Add useful context:** The junction with the house and nearby gutters or downspouts.
+- **Show the whole area** The full staircase from the front.
+- **Include the detail** Damaged brick or mortar and a side view showing alignment.
+- **Add useful context** The junction with the house and nearby gutters or downspouts.
 
 ### What affects the job
 
 The biggest cost difference is repair versus partial or complete rebuild. Size matters too: number and width of steps, side walls, landings and railings all add work. Brick matching can matter on older homes, and rebuilding the base adds excavation and material. Sometimes only one section needs rebuilding while the rest can be repaired.
 
+### Sources
+
 ### Get help with damaged brick steps
 
 Tell us about your brick step repair project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Mortar falling out between bricks
 
@@ -320,17 +296,15 @@ Failed mortar is removed from the joints and replaced with new mortar that's app
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The full wall, steps or walkway.
+- **Show the whole area** The full wall, steps or walkway.
+- **Include the detail** The worst mortar joints and any cracking.
+- **Add useful context** Any visible bowing, movement or nearby downspouts.
 
-- **Include the detail:** The worst mortar joints and any cracking.
-
-- **Add useful context:** Any visible bowing, movement or nearby downspouts.
+### Planning references
 
 ### Get help with crumbling mortar
 
 Tell us about your loose mortar project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Tile repair without redoing the whole room
 
@@ -380,17 +354,17 @@ A few tiles with good backing and available replacements usually point to a loca
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The whole floor, backsplash or shower wall.
+- **Show the whole area** The whole floor, backsplash or shower wall.
+- **Include the detail** Damaged grout or tile and any visible signs of movement.
+- **Add useful context** Spare tile, its box label and any relevant staining on the opposite wall.
 
-- **Include the detail:** Damaged grout or tile and any visible signs of movement.
+### Tile help pages
 
-- **Add useful context:** Spare tile, its box label and any relevant staining on the opposite wall.
+### Planning references
 
 ### Request tile help
 
 Tell us about your tile project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Sunken or rocking pavers
 
@@ -432,17 +406,15 @@ A small, clearly defined low area can often be lifted and reset. If the entire p
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The full patio or walkway.
+- **Show the whole area** The full patio or walkway.
+- **Include the detail** The uneven section and a side view of the level change.
+- **Add useful context** Water after rain, nearby trees, slopes or downspouts.
 
-- **Include the detail:** The uneven section and a side view of the level change.
-
-- **Add useful context:** Water after rain, nearby trees, slopes or downspouts.
+### Planning references
 
 ### Get help with uneven pavers
 
 Tell us about your sunken pavers project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Plumbing help for leaks, toilets, fixtures, and water heaters
 
@@ -482,17 +454,9 @@ You don't need to know exactly what's wrong before submitting the project.
 
 Tell us what the water is doing and where you see it.
 
-### If there's an active leak
+### If there is an active leak
 
-Most sinks and toilets have a shutoff valve on the water line underneath or behind them.
-
-Turn it clockwise to stop water to that fixture.
-
-If that doesn't stop the leak, use the home's main water shutoff if you know where it is and can reach it safely.
-
-Keep away from water near outlets, appliances, extension cords, or the electrical panel.
-
-Once the water is contained, take a few photos before everything is dried up. Seeing where the water appeared can help enormously.
+Use a known water shutoff only if you can reach and operate it safely. Keep away from water near electrical equipment. If the water cannot be controlled, contact an emergency plumber rather than waiting for an A5 response. Take photos only once it is safe to do so.
 
 ### Repair or replace?
 
@@ -522,7 +486,7 @@ A5 can help keep those related steps connected instead of treating them as unrel
 
 ### Plumbing work in New Jersey
 
-Plumbing contracting is a licensed trade in New Jersey. A5 coordinates plumbing work with qualified plumbing professionals. Depending on the project, permits or inspections may also apply. You don't need to determine that yourself before requesting help. The plumbing professional should confirm what the job requires.
+Plumbing contracting is a licensed trade in New Jersey. Ask the proposed provider to confirm the credentials and scope required for your project. Depending on the project, permits or inspections may also apply. You don't need to determine that yourself before requesting help. The plumbing professional should confirm what the job requires.
 
 ### Water heaters
 
@@ -548,11 +512,9 @@ If the tank is actively leaking and you can't contain the water, use an emergenc
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The affected fixture, valve or visible pipe.
-
-- **Include the detail:** Where water appears and any visible corrosion, once it is safe to approach.
-
-- **Add useful context:** The surrounding area that got wet; include the manufacturer label for a water-heater request. Do not dismantle plumbing for photos.
+- **Show the whole area** The affected fixture, valve or visible pipe.
+- **Include the detail** Where water appears and any visible corrosion, once it is safe to approach.
+- **Add useful context** The surrounding area that got wet; include the manufacturer label for a water-heater request. Do not dismantle plumbing for photos.
 
 ### What affects the size of the job
 
@@ -572,11 +534,13 @@ Permits or inspections where required.
 
 Drywall, tile, or painting work after a leak.
 
+### Plumbing help pages
+
+### Sources
+
 ### Request plumbing help
 
 Tell us about your plumbing project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Hole in a wall
 
@@ -614,17 +578,15 @@ Don't poke or cut farther into the wall. If the hole exposes plumbing, electrica
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The whole wall.
+- **Show the whole area** The whole wall.
+- **Include the detail** The hole with an object for scale, without cutting or probing it.
+- **Add useful context** Surrounding texture, paint and any other holes in the request.
 
-- **Include the detail:** The hole with an object for scale, without cutting or probing it.
-
-- **Add useful context:** Surrounding texture, paint and any other holes in the request.
+### Planning references
 
 ### Get help with a drywall hole
 
 Tell us about your hole in drywall project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Water leaking from a pipe or valve
 
@@ -634,13 +596,9 @@ Page: `visible-pipe-leak` · PROBLEM
 
 If you can safely stop the water, contain the leak before submitting a scheduled request. Keep clear of water near electrical equipment and do not take plumbing apart for photos. If water remains uncontrolled, contact an emergency plumber; A5 does not provide emergency dispatch.
 
-If the leak is at a sink, toilet, or other fixture, close that fixture's shutoff valve.
+### Contain the leak safely
 
-If that doesn't stop it — or the leak is on a pipe without its own shutoff — use the home's main water shutoff.
-
-Then move valuables out of the area, put down a bucket or towels, and deal with the repair once the water is contained.
-
-If water is still flowing and you cannot stop it, call an emergency plumber. A5 does not provide emergency dispatch.
+Use a known water shutoff only if you can reach and operate it safely. If the water cannot be controlled, contact an emergency plumber. A5 handles scheduled requests and does not provide emergency dispatch. Keep people clear of the affected area and photograph it only when safe.
 
 ### Keep clear of electricity
 
@@ -680,17 +638,15 @@ Once the plumbing leak is fixed, wet drywall, cabinets, flooring, or paint may s
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The affected pipe or fixture once the water is controlled.
+- **Show the whole area** The affected pipe or fixture once the water is controlled.
+- **Include the detail** The point where water appears and visible corrosion.
+- **Add useful context** The shutoff valve and area that got wet. Do not take plumbing apart for a photo.
 
-- **Include the detail:** The point where water appears and visible corrosion.
-
-- **Add useful context:** The shutoff valve and area that got wet. Do not take plumbing apart for a photo.
+### Sources
 
 ### Request help for a contained pipe leak
 
 Tell us about your visible pipe leak project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Water stain or soft spot on the ceiling
 
@@ -702,15 +658,9 @@ The water source needs attention before the ceiling is refinished. Keep clear of
 
 The stain is where you see the problem. It isn't necessarily where the problem started.
 
-### If it's wet right now
+### If it is wet right now
 
-If the ceiling is bulging or sagging with water, keep people out from underneath it. Wet drywall can fail suddenly.
-
-If the damage is below a bathroom, stop using the fixture you suspect until the leak is checked.
-
-If water is near a ceiling light or fan, turn that circuit off at the breaker if you can do so safely.
-
-An active plumbing leak that won't stop may require shutting off the home's main water supply.
+Keep people away from sagging or bulging areas and from water near electrical equipment. Do not puncture the ceiling or investigate behind a light fixture. An uncontrolled leak needs emergency help rather than a scheduled A5 request.
 
 ### Where the water may be coming from
 
@@ -728,21 +678,19 @@ Water-damaged ceilings are a good example of why A5 starts with the problem inst
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The ceiling and its position within the room.
-
-- **Include the detail:** Visible staining or damage from a safe location; stay out from under sagging areas.
-
-- **Add useful context:** What is above the affected area and any nearby fixture.
+- **Show the whole area** The ceiling and its position within the room.
+- **Include the detail** Visible staining or damage from a safe location; stay out from under sagging areas.
+- **Add useful context** What is above the affected area and any nearby fixture.
 
 ### What affects the job
 
 The biggest variable is the source of the water. After that, scope depends on whether the ceiling only needs stain treatment and paint or whether drywall has to be removed, replaced and finished. Ceiling height, texture and whether the entire ceiling needs repainting can also change the amount of work.
 
+### Planning references
+
 ### Plan your ceiling repair
 
 Tell us about your water damaged ceiling project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Wall or ceiling crack that keeps coming back
 
@@ -788,17 +736,15 @@ A properly finished repair should blend into the surrounding wall once it's prim
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The full crack from end to end.
+- **Show the whole area** The full crack from end to end.
+- **Include the detail** Its width and any nearby nail pops or previous patch.
+- **Add useful context** The adjoining door, window or ceiling line; mention a door that has also started sticking.
 
-- **Include the detail:** Its width and any nearby nail pops or previous patch.
-
-- **Add useful context:** The adjoining door, window or ceiling line; mention a door that has also started sticking.
+### Planning references
 
 ### Get a recurring crack assessed
 
 Tell us about your drywall crack project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Toilet that keeps running
 
@@ -810,17 +756,9 @@ A running toilet may have a repairable problem with a component inside the tank.
 
 You flush, the tank fills — and then the water never quite stops. Or the toilet suddenly refills for a few seconds even though nobody used it.
 
-### A quick look inside the tank can tell you a lot
+### Describe when the water runs
 
-Lift the tank lid.
-
-If water is continuously flowing into the tall overflow tube, the float or fill valve is the likely issue.
-
-If the water level looks normal but the toilet periodically refills, the flapper may be leaking water into the bowl.
-
-A simple way to check is to put a few drops of food coloring in the tank without flushing. If color reaches the bowl, water is getting past the flapper.
-
-If you just want the toilet to stop running until it's repaired, close the shutoff valve behind it.
+Tell the plumber whether the toilet runs continuously after flushing or briefly refills when nobody has used it. Mention any water around the base as a separate observation. EPA identifies worn toilet flappers as one possible source of leaks, but the plumber needs to determine the cause for your fixture.
 
 ### What usually gets repaired
 
@@ -846,17 +784,15 @@ A running toilet by itself isn't usually a reason to replace the whole fixture. 
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The toilet and its base.
+- **Show the whole area** The toilet and its base.
+- **Include the detail** The visible tank components, if safely accessible.
+- **Add useful context** The supply line, shutoff valve and model information if available.
 
-- **Include the detail:** The visible tank components, if safely accessible.
-
-- **Add useful context:** The supply line, shutoff valve and model information if available.
+### Planning references
 
 ### Get help with a running toilet
 
 Tell us about your running toilet project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Light that stopped working or keeps flickering
 
@@ -870,21 +806,9 @@ If one light still won't work — or it flickers, buzzes, or cuts in and out —
 
 If several lights are flickering together, or the problem changes when a large appliance turns on, that's more reason to have the circuit checked rather than just replacing the fixture.
 
-### What you can check safely
+### Prepare details without opening the fixture
 
-Before requesting service:
-
-1. Try a new bulb of the correct type.
-
-2. If the light is on a dimmer, make sure the bulb is dimmable.
-
-3. Check the breaker and reset it once if it has tripped.
-
-4. Notice whether moving the switch changes the flickering.
-
-That's enough troubleshooting for most homeowners.
-
-Don't remove the fixture or open the switch box to investigate wiring.
+Record the fixture location, bulb information if already known, and whether a dimmer is involved. Mention recent changes and whether other lights are affected. Do not open the switch box, remove the fixture or repeatedly reset a breaker to investigate. Let the electrician determine the cause.
 
 ### Stop using it if...
 
@@ -914,17 +838,15 @@ If you're already thinking about changing the light, include a photo or link to 
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The light fixture and its location.
+- **Show the whole area** The light fixture and its location.
+- **Include the detail** The bulb type and switch or dimmer, without removing covers.
+- **Add useful context** Any replacement fixture you are considering; photograph visible damage only from a safe distance.
 
-- **Include the detail:** The bulb type and switch or dimmer, without removing covers.
-
-- **Add useful context:** Any replacement fixture you are considering; photograph visible damage only from a safe distance.
+### Sources
 
 ### Request help with a failed light
 
 Tell us about your failed light fixture project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Masonry repair for steps, walks, patios, and walls
 
@@ -1000,17 +922,17 @@ A noticeably leaning retaining wall, major movement, or cracking that appears co
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The whole set of steps, walkway, patio or wall.
+- **Show the whole area** The whole set of steps, walkway, patio or wall.
+- **Include the detail** A close-up of damaged joints or materials and a side view of any tilt.
+- **Add useful context** Where the masonry meets the house and nearby downspouts.
 
-- **Include the detail:** A close-up of damaged joints or materials and a side view of any tilt.
+### Masonry help pages
 
-- **Add useful context:** Where the masonry meets the house and nearby downspouts.
+### Sources
 
 ### Request masonry help
 
 Tell us about your masonry project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Peeling exterior paint
 
@@ -1058,17 +980,15 @@ Older painted surfaces may contain lead. When paid renovation work disturbs pain
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The affected exterior side.
+- **Show the whole area** The affected exterior side.
+- **Include the detail** The peeling surface and visible material damage.
+- **Add useful context** Gutters, roof edges or joints above recurring peeling. Include the approximate house age in the description.
 
-- **Include the detail:** The peeling surface and visible material damage.
-
-- **Add useful context:** Gutters, roof edges or joints above recurring peeling. Include the approximate house age in the description.
+### Sources
 
 ### Plan your exterior paint repair
 
 Tell us about your peeling exterior paint project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Interior door that sticks or won't latch
 
@@ -1080,39 +1000,31 @@ A sticking door may be adjustable, depending on its condition and alignment. Not
 
 A door that needs a shoulder to close or has to be lifted to latch is annoying — but it's usually a small repair.
 
-### What to look for
+### Describe where the door catches
 
-If the door rubs near the top corner on the latch side, start with the hinges. A loose top hinge can let the door sag.
+Note the room, where the door rubs and whether the latch engages. Mention whether the issue changes through the year or began after another repair. If several doors changed at once or new cracks appeared nearby, include that context rather than assuming this is only a hardware adjustment.
 
-If the latch is just missing the hole in the strike plate, the door may only need an adjustment.
+### Agree on the repair and finish
 
-If the door works well during part of the year and sticks during another, the wood may be expanding and contracting with seasonal conditions.
+Ask the provider to assess alignment, hardware and the condition of the door before proposing work. Discuss whether the estimate includes replacement hardware and any paint or finish affected by the repair. If replacement is recommended, ask what makes adjustment unsuitable.
 
-And if several doors in the house suddenly start sticking at the same time, especially alongside new wall cracks, mention that when you submit the project.
+### Before changing the door
 
-### What the repair may involve
-
-A handyman may: Tighten or replace hinge screws. Shim or adjust a hinge. Reposition the strike plate. Sand or plane a rubbing edge. Replace worn hinges or latch hardware. A badly warped, split or damaged door may be better replaced, but that's not where most sticking-door calls end up.
-
-### Don't trim too quickly
-
-Removing wood from the door can solve rubbing, but it shouldn't always be the first move. A door that's trimmed while it's at its most swollen can leave a large gap later. Checking the hinges and alignment first is usually smarter.
+Avoid trimming or changing hardware just to prepare for the visit. Show the provider how the door normally behaves and describe the result you want. Photos of the full door, hinges and latch help explain the request without taking anything apart.
 
 ### Photos that help
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The closed door and gaps around it.
+- **Show the whole area** The closed door and gaps around it.
+- **Include the detail** The hinges, latch and strike plate.
+- **Add useful context** The rubbing point and the whole doorway.
 
-- **Include the detail:** The hinges, latch and strike plate.
-
-- **Add useful context:** The rubbing point and the whole doorway.
+### Planning references
 
 ### Get help with a sticking door
 
 Tell us about your sticking interior door project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Water pooling in the yard or against the house
 
@@ -1146,21 +1058,19 @@ For a surface-grading problem, the work may include adding or moving soil, resha
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The yard and its relationship to the house.
-
-- **Include the detail:** Pooling during or after rain.
-
-- **Add useful context:** Nearby downspouts, paths, beds and slopes that affect the water path.
+- **Show the whole area** The yard and its relationship to the house.
+- **Include the detail** Pooling during or after rain.
+- **Add useful context** Nearby downspouts, paths, beds and slopes that affect the water path.
 
 ### Before digging
 
 Grading work can involve excavation. New Jersey One Call requirements may apply before digging, and private lines such as irrigation or landscape lighting may require separate locating. The contractor doing the work should determine what is required before excavation begins.
 
+### Sources
+
 ### Request a yard drainage assessment
 
 Tell us about your yard surface grading project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Outlet not working
 
@@ -1172,39 +1082,25 @@ A dead outlet does not establish that the outlet itself has failed; the issue ma
 
 One outlet stops working while everything around it seems fine. Before assuming you need new wiring, there are a few safe checks that solve a surprising number of these calls.
 
-### What to check first
+### What to record before the visit
 
-Start with nearby GFCI outlets — the ones with TEST and RESET buttons. Check bathrooms, kitchens, garages, basements and outdoor outlets, even if they're not in the same room. One GFCI can protect several outlets farther down the circuit.
+Tell the electrician which outlet stopped working, whether nearby outlets are affected and whether a breaker has tripped. Mention any wall switch associated with the outlet. Leave covers in place; do not move plugs or repeatedly reset breakers to reproduce the problem.
 
-Then check the breaker panel. A tripped breaker may sit only slightly out of position, so look carefully. Reset it once. If it trips again, leave it off and have the circuit checked.
+### Let the electrician locate the fault
 
-Finally, make sure the outlet isn't controlled by a wall switch. That's common in bedrooms and living rooms where an outlet was intended for a lamp.
+The visible outlet may be only one part of the assessment. Describe intermittent operation, loose plugs or faults in other rooms. The electrician can decide what needs testing before recommending replacement.
 
-If the outlet is warm, discolored, scorched, buzzing or sparking, stop using it. Turn off the breaker if you can do so safely.
+### Confirm the scope before replacement
 
-### What may be going on
-
-If resetting a GFCI or breaker restores power and it stays on, the problem may have been a one-time trip.
-
-If the outlet stays dead, works only when a plug is moved, or no longer grips plugs firmly, the outlet itself may be worn out.
-
-If several outlets are dead, the failed connection may be somewhere earlier on the circuit rather than at the outlet you're looking at.
-
-And if a breaker repeatedly trips, don't keep resetting it. Something on that circuit needs to be diagnosed.
-
-### Repair or replace?
-
-A worn or damaged outlet can usually be replaced without turning the job into a major electrical project. The job becomes more diagnostic when several outlets are affected, a breaker won't stay on, or the electrician has to trace a loose connection elsewhere on the circuit. Older two-prong outlets deserve a separate conversation. Converting them to three-prong outlets isn't always a simple swap because grounding and GFCI protection have to be handled correctly.
+Ask whether the estimate covers diagnosis as well as any replacement device. Mention older two-prong outlets and previous repairs so the electrician can assess the installation. An outlet photo cannot confirm grounding or the condition of concealed wiring.
 
 ### Photos that help
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The outlet with its cover in place.
-
-- **Include the detail:** Visible discoloration or damage from a safe distance.
-
-- **Add useful context:** Nearby GFCI outlets and visible circuit labels. Do not remove covers or open the outlet.
+- **Show the whole area** The outlet with its cover in place.
+- **Include the detail** Visible discoloration or damage from a safe distance.
+- **Add useful context** Nearby GFCI outlets and visible circuit labels. Do not remove covers or open the outlet.
 
 ### Who should fix it?
 
@@ -1214,17 +1110,14 @@ Outlet and circuit work should go to a qualified electrical professional. Electr
 
 The biggest difference is whether this is a straightforward outlet replacement or a circuit that has to be traced and diagnosed. Other factors include how many outlets are affected, whether GFCI protection is involved, the age and type of wiring, and how accessible the failed connection is.
 
-**Why would a bathroom GFCI shut off an outlet somewhere else?**
-Because one GFCI can protect several outlets wired after it on the same circuit. Those outlets don't have to be in the same room.
+- **Why would a bathroom GFCI shut off an outlet somewhere else?** Because one GFCI can protect several outlets wired after it on the same circuit. Those outlets don't have to be in the same room.
+- **Can I replace a two-prong outlet with a three-prong outlet?** Not necessarily by simply swapping the receptacle. If there isn't a grounding path, an electrician can explain the appropriate options.
 
-**Can I replace a two-prong outlet with a three-prong outlet?**
-Not necessarily by simply swapping the receptacle. If there isn't a grounding path, an electrician can explain the appropriate options.
+### Sources
 
 ### Request help with a dead outlet
 
 Tell us about your dead outlet project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Grout crumbling or washing out
 
@@ -1274,17 +1167,15 @@ If the tile is well bonded, the failed grout can usually be removed and replaced
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The full tiled floor, wall or shower.
+- **Show the whole area** The full tiled floor, wall or shower.
+- **Include the detail** The worst joints and visibly damaged tiles.
+- **Add useful context** Shower corners and any relevant staining on the opposite wall.
 
-- **Include the detail:** The worst joints and visibly damaged tiles.
-
-- **Add useful context:** Shower corners and any relevant staining on the opposite wall.
+### Planning references
 
 ### Get help with damaged grout
 
 Tell us about your crumbling grout project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Landscaping for cleanup, planting, and yard problems
 
@@ -1360,17 +1251,17 @@ Planting and grading can involve excavation. New Jersey One Call requirements ma
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** A wide view of the yard or planting bed and its access.
+- **Show the whole area** A wide view of the yard or planting bed and its access.
+- **Include the detail** The plants or areas needing attention, including anything to keep.
+- **Add useful context** Pooling water during or after rain, nearby downspouts and slopes.
 
-- **Include the detail:** The plants or areas needing attention, including anything to keep.
+### Landscaping help pages
 
-- **Add useful context:** Pooling water during or after rain, nearby downspouts and slopes.
+### Sources
 
 ### Request landscaping help
 
 Tell us about your landscaping project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Painting that starts with the surface, not the color
 
@@ -1446,17 +1337,17 @@ Exterior paint needs a dry surface and temperatures within the product's applica
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The room or exterior side you want painted.
+- **Show the whole area** The room or exterior side you want painted.
+- **Include the detail** Peeling, damaged material or a previous patch.
+- **Add useful context** Gutters or roof edges above recurring peeling, and an existing paint can if available.
 
-- **Include the detail:** Peeling, damaged material or a previous patch.
+### Painting help pages
 
-- **Add useful context:** Gutters or roof edges above recurring peeling, and an existing paint can if available.
+### Sources
 
 ### Request painting help
 
 Tell us about your painting project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.
 
 ## Handyman help for the repairs that pile up
 
@@ -1534,14 +1425,14 @@ Most handyman work starts with trying to keep what's already there. A sticking d
 
 A few clear photos can help start the conversation. Only photograph areas you can reach safely.
 
-- **Show the whole area:** The room or doorway where each repair is needed.
+- **Show the whole area** The room or doorway where each repair is needed.
+- **Include the detail** The affected hardware, trim, hinge or mounting location.
+- **Add useful context** Any replacement parts you already have. The form accepts up to five photos; prioritize the hardest items to describe.
 
-- **Include the detail:** The affected hardware, trim, hinge or mounting location.
+### Handyman help pages
 
-- **Add useful context:** Any replacement parts you already have. The form accepts up to five photos; prioritize the hardest items to describe.
+### Planning references
 
 ### Request handyman help
 
 Tell us about your handyman project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider.
-
-Related content and source links: retain the current published relationships.

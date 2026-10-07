@@ -62,7 +62,7 @@ type CompleteResponse =
     }
   | { success: false; error?: string; message?: string };
 
-export function ProjectIntakeForm({ initialService, contextLabel }: {initialService?: ServiceId; contextLabel?: string}) {
+export function ProjectIntakeForm({ initialService, contextLabel, availabilityReview }: {initialService?: ServiceId; contextLabel?: string; availabilityReview?: boolean}) {
   const [step, setStep] = useState<IntakeStep>("service");
   const [state, setState] = useState<ProjectIntakeState>({...INITIAL_INTAKE_STATE, ...(initialService ? {serviceId: initialService, serviceSelectionStatus: "SELECTED" as const} : {})});
   const [errors, setErrors] = useState<FieldErrors>({});
@@ -379,6 +379,7 @@ export function ProjectIntakeForm({ initialService, contextLabel }: {initialServ
         </p>
       </div>
 
+      {availabilityReview ? <p className={styles.contextHint}>Provider availability in this area is checked individually. This request does not confirm a booking or provider match.</p> : null}
       {contextLabel ? <p className={styles.contextHint}>Your starting point: {contextLabel}. You can change any details below.</p> : null}
       <IntakeProgress step={step} />
 

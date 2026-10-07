@@ -1,35 +1,18 @@
-# Existing-content cleanup — October 7, 2026
+# Existing-content cleanup — wave 2
 
-Owner authorized continuing the completion audit after the operations release. This draft pass covers the existing eight service hubs and fourteen problem pages. It does not introduce services, towns or URLs. No content was published by this pass.
+The owner directed continued content and geographic expansion through completion, following the earlier release authorization. The final 22-record editorial package is included in the 35-record wave 2 manifest. See [release record](../expansion-wave-2/RELEASE.md) for publication status.
 
-## Review package
+## Review completed
 
-- `EXISTING-PAGES-REVIEW.md`: complete homeowner copy for review.
-- `existing-pages-draft.json`: exact proposed changes to primary question, direct answer and sections, with the original record ID and update timestamp for conflict detection.
-- Every service hub now has a substantive opening. Answer fragments and overconfident opening diagnoses are replaced with self-contained answers; photo guidance is grouped into three useful items; calls to action name the subject. Selected fragmented prose is consolidated, while safety steps remain distinct.
-- Existing technical body content remains for evidence review. This is an editorial draft, not a claim that every retained technical recommendation has been verified.
-- Publication status, URLs, metadata, source relationships and internal links are untouched. Do not apply a stale patch or overwrite a newer edit.
+- Eight service hubs and fourteen problem pages have self-contained answers, clearer introductions, grouped photo guidance and specific calls to action.
+- Removed electrical breaker-reset and fault-reproduction instructions; changed diagnostic certainty into observations for professional assessment. Removed door-trimming advice and unverified claims that A5 has checked every provider's credentials.
+- Kept technical guidance conditional on assessment. No new prices, timelines, credential guarantees, projects or reviews were invented. References are planning background, not evidence about A5's provider roster or the cause of a particular property's damage.
+- Reviewed EPA water-leak, moisture and lead guidance; USG repair-material guidance; BIA repointing; CMHA paver maintenance; Schluter waterproofing; NJ One Call private facilities; municipal construction references. Source URLs and publishers are in content/expansion-wave-2/sources.json and geo-drafts.json.
+- ESFI and NJ electrical licensing summaries were confirmed through official indexed source text after direct requests timed out or returned 403. The existing NJ plumbing FAQ was not fully retrievable; it remains a regulatory reference, with no new detailed licensing interpretation added. No field inspection or professional certification of these articles is implied.
+- All 35 changed pages rendered with one H1, no horizontal overflow and no emoji/text arrows at 390px. Representative town and request pages passed at 320px, and a local-service page passed at desktop width. Temporary preview routes were removed before production builds.
 
-## Evidence review
+## Publication controls
 
-The October 7 public snapshot contains 49 published records. Twelve existing source associations cover ten of these 22 pages; twelve pages have no directly attached source. A linked regulatory source does not substantiate every technical statement on a page.
+The manifest fixes 22 existing IDs and 13 new IDs. Existing records retain URLs, metadata and original publication dates. Publication checks each original updated_at and uses a conditional PATCH for every row. The complete baseline and per-row receipt are saved privately under .wrangler/expansion-wave-2. Sources and relationships are staged before publication; vendor records are not changed.
 
-| Evidence | Result / remaining work |
-| --- | --- |
-| [Brick Industry Association, weather construction note](https://www.gobrick.com/media/file/1-tn1.pdf) | Retrieved October 7; supports weather-sensitive masonry planning. It does not establish repair-versus-rebuild diagnoses. |
-| [NJ One Call, private facilities](https://www.nj1-call.org/training-safety/private-facilities/) | Retrieved October 7; retain for excavation/private-line context. Confirm the complete proposed digging wording before publication. |
-| [eCFR, residential renovation](https://www.ecfr.gov/current/title-40/chapter-I/subchapter-R/part-745/subpart-E) | Retrieved October 7; retain the conditional lead-safe renovation wording and avoid implying that every project has identical requirements. |
-| [NJ electrical board](https://www.njconsumeraffairs.gov/elec/) | Official source identified for the licensing statement. Prefer it to the current third-party statute mirror in the next source update. |
-| [NJ plumbing FAQ](https://www.njconsumeraffairs.gov/plu/Pages/FAQ.aspx) | Direct retrieval failed; official search result available. Full source review remains open. |
-| Repair techniques and diagnostic examples | Add primary manufacturer/industry evidence or obtain a qualified field review before treating the entire revised body as publication-ready. |
-| A5 fulfillment claims | Confirm provider participation, scope, coverage and current credentials independently of the copy. No provider was activated or contacted. |
-
-## Publication checklist for this package
-
-1. Finish technical evidence review and revise any unsupported guidance.
-2. Confirm actual provider scope and availability language; retain the scheduled-service/emergency boundary.
-3. Review the complete drafts in the existing templates at mobile and desktop sizes.
-4. Validate exactly 22 intended IDs against current `updated_at` values, source links, registry relationships and section schema.
-5. Obtain owner approval for the final content, snapshot current rows, apply only the approved fields, and verify rendered copy, internal links, canonical URLs and schema.
-
-Paid pilot spending remains deferred. The owner subsequently authorized starting content and geographic expansion; see ../expansion-wave-2/TASK.md. Real project photography, case studies, provider facts and business-model confirmation remain separate evidence tasks.
+Paid pilot spending remains deferred. Actual availability and credentials are checked for each proposed provider; new-town pages explicitly describe a request review rather than confirmed coverage.

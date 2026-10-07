@@ -1,0 +1,255 @@
+{
+  "contentSha256": "fc86657595d826bdbe6fc162ade49d1fe84611c0caa6ef3a147d576b4404b8aa",
+  "pages": [
+    {
+      "id": "20000000-0000-4000-8000-000000000007",
+      "slug": "electrical",
+      "path": "/services/electrical",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000004",
+      "slug": "drywall",
+      "path": "/services/drywall",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000004",
+      "slug": "brick-step-repair",
+      "path": "/services/masonry/brick-step-repair",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000001",
+      "slug": "loose-mortar",
+      "path": "/services/masonry/loose-mortar",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000005",
+      "slug": "tile",
+      "path": "/services/tile",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000002",
+      "slug": "sunken-pavers",
+      "path": "/services/masonry/sunken-pavers",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000006",
+      "slug": "plumbing",
+      "path": "/services/plumbing",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000006",
+      "slug": "hole-in-drywall",
+      "path": "/services/drywall/hole-in-drywall",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000003",
+      "slug": "visible-pipe-leak",
+      "path": "/services/plumbing/visible-pipe-leak",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000005",
+      "slug": "water-damaged-ceiling",
+      "path": "/services/drywall/water-damaged-ceiling",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000007",
+      "slug": "drywall-crack",
+      "path": "/services/drywall/drywall-crack",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000004",
+      "slug": "running-toilet",
+      "path": "/services/plumbing/running-toilet",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000008",
+      "slug": "failed-light-fixture",
+      "path": "/services/electrical/failed-light-fixture",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000001",
+      "slug": "masonry",
+      "path": "/services/masonry",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000b",
+      "slug": "peeling-exterior-paint",
+      "path": "/services/painting/peeling-exterior-paint",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000c",
+      "slug": "sticking-interior-door",
+      "path": "/services/handyman/sticking-interior-door",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000d",
+      "slug": "yard-surface-grading",
+      "path": "/services/landscaping/yard-surface-grading",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000009",
+      "slug": "dead-outlet",
+      "path": "/services/electrical/dead-outlet",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000a",
+      "slug": "crumbling-grout",
+      "path": "/services/tile/crumbling-grout",
+      "type": "PROBLEM",
+      "action": "update"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000002",
+      "slug": "landscaping",
+      "path": "/services/landscaping",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000003",
+      "slug": "painting",
+      "path": "/services/painting",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000001",
+      "slug": "handyman",
+      "path": "/services/handyman",
+      "type": "SERVICE",
+      "action": "update"
+    },
+    {
+      "id": "a6c0d1c6-9da5-453b-8bd1-c92c4387b719",
+      "slug": "livingston",
+      "path": "/home-services/livingston",
+      "type": "LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "5b381d87-6a58-4f74-8d0e-74744c943293",
+      "slug": "summit",
+      "path": "/home-services/summit",
+      "type": "LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "77ac4879-f8f3-4157-80ec-aa53995adde8",
+      "slug": "hanover-township",
+      "path": "/home-services/hanover-township",
+      "type": "LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "806b9f3e-959a-4794-8bbf-576f4ab2aa5c",
+      "slug": "livingston-handyman",
+      "path": "/livingston/handyman",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "b656052c-90e9-4389-8f4a-7df408197c8c",
+      "slug": "livingston-painting",
+      "path": "/livingston/painting",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "6640adc6-d813-4e68-865e-0bb23811ee2a",
+      "slug": "summit-plumbing",
+      "path": "/summit/plumbing",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "20d1931d-145a-4701-8ec6-bee27901db06",
+      "slug": "summit-tile",
+      "path": "/summit/tile",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "543131dc-e667-48de-8754-09025fa6af77",
+      "slug": "hanover-township-landscaping",
+      "path": "/hanover-township/landscaping",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "15f581fa-a4ab-4f13-8225-1843256fe7c8",
+      "slug": "hanover-township-masonry",
+      "path": "/hanover-township/masonry",
+      "type": "SERVICE_LOCATION",
+      "action": "insert"
+    },
+    {
+      "id": "734e2bee-9ce4-4954-80d9-15dc0232b837",
+      "slug": "punch-list-repairs",
+      "path": "/services/handyman/punch-list-repairs",
+      "type": "PROBLEM",
+      "action": "insert"
+    },
+    {
+      "id": "ce2f1118-739f-43c7-8059-ab1190b4b482",
+      "slug": "paint-after-patching",
+      "path": "/services/painting/paint-after-patching",
+      "type": "PROBLEM",
+      "action": "insert"
+    },
+    {
+      "id": "1d32d1b0-60e0-45a7-8dde-3a287d6ea0c1",
+      "slug": "dripping-faucet",
+      "path": "/services/plumbing/dripping-faucet",
+      "type": "PROBLEM",
+      "action": "insert"
+    },
+    {
+      "id": "8164a0f4-47cf-4d9b-8dc8-2253d2273d93",
+      "slug": "overgrown-planting-beds",
+      "path": "/services/landscaping/overgrown-planting-beds",
+      "type": "PROBLEM",
+      "action": "insert"
+    }
+  ],
+  "existingUpdates": 22,
+  "newPages": 13,
+  "totalAfterPublication": 62,
+  "newSources": 9,
+  "newRelationships": 124
+}

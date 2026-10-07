@@ -15,7 +15,7 @@ describe("Authority expansion",()=>{
   assert.equal(plan.pages.length,20);
   assert.equal(plan.manifest.filter(p=>p.action==="insert").length,19);
   assert.deepEqual(new Set(plan.pages.filter(p=>p.page_type==="GUIDE").map(p=>p.primary_service_id)),new Set(SERVICES.map(s=>s.id)));
-  assert.deepEqual(new Set(plan.pages.filter(p=>p.page_type==="SERVICE_LOCATION").map(p=>p.primary_location_id)),new Set(LOCATIONS.map(l=>l.id)));
+  assert.deepEqual(new Set(plan.pages.filter(p=>p.page_type==="SERVICE_LOCATION").map(p=>p.primary_location_id)),new Set(LOCATIONS.slice(0,6).map(l=>l.id)));
   assert.equal(new Set(plan.pages.map(p=>p.direct_answer)).size,20);
   assert.equal(new Set(plan.manifest.map(p=>p.path)).size,20);
   assert.ok(plan.pages.every(p=>p.status==="DRAFT"&&!p.indexable&&p.reviewed_by===null));

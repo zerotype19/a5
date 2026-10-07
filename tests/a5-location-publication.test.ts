@@ -26,7 +26,7 @@ describe("location hub publication", () => {
     assert.equal(plan.pages.length, 6);
     assert.deepEqual(
       plan.pages.map((page) => page.primary_location_id),
-      LOCATIONS.map((location) => location.id),
+      LOCATIONS.slice(0, 6).map((location) => location.id),
     );
     const madison = plan.pages.find((page) => page.slug === "madison");
     assert.equal(madison?.id, LIVE_MADISON_LOCATION_PAGE_ID);
@@ -104,7 +104,7 @@ describe("location hub publication", () => {
       .filter((url) => url.includes("/home-services/"));
     assert.deepEqual(
       towns,
-      LOCATIONS.map((location) => `https://www.a5homeservices.com/home-services/${location.slug}`),
+      LOCATIONS.slice(0, 6).map((location) => `https://www.a5homeservices.com/home-services/${location.slug}`),
     );
   });
 });

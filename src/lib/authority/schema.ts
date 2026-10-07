@@ -60,8 +60,8 @@ export function buildServiceSchema(input: {
     "@context": "https://schema.org",
     "@type": "Service",
     "@id": `${buildCanonicalUrl(input.path)}#service`,
-    name: location ? `${service.name} in ${location.name}, NJ` : service.name,
-    serviceType: service.name,
+    name: location?.requestReviewRequired ? `${service.name} request coordination in ${location.name}, NJ` : location ? `${service.name} in ${location.name}, NJ` : service.name,
+    serviceType: location?.requestReviewRequired ? `${service.name} request coordination; provider availability checked individually` : service.name,
     provider: {
       "@type": "Organization",
       name: SITE.name,
