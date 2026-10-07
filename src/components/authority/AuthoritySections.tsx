@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import { sectionHeading } from "@/lib/authority/outline";
 import { requestHref } from "@/lib/intake/context";
 import Link from "next/link";
@@ -39,7 +40,7 @@ function ContentLinks({ links }: { links: ContentLink[] | undefined }) {
         <li key={`${link.href}-${link.label}`}>
           <Link href={link.href}>
             {link.label}
-            <span aria-hidden="true">→</span>
+            <span aria-hidden="true"><ArrowIcon /></span>
           </Link>
         </li>
       ))}

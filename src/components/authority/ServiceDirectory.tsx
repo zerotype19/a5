@@ -1,3 +1,4 @@
+import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { SERVICES } from "@config/services";
 import { LOCATIONS } from "@config/locations";
@@ -20,11 +21,11 @@ export async function ServiceDirectory({by, records}: {by: "service" | "town"; r
       const problems = by === "service" ? pages.filter(p => p.page_type === "PROBLEM" && p.primary_service_id === group.id) : [];
       const hubPath = by === "service" ? `/services/${group.slug}` : `/home-services/${group.slug}`;
       return <section className={styles.card} key={group.id}>
-        <h2>{hub ? <Link href={hubPath}>{group.name} <span aria-hidden="true">→</span></Link> : group.name}</h2>
+        <h2>{hub ? <Link href={hubPath}>{group.name} <span aria-hidden="true"><ArrowIcon /></span></Link> : group.name}</h2>
         {hub?.meta_description && <p>{hub.meta_description}</p>}
         {locals.length > 0 && <><h3>{by === "service" ? "Local service pages" : "Explore local services"}</h3><ul className={styles.chips}>{locals.map(p => <li key={p.id}><Link href={`/${p.primary_location_id}/${p.primary_service_id}`}>{by === "service" ? LOCATIONS.find(l => l.id === p.primary_location_id)?.name : SERVICES.find(s => s.id === p.primary_service_id)?.name}</Link></li>)}</ul></>}
         {problems.length > 0 && <><h3>Common projects and repairs</h3><ul className={styles.problems}>{problems.map(p => <li key={p.id}><Link href={`/services/${p.primary_service_id}/${p.slug}`}>{p.h1}</Link></li>)}</ul></>}
-        <Link className={styles.cta} href={requestHref(by === "service" ? {service:group.id} : {location:group.id})}>Request {by === "service" ? group.name.toLowerCase() : "a service"}{by === "town" ? ` in ${group.name}` : ""} →</Link>
+        <Link className={styles.cta} href={requestHref(by === "service" ? {service:group.id} : {location:group.id})}>Request {by === "service" ? group.name.toLowerCase() : "a service"}{by === "town" ? ` in ${group.name}` : ""} <ArrowIcon /></Link>
       </section>;
     })}</div>
   </main>;
