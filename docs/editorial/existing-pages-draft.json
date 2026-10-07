@@ -1,0 +1,2111 @@
+{
+  "created_at": "2026-10-07",
+  "status": "DRAFT_NOT_PUBLISHED",
+  "scope": "Existing eight service hubs and fourteen problem pages only; no status, URL, metadata, source-link or relationship mutations.",
+  "pages": [
+    {
+      "id": "20000000-0000-4000-8000-000000000007",
+      "slug": "electrical",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "What electrical work can I request through A5?",
+        "direct_answer": "Describe the light, outlet, switch or fan that needs attention, and whether other devices are affected. A5 reviews scheduled electrical requests and checks for a suitable provider. Heat, burning, sparking, smoke or fire require immediate attention rather than waiting for a service request.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Get scheduled help with lights, outlets, switches and ceiling fans. Describe what is not working, whether other devices are affected and any fixture you want installed. A5 reviews the details and checks for an electrical provider suited to the work. If you notice heat, burning or sparking, address that hazard rather than waiting for a routine request."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "A dead outlet or light can usually wait for a scheduled electrician.",
+              "An outlet, switch, fixture, or panel that is hot, sparking, scorched, buzzing loudly, or smells like it's burning should not be treated as a normal repair request.",
+              "Turn off the affected breaker if you can do so safely.",
+              "If there's smoke or fire, leave the area and call 911.",
+              "A5 does not provide emergency electrical dispatch."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "For ordinary electrical problems, start simple",
+            "paragraphs": [
+              "If there's no sign of an immediate hazard, there are a few things you can safely check without opening anything.",
+              "Dead outlet? Look for a tripped GFCI outlet nearby — the kind with TEST and RESET buttons. One GFCI can protect several outlets, sometimes in another room.",
+              "Check the breaker too. Reset a tripped breaker once. If it trips again, leave it off.",
+              "Light won't work? Try a known-good bulb of the correct type.",
+              "If it's on a dimmer, make sure the bulb is designed to be dimmed.",
+              "One switch acting strangely? Notice whether it's loose, cracked, buzzing, warm, or whether moving it changes what the light does.",
+              "That's enough troubleshooting.",
+              "Don't remove cover plates, pull outlets or switches from their boxes, or open the inside of the electrical panel."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "One device or something bigger?",
+            "paragraphs": [
+              "This distinction helps. If one outlet, switch, or fixture has failed and everything else nearby works normally, the problem may be that device or its connection. If several outlets or lights are affected, a breaker repeatedly trips, or lights dim when appliances start, the electrician may need to look farther into the circuit. That doesn't automatically mean a major electrical problem. It simply means replacing the visible device may not be the whole repair."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Common electrical projects",
+            "paragraphs": [
+              "A5 can help coordinate:",
+              "Dead or unreliable outlets.",
+              "Failed or flickering light fixtures.",
+              "Worn or faulty switches and dimmers.",
+              "Fixture replacements.",
+              "Ceiling-fan projects.",
+              "Lighting updates.",
+              "Recurring electrical problems that need troubleshooting.",
+              "Electrical work stays with an electrical professional rather than being folded into a handyman visit."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Replacing a light or ceiling fan",
+            "paragraphs": [
+              "If you're replacing an existing fixture, send a photo of what's there now and, if you've chosen one, the new fixture. A ceiling fan deserves special attention. The electrical box above it must be designed and supported for the weight and movement of a fan. A box that safely held a light fixture is not automatically suitable for a fan. The electrician should confirm the existing support before installation."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Older homes",
+            "paragraphs": [
+              "Two-prong outlets, older wiring, or a fuse panel aren't automatically emergencies. They can, however, change what looks like a simple device replacement. For example, replacing a two-prong outlet with a three-prong outlet isn't simply a matter of changing the face of the device if no equipment ground is present. You don't need to diagnose the wiring yourself. Just mention what you see."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Electrical work in New Jersey",
+            "paragraphs": [
+              "Electrical contracting is a licensed trade in New Jersey. A5 coordinates electrical projects with qualified electrical professionals. Some work — particularly new circuits or larger changes — may also require permits or inspections. The electrician should determine what's required for the specific job."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The fixture, outlet or switch with all covers in place."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Visible damage from a safe distance."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The replacement product, if chosen, and visible circuit labels. Do not open electrical equipment for photos."
+              }
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What affects the size of the job",
+            "paragraphs": [
+              "A like-for-like replacement is different from adding something new.",
+              "Scope can change based on:",
+              "Replacing a device versus troubleshooting a circuit.",
+              "Using the existing location versus adding a new one.",
+              "Whether new wiring or a circuit is needed.",
+              "Ceiling height and access.",
+              "The condition and age of existing wiring.",
+              "Whether an electrical box can support a new fixture or fan.",
+              "Permits and inspections where required."
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Electrical help pages"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request electrical help",
+            "description": "Tell us about your electrical project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000004",
+      "slug": "drywall",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can damaged drywall be repaired without replacing the whole wall?",
+        "direct_answer": "A localized hole or damaged joint may be repairable without replacing the entire wall. The provider needs to assess the size, condition and cause of the damage, then discuss finishing and paint. If water is involved, address the source before repairing the surface.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Get help with wall holes, damaged seams and ceiling repairs, with the finishing work considered from the start. Share the location and size of the damage, whether it has been repaired before and whether water is involved. A5 reviews the details and checks for a provider to assess the repair and the next steps."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "A small hole may need little more than patching and finishing.",
+              "A larger hole can be cut back to solid drywall and filled with a new piece.",
+              "A recurring crack may need the joint re-taped rather than simply filled again.",
+              "Water-damaged drywall is different: the water problem gets fixed first."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Holes",
+            "paragraphs": [
+              "The size and condition of the drywall determine the repair.",
+              "Tiny nail and screw holes are simple.",
+              "A doorknob-sized hole usually needs a proper patch.",
+              "A larger opening may need a new piece of drywall secured to backing or framing.",
+              "You generally don't need to replace an entire wall because of one damaged area."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Cracks",
+            "paragraphs": [
+              "Drywall cracks are common, especially around doors, windows, ceilings, and joints between sheets.",
+              "Many are cosmetic.",
+              "A crack that keeps coming back often needs more than another layer of filler. The old joint may need to be opened, secured, re-taped, and refinished.",
+              "If the crack is widening or appears alongside sticking doors, sloping floors, or other movement, mention that too."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Water-damaged ceilings and walls",
+            "paragraphs": [
+              "The order matters:",
+              "1. Stop the leak.",
+              "2. Let the area dry or remove wet material.",
+              "3. Repair the drywall.",
+              "4. Prime and paint.",
+              "A dry stain on solid drywall may not require replacing the board.",
+              "Soft, sagging, crumbling, or moldy drywall usually does.",
+              "If the source is plumbing, A5 can coordinate that step before the drywall repair. If it's coming from the roof, you'll need a roofer first."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Will the repair disappear?",
+            "paragraphs": [
+              "A good drywall repair should be flat and difficult to see once it's finished. But drywall compound isn't the final surface. The area still needs primer and paint, and matching an older paint color or wall texture can be as important as the patch itself."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Drywall or plaster?",
+            "paragraphs": [
+              "If you're not sure what your walls are made of, don't worry about diagnosing it. Photograph the damaged area — especially an exposed edge if there is one — and mention that you're unsure. Plaster and drywall are repaired differently, so the professional can confirm what you have before work begins."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The full wall or ceiling around the damage."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The hole or crack with an object for scale, without reaching into it."
+              },
+              {
+                "title": "Add useful context",
+                "body": "A previous patch, surrounding texture and what is above any water damage."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Drywall help pages"
+          },
+          {
+            "type": "CTA",
+            "title": "Request drywall help",
+            "description": "Tell us about your drywall project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000004",
+      "slug": "brick-step-repair",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can my brick steps be repaired, or do they need rebuilding?",
+        "direct_answer": "A provider needs to assess the condition of the steps and the support beneath them before recommending repair or rebuilding. Mention missing mortar, loose treads, sinking, tilting or separation from the house. Photos help start the assessment but cannot establish structural stability.",
+        "sections": [
+          {
+            "body": "Brick steps rarely fail all at once. Usually the first signs are small: mortar starts disappearing, the face of a brick flakes off, a tread loosens, or a gap opens where the steps meet the house.",
+            "type": "INTRO"
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Signs this may be a repair",
+            "paragraphs": [
+              "A repair may be enough when:",
+              "Mortar is cracked or missing but the steps remain level.",
+              "A few bricks are cracked or deteriorated.",
+              "A tread or cap has loosened.",
+              "The steps still feel solid underfoot.",
+              "There isn't meaningful separation from the house.",
+              "Typical work can include repointing mortar joints, replacing damaged bricks and resetting loose treads or caps."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Signs the steps may need to be rebuilt",
+            "paragraphs": [
+              "Look more closely if:",
+              "The whole set of steps leans or tilts.",
+              "One side has noticeably sunk.",
+              "The top landing has pulled away from the house.",
+              "Cracks run through several courses of brick.",
+              "Repairs have repeatedly failed in the same area.",
+              "Those signs can point to settlement or a failing base. In that case, repeatedly patching mortar is unlikely to last."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Water matters",
+            "paragraphs": [
+              "Brick and mortar are exposed to rain, snow and repeated freezing and thawing. Water from an overflowing gutter or a downspout emptying next to the steps can make deterioration worse. If the base is washing out or staying wet, correcting the water problem may be part of making the masonry repair last."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "If a step is loose",
+            "paragraphs": [
+              "Treat a loose or rocking tread as a trip hazard. Use another entrance if practical until it can be repaired.",
+              "Avoid filling failing mortar joints with caulk or general patching compound. It can make proper masonry repair harder later."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The full staircase from the front."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Damaged brick or mortar and a side view showing alignment."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The junction with the house and nearby gutters or downspouts."
+              }
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What affects the job",
+            "paragraphs": [
+              "The biggest cost difference is repair versus partial or complete rebuild. Size matters too: number and width of steps, side walls, landings and railings all add work. Brick matching can matter on older homes, and rebuilding the base adds excavation and material. Sometimes only one section needs rebuilding while the rest can be repaired."
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with damaged brick steps",
+            "description": "Tell us about your brick step repair project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000001",
+      "slug": "loose-mortar",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Does crumbling mortar mean the brickwork needs rebuilding?",
+        "direct_answer": "Crumbling mortar does not by itself establish that the whole area needs rebuilding. The provider should check the condition of the bricks and whether the masonry has moved before recommending repointing. Mention leaning, loose bricks or a repair that has failed again.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": "Signs it may just need repointing",
+            "paragraphs": [
+              "Look for:",
+              "Sandy or crumbling mortar.",
+              "Joints that have worn back from the face of the brick.",
+              "Small cracks following the mortar joints.",
+              "Gaps where mortar has fallen out.",
+              "Otherwise solid, stable brick."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Signs there may be more going on",
+            "paragraphs": [
+              "Pay more attention if:",
+              "Bricks are loose.",
+              "The wall is leaning or bulging.",
+              "Cracks run through the bricks themselves.",
+              "A retaining wall is moving.",
+              "The same area keeps failing after repairs.",
+              "Those can point to movement or another underlying problem rather than ordinary mortar wear."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Why mortar fails",
+            "paragraphs": [
+              "Mortar is designed to be the more sacrificial part of traditional brickwork. Over time it takes the wear from weather and moisture. Water can accelerate that deterioration, particularly around gutters, downspouts, ground-level masonry, steps, and other areas that stay wet. Previous repairs can matter too. Mortar that's too hard for older brick can shift damage into the brick itself."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What repointing involves",
+            "paragraphs": [
+              "Failed mortar is removed from the joints and replaced with new mortar that's appropriate for the masonry. If individual bricks are cracked or damaged, those can often be replaced at the same time. If the wall has moved substantially, however, simply replacing the mortar won't correct the underlying issue."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The full wall, steps or walkway."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The worst mortar joints and any cracking."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Any visible bowing, movement or nearby downspouts."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with crumbling mortar",
+            "description": "Tell us about your loose mortar project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000005",
+      "slug": "tile",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can individual tiles or damaged grout be repaired?",
+        "direct_answer": "A localized repair may be possible when the surrounding tile and backing are sound. Matching replacement tile, movement and moisture can change the scope. Share photos and mention any spare tiles so the provider can discuss repair options before proposing a larger project.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Start with the tile or grout that needs attention, without assuming the whole room needs replacing. Send photos of the damaged area and any spare tiles, and mention movement or moisture. A5 reviews your request and checks for a provider who can assess the condition and discuss a suitable repair scope."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "A cracked tile can frequently be replaced individually.",
+              "Loose tile can sometimes be reset.",
+              "Failing grout can often be removed and replaced.",
+              "The two questions that matter most are:",
+              "Can the tile be matched?",
+              "Is the surface underneath still solid and dry?"
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "If you have spare tile, find it",
+            "paragraphs": [
+              "Check the basement, garage, attic, or utility room. Builders and previous owners often leave extra tile behind, and a few matching pieces can turn a difficult repair into a straightforward one. If there's a box, photograph the label. Without spares, common tile may still be available. Older or discontinued tile can be much harder to match exactly."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Cracked or loose tile",
+            "paragraphs": [
+              "One or two damaged tiles don't automatically mean the whole floor or wall needs to come out. If the surrounding tile is solid and the surface underneath is sound, the damaged pieces can often be removed and replaced. If many tiles sound hollow, move when pressed, or crack along the same line, the issue may be underneath the tile rather than with the individual pieces."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Crumbling grout",
+            "paragraphs": [
+              "Grout can wear out while the tile itself remains perfectly usable. If the tiles are well bonded, failed grout can often be removed and replaced. If the grout keeps cracking in the same place, however, movement underneath may be causing it."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Showers need a closer look",
+            "paragraphs": [
+              "Tile and grout are the visible finish of a shower, not the entire waterproofing system. Cracked grout doesn't automatically mean there's water damage behind the wall. But loose tile, a soft wall, persistent moisture, or staining on the other side deserves a closer look. If a plumbing leak is involved, that gets addressed separately."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Small repair or larger project?",
+            "paragraphs": [
+              "A few tiles with good backing and available replacements usually point to a localized repair. A large area of loose tile, a flexing floor, wet backing, or no acceptable match may make rebuilding more of the surface the better choice. The goal isn't to replace more than necessary. It's to avoid repairing the visible tile while leaving the real problem underneath."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The whole floor, backsplash or shower wall."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Damaged grout or tile and any visible signs of movement."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Spare tile, its box label and any relevant staining on the opposite wall."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Tile help pages"
+          },
+          {
+            "type": "CTA",
+            "title": "Request tile help",
+            "description": "Tell us about your tile project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000002",
+      "slug": "sunken-pavers",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can existing pavers be reused in a repair?",
+        "direct_answer": "Existing pavers may be reusable if they are in suitable condition. The repair scope depends on the affected area, the base and any water or movement issues. Show the whole walkway or patio as well as the low spot so the provider can assess more than the visible surface.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": "What you may notice",
+            "paragraphs": [
+              "A low spot that holds water.",
+              "One or more pavers rocking underfoot.",
+              "Raised edges that create a trip point.",
+              "Joints opening near the edge.",
+              "Sections of the patio or walkway that no longer look level."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Why it happens",
+            "paragraphs": [
+              "The base settled. The gravel or bedding layer underneath can compact over time.",
+              "Water washed material away. Downspouts and runoff can undermine a section.",
+              "The edge moved. Without good edge restraint, pavers can spread outward.",
+              "Roots pushed from below.",
+              "Freeze-thaw movement changed the base."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Small repair or bigger rebuild?",
+            "paragraphs": [
+              "A small, clearly defined low area can often be lifted and reset. If the entire patio has waves, widespread sinking, or persistent drainage problems, more of the base may need to be rebuilt. Even then, good existing pavers can often be reused."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The full patio or walkway."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The uneven section and a side view of the level change."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Water after rain, nearby trees, slopes or downspouts."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with uneven pavers",
+            "description": "Tell us about your sunken pavers project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000006",
+      "slug": "plumbing",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "What plumbing details should I include in a service request?",
+        "direct_answer": "Tell us which fixture or visible pipe is affected, what the water is doing and whether the problem is contained. Photos can help a plumber assess the next step. A5 coordinates scheduled requests; an uncontrolled active leak needs an emergency plumbing service.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Get scheduled help for a running toilet, leaking faucet, fixture replacement or a contained visible pipe leak. Tell A5 what is affected, what you have noticed and whether nearby surfaces got wet. We review the request and check for a plumbing provider to discuss the repair. Uncontrolled leaks need emergency help rather than a scheduled request."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "If water is actively leaking, stop it if you can do so safely. Close the shutoff valve for that fixture, or the home's main water shutoff if the leak won't stop there.",
+              "If you can't stop the water and it's causing damage, call an emergency plumber. A5 is for scheduled plumbing projects, not emergency dispatch.",
+              "Once the water is under control, the question becomes much simpler: what failed, and does it need to be repaired or replaced?"
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Common plumbing projects",
+            "paragraphs": [
+              "A5 can help coordinate:",
+              "Faucets that drip or leak.",
+              "Toilets that run, refill on their own, or leak.",
+              "Visible leaks at pipes, valves, and supply lines.",
+              "Fixture replacements.",
+              "Aging or leaking water heaters.",
+              "Plumbing repairs connected to drywall, tile, or painting damage.",
+              "You don't need to know exactly what's wrong before submitting the project.",
+              "Tell us what the water is doing and where you see it."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "If there's an active leak",
+            "paragraphs": [
+              "Most sinks and toilets have a shutoff valve on the water line underneath or behind them.",
+              "Turn it clockwise to stop water to that fixture.",
+              "If that doesn't stop the leak, use the home's main water shutoff if you know where it is and can reach it safely.",
+              "Keep away from water near outlets, appliances, extension cords, or the electrical panel.",
+              "Once the water is contained, take a few photos before everything is dried up. Seeing where the water appeared can help enormously."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Repair or replace?",
+            "paragraphs": [
+              "Many plumbing problems are repairs, not replacements. A dripping faucet may need a cartridge, washer, or another internal part. A running toilet usually needs a flapper, fill valve, float adjustment, or another part inside the tank. A leaking supply line or shutoff valve can often be replaced without changing the fixture. Replacement becomes more likely when the fixture itself is cracked, badly corroded, unreliable after previous repairs, or simply something you already planned to change. Water heaters are similar: some failures can be repaired, while a leaking tank generally points toward replacement."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Water damage often becomes a second project",
+            "paragraphs": [
+              "A plumbing repair may stop the leak without finishing the job.",
+              "Water can leave behind:",
+              "Damaged drywall.",
+              "A stained ceiling.",
+              "Peeling paint.",
+              "Wet cabinets.",
+              "Damaged tile or flooring.",
+              "The order matters:",
+              "Fix the leak, then let the area dry, then repair the damaged surface, then paint or finish last.",
+              "A5 can help keep those related steps connected instead of treating them as unrelated projects."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Plumbing work in New Jersey",
+            "paragraphs": [
+              "Plumbing contracting is a licensed trade in New Jersey. A5 coordinates plumbing work with qualified plumbing professionals. Depending on the project, permits or inspections may also apply. You don't need to determine that yourself before requesting help. The plumbing professional should confirm what the job requires."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Water heaters",
+            "paragraphs": [
+              "If your water heater is:",
+              "Leaking around the tank.",
+              "Producing rusty-looking hot water.",
+              "No longer keeping up with normal use.",
+              "Making unusual noises.",
+              "Or simply old enough that you're considering replacement,",
+              "include a photo of the unit and its manufacturer label.",
+              "That label can tell the plumber a lot before the visit.",
+              "If the tank is actively leaking and you can't contain the water, use an emergency plumbing service rather than waiting for A5."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The affected fixture, valve or visible pipe."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Where water appears and any visible corrosion, once it is safe to approach."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The surrounding area that got wet; include the manufacturer label for a water-heater request. Do not dismantle plumbing for photos."
+              }
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What affects the size of the job",
+            "paragraphs": [
+              "The biggest variables are usually:",
+              "Whether the problem is exposed or hidden inside a wall or ceiling.",
+              "Repair versus replacement.",
+              "Age and condition of nearby valves and piping.",
+              "The fixture or water heater being installed.",
+              "Whether access has to be opened.",
+              "Permits or inspections where required.",
+              "Drywall, tile, or painting work after a leak."
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Plumbing help pages"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request plumbing help",
+            "description": "Tell us about your plumbing project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000006",
+      "slug": "hole-in-drywall",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can a hole be patched without replacing the whole wall?",
+        "direct_answer": "Many localized holes can be repaired without replacing the entire wall. The size of the opening, condition of the surrounding board and anything exposed behind it affect the repair. Include the wall texture and paint in the conversation so the estimate covers the finished result.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": null,
+            "paragraphs": [
+              "Small holes can be filled. A doorknob-sized hole can be patched. Larger damaged areas can be cut back to solid drywall and replaced with a new piece.",
+              "You generally do not need to replace an entire wall because of a hole.",
+              "The part that separates a good repair from an obvious patch is the finishing: getting the surface flat, matching any texture, and painting it so the repair disappears."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "The size changes the repair",
+            "paragraphs": [
+              "Nail and screw holes. Usually filled, sanded, primed, and touched up.",
+              "Small impact or doorknob holes. Typically need backing or a patch plus several thin coats of joint compound.",
+              "Larger holes. The damaged drywall is cut into a clean shape, backing or framing is added where needed, and a new piece of drywall is installed, taped, and finished.",
+              "Soft or water-damaged drywall. That's different. The damaged material may need to come out, but the water source needs to be fixed first."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Will the patch show?",
+            "paragraphs": [
+              "The drywall repair itself should be flat and hard to find once it's finished. Paint is often the bigger challenge. Even if you have the original paint color, older paint can fade or change slightly over time. On a very visible wall, painting from corner to corner can give a cleaner result than touching up only the patch."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What if there are wires or pipes behind it?",
+            "paragraphs": [
+              "Don't poke or cut farther into the wall. If the hole exposes plumbing, electrical wiring, or an opening made during another repair, mention that in the request. It can change how the repair should be approached."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The whole wall."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The hole with an object for scale, without cutting or probing it."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Surrounding texture, paint and any other holes in the request."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with a drywall hole",
+            "description": "Tell us about your hole in drywall project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000003",
+      "slug": "visible-pipe-leak",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "What should I do before requesting help for a visible leak?",
+        "direct_answer": "If you can safely stop the water, contain the leak before submitting a scheduled request. Keep clear of water near electrical equipment and do not take plumbing apart for photos. If water remains uncontrolled, contact an emergency plumber; A5 does not provide emergency dispatch.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": null,
+            "paragraphs": [
+              "If the leak is at a sink, toilet, or other fixture, close that fixture's shutoff valve.",
+              "If that doesn't stop it — or the leak is on a pipe without its own shutoff — use the home's main water shutoff.",
+              "Then move valuables out of the area, put down a bucket or towels, and deal with the repair once the water is contained.",
+              "If water is still flowing and you cannot stop it, call an emergency plumber. A5 does not provide emergency dispatch."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Keep clear of electricity",
+            "paragraphs": [
+              "If water is near an outlet, appliance, light fixture, electrical panel, or extension cord, keep away from the electrical equipment.",
+              "Don't stand in water while touching switches, plugs, or the panel.",
+              "If there's an immediate electrical hazard, treat that separately from the plumbing repair."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Where is the water coming from?",
+            "paragraphs": [
+              "Common visible leaks include:",
+              "A shutoff valve under a sink or behind a toilet.",
+              "A braided supply line.",
+              "A pipe joint or fitting.",
+              "A washing-machine connection.",
+              "Exposed piping in a basement.",
+              "A connection near a water heater.",
+              "A photo of the exact point where the water appears is extremely useful."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the repair may involve",
+            "paragraphs": [
+              "A plumber may need to tighten or replace a fitting, replace a shutoff valve or supply line, or cut out and replace a damaged section of pipe. If corrosion is widespread or the same type of piping is failing in several places, the conversation may extend beyond that one leak. The immediate goal, however, is simple: stop this leak and repair the failed part."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What about the water damage?",
+            "paragraphs": [
+              "Once the plumbing leak is fixed, wet drywall, cabinets, flooring, or paint may still need attention. Tell us what got wet. A5 can coordinate related drywall or painting work after the plumbing repair when that's part of the project."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The affected pipe or fixture once the water is controlled."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The point where water appears and visible corrosion."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The shutoff valve and area that got wet. Do not take plumbing apart for a photo."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request help for a contained pipe leak",
+            "description": "Tell us about your visible pipe leak project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000005",
+      "slug": "water-damaged-ceiling",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "What should be fixed first when a ceiling has water damage?",
+        "direct_answer": "The water source needs attention before the ceiling is refinished. Keep clear of a wet, bulging or sagging area and describe whether the leak is active or already repaired. Once the source is addressed, a professional can assess drying, damaged material and the finishing work required.",
+        "sections": [
+          {
+            "body": "The stain is where you see the problem. It isn't necessarily where the problem started.",
+            "type": "INTRO"
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "If it's wet right now",
+            "paragraphs": [
+              "If the ceiling is bulging or sagging with water, keep people out from underneath it. Wet drywall can fail suddenly.",
+              "If the damage is below a bathroom, stop using the fixture you suspect until the leak is checked.",
+              "If water is near a ceiling light or fan, turn that circuit off at the breaker if you can do so safely.",
+              "An active plumbing leak that won't stop may require shutting off the home's main water supply."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Where the water may be coming from",
+            "paragraphs": [
+              "Below a bathroom, common sources include a toilet seal, shower or tub, drain, supply line or another plumbing connection. On a top-floor ceiling, the source could be the roof, flashing, a gutter issue or condensation in the attic. Sometimes the leak has already been repaired and all that's left is the stain. The ceiling still needs to be completely dry before it's sealed and painted."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Does the drywall need to come out?",
+            "paragraphs": [
+              "Not always. If the ceiling is dry, firm and flat, the repair may be mostly cosmetic: seal the stain with the right primer and repaint. If the drywall is soft, swollen, sagging or crumbling, the damaged section is usually cut out. The cavity can then dry before new drywall is installed and finished. Visible or extensive mold may require remediation beyond ordinary drywall repair."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Why this can involve more than one trade",
+            "paragraphs": [
+              "Water-damaged ceilings are a good example of why A5 starts with the problem instead of asking homeowners to choose the contractor. A plumbing leak may need a plumber first. The opening then needs drywall repair. Finally, the ceiling may need to be painted so the repair disappears. A5 can coordinate those steps in the right order. If the source is the roof, you'll need a roofer first; roofing is not currently an A5 service."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The ceiling and its position within the room."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Visible staining or damage from a safe location; stay out from under sagging areas."
+              },
+              {
+                "title": "Add useful context",
+                "body": "What is above the affected area and any nearby fixture."
+              }
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What affects the job",
+            "paragraphs": [
+              "The biggest variable is the source of the water. After that, scope depends on whether the ceiling only needs stain treatment and paint or whether drywall has to be removed, replaced and finished. Ceiling height, texture and whether the entire ceiling needs repainting can also change the amount of work."
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Plan your ceiling repair",
+            "description": "Tell us about your water damaged ceiling project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000007",
+      "slug": "drywall-crack",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Why does a repaired drywall crack keep returning?",
+        "direct_answer": "A returning crack needs an assessment of the joint and the cause of movement, rather than another surface patch alone. Tell the provider when it appeared, whether it is changing and what previous repairs were made. Widening cracks or other new movement should be assessed before cosmetic work.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": null,
+            "paragraphs": [
+              "Many drywall cracks are cosmetic — especially along seams, above doors and windows, or where walls meet ceilings. A lasting repair often means opening the crack, repairing or replacing the tape, and refinishing the joint rather than just filling the visible line.",
+              "The important question is whether you're looking at a drywall problem or signs of larger movement."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Usually a drywall repair",
+            "paragraphs": [
+              "Common examples include:",
+              "A thin crack over the corner of a door or window.",
+              "A straight crack along a drywall seam.",
+              "A crack where the wall meets the ceiling.",
+              "Nail or screw pops.",
+              "A crack that reappeared through an old patch.",
+              "These can often be repaired by securing the drywall where needed, re-taping the joint, applying new compound, sanding, priming, and painting."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When to look closer",
+            "paragraphs": [
+              "Tell us if the crack: Is getting noticeably wider. Appeared suddenly. Runs through several different surfaces. Is accompanied by doors that recently started sticking. Appears with sloping floors or foundation cracking. That doesn't automatically mean there's a structural problem. It does mean fixing the drywall may not be the first question to answer."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Why drywall cracks",
+            "paragraphs": [
+              "Homes move slightly over time. Wood framing expands and contracts. Drywall joints take some of that movement. Fasteners can shift. Older tape can lose its bond. Previous repairs may have covered the crack without correcting the joint underneath. That's why the location and pattern of the crack matter more than simply whether a crack exists."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Will the repair show?",
+            "paragraphs": [
+              "A properly finished repair should blend into the surrounding wall once it's primed and painted. Texture and paint matching can make the finishing work more involved, particularly on ceilings or walls that haven't been painted in years."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The full crack from end to end."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Its width and any nearby nail pops or previous patch."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The adjoining door, window or ceiling line; mention a door that has also started sticking."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get a recurring crack assessed",
+            "description": "Tell us about your drywall crack project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000004",
+      "slug": "running-toilet",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Does a running toilet need repair or replacement?",
+        "direct_answer": "A running toilet may have a repairable problem with a component inside the tank. Describe whether it runs continuously, refills between uses or also leaks outside the fixture. A plumber can assess the parts and overall condition before recommending repair or replacement.",
+        "sections": [
+          {
+            "body": "You flush, the tank fills — and then the water never quite stops. Or the toilet suddenly refills for a few seconds even though nobody used it.",
+            "type": "INTRO"
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "A quick look inside the tank can tell you a lot",
+            "paragraphs": [
+              "Lift the tank lid.",
+              "If water is continuously flowing into the tall overflow tube, the float or fill valve is the likely issue.",
+              "If the water level looks normal but the toilet periodically refills, the flapper may be leaking water into the bowl.",
+              "A simple way to check is to put a few drops of food coloring in the tank without flushing. If color reaches the bowl, water is getting past the flapper.",
+              "If you just want the toilet to stop running until it's repaired, close the shutoff valve behind it."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What usually gets repaired",
+            "paragraphs": [
+              "Common repairs include:",
+              "Replacing the flapper.",
+              "Replacing or adjusting the fill valve.",
+              "Adjusting the float.",
+              "Correcting the flapper chain.",
+              "Cleaning or repairing the flush-valve seat.",
+              "These are routine toilet repairs."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When replacement makes more sense",
+            "paragraphs": [
+              "A running toilet by itself isn't usually a reason to replace the whole fixture. Replacement becomes more reasonable if the tank or bowl is cracked, the toilet has recurring problems, it leaks at the base even after repair, or you're ready to upgrade it anyway. A rocking toilet can also mean the seal at the floor needs attention, which is a different repair from the parts inside the tank."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The toilet and its base."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The visible tank components, if safely accessible."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The supply line, shutoff valve and model information if available."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with a running toilet",
+            "description": "Tell us about your running toilet project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000008",
+      "slug": "failed-light-fixture",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "How can I tell whether a failed light needs an electrician?",
+        "direct_answer": "If a light still fails after an appropriate bulb check, an electrician may need to assess the fixture, switch or circuit. Mention flickering, other affected lights and any recent changes. Stop using equipment with heat, scorching, sparking or a burning smell; do not open electrical boxes to investigate.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": null,
+            "paragraphs": [
+              "If one light still won't work — or it flickers, buzzes, or cuts in and out — the issue may be the fixture, switch, dimmer, or connection feeding it.",
+              "If several lights are flickering together, or the problem changes when a large appliance turns on, that's more reason to have the circuit checked rather than just replacing the fixture."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What you can check safely",
+            "paragraphs": [
+              "Before requesting service:",
+              "1. Try a new bulb of the correct type.",
+              "2. If the light is on a dimmer, make sure the bulb is dimmable.",
+              "3. Check the breaker and reset it once if it has tripped.",
+              "4. Notice whether moving the switch changes the flickering.",
+              "That's enough troubleshooting for most homeowners.",
+              "Don't remove the fixture or open the switch box to investigate wiring."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Stop using it if...",
+            "paragraphs": [
+              "Turn the light off and, if you can do so safely, turn off the breaker if you notice:",
+              "A burning smell.",
+              "Scorching or discoloration.",
+              "Unusual heat.",
+              "Sparking.",
+              "Loud buzzing from the fixture or switch.",
+              "If there's smoke or fire, call 911."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the repair may involve",
+            "paragraphs": [
+              "Sometimes the fix is simply a compatible bulb or replacement switch. A failed socket or fixture may mean replacing the fixture itself. If the problem is in the wiring or affects multiple lights, the electrician will need to trace the circuit and find the connection that's failing. In New Jersey, electrical contracting is licensed work, so A5 coordinates this with an electrical professional."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Replacing the fixture?",
+            "paragraphs": [
+              "If you're already thinking about changing the light, include a photo or link to the replacement fixture. Ceiling height, fixture weight, the existing electrical box, outdoor exposure, and older wiring can all affect what's involved."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The light fixture and its location."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The bulb type and switch or dimmer, without removing covers."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Any replacement fixture you are considering; photograph visible damage only from a safe distance."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request help with a failed light",
+            "description": "Tell us about your failed light fixture project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000001",
+      "slug": "masonry",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can damaged masonry be repaired, or does it need rebuilding?",
+        "direct_answer": "Repair options depend on both the visible damage and the stability of the masonry beneath it. Describe loose mortar, damaged bricks, uneven pavers or any change in alignment. A provider can assess whether a localized repair is appropriate or whether the base needs attention.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Loose mortar, uneven pavers and damaged brick steps can make everyday access to your home more difficult. Tell A5 what has changed and share a few photos of the whole area and the damage. We review the request and check for an appropriate masonry provider to discuss the condition, repair options and next step."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "The key is figuring out what actually failed.",
+              "If the mortar is deteriorating but the brickwork is still solid, repointing may be enough.",
+              "If a few bricks or pavers are damaged, those pieces can often be replaced or reset.",
+              "If the entire section has tilted, sunk, or pulled away, the problem is probably underneath it — and rebuilding the base may be more important than patching what you can see."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Start with what changed",
+            "paragraphs": [
+              "Look at the overall shape first.",
+              "Are the steps still level?",
+              "Has a walkway developed a dip?",
+              "Is a wall leaning?",
+              "Has a gap opened between the masonry and the house?",
+              "Then look closer at the material itself.",
+              "You may see:",
+              "Mortar falling out of the joints.",
+              "Brick faces flaking or cracking.",
+              "Loose bricks or stones.",
+              "Rocking or sunken pavers.",
+              "Cracks running through several courses.",
+              "Water collecting around the problem area.",
+              "Those details help separate a surface repair from movement underneath."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When repointing may be enough",
+            "paragraphs": [
+              "Mortar is supposed to take wear before the brick does. If the bricks are sound and the wall or steps haven't moved, deteriorated mortar can often be removed and replaced. Individual damaged bricks can often be replaced at the same time. The result preserves most of the existing masonry instead of rebuilding it unnecessarily."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When the base is the problem",
+            "paragraphs": [
+              "A surface patch won't last if the structure underneath is moving. Steps that have pulled away from the house, widespread sunken pavers, or a leaning wall may need to come apart so the base can be corrected. Good brick, stone, or pavers can sometimes be reused during that work."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Water matters",
+            "paragraphs": [
+              "A lot of masonry problems have water somewhere in the story. Downspouts can discharge beside steps. A walkway can pitch toward the house. Water can enter deteriorated joints and freeze during winter. Fixing the masonry without addressing an obvious water problem can lead to the same failure again. When you send the project, include the nearest downspout and tell us where water goes after a heavy rain."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Winter repairs",
+            "paragraphs": [
+              "Exterior mortar work needs suitable temperatures while the mortar cures. That can limit when some repairs are performed in Northern New Jersey. An unsafe step or loose masonry can still be assessed sooner, even when the permanent repair needs better weather."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When to look closer",
+            "paragraphs": [
+              "A noticeably leaning retaining wall, major movement, or cracking that appears connected to the home's foundation can be more than a routine masonry repair. In those cases, the right first step may be determining whether a structural assessment is needed."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The whole set of steps, walkway, patio or wall."
+              },
+              {
+                "title": "Include the detail",
+                "body": "A close-up of damaged joints or materials and a side view of any tilt."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Where the masonry meets the house and nearby downspouts."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Masonry help pages"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request masonry help",
+            "description": "Tell us about your masonry project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000b",
+      "slug": "peeling-exterior-paint",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "What needs attention before peeling exterior paint is repainted?",
+        "direct_answer": "The provider should assess the surface and any moisture or material damage before repainting. Share whether the peeling is isolated, widespread or recurring in the same place. Include the approximate age of the home so the contractor can assess the preparation requirements.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": null,
+            "paragraphs": [
+              "The important part isn't simply putting new paint over the bare spot. It's figuring out why that spot failed and doing enough preparation that the new paint stays on.",
+              "A small isolated area may only need repair and touch-up. Widespread peeling usually means more extensive prep and repainting."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Look at what's under the paint",
+            "paragraphs": [
+              "Peeling can tell you quite a bit.",
+              "Bare, solid wood underneath. The area may simply need proper scraping, sanding, priming, and paint.",
+              "Soft or dark wood. There may be rot or ongoing moisture that needs to be addressed first.",
+              "Paint peeling between older layers. The previous coating may not have bonded properly.",
+              "Bubbling or blistering. Moisture may be trapped behind the paint.",
+              "The same area keeps failing. Look above it for gutters, roof edges, joints, or other places water may be getting in."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Spot repair or repaint?",
+            "paragraphs": [
+              "A few isolated areas can often be scraped back to sound paint, feathered smooth, primed, and touched up.",
+              "If an entire side of the house is peeling, chalking, or cracking, it usually makes more sense to prepare and repaint that larger surface.",
+              "Touch-ups can also remain visible when the surrounding paint has faded, even when the color is technically the same."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Don't paint over a water problem",
+            "paragraphs": [
+              "If a gutter is overflowing, trim is rotting, or water is getting behind the siding, fix that first. Otherwise the new paint may fail for the same reason the old paint did."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Homes built before 1978",
+            "paragraphs": [
+              "Older painted surfaces may contain lead. When paid renovation work disturbs painted surfaces in a pre-1978 home, federal lead-safe renovation requirements may apply. The contractor should determine the appropriate requirements and work practices before prep begins."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The affected exterior side."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The peeling surface and visible material damage."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Gutters, roof edges or joints above recurring peeling. Include the approximate house age in the description."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Plan your exterior paint repair",
+            "description": "Tell us about your peeling exterior paint project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000c",
+      "slug": "sticking-interior-door",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can a sticking interior door be adjusted instead of replaced?",
+        "direct_answer": "A sticking door may be adjustable, depending on its condition and alignment. Note where it rubs, whether it latches and whether the problem changes with the season. Mention several doors changing at once or nearby new cracks before treating the issue as an isolated door repair.",
+        "sections": [
+          {
+            "body": "A door that needs a shoulder to close or has to be lifted to latch is annoying — but it's usually a small repair.",
+            "type": "INTRO"
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What to look for",
+            "paragraphs": [
+              "If the door rubs near the top corner on the latch side, start with the hinges. A loose top hinge can let the door sag.",
+              "If the latch is just missing the hole in the strike plate, the door may only need an adjustment.",
+              "If the door works well during part of the year and sticks during another, the wood may be expanding and contracting with seasonal conditions.",
+              "And if several doors in the house suddenly start sticking at the same time, especially alongside new wall cracks, mention that when you submit the project."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the repair may involve",
+            "paragraphs": [
+              "A handyman may: Tighten or replace hinge screws. Shim or adjust a hinge. Reposition the strike plate. Sand or plane a rubbing edge. Replace worn hinges or latch hardware. A badly warped, split or damaged door may be better replaced, but that's not where most sticking-door calls end up."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Don't trim too quickly",
+            "paragraphs": [
+              "Removing wood from the door can solve rubbing, but it shouldn't always be the first move. A door that's trimmed while it's at its most swollen can leave a large gap later. Checking the hinges and alignment first is usually smarter."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The closed door and gaps around it."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The hinges, latch and strike plate."
+              },
+              {
+                "title": "Add useful context",
+                "body": "The rubbing point and the whole doorway."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with a sticking door",
+            "description": "Tell us about your sticking interior door project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000d",
+      "slug": "yard-surface-grading",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Will surface grading solve water collecting in my yard?",
+        "direct_answer": "Surface grading may be relevant, but pooling water needs an assessment of where it comes from and where it can go. Share observations during and after rain, including how long water remains. Persistent saturation or water entering the basement may need a different assessment from a surface landscaping project.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": "Start here",
+            "paragraphs": [
+              "Take a look during or just after a good rain. Where is the water coming from? Where does it collect? How long does it stay? Those answers are often more useful than a photo of the yard when it's dry."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Common causes",
+            "paragraphs": [
+              "The ground slopes the wrong way. Soil can settle over time and create a low area next to the foundation.",
+              "Downspouts empty too close to the house. A surprising amount of roof water can end up concentrated in one spot.",
+              "The yard has a low point. Water follows gravity. If there's no path away, it sits.",
+              "Beds have been built up over time. Mulch and soil piled near the house can change the original grade.",
+              "The soil drains slowly. Compacted or heavy soil can stay wet even when the surface grade looks reasonable."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the fix may involve",
+            "paragraphs": [
+              "For a surface-grading problem, the work may include adding or moving soil, reshaping the slope, extending downspouts, and restoring lawn or planting beds afterward. If the water is coming up through a basement floor, or the property stays saturated for long periods regardless of rain, that may require a different drainage solution."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The yard and its relationship to the house."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Pooling during or after rain."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Nearby downspouts, paths, beds and slopes that affect the water path."
+              }
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Before digging",
+            "paragraphs": [
+              "Grading work can involve excavation. New Jersey One Call requirements may apply before digging, and private lines such as irrigation or landscape lighting may require separate locating. The contractor doing the work should determine what is required before excavation begins."
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request a yard drainage assessment",
+            "description": "Tell us about your yard surface grading project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-000000000009",
+      "slug": "dead-outlet",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Does a dead outlet need replacing?",
+        "direct_answer": "A dead outlet does not establish that the outlet itself has failed; the issue may be elsewhere on the circuit. Tell an electrician which outlets are affected and whether a breaker repeatedly trips. Stop using damaged or overheating equipment and leave covers in place when taking photos.",
+        "sections": [
+          {
+            "body": "One outlet stops working while everything around it seems fine. Before assuming you need new wiring, there are a few safe checks that solve a surprising number of these calls.",
+            "type": "INTRO"
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What to check first",
+            "paragraphs": [
+              "Start with nearby GFCI outlets — the ones with TEST and RESET buttons. Check bathrooms, kitchens, garages, basements and outdoor outlets, even if they're not in the same room. One GFCI can protect several outlets farther down the circuit.",
+              "Then check the breaker panel. A tripped breaker may sit only slightly out of position, so look carefully. Reset it once. If it trips again, leave it off and have the circuit checked.",
+              "Finally, make sure the outlet isn't controlled by a wall switch. That's common in bedrooms and living rooms where an outlet was intended for a lamp.",
+              "If the outlet is warm, discolored, scorched, buzzing or sparking, stop using it. Turn off the breaker if you can do so safely."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What may be going on",
+            "paragraphs": [
+              "If resetting a GFCI or breaker restores power and it stays on, the problem may have been a one-time trip.",
+              "If the outlet stays dead, works only when a plug is moved, or no longer grips plugs firmly, the outlet itself may be worn out.",
+              "If several outlets are dead, the failed connection may be somewhere earlier on the circuit rather than at the outlet you're looking at.",
+              "And if a breaker repeatedly trips, don't keep resetting it. Something on that circuit needs to be diagnosed."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Repair or replace?",
+            "paragraphs": [
+              "A worn or damaged outlet can usually be replaced without turning the job into a major electrical project. The job becomes more diagnostic when several outlets are affected, a breaker won't stay on, or the electrician has to trace a loose connection elsewhere on the circuit. Older two-prong outlets deserve a separate conversation. Converting them to three-prong outlets isn't always a simple swap because grounding and GFCI protection have to be handled correctly."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The outlet with its cover in place."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Visible discoloration or damage from a safe distance."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Nearby GFCI outlets and visible circuit labels. Do not remove covers or open the outlet."
+              }
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Who should fix it?",
+            "paragraphs": [
+              "Outlet and circuit work should go to a qualified electrical professional. Electrical contracting is licensed work in New Jersey, so A5 routes these requests to electrical providers rather than treating them as general handyman jobs. If you see smoke or fire, call 911. A5 is not an emergency electrical service."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What affects the job",
+            "paragraphs": [
+              "The biggest difference is whether this is a straightforward outlet replacement or a circuit that has to be traced and diagnosed. Other factors include how many outlets are affected, whether GFCI protection is involved, the age and type of wiring, and how accessible the failed connection is."
+            ]
+          },
+          {
+            "type": "QUESTION_ANSWER",
+            "items": [
+              {
+                "answer": "Because one GFCI can protect several outlets wired after it on the same circuit. Those outlets don't have to be in the same room.",
+                "question": "Why would a bathroom GFCI shut off an outlet somewhere else?"
+              },
+              {
+                "answer": "Not necessarily by simply swapping the receptacle. If there isn't a grounding path, an electrician can explain the appropriate options.",
+                "question": "Can I replace a two-prong outlet with a three-prong outlet?"
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request help with a dead outlet",
+            "description": "Tell us about your dead outlet project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "30000000-0000-4000-8000-00000000000a",
+      "slug": "crumbling-grout",
+      "page_type": "PROBLEM",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Is regrouting enough when grout starts crumbling?",
+        "direct_answer": "Regrouting may be appropriate when the tiles and the surface beneath them are sound. Loose tiles, recurring cracks, soft surfaces or moisture can change that assessment. Share the wider area as well as the joints so the provider can consider the cause before recommending a cosmetic repair.",
+        "sections": [
+          {
+            "type": "RICH_TEXT",
+            "heading": null,
+            "paragraphs": [
+              "Old grout can be removed and replaced without taking out the tile. But if tiles are loose, sound hollow when tapped, or are cracking along with the grout, regrouting may only cover up a problem underneath.",
+              "In a shower, there's another consideration: grout is not the waterproofing system. Crumbling grout doesn't automatically mean there's a leak, but soft walls, persistent moisture, or loose tile deserve a closer look."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What to look for",
+            "paragraphs": [
+              "A straightforward grout repair usually looks like:",
+              "Grout that's powdery, cracked, or missing between otherwise solid tiles.",
+              "Discoloration or wear concentrated in the joints.",
+              "Tile that still feels firmly attached.",
+              "No softness or movement in the surrounding surface.",
+              "The job may be bigger if:",
+              "Tiles move when pressed.",
+              "Several tiles sound hollow.",
+              "Cracks run in a line across the floor.",
+              "A shower wall feels soft.",
+              "There's staining or damage on the other side of the wall."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Why grout fails",
+            "paragraphs": [
+              "Grout takes a lot of wear, especially on floors and in showers. Over time it can break down from traffic, water exposure, cleaning products, or simply age. Movement underneath the tile can also crack the grout — which is why grout that repeatedly fails in the same place is worth investigating rather than just covering again."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Repair or retile?",
+            "paragraphs": [
+              "If the tile is well bonded, the failed grout can usually be removed and replaced. A few damaged or loose tiles can often be replaced individually. If many tiles are loose or the surface underneath has failed, however, removing and rebuilding part of the tiled area may make more sense than repeatedly repairing the grout."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The full tiled floor, wall or shower."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The worst joints and visibly damaged tiles."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Shower corners and any relevant staining on the opposite wall."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT"
+          },
+          {
+            "type": "CTA",
+            "title": "Get help with damaged grout",
+            "description": "Tell us about your crumbling grout project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000002",
+      "slug": "landscaping",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "How do I describe the landscaping work I need?",
+        "direct_answer": "Start with what you want to change: clear overgrowth, refresh a planting bed or address an area where water collects. Include a wide photo, access details and anything you want to keep. A5 reviews the project and checks for an appropriate provider.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Make the yard easier to use and maintain, starting with the areas that need attention most. Describe an overgrown bed, a planting refresh, seasonal cleanup or water collecting after rain. A5 reviews your photos, location and priorities, then checks for a provider suited to the project. Scope and availability are confirmed after review."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "Sometimes you want to change something: new plants, cleaner edges, or a refreshed front bed.",
+              "And sometimes the problem is functional — like water that keeps collecting beside the house.",
+              "Those are different projects, and it helps to start with what you want the yard to do differently."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Cleanup and overgrowth",
+            "paragraphs": [
+              "A cleanup can include things like:",
+              "Clearing leaves and debris.",
+              "Cutting back overgrown plants.",
+              "Cleaning out beds.",
+              "Removing dead plant material.",
+              "Redefining bed edges.",
+              "Getting an area back under control.",
+              "If there are plants you definitely want to keep, point them out in the request.",
+              "Not everything overgrown needs to be ripped out. Some shrubs can be brought back into shape with pruning rather than replacement."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Planting and bed work",
+            "paragraphs": [
+              "For planting projects, tell us what you're trying to accomplish. Maybe the front of the house looks bare. Maybe an old bed has become mostly weeds. Maybe you want something lower-maintenance. You don't need a complete landscape plan before you ask for help. Photos of the space and a basic sense of what you want are enough to start the conversation."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Water sitting in the yard",
+            "paragraphs": [
+              "If the same area fills with water after rain, look at where the water is coming from and where it's trying to go.",
+              "Common issues include:",
+              "Soil settling toward the house.",
+              "A low spot in the lawn.",
+              "Downspouts emptying beside the foundation.",
+              "Planting beds built up higher than surrounding areas.",
+              "Surface water with no clear path away.",
+              "Many of those can be improved with surface grading — reshaping the soil so water moves in a better direction.",
+              "If water is coming up through the basement floor or the entire property stays saturated for long periods, that's a different drainage problem and may require a solution beyond surface grading."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Seasonal work",
+            "paragraphs": [
+              "Spring and fall are naturally busy times for cleanup and planting in Northern New Jersey. Spring is useful for clearing winter debris and seeing what survived. Fall is useful for leaf cleanup, cutting back beds, and many planting projects while the soil is still workable. Grading and drainage-related work is best understood after you've seen what happens during real rain."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Before digging",
+            "paragraphs": [
+              "Planting and grading can involve excavation. New Jersey One Call requirements may apply before digging, and private lines such as irrigation, invisible pet fencing, or landscape lighting may need separate locating. The professional doing the work should determine what is required before excavation begins."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "A wide view of the yard or planting bed and its access."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The plants or areas needing attention, including anything to keep."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Pooling water during or after rain, nearby downspouts and slopes."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Landscaping help pages"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request landscaping help",
+            "description": "Tell us about your landscaping project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000003",
+      "slug": "painting",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "What needs to happen before a room or exterior is painted?",
+        "direct_answer": "The existing surface determines the preparation. Mention peeling paint, damaged wood, drywall repairs or a previous leak as well as the areas you want painted. The provider can discuss preparation, finish and scope before estimating the work.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "A fresh finish starts with a clear plan for the surfaces beneath it. Tell A5 which rooms, trim or exterior areas you want painted, and flag peeling, water stains or damaged material. We review the request and check for a painting provider who can discuss preparation, finish options, an estimate and timing."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "If the paint is peeling, blistering, cracking, or coming off in sheets, the preparation matters more than the new coat.",
+              "Painting over a failing surface usually means watching the new paint fail too."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What is the paint doing?",
+            "paragraphs": [
+              "Different failures point to different prep.",
+              "Peeling to bare wood. Moisture or weather exposure may be involved.",
+              "Peeling between layers. The newer coat may not have bonded properly to the older surface.",
+              "Bubbling or blistering. Moisture or application conditions may be part of the problem.",
+              "Powdery or chalky exterior paint. The old coating has weathered and needs to be cleaned before repainting.",
+              "Soft wood under peeling paint. The wood needs repair before it gets painted.",
+              "The goal is to understand the surface before covering it."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Interior painting",
+            "paragraphs": [
+              "Interior projects often include more than simply rolling the walls. Small holes and dents get filled. Old patches may need sanding. Water stains need the underlying leak fixed and usually need stain-blocking primer. Trim, ceilings, doors, and walls may all need different preparation and paint. If there's drywall damage, tell us about it in the same request."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Exterior painting",
+            "paragraphs": [
+              "Exterior prep can be the majority of the job.",
+              "Depending on the condition of the house, that may include:",
+              "Washing.",
+              "Scraping loose paint.",
+              "Sanding rough edges.",
+              "Repairing damaged wood.",
+              "Caulking gaps.",
+              "Priming bare areas.",
+              "Then painting.",
+              "If a gutter, roof edge, failed joint, or another moisture source is causing the peeling, that should be addressed too."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Spot repair or full repaint?",
+            "paragraphs": [
+              "A few isolated failures can often be repaired and touched up. If peeling or chalking covers a large part of a wall or side of the house, repainting the full surface usually gives a better and more durable result. Color matching matters too. Paint changes as it ages, so a technically correct touch-up can still be visible on an older wall."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Homes built before 1978",
+            "paragraphs": [
+              "Older painted surfaces may contain lead. When paid renovation work disturbs painted surfaces in a pre-1978 home, federal lead-safe renovation requirements may apply. Tell us if you know the approximate age of the house so the contractor can determine the appropriate requirements before prep begins."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When can exterior painting happen?",
+            "paragraphs": [
+              "Exterior paint needs a dry surface and temperatures within the product's application range. In Northern New Jersey, that generally makes the warmer part of the year the practical exterior-painting season. Interior painting can be done year-round."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The room or exterior side you want painted."
+              },
+              {
+                "title": "Include the detail",
+                "body": "Peeling, damaged material or a previous patch."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Gutters or roof edges above recurring peeling, and an existing paint can if available."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Painting help pages"
+          },
+          {
+            "type": "SOURCE_LIST",
+            "heading": "Sources"
+          },
+          {
+            "type": "CTA",
+            "title": "Request painting help",
+            "description": "Tell us about your painting project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    },
+    {
+      "id": "20000000-0000-4000-8000-000000000001",
+      "slug": "handyman",
+      "page_type": "SERVICE",
+      "expected_updated_at": "2026-09-30T12:00:00+00:00",
+      "review_status": "DRAFT",
+      "patch": {
+        "primary_question": "Can I include several small repairs in one request?",
+        "direct_answer": "Yes. Put doors, trim, hardware, shelving and other small repairs on one list, with a room and short description for each item. A5 can review what belongs together and what needs a separate trade. The provider confirms the scope and timing.",
+        "sections": [
+          {
+            "type": "INTRO",
+            "body": "Get the small repairs around your home into one clear list. A door that will not latch, loose trim, worn hardware or a shelf to mount are all useful starting points. Tell A5 what you want fixed and where it is. We review the details and check which items can be handled together by a suitable provider."
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "What the provider will assess",
+            "paragraphs": [
+              "A door that won't latch. Loose trim. A shelf that needs mounting. Worn hardware. A handful of small repairs that have been sitting on your list for months.",
+              "You don't need to figure out how to categorize every item before you start. Send A5 the list and we'll help sort out what belongs together."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Good handyman projects",
+            "paragraphs": [
+              "Handyman work is especially useful for:",
+              "Doors that stick, rub, or won't latch.",
+              "Loose baseboard, casing, or trim.",
+              "Replacing worn handles and other door hardware.",
+              "Mounting TVs, mirrors, shelves, and curtain rods.",
+              "Small carpentry repairs.",
+              "Punch-list items left after a renovation.",
+              "Several small fixes you'd rather handle in one visit.",
+              "If you have three or four unrelated little jobs, include all of them. That's often a better handyman request than treating each one separately."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "When you need a different trade",
+            "paragraphs": [
+              "Some jobs may look small but still belong with a licensed or specialized trade.",
+              "A dead outlet, failed light fixture, or new wiring is electrical.",
+              "A running toilet, leaking pipe, or faucet replacement is plumbing.",
+              "A large hole, damaged ceiling, or water-damaged wall may be better handled as drywall.",
+              "Cracked tile or failing grout belongs with tile.",
+              "That's okay. You don't need to make that call before submitting the project.",
+              "Tell us what's wrong and A5 can separate the work if needed."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "How to build a useful repair list",
+            "paragraphs": [
+              "Keep it simple.",
+              "For each item, tell us:",
+              "Where is it? “Upstairs bathroom.”",
+              "What's wrong? “Door rubs at the top and won't latch.”",
+              "What do you want? “Make it close normally.”",
+              "That's much more useful than trying to diagnose the repair yourself.",
+              "If you already bought hardware or materials, mention that too."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Repair or replace?",
+            "paragraphs": [
+              "Most handyman work starts with trying to keep what's already there. A sticking door may only need its hinges or strike plate adjusted. Loose trim can often be secured again. Worn hardware is usually easy to replace. Replacement becomes more likely when something is broken, badly warped, missing, or simply no longer worth repairing."
+            ]
+          },
+          {
+            "type": "RICH_TEXT",
+            "heading": "Photos that help",
+            "paragraphs": [
+              "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+            ],
+            "items": [
+              {
+                "title": "Show the whole area",
+                "body": "The room or doorway where each repair is needed."
+              },
+              {
+                "title": "Include the detail",
+                "body": "The affected hardware, trim, hinge or mounting location."
+              },
+              {
+                "title": "Add useful context",
+                "body": "Any replacement parts you already have. The form accepts up to five photos; prioritize the hardest items to describe."
+              }
+            ]
+          },
+          {
+            "type": "RELATED_CONTENT",
+            "heading": "Handyman help pages"
+          },
+          {
+            "type": "CTA",
+            "title": "Request handyman help",
+            "description": "Tell us about your handyman project and share your ZIP code. A5 will review the details and check for an appropriate provider. Scope, estimate and timing are confirmed with the provider."
+          }
+        ]
+      }
+    }
+  ]
+}

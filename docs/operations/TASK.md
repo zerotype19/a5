@@ -6,4 +6,4 @@ This slice adds guarded, audited post-acceptance outcomes, follow-up dates, proj
 
 Acceptance: accepted → contacted → estimate → won/lost, with terminal status protection, required loss reason, actor/event history, stale-write rejection, private financial values and no overwrite on duplicate submit. Tests must execute the migration and exercise permissions and transitions. Existing workflows remain available with the new flag disabled.
 
-Owner inputs: internal alerts to hello@a5homeservices.com; GA4 G-ZLD8SRP78F. Pilot budget, pilot services and expansion choices are explicitly deferred. Account verification and evidence remain open; see VERIFICATION.md.
+Owner inputs: internal alerts to hello@a5homeservices.com; GA4 G-ZLD8SRP78F. Pilot budget, pilot services and expansion choices are explicitly deferred. Deployment, GA4 event receipt, Search Console access/submission and scheduled alert acceptance are verified; remaining operational evidence is listed in RELEASE-2026-10-07.md.
