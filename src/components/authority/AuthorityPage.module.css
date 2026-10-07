@@ -60,3 +60,5 @@
   border: 1px solid var(--color-line);
   border-radius: var(--radius-sm);
 }
+
+.main[data-kind="SERVICE"] .inner, .main[data-kind="SERVICE_LOCATION"] .inner { max-width: 74rem; }

@@ -25,39 +25,21 @@ const base = {
 };
 
 describe("A5-008 eligibility", () => {
-  it("includes only ACTIVE accepting vendors with service and location", () => {
+  it("allows any vendor for any lead", () => {
     assert.equal(
       isVendorEligible(base, { serviceId: "masonry", locationId: "madison" }),
       true,
     );
     assert.equal(
       isVendorEligible(
-        { ...base, status: "PAUSED" },
-        { serviceId: "masonry", locationId: "madison" },
+        { ...base, status: "DISCOVERED", acceptingLeads: false, serviceIds: ["drywall"] },
+        { serviceId: "plumbing", locationId: "east-hanover" },
       ),
-      false,
+      true,
     );
     assert.equal(
-      isVendorEligible(
-        { ...base, acceptingLeads: false },
-        { serviceId: "masonry", locationId: "madison" },
-      ),
-      false,
-    );
-    assert.equal(
-      isVendorEligible(
-        { ...base, serviceIds: ["drywall"] },
-        { serviceId: "masonry", locationId: "madison" },
-      ),
-      false,
-    );
-    assert.equal(
-      isVendorEligible(base, { serviceId: "masonry", locationId: null }),
-      false,
-    );
-    assert.equal(
-      isVendorEligible(base, { serviceId: null, locationId: "madison" }),
-      false,
+      isVendorEligible(base, { serviceId: null, locationId: null }),
+      true,
     );
   });
 });

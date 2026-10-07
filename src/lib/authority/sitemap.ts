@@ -13,7 +13,7 @@ import { buildCanonicalUrl, buildContentPathFromRecord } from "./urls.ts";
 export const CORE_SITEMAP_ROUTES = [
   { path: "/", changeFrequency: "weekly" as const, priority: 1 },
   {
-    path: "/request-service",
+    path: "/about",
     changeFrequency: "monthly" as const,
     priority: 0.9,
   },
@@ -21,6 +21,7 @@ export const CORE_SITEMAP_ROUTES = [
 
 /** Explicitly excluded from sitemap regardless of status. */
 export const SITEMAP_EXCLUSIONS = [
+  "/request-service",
   "/admin",
   "/privacy",
   "/terms",

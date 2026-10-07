@@ -34,12 +34,12 @@ export function StepDetails({
     <div className={styles.panel}>
       <h2 className={styles.stepTitle}>Tell us what&apos;s going on.</h2>
       <p className={styles.stepHint}>
-        Use everyday language. You do not need contractor terminology.
+        A sticking door, a drip, mortar coming out of the steps. Whatever you&apos;re looking at.
       </p>
 
       <div className={styles.field}>
         <label className={styles.label} htmlFor="intake-description">
-          Project description
+          What&apos;s going on
         </label>
         <textarea
           id="intake-description"

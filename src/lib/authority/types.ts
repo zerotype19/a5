@@ -87,14 +87,40 @@ export type ComparisonRow = {
   optionB: string;
 };
 
+/** Internal site path only (e.g. "/services/masonry"); anything else is not rendered. */
+export type ContentLink = {
+  label: string;
+  href: string;
+};
+
+export type RichTextItem = {
+  title: string;
+  body: string;
+  links?: ContentLink[];
+};
+
 export type ContentSection =
   | { type: "INTRO"; body: string }
   | { type: "DIRECT_ANSWER"; body: string }
-  | { type: "RICH_TEXT"; heading?: string; paragraphs: string[] }
+  | {
+      type: "RICH_TEXT";
+      heading?: string;
+      paragraphs: string[];
+      items?: RichTextItem[];
+      links?: ContentLink[];
+      closing?: string[];
+    }
   | { type: "QUESTION_ANSWER"; items: QuestionAnswerItem[] }
   | { type: "SOURCE_LIST"; heading?: string }
   | { type: "RELATED_CONTENT"; heading?: string }
-  | { type: "CTA"; title?: string; description?: string }
+  | {
+      type: "CTA";
+      title?: string;
+      description?: string;
+      primaryLabel?: string;
+      /** Shown before the registry phone number, e.g. "Or call". */
+      callLabel?: string;
+    }
   | { type: "COST_FACTORS"; heading?: string; factors: string[] }
   | {
       type: "COMPARISON_TABLE";

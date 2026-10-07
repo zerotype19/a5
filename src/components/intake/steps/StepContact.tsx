@@ -17,7 +17,7 @@ export function StepContact({ state, errors, onPatch }: Props) {
     <div className={styles.panel}>
       <h2 className={styles.stepTitle}>How should we reach you?</h2>
       <p className={styles.stepHint}>
-        We will use this to respond about your project — not for marketing.
+        We&apos;ll use this to get back to you about the repair, not to send marketing.
       </p>
 
       <div className={styles.fieldRow}>

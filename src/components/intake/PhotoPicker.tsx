@@ -85,12 +85,12 @@ export function PhotoPicker({
   return (
     <div className={styles.photoPicker} data-intake="photo-picker">
       <p className={styles.photoNoteTitle}>
-        Have photos? Photos can help us understand what&apos;s going on.
+        A few photos help.
       </p>
       <p className={styles.photoNoteBody}>
-        Optional — up to {MAX_PROJECT_PHOTOS} photos. A wide shot of the area
-        and a close-up of the problem help most. JPEG, PNG, or WEBP, 10 MB
-        each. You can finish without uploading.
+        Up to {MAX_PROJECT_PHOTOS}. A wide shot and a close-up are the useful
+        ones. JPEG, PNG, or WEBP, 10 MB each. You can send the request without
+        them.
       </p>
 
       <div className={styles.photoActions}>

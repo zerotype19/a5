@@ -1,21 +1,21 @@
 :root {
   /* Atmosphere — cool paper with depth (not flat single color) */
-  --color-paper: #eef1f4;
-  --color-paper-deep: #e2e7ed;
-  --color-ink: #14202b;
-  --color-ink-soft: #3a4a58;
-  --color-muted: #5c6b78;
-  --color-line: #c5ced6;
-  --color-surface: #f7f9fb;
-  --color-accent: #0b5f63;
-  --color-accent-hover: #08484b;
-  --color-accent-soft: #d7ecec;
+  --color-paper: #faf8f2;
+  --color-paper-deep: #f0eee6;
+  --color-ink: #20372e;
+  --color-ink-soft: #48564d;
+  --color-muted: #626d64;
+  --color-line: #d8dcd2;
+  --color-surface: #fffef9;
+  --color-accent: #245a45;
+  --color-accent-hover: #183f32;
+  --color-accent-soft: #e6eddf;
   --color-hero-from: #0f2a32;
   --color-hero-mid: #164048;
   --color-hero-to: #1c5560;
   --color-on-hero: #f4f7f8;
   --color-on-hero-muted: #c5d5d8;
-  --color-focus: #0b5f63;
+  --color-focus: #245a45;
 
   --font-display: var(--font-display-family), "Iowan Old Style", "Palatino Linotype",
     Palatino, serif;
@@ -69,10 +69,7 @@ body {
 body {
   min-height: 100%;
   color: var(--color-ink);
-  background:
-    radial-gradient(1200px 600px at 10% -10%, #d9e4ea 0%, transparent 55%),
-    radial-gradient(900px 500px at 100% 0%, #d7ecec 0%, transparent 45%),
-    linear-gradient(180deg, var(--color-paper) 0%, var(--color-paper-deep) 100%);
+  background: var(--color-paper);
   font-family: var(--font-body);
   font-size: var(--text-body);
   line-height: var(--leading-body);

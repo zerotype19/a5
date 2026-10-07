@@ -6,7 +6,7 @@ import type {
   NotificationStatus,
   VendorStatus,
 } from "../db/schema.ts";
-import { isVendorEligible, withoutPassedVendors } from "./eligibility.ts";
+import { withoutPassedVendors } from "./eligibility.ts";
 
 export type VendorCoverage = {
   id: string;
@@ -162,21 +162,9 @@ export async function loadEligibleVendors(
   },
   leadId?: string,
 ): Promise<VendorCoverage[]> {
-  if (!lead.serviceId || !lead.locationId) return [];
+  void lead;
   const vendors = await loadVendors();
-  const eligible = vendors.filter((vendor) =>
-    isVendorEligible(
-      {
-        id: vendor.id,
-        status: vendor.status,
-        acceptingLeads: vendor.acceptingLeads,
-        serviceIds: vendor.serviceIds,
-        locationIds: vendor.locationIds,
-      },
-      lead,
-    ),
-  );
-  if (!leadId) return eligible;
+  if (!leadId) return vendors;
   const admin = getSupabaseAdmin();
   const passed = await admin
     .from("lead_assignments")
@@ -187,7 +175,7 @@ export async function loadEligibleVendors(
     throw new Error(`admin_passed_vendors:${passed.error.code ?? "error"}`);
   }
   return withoutPassedVendors(
-    eligible,
+    vendors,
     (passed.data ?? []).map((row) => row.vendor_id as string),
   );
 }

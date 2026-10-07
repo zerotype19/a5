@@ -24,8 +24,7 @@ export function StepTiming({ state, errors, onSelectTiming }: Props) {
         When would you like to get started?
       </legend>
       <p className={styles.stepHint}>
-        This helps us understand your timing. It is not a promise of
-        availability.
+        Just a rough idea of when you&apos;d like someone to come by.
       </p>
 
       {errors.timing ? (

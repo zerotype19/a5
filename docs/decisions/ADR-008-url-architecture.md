@@ -34,3 +34,7 @@ A5 has multiple page types (homepage, service hub, location hub, service × loca
 - Sitemap derives from approved, published, indexable content only.
 - Do not auto-generate hundreds of pages.
 - Exact slug patterns for each page type are finalized in A5-G001 (`docs/AUTHORITY_ENGINE.md`).
+
+## October 7 launch amendment — owner-authorized implementation, not published
+
+The shared request page is self-canonical and noindex, follow, and is excluded from the sitemap; query parameters supply validated service/location/problem context, not indexable variants. The informational /about page is an approved core sitemap entry. No additional service or location entities are introduced and existing publication gates remain enforced.

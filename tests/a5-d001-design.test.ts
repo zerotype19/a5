@@ -45,14 +45,14 @@ describe("A5-D001 design system", () => {
     for (const path of PUBLISHED_PROBLEMS) {
       assert.match(homepage, new RegExp(path.replaceAll("/", "\\/")));
     }
-    assert.match(homepage, /\/home-services\/\$\{location\.slug\}/);
+    assert.match(homepage, /\/home-services\/\$\{l\.slug\}/);
     assert.match(footer, /\/home-services\/\$\{location\.slug\}/);
     assert.doesNotMatch(homepage, /instant matching/i);
     assert.doesNotMatch(homepage, /fully vetted/i);
     assert.doesNotMatch(homepage, /borrowed reviews/i);
     assert.doesNotMatch(homepage, /does not publish ratings/i);
-    assert.match(homepage, /A clear starting point/);
-    assert.match(homepage, /Private project details/);
+    assert.match(homepage, /Start with what you see\./);
+    assert.match(homepage, /illustrative, not photographs of A5 projects/);
   });
 
   it("keeps public navigation free of admin and uses one primary header CTA", () => {

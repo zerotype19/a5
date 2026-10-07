@@ -19,7 +19,7 @@ const body = Manrope({
 
 const title = `${SITE.name} | Northern New Jersey Home Services`;
 const description =
-  "Tell us what your home needs. A5 Home Services coordinates the right local professional across Morris County and surrounding Northern New Jersey communities.";
+  "Home repairs in northern New Jersey. Tell us what's wrong and we'll help line up a local provider.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
@@ -38,7 +38,9 @@ export const metadata: Metadata = {
     description,
     siteName: SITE.name,
     locale: "en_US",
+    images: [{url:"/images/hero.webp",width:1440,height:960}],
   },
+  twitter: {card:"summary_large_image",images:["/images/hero.webp"]},
   robots: {
     index: true,
     follow: true,

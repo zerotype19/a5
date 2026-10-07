@@ -1,21 +1,6 @@
-import type { Metadata } from "next";
-import { SITE } from "@config/site";
-import styles from "../request-service/placeholder.module.css";
-
-export const metadata: Metadata = {
-  title: "Terms",
-  robots: { index: false, follow: false },
-};
-
-export default function TermsPage() {
-  return (
-    <main className={styles.main}>
-      <p className={styles.eyebrow}>Legal</p>
-      <h1 className={styles.title}>Terms</h1>
-      <p className={styles.body}>
-        Terms of use for {SITE.name} will be published here. Contact{" "}
-        {SITE.email} with questions in the meantime.
-      </p>
-    </main>
-  );
-}
+import type {Metadata} from 'next';
+import Link from 'next/link';
+import {SITE} from '@config/site';
+import styles from '../request-service/placeholder.module.css';
+export const metadata:Metadata={title:'Terms of Use',alternates:{canonical:'/terms'},robots:{index:false,follow:true}};
+export default function TermsPage(){return <main className={styles.main}><p className={styles.eyebrow}>Using A5</p><h1 className={styles.title}>Terms of use</h1><p className={styles.body}>These terms describe the A5 Home Services website and project-request process.</p><h2>Project requests and introductions</h2><p className={styles.body}>A5 reviews homeowner requests and coordinates introductions to local service providers. Submitting a request does not confirm availability, reserve an appointment, establish a price or create an agreement for construction or repair work.</p><h2>Agreeing to work</h2><p className={styles.body}>Discuss the scope, qualifications, insurance, permits where applicable, price, payment arrangements, scheduling and any warranty directly with the provider before authorizing work. Provider estimates and agreements are separate from your request through this website.</p><h2>Information and photographs</h2><p className={styles.body}>Provide accurate contact and project information. Only submit photographs you are entitled to share, and avoid including people or personal documents where they are not needed. A5 uses these details as described in our <Link href="/privacy">privacy policy</Link>.</p><h2>Guidance and urgent problems</h2><p className={styles.body}>Website information is general guidance and cannot replace an assessment of your property by an appropriate professional. A5 is not an emergency dispatch service. For immediate danger, contact emergency services or the appropriate utility.</p><h2>Illustrative images</h2><p className={styles.body}>Images marked illustrative are visual examples and may be AI-generated. They do not document A5 projects or identify participating providers.</p><h2>Questions</h2><p className={styles.body}>Contact <a href={`mailto:${SITE.email}`}>{SITE.email}</a> or {SITE.phone} about the website or a project request.</p></main>;}

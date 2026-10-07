@@ -5,9 +5,14 @@ import styles from "./ServiceCard.module.css";
 type Props = {
   service: Service;
   line?: string;
+  action?: string;
 };
 
-export function ServiceCard({ service, line }: Props) {
+export function ServiceCard({
+  service,
+  line,
+  action = "See the usual jobs",
+}: Props) {
   return (
     <Link
       className={styles.card}
@@ -16,7 +21,7 @@ export function ServiceCard({ service, line }: Props) {
     >
       <span className={styles.name}>{service.name}</span>
       {line ? <span className={styles.line}>{line}</span> : null}
-      <span className={styles.action}>View service</span>
+      <span className={styles.action}>{action}</span>
     </Link>
   );
 }

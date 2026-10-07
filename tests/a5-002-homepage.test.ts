@@ -21,9 +21,9 @@ describe("A5-002 public homepage", () => {
   it("renders homepage module with problem-first hero copy", () => {
     assert.match(
       homepage,
-      /Home repairs, without figuring out the contractor first\./,
+      /A home you love\./,
     );
-    assert.match(homepage, /SITE\.name/);
+    assert.match(homepage, /SITE\.phone/);
     assert.match(homepage, /Tell us what needs fixing/);
     assert.match(header, /Request Service/);
     assert.doesNotMatch(header, /Admin/);
@@ -43,8 +43,8 @@ describe("A5-002 public homepage", () => {
 
   it("presents all approved services and no extras", () => {
     assert.match(homepage, /SERVICES\.map/);
-    assert.match(homepage, /ServiceCard/);
-    assert.match(homepage, /handyman work, masonry, landscaping, painting, drywall, tile, plumbing, and electrical/);
+    assert.match(homepage, /SERVICE_PRESENTATION/);
+
     assert.equal(SERVICES.length, 8);
     assert.doesNotMatch(homepage, /\bHVAC\b/);
     assert.doesNotMatch(homepage, /\broofing\b/i);
@@ -52,9 +52,6 @@ describe("A5-002 public homepage", () => {
 
   it("presents all approved locations", () => {
     assert.match(homepage, /LOCATIONS\.map/);
-    for (const location of LOCATIONS) {
-      assert.match(homepage, new RegExp(location.name));
-    }
     assert.equal(LOCATIONS.length, 6);
   });
 

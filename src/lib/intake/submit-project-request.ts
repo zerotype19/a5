@@ -91,7 +91,8 @@ async function persistSubmission(
   value: ValidatedSubmission,
 ): Promise<string> {
   const admin = getSupabaseAdmin();
-  const { data, error } = await admin.rpc("submit_project_request", {
+  const launch = process.env.ENABLE_LAUNCH_PIPELINE === "true";
+  const { data, error } = await admin.rpc(launch ? "submit_project_request_with_acquisition" : "submit_project_request", {
     p_submission_key: submissionKey,
     p_full_name: value.fullName,
     p_phone: value.phone,
@@ -103,6 +104,7 @@ async function persistSubmission(
     p_project_description: value.projectDescription,
     p_urgency: value.urgency,
     p_first_landing_page: value.firstLandingPage,
+    ...(launch ? {p_acquisition: value.attribution} : {}),
   });
 
   if (error) {

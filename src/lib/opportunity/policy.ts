@@ -29,12 +29,6 @@ export function canSendVendorNotification(input: {
   if (input.assignmentStatus !== "ASSIGNED") {
     return { ok: false, code: "assignment_not_open" };
   }
-  if (input.vendorStatus !== "ACTIVE") {
-    return { ok: false, code: "vendor_not_active" };
-  }
-  if (!input.acceptingLeads) {
-    return { ok: false, code: "vendor_not_accepting" };
-  }
   const email = input.vendorEmail?.trim() ?? "";
   if (!email || !EMAIL_RE.test(email)) {
     return { ok: false, code: "vendor_email_required" };
