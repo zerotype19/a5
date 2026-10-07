@@ -18,10 +18,16 @@ Both ENABLE_LEAD_OUTCOMES and ENABLE_OPERATIONS_ALERTS remain false. No producti
 
 ## Remaining activation and owner evidence
 
-1. Sign into Supabase, apply the reviewed additive migration and refresh the API schema. Perform a rollback-only production transaction rehearsal before enabling outcomes.
+1. Complete the rollback-only production outcome journey, apply the reviewed additive migration and refresh the API schema before enabling outcomes. Chrome access and the schema-only dry run are verified.
 2. Confirm sender delivery to the selected internal recipient, inspect queue/provider results, then enable alerts and verify the deployed scheduled invocation. Provider acceptance alone is not inbox delivery proof.
-3. Sign into GA4, verify stream G-ZLD8SRP78F and disable unwanted automatic events before configuring the public build. Verify consent accepted/declined/revoked behavior. Search Console property access, sitemap submission and URL inspection are outstanding.
+3. Stream G-ZLD8SRP78F is verified and Enhanced Measurement is disabled. The build ID is configured, not deployed. Verify consent accepted/declined/revoked behavior. Search Console property access, sitemap submission and URL inspection are outstanding.
 4. Name the daily operator and escalation owner; confirm provider participation, scope, capacity and credentials. Record actual business/contracting model and supplied project/team evidence.
 5. Complete the existing eight service hubs and fourteen problem pages editorial pass. It has not been completed or published by this operations slice.
 
 The owner explicitly deferred pilot spending, initial pilot services and expansion priorities. No campaigns or expanded coverage have been activated.
+
+## Account access recovered
+
+Chrome has authenticated access to the A5 Supabase project and Google Analytics; the in-app browser has separate signed-out sessions. Verified GA4 account 411229070, property 558009939, web stream 16063200619 and measurement ID G-ZLD8SRP78F. Enhanced Measurement was enabled and is now disabled to match the manual-event contract. The production build environment now contains the supplied measurement ID; no updated bundle has been deployed. GA4 currently reports no data received.
+
+The additive migration completed a production schema dry run ending in ROLLBACK. Nothing was retained. The outcome journey rehearsal and committed migration still remain pending. Native Chrome controls work, but concurrent changes to the active tab interrupted staging the rehearsal; browser work paused pending a clear interaction window.

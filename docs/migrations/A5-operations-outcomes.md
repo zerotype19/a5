@@ -8,4 +8,4 @@ APPLY: run the migration against Supabase only after reviewing tests and the tar
 
 ROLLBACK: set ENABLE_LEAD_OUTCOMES=false and revert the application release if needed. Preserve the additive columns, function and historical records; do not drop data. Internal alert delivery has its separate ENABLE_OPERATIONS_ALERTS flag.
 
-VALIDATION: `node scripts/test-outcomes-migration.mjs`; see `docs/operations/VERIFICATION.md`. Production application is pending account access.
+VALIDATION: `node scripts/test-outcomes-migration.mjs`; see `docs/operations/VERIFICATION.md`. Production schema-only dry run passed with ROLLBACK. Full outcome rehearsal and committed application remain pending.

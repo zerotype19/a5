@@ -31,6 +31,6 @@ SEO/GEO scorecard: eligible indexed pages, service/town impressions and clicks, 
 
 ## October 7 configuration and limitations
 
-Owner-supplied GA4 stream: `G-ZLD8SRP78F`. Keep build-time activation pending verification of the stream's automatic-event settings and consent behavior. Browser account access and Search Console property verification are pending. Pilot budget, initial services and expansion priorities are deferred by the owner.
+Owner-supplied GA4 stream: `G-ZLD8SRP78F`. Keep build-time activation pending verification of the stream's automatic-event settings and consent behavior. Chrome account access is verified. A5 property 558009939 / stream 16063200619 matches the supplied ID; Enhanced Measurement has been turned off. Build configuration is prepared, not deployed. Consent traffic checks and Search Console property verification remain pending. Pilot budget, initial services and expansion priorities are deferred by the owner.
 
 The new outcome workflow records when an operator marks contact, estimate or closure. These are recorded-at timestamps, not independent proof of the actual contact time; historical/backfilled status changes must not be used as exact response-time evidence. Estimated and actual amounts are provider project values. A5 income/contribution still requires an agreed definition and separate reconciliation.
