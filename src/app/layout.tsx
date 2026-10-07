@@ -55,7 +55,7 @@ export default function RootLayout({
   const jsonLd = organizationJsonLd();
 
   return (
-    <html lang="en" className={`${display.variable} ${body.variable}`}>
+    <html lang="en" data-scroll-behavior="smooth" className={`${display.variable} ${body.variable}`}>
       <body>
         <script
           type="application/ld+json"

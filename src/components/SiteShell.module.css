@@ -10,4 +10,4 @@
 
 .skipLink {position:fixed;left:1rem;top:-5rem;padding:.8rem;background:white;z-index:100;}
 .skipLink:focus {top:1rem;}
-@media(max-width:700px){.shell{padding-bottom:5.5rem;}}
+@media(max-width:700px){.withMobileActions{padding-bottom:calc(5rem + env(safe-area-inset-bottom));}}

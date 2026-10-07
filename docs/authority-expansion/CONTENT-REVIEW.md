@@ -1,6 +1,6 @@
 # Authority expansion — content review
 
-Draft for owner review. No new content has been published.
+Owner approved and published October 7, 2026. This is the reviewed content package; the manifest records its content hash.
 
 ## Handyman services in Florham Park, NJ
 

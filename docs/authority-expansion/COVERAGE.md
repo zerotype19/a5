@@ -30,3 +30,9 @@ Publication SQL is an artifact, not an auto-publisher. No service-role key is us
 ## Measurement after release
 
 Record Search Console indexing and query/page impressions for the exact manifest. Review service/town clusters with qualified requests and won jobs using the existing acquisition definitions. Indexable does not mean indexed; schema does not guarantee a search feature or an AI citation. Use a fixed set of homeowner questions for dated manual AI visibility checks, and distinguish cited pages from actual attributed leads.
+
+## October 7 publication
+
+The owner approved this exact package. Publication used authenticated Supabase REST rather than the SQL alternative: new records were staged privately, sources and relationships were attached, and one atomic batch published all 20 reviewed records. The manifest hash and unchanged existing record were verified before writes; a baseline and receipt are preserved in `.wrangler/authority-expansion/`. Existing records and links were not deleted. This does not enable programmatic publishing.
+
+To reverse content visibility if needed, return the 19 new IDs to DRAFT/nonindexable and restore the original Madison row from the baseline; preserve the records and relationship graph. Roll back the Worker separately using the version recorded in the deployment receipt.

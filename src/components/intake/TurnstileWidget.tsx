@@ -13,6 +13,7 @@ declare global {
           "expired-callback"?: () => void;
           "error-callback"?: () => void;
           theme?: "light" | "dark" | "auto";
+          size?: "normal" | "compact" | "flexible";
         },
       ) => string;
       reset: (widgetId?: string) => void;
@@ -87,6 +88,8 @@ export function TurnstileWidget({ siteKey, onToken }: Props) {
           "expired-callback": () => onTokenRef.current(null),
           "error-callback": () => onTokenRef.current(null),
           theme: "light",
+          // Fits the narrowest phone form without shrinking the security control.
+          size: "compact",
         });
       } catch {
         onTokenRef.current(null);
