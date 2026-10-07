@@ -48,11 +48,11 @@ export function validateDetails(state: ProjectIntakeState): FieldErrors {
   const text = state.description.trim();
   if (text.length < 10) {
     return {
-      description: "Please add a bit more detail (at least 10 characters).",
+      description: "Say a little more about what's going on.",
     };
   }
   if (text.length > 2000) {
-    return { description: "Please keep your description under 2,000 characters." };
+    return { description: "Keep it under 2,000 characters." };
   }
   return {};
 }

@@ -5,6 +5,8 @@ import type { ServiceId } from "@config/services";
 import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
 import { uploadPhotoToSignedUrl } from "@/lib/photos/browser-upload";
+import { readAttribution } from "@/lib/marketing/attribution";
+import { trackEvent } from "@/lib/marketing/analytics";
 import { readFirstLandingPage } from "@/lib/intake/landing-page";
 import type { SubmitProjectResult } from "@/lib/intake/submit-types";
 import { FormButton } from "./FormButton";
@@ -26,7 +28,7 @@ import {
   type PhotoAttachStatus,
 } from "./SubmissionResult";
 import type { IntakeStep, IntakeTiming, ProjectIntakeState } from "./types";
-import { INITIAL_INTAKE_STATE, INTAKE_STEPS } from "./types";
+import { INITIAL_INTAKE_STATE } from "./types";
 import type { FieldErrors } from "./validation";
 import { validateStep } from "./validation";
 
@@ -60,9 +62,9 @@ type CompleteResponse =
     }
   | { success: false; error?: string; message?: string };
 
-export function ProjectIntakeForm() {
+export function ProjectIntakeForm({ initialService, contextLabel }: {initialService?: ServiceId; contextLabel?: string}) {
   const [step, setStep] = useState<IntakeStep>("service");
-  const [state, setState] = useState<ProjectIntakeState>(INITIAL_INTAKE_STATE);
+  const [state, setState] = useState<ProjectIntakeState>({...INITIAL_INTAKE_STATE, ...(initialService ? {serviceId: initialService, serviceSelectionStatus: "SELECTED" as const} : {})});
   const [errors, setErrors] = useState<FieldErrors>({});
   const [phase, setPhase] = useState<Phase>("form");
   const [publicReference, setPublicReference] = useState<string | null>(null);
@@ -79,6 +81,8 @@ export function ProjectIntakeForm() {
   const summaryId = useId();
   const turnstileSiteKey = turnstileSiteKeyFromEnv();
   const turnstileRequired = Boolean(turnstileSiteKey);
+
+  useEffect(() => { trackEvent("request_started"); }, []);
 
   useEffect(() => {
     headingRef.current?.focus();
@@ -99,29 +103,26 @@ export function ProjectIntakeForm() {
     if (phase === "sending") return;
     setErrors({});
     setPhase("form");
-    setStep(next);
+    setStep(next === "location" ? "service" : next === "timing" ? "details" : next === "review" ? "contact" : next);
   }
 
   function handleContinue() {
     if (step === "review" || phase === "sending") return;
-    const currentErrors = validateStep(step, state);
+    const currentErrors = {...validateStep(step, state), ...validateStep(step === "service" ? "location" : step === "details" ? "timing" : "contact", state)};
     if (Object.keys(currentErrors).length > 0) {
+      trackEvent("request_validation_error", step === "service" ? "project" : "details");
       setErrors(currentErrors);
       return;
     }
     setErrors({});
-    const index = INTAKE_STEPS.indexOf(step);
-    const next = INTAKE_STEPS[index + 1];
-    if (next) setStep(next);
+    trackEvent("request_step_completed", step === "service" ? "project" : "details");
+    setStep(step === "service" ? "details" : "contact");
   }
 
   function handleBack() {
     if (phase === "sending") return;
-    const index = INTAKE_STEPS.indexOf(step);
-    if (index <= 0) return;
     setErrors({});
-    setPhase("form");
-    setStep(INTAKE_STEPS[index - 1]);
+    setStep(step === "contact" ? "details" : "service");
   }
 
   async function attachPhotosForSubmission(
@@ -208,6 +209,11 @@ export function ProjectIntakeForm() {
 
   async function handleSubmit() {
     if (phase === "sending" || phase === "success") return;
+    const groups = [["service", "location"], ["details", "timing"], ["contact"]] as const;
+    for (const group of groups) {
+      const issues = Object.assign({}, ...group.map(item => validateStep(item, state)));
+      if (Object.keys(issues).length) { setErrors(issues); setStep(group[0]); return; }
+    }
     if (turnstileRequired && !turnstileToken) return;
 
     if (!idempotencyKeyRef.current) {
@@ -216,6 +222,7 @@ export function ProjectIntakeForm() {
           ? crypto.randomUUID()
           : null;
       if (!idempotencyKeyRef.current) {
+        trackEvent("request_failed");
         setPhase("failure");
         return;
       }
@@ -243,6 +250,7 @@ export function ProjectIntakeForm() {
           preferredContact: state.preferredContact,
           turnstileToken,
           firstLandingPage: readFirstLandingPage(),
+          attribution: readAttribution(),
         }),
       });
 
@@ -252,11 +260,13 @@ export function ProjectIntakeForm() {
       } catch {
         setTurnstileToken(null);
         setTurnstileNonce((n) => n + 1);
+        trackEvent("request_failed");
         setPhase("failure");
         return;
       }
 
       if (result.success) {
+        trackEvent("request_submitted");
         setPublicReference(result.publicReference);
 
         if (photos.length === 0) {
@@ -290,15 +300,17 @@ export function ProjectIntakeForm() {
 
       setTurnstileToken(null);
       setTurnstileNonce((n) => n + 1);
-      setPhase("failure");
+      trackEvent("request_failed");
+        setPhase("failure");
 
       if (result.error === "validation" && result.stepHint) {
-        setStep(result.stepHint === "review" ? "contact" : result.stepHint);
+        setStep(result.stepHint === "location" ? "service" : result.stepHint === "timing" ? "details" : result.stepHint === "review" ? "contact" : result.stepHint);
       }
     } catch {
       setTurnstileToken(null);
       setTurnstileNonce((n) => n + 1);
-      setPhase("failure");
+      trackEvent("request_failed");
+        setPhase("failure");
     }
   }
 
@@ -357,7 +369,7 @@ export function ProjectIntakeForm() {
           Tell us what&apos;s going on. We&apos;ll help from there.
         </h1>
         <p className={styles.lede}>
-          A short, guided request — no contractor jargon required.
+          A few questions about the house. Call if that&apos;s easier.
         </p>
         <p className={styles.phoneAlt}>
           Prefer to talk?{" "}
@@ -367,6 +379,7 @@ export function ProjectIntakeForm() {
         </p>
       </div>
 
+      {contextLabel ? <p className={styles.stepHint}>Your starting point: {contextLabel}. You can change any details below.</p> : null}
       <IntakeProgress step={step} />
 
       {phase === "failure" ? (
@@ -400,7 +413,7 @@ export function ProjectIntakeForm() {
           />
         ) : null}
 
-        {step === "location" ? (
+        {step === "service" ? (
           <StepLocation
             state={state}
             errors={errors}
@@ -420,7 +433,7 @@ export function ProjectIntakeForm() {
           />
         ) : null}
 
-        {step === "timing" ? (
+        {step === "details" ? (
           <StepTiming
             state={state}
             errors={errors}
@@ -434,7 +447,7 @@ export function ProjectIntakeForm() {
           </div>
         ) : null}
 
-        {step === "review" ? (
+        {step === "contact" ? (
           <StepReview
             state={state}
             photoCount={photos.length}
@@ -452,7 +465,7 @@ export function ProjectIntakeForm() {
         ) : null}
       </div>
 
-      {step !== "review" ? (
+      {step !== "contact" ? (
         <div className={styles.nav}>
           {step !== "service" ? (
             <FormButton

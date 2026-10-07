@@ -15,7 +15,7 @@ export const SITE = {
   /** Service area summary derived from approved location registry. */
   serviceAreaSummary: "Northern New Jersey",
   locale: "en-US",
-  defaultOgImage: "",
+  defaultOgImage: "/images/hero.webp",
 } as const;
 
 export type SiteConfig = typeof SITE;

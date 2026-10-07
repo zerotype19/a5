@@ -4,6 +4,7 @@ import styles from "../request-service/placeholder.module.css";
 
 export const metadata: Metadata = {
   title: "Privacy",
+  alternates: {canonical:"/privacy"},
   description: `How ${SITE.name} uses the information homeowners provide with a project request.`,
   robots: { index: false, follow: false },
 };
@@ -15,7 +16,7 @@ export default function PrivacyPage() {
       <h1 className={styles.title}>Privacy</h1>
       <p className={styles.body}>
         This page describes how {SITE.name} handles information submitted
-        through {SITE.domain}. It was last updated on September 27, 2026.
+        through {SITE.domain}. It was last updated on October 7, 2026.
       </p>
 
       <h2 className={styles.sectionTitle}>What you can send us</h2>
@@ -57,10 +58,16 @@ export default function PrivacyPage() {
         only so A5 can operate the site and the request.
       </p>
       <p className={styles.body}>
-        A5 does not currently run a separate product-analytics program on this
-        site. The host and security tools may still record ordinary technical
-        data, such as IP address and browser details, to deliver the site and
-        to limit abuse.
+        When optional analytics is enabled, you can choose whether to allow it.
+        Analytics measures page visits, call clicks and request steps; names,
+        contact details, photos and project descriptions are not sent to analytics.
+        You can change your choice using Analytics preferences. The site also
+        keeps limited first- and last-visit attribution in session storage,
+        including the page path, referring site and campaign identifiers when
+        available. This context may be stored
+        with a submitted request to understand which marketing is useful.
+        Hosting and security tools may record technical data to deliver the site
+        and limit abuse.
       </p>
 
       <h2 className={styles.sectionTitle}>How long we keep it</h2>

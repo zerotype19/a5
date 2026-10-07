@@ -1,6 +1,10 @@
+import { requestHref } from "@/lib/intake/context";
 import Link from "next/link";
+import { SITE } from "@config/site";
 import { CtaBlock } from "@/components/CtaBlock";
+import { renderableContentLinks } from "@/lib/authority/links";
 import type {
+  ContentLink,
   ContentPageType,
   ContentSection,
   PublicContentPage,
@@ -17,21 +21,29 @@ const RELATED_TYPE: Partial<Record<ContentPageType, string>> = {
   SERVICE_LOCATION: "Local service",
 };
 
-const RELATED_REASON: Partial<Record<ContentPageType, string>> = {
-  SERVICE: "The kind of work A5 coordinates",
-  PROBLEM: "What you are seeing, and what to photograph",
-  LOCATION: "Home services in this town",
-  GUIDE: "A longer explanation",
-  COST_GUIDE: "What tends to change the scope",
-  COMPARISON: "How the options differ",
-  SERVICE_LOCATION: "This service in this town",
-};
 
 function sectionTone(heading: string | null | undefined): string {
   const text = heading ?? "";
   if (/local context|nearby areas|sources/i.test(text)) return styles.quiet;
   if (/photo/i.test(text)) return styles.callout;
   return styles.block;
+}
+
+function ContentLinks({ links }: { links: ContentLink[] | undefined }) {
+  const safe = renderableContentLinks(links);
+  if (safe.length === 0) return null;
+  return (
+    <ul className={styles.linkList}>
+      {safe.map((link) => (
+        <li key={`${link.href}-${link.label}`}>
+          <Link href={link.href}>
+            {link.label}
+            <span aria-hidden="true">→</span>
+          </Link>
+        </li>
+      ))}
+    </ul>
+  );
 }
 
 type Props = {
@@ -43,16 +55,10 @@ export function AuthoritySections({ page }: Props) {
     <div className={styles.stack}>
       {page.primary_question && page.direct_answer ? (
         <section className={styles.directAnswer} aria-labelledby="direct-answer-heading">
-          <h2 id="direct-answer-heading" className={styles.eyebrow}>
-            Direct answer
+          <h2 id="direct-answer-heading" className={styles.question}>
+            {page.primary_question}
           </h2>
-          <p className={styles.question}>{page.primary_question}</p>
           <p className={styles.answer}>{page.direct_answer}</p>
-          <p className={styles.answerAction}>
-            <Link href="/request-service" data-cta="authority-direct-request">
-              Tell us what needs fixing
-            </Link>
-          </p>
         </section>
       ) : null}
 
@@ -79,7 +85,7 @@ function SectionBlock({
       return <p className={styles.lead}>{section.body}</p>;
     case "DIRECT_ANSWER":
       return (
-        <section className={styles.directAnswer} aria-label="Direct answer">
+        <section className={styles.directAnswer} aria-label="Answer">
           <p className={styles.answer}>{section.body}</p>
         </section>
       );
@@ -90,6 +96,23 @@ function SectionBlock({
             <h2 className={styles.heading}>{section.heading}</h2>
           ) : null}
           {section.paragraphs.map((paragraph) => (
+            <p key={paragraph.slice(0, 48)} className={styles.body}>
+              {paragraph}
+            </p>
+          ))}
+          {section.items?.length ? (
+            <ul className={styles.itemList}>
+              {section.items.map((item) => (
+                <li key={item.title} className={styles.item}>
+                  <h3 className={styles.itemTitle}>{item.title}</h3>
+                  <p className={styles.itemBody}>{item.body}</p>
+                  <ContentLinks links={item.links} />
+                </li>
+              ))}
+            </ul>
+          ) : null}
+          <ContentLinks links={section.links} />
+          {section.closing?.map((paragraph) => (
             <p key={paragraph.slice(0, 48)} className={styles.body}>
               {paragraph}
             </p>
@@ -113,7 +136,7 @@ function SectionBlock({
     case "SOURCE_LIST":
       if (page.sources.length === 0) return null;
       return (
-        <section className={styles.block} aria-label="Sources">
+        <section className={styles.quiet} aria-label="Sources">
           <h2 className={styles.heading}>{section.heading ?? "Sources"}</h2>
           <ul className={styles.sourceList}>
             {page.sources.map((source) => (
@@ -150,11 +173,6 @@ function SectionBlock({
                       {RELATED_TYPE[item.page_type] ?? "Related"}
                     </span>
                     <span className={styles.relatedTitle}>{item.title}</span>
-                    {compact ? null : (
-                      <span className={styles.relatedReason}>
-                        {RELATED_REASON[item.page_type] ?? "Related help"}
-                      </span>
-                    )}
                   </Link>
                 </li>
               );
@@ -171,8 +189,12 @@ function SectionBlock({
               section.description ??
               "Tell A5 what your home needs. We will review and coordinate next steps."
             }
-            primaryHref="/request-service"
+            primaryHref={requestHref({service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug})}
             primaryCta="authority-request-service"
+            primaryLabel={section.primaryLabel}
+            secondaryLabel={
+              section.callLabel ? `${section.callLabel} ${SITE.phone}` : undefined
+            }
           />
         </section>
       );
@@ -192,12 +214,12 @@ function SectionBlock({
     case "COMPARISON_TABLE":
       return (
         <section className={styles.block}>
-          <h2 className={styles.heading}>Comparison</h2>
+          <h2 className={styles.heading}>How to tell them apart</h2>
           <div className={styles.tableWrap}>
             <table className={styles.table}>
               <thead>
                 <tr>
-                  <th scope="col">Criterion</th>
+                  <th scope="col">What to look at</th>
                   <th scope="col">{section.optionALabel}</th>
                   <th scope="col">{section.optionBLabel}</th>
                 </tr>

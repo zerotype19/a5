@@ -1,3 +1,4 @@
+import { ServiceLanding } from "./ServiceLanding";
 import type { ReactNode } from "react";
 import { AuthorityBreadcrumbs } from "@/components/authority/AuthorityBreadcrumbs";
 import { AuthoritySections } from "@/components/authority/AuthoritySections";
@@ -10,18 +11,8 @@ import {
   serializeJsonLd,
 } from "@/lib/authority/schema";
 import { buildContentPathFromRecord } from "@/lib/authority/urls";
-import type { ContentPageType, PublicContentPage } from "@/lib/authority/types";
+import type { PublicContentPage } from "@/lib/authority/types";
 import styles from "./AuthorityPage.module.css";
-
-const TYPE_LABEL: Partial<Record<ContentPageType, string>> = {
-  SERVICE: "Service",
-  PROBLEM: "Problem",
-  LOCATION: "Town",
-  GUIDE: "Guide",
-  COST_GUIDE: "Guide",
-  COMPARISON: "Comparison",
-  SERVICE_LOCATION: "Local service",
-};
 
 type Props = {
   page: PublicContentPage;
@@ -82,14 +73,10 @@ export function AuthorityPage({ page, children }: Props) {
             Published for review — not indexed.
           </p>
         ) : null}
-        <header className={styles.header}>
-          {TYPE_LABEL[page.page_type] ? (
-            <p className={styles.kind}>{TYPE_LABEL[page.page_type]}</p>
-          ) : null}
-          <h1 className={styles.h1}>{page.h1}</h1>
-        </header>
-        <AuthoritySections page={page} />
-        {children}
+        {page.page_type === "SERVICE" || page.page_type === "SERVICE_LOCATION" ? (
+          <ServiceLanding page={page}><AuthoritySections page={page} />{children}</ServiceLanding>
+        ) : <><header className={styles.header}><h1 className={styles.h1}>{page.h1}</h1></header><AuthoritySections page={page} />{children}</>}
+
       </div>
     </main>
   );

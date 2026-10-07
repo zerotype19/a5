@@ -1,3 +1,4 @@
+import { normalizeAttribution, type Attribution } from "../marketing/attribution.ts";
 import { SERVICES, type ServiceId } from "../../../config/services.ts";
 import {
   INTAKE_CONTACT_METHODS,
@@ -48,6 +49,7 @@ export type ValidatedSubmission = {
   projectDescription: string;
   urgency: string;
   firstLandingPage: string | null;
+  attribution: Attribution | null;
 };
 
 export type StepHint =
@@ -112,7 +114,7 @@ export function validateSubmissionPayload(
       issues.push({
         field: "serviceId",
         code: "unknown_or_missing_service",
-        message: "Choose an approved service, or select Not sure.",
+        message: "Pick a service, or choose Not sure.",
       });
       stepHint = "service";
     }
@@ -142,7 +144,7 @@ export function validateSubmissionPayload(
     issues.push({
       field: "description",
       code: "invalid_description",
-      message: "Please describe the project (10–2,000 characters).",
+      message: "Tell us what's going on. A sentence is enough.",
     });
     if (stepHint === "review") stepHint = "details";
   }
@@ -233,6 +235,7 @@ export function validateSubmissionPayload(
       projectDescription: description,
       urgency: timing as IntakeTiming,
       firstLandingPage: normalizeFirstLandingPage(raw.firstLandingPage),
+      attribution: normalizeAttribution(raw.attribution),
     },
   };
 }

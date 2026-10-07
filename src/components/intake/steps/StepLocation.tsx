@@ -15,11 +15,8 @@ export function StepLocation({ state, errors, onChangeZip }: Props) {
 
   return (
     <div className={styles.panel}>
-      <h2 className={styles.stepTitle}>Where is the project?</h2>
-      <p className={styles.stepHint}>
-        Enter the ZIP code for the home. We accept any ZIP — coverage
-        classification happens later.
-      </p>
+      <h2 className={styles.stepTitle}>Where is the house?</h2>
+      <p className={styles.stepHint}>The ZIP code is enough for now.</p>
 
       <div className={styles.field}>
         <label className={styles.label} htmlFor="intake-zip">

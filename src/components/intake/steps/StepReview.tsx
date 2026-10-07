@@ -34,7 +34,7 @@ export function StepReview({
 }: Props) {
   const serviceLabel =
     state.serviceSelectionStatus === "NOT_SURE"
-      ? "Not sure — will describe the project"
+      ? "Not sure"
       : state.serviceId
         ? (getServiceById(state.serviceId)?.name ?? state.serviceId)
         : "—";
@@ -50,7 +50,7 @@ export function StepReview({
       rows: [
         { label: "Service", value: serviceLabel },
         {
-          label: "Project description",
+          label: "What's going on",
           value: state.description.trim() || "—",
         },
       ],

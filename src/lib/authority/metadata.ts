@@ -22,7 +22,9 @@ export type ContentMetadataInput = {
 };
 
 export function buildContentMetadata(input: ContentMetadataInput): Metadata {
-  const title = input.page.meta_title?.trim() || input.page.title;
+  const title = (input.page.meta_title?.trim() || input.page.title).replace(/(?:\s*[|–—-]\s*A5(?: Home Services)?)+$/i, "").trim();
+  const service = input.path.match(/^\/services\/([a-z-]+)/)?.[1];
+  const image = ["handyman","masonry","landscaping","painting","drywall","tile","plumbing","electrical"].includes(service ?? "") ? `/images/${service}.webp` : "/images/hero.webp";
   const description =
     input.page.meta_description?.trim() ||
     `${input.page.title} — ${SITE.name}`;
@@ -42,7 +44,9 @@ export function buildContentMetadata(input: ContentMetadataInput): Metadata {
       description,
       siteName: SITE.name,
       locale: "en_US",
+      images: [{url:image,width:1440,height:960}],
     },
+    twitter: {card:"summary_large_image",title,description,images:[image]},
     robots: {
       index: robots.index,
       follow: robots.follow,

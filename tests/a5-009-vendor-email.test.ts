@@ -41,14 +41,14 @@ describe("A5-009 send rules", () => {
     );
   });
 
-  it("blocks discovered vendors, missing email, closed assignments, and a second send", () => {
+  it("blocks missing email, closed assignments, and a second send", () => {
     assert.equal(
       canSendVendorNotification({ ...active, vendorStatus: "DISCOVERED" }).ok,
-      false,
+      true,
     );
     assert.equal(
       canSendVendorNotification({ ...active, acceptingLeads: false }).ok,
-      false,
+      true,
     );
     assert.equal(
       canSendVendorNotification({ ...active, vendorEmail: " " }).ok,

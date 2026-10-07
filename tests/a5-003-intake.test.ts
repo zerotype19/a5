@@ -124,7 +124,7 @@ describe("A5-003 project intake UI", () => {
 
   it("preserves back navigation and review edit hooks in the wizard", () => {
     assert.match(form, /handleBack/);
-    assert.match(form, /INTAKE_STEPS\[index - 1\]/);
+    assert.match(form, /step === "contact" \? "details" : "service"/);
     assert.match(review, /onEdit/);
     assert.match(review, /Edit/);
   });

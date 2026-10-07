@@ -1,0 +1,20 @@
+import assert from 'node:assert/strict';
+import {describe,it} from 'node:test';
+import {readFileSync} from 'node:fs';
+import {requestHref,intakeContext} from '../src/lib/intake/context.ts';
+import {normalizeAttribution,normalizeTouch,nextAttribution} from '../src/lib/marketing/attribution.ts';
+import {buildContentMetadata} from '../src/lib/authority/metadata.ts';
+import {buildSitemapEntries} from '../src/lib/authority/sitemap.ts';
+import {SERVICES} from '../config/services.ts';
+import {SERVICE_PRESENTATION} from '../src/lib/home-services.ts';
+const now=new Date().toISOString();
+const touch={path:'/services/masonry',referrerHost:'google.com',capturedAt:now,campaign:{utm_source:'google',utm_medium:'cpc',utm_campaign:'masonry-pilot'}};
+describe('launch acquisition safeguards',()=>{
+ it('carries only known service and town identifiers into intake',()=>{assert.equal(requestHref({service:'masonry',location:'madison'}),'/request-service?service=masonry&location=madison');assert.equal(requestHref({service:'roofing',location:'new-york'}),'/request-service');assert.equal(intakeContext({service:'masonry'}).service?.id,'masonry');assert.equal(intakeContext({problem:'<script>alert(1)</script>'}).problem,undefined);});
+ it('does not overwrite first acquisition on internal navigation',()=>{const stored={first:touch,last:touch};assert.deepEqual(nextAttribution(stored,{...touch,path:'/services/tile',referrerHost:null,campaign:{}}),stored);const second={...touch,campaign:{utm_source:'partner'}};assert.deepEqual(nextAttribution(stored,second),{first:touch,last:second});});
+ it('discards arbitrary fields, full referrer URLs, query strings and contact-like campaign values',()=>{const t=normalizeTouch({...touch,path:'/services/masonry?email=private@example.com',referrerHost:'https://site.com/private',campaign:{utm_source:'person@example.com',gclid:'valid-click_123',email:'private@example.com'},description:'private'});assert.equal(t?.path,'/services/masonry');assert.equal(t?.referrerHost,null);assert.deepEqual(t?.campaign,{gclid:'valid-click_123'});assert.ok(!JSON.stringify(t).includes('private'));});
+ it('rejects corrupted or stale attribution without failing a lead',()=>{assert.equal(normalizeAttribution(null),null);assert.equal(normalizeAttribution({first:{...touch,capturedAt:'2001-01-01'},last:touch}),null);assert.equal(normalizeTouch({...touch,path:'/admin/leads/123'})?.path,null);});
+ it('removes duplicate title branding and includes sharing imagery',()=>{const m=buildContentMetadata({path:'/services/masonry',page:{title:'Masonry',meta_title:'Masonry | A5 | A5 Home Services',meta_description:'Masonry help',status:'PUBLISHED',indexable:true,h1:'Masonry'}});assert.equal(m.title,'Masonry');assert.equal(m.alternates?.canonical,'https://www.a5homeservices.com/services/masonry');assert.ok(JSON.stringify(m.openGraph).includes('/images/masonry.webp'));});
+ it('excludes the noindex intake and includes the approved about page',()=>{const urls=buildSitemapEntries([]).map(r=>r.url);assert.ok(!urls.some(u=>u.endsWith('/request-service')));assert.ok(urls.some(u=>u.endsWith('/about')));});
+ it('provides service-specific content and optimized imagery for every approved service',()=>{assert.deepEqual(Object.keys(SERVICE_PRESENTATION).sort(),SERVICES.map(s=>s.id).sort());for(const s of SERVICES){assert.ok(SERVICE_PRESENTATION[s.id].jobs.length>=3);assert.ok(readFileSync(new URL(`../public/images/${s.id}.webp`,import.meta.url)).length<400000);}});
+});

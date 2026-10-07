@@ -9,6 +9,7 @@ type Props = {
   primaryLabel?: string;
   primaryHref?: string;
   primaryCta?: string;
+  secondaryLabel?: string;
 };
 
 export function CtaBlock({
@@ -17,6 +18,7 @@ export function CtaBlock({
   primaryLabel = "Tell us what needs fixing",
   primaryHref = "/request-service",
   primaryCta = "final-get-help",
+  secondaryLabel = `Or call ${SITE.phone}`,
 }: Props) {
   return (
     <div className={styles.block}>
@@ -34,7 +36,7 @@ export function CtaBlock({
           dataCta="final-call"
           external
         >
-          Call A5
+          {secondaryLabel}
         </Button>
       </div>
     </div>

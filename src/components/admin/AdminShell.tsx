@@ -8,6 +8,7 @@ import styles from "./admin.module.css";
 const NAV = [
   { href: "/admin", label: "Dashboard", exact: true },
   { href: "/admin/leads", label: "Leads", exact: false },
+  { href: "/admin/acquisition", label: "Acquisition", exact: false },
   { href: "/admin/vendors", label: "Vendors", exact: false },
 ] as const;
 

@@ -14,8 +14,7 @@ export function Footer() {
         <div className={styles.brandCol}>
           <p className={styles.brand}>{SITE.name}</p>
           <p className={styles.blurb}>
-            Local home-service coordination for homeowners across{" "}
-            {SITE.serviceAreaSummary}.
+            {`Home repairs in ${SITE.serviceAreaSummary}.`}
           </p>
           <p>
             <a href={phoneTelHref(SITE.phone)} data-cta="footer-phone">

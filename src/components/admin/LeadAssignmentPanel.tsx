@@ -23,7 +23,8 @@ export function LeadAssignmentPanel({
   assignments,
 }: Props) {
   const current = assignments.find((row) => isOpenAssignmentStatus(row.status));
-  const classified = Boolean(serviceId && locationId);
+  void serviceId;
+  void locationId;
 
   return (
     <section className={styles.section} aria-labelledby="assignment-heading">
@@ -78,7 +79,6 @@ export function LeadAssignmentPanel({
         </div>
       ) : null}
       {status === "QUALIFIED" && !current ? (
-        classified ? (
           eligible.length > 0 ? (
             <form className={styles.form} action={assignLeadToVendor}>
               <input type="hidden" name="leadId" value={leadId} />
@@ -86,7 +86,7 @@ export function LeadAssignmentPanel({
                 Assign vendor
                 <select name="vendorId" required defaultValue="">
                   <option value="" disabled>
-                    Choose an eligible vendor
+                    Choose any vendor
                   </option>
                   {eligible.map((vendor) => {
                     const labels = coverageLabels(vendor);
@@ -102,13 +102,8 @@ export function LeadAssignmentPanel({
               <button type="submit">Assign vendor</button>
             </form>
           ) : (
-            <p className={styles.empty}>No eligible vendors for this service and location.</p>
+            <p className={styles.empty}>No vendors in the database.</p>
           )
-        ) : (
-          <p className={styles.empty}>
-            Classify service and location before assignment. A missing location is not matched from ZIP.
-          </p>
-        )
       ) : null}
       <h3 className={styles.sectionTitle}>Assignment history</h3>
       {assignments.length === 0 ? (
