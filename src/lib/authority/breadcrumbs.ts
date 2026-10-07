@@ -32,11 +32,11 @@ export function buildBreadcrumbs(
 
   switch (page.page_type) {
     case "SERVICE":
-      crumbs.push({ name: "Services", path: "/#services" });
+      crumbs.push({ name: "Services", path: "/services" });
       crumbs.push({ name: page.title, path: selfPath });
       break;
     case "LOCATION":
-      crumbs.push({ name: "Areas", path: "/#areas" });
+      crumbs.push({ name: "Areas", path: "/home-services" });
       crumbs.push({ name: page.title, path: selfPath });
       break;
     case "SERVICE_LOCATION":

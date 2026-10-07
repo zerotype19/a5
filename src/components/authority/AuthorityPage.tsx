@@ -1,3 +1,4 @@
+import { ContentDiscovery } from "./ContentDiscovery";
 import { Button } from "@/components/Button";
 import { PageIntro } from "@/components/templates/PageIntro";
 import { buildPageOutline } from "@/lib/authority/outline";
@@ -21,9 +22,10 @@ import styles from "./AuthorityPage.module.css";
 type Props = {
   page: PublicContentPage;
   children?: ReactNode;
+  discoveryPages?: import("@/lib/authority/types").ContentPageRecord[];
 };
 
-export function AuthorityPage({ page, children }: Props) {
+export function AuthorityPage({ page, children, discoveryPages }: Props) {
   const outline = buildPageOutline(page);
   const kinds: Record<string, string> = { LOCATION: "In your neighborhood", PROBLEM: "Start with what you see", GUIDE: "Homeowner guide", COST_GUIDE: "Planning your project", COMPARISON: "Know your options", PROJECT: "Project story", CORE: "About A5" };
   const path =
@@ -46,6 +48,7 @@ export function AuthorityPage({ page, children }: Props) {
       serviceId: page.primary_service_id,
       path,
       description: page.meta_description,
+      locationId: page.primary_location_id,
     });
     if (serviceSchema) schemas.push(serviceSchema);
   }
@@ -92,6 +95,7 @@ export function AuthorityPage({ page, children }: Props) {
           </div>
         </>}
 
+        <ContentDiscovery page={page} pages={discoveryPages} />
       </div>
     </main>
   );

@@ -379,7 +379,7 @@ export function ProjectIntakeForm({ initialService, contextLabel }: {initialServ
         </p>
       </div>
 
-      {contextLabel ? <p className={styles.stepHint}>Your starting point: {contextLabel}. You can change any details below.</p> : null}
+      {contextLabel ? <p className={styles.contextHint}>Your starting point: {contextLabel}. You can change any details below.</p> : null}
       <IntakeProgress step={step} />
 
       {phase === "failure" ? (
@@ -393,7 +393,7 @@ export function ProjectIntakeForm({ initialService, contextLabel }: {initialServ
         </div>
       ) : null}
 
-      <div data-intake-step={step}>
+      <div className={styles.stepSections} data-intake-step={step}>
         {step === "service" ? (
           <StepService
             state={state}

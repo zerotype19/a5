@@ -43,3 +43,6 @@ next-env.d.ts
 /dist/
 .vinext/
 .wrangler/
+
+# Development-only content review route, staged by the preview helper.
+/src/app/authority-preview/

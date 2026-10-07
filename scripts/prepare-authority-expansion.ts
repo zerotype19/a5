@@ -1,0 +1,25 @@
+/** Read-only preparation: public snapshot -> exact review package + transactional SQL. No database writes. */
+import {readFileSync,writeFileSync,mkdirSync} from "node:fs";
+import {createHash} from "node:crypto";
+import {buildExpansionPlan, type PublicSnapshot} from "../content/authority-expansion/plan.ts";
+import {EXPANSION_SOURCES} from "../content/authority-expansion/sources.ts";
+const snapshot=JSON.parse(readFileSync(process.argv[2]??"/tmp/a5-authority-public-snapshot.json","utf8")) as PublicSnapshot;
+const plan=buildExpansionPlan(snapshot);
+const dir=".wrangler/authority-expansion";mkdirSync(dir,{recursive:true});
+writeFileSync(`${dir}/plan.json`,JSON.stringify(plan,null,2));
+writeFileSync(`${dir}/snapshot.json`,JSON.stringify(snapshot,null,2));
+const literal=(s:string)=>"'"+s.replaceAll("'","''")+"'";
+const json=(v:unknown)=>literal(JSON.stringify(v))+"::jsonb";
+const mutable=["slug","title","meta_title","meta_description","h1","primary_question","direct_answer","sections","ai_assisted","reviewed_by","reviewed_at","last_reviewed_at","status","indexable","updated_at"];
+const rows=plan.pages.map(p=>({...p,status:"PUBLISHED",indexable:true,reviewed_by:"owner-approved-authority-expansion",reviewed_at:new Date().toISOString(),last_reviewed_at:new Date().toISOString(),published_at:snapshot.content_pages.find(old=>old.id===p.id)?.published_at??new Date().toISOString(),updated_at:new Date().toISOString()}));
+const guards=plan.pages.filter(p=>snapshot.content_pages.some(old=>old.id===p.id)).map(p=>{const old=snapshot.content_pages.find(o=>o.id===p.id)!;return `IF NOT EXISTS (SELECT 1 FROM public.content_pages WHERE id=${literal(p.id)}::uuid AND updated_at=${literal(old.updated_at)}::timestamptz) THEN RAISE EXCEPTION 'Existing page changed since snapshot: ${p.slug}'; END IF;`;}).join("\n");
+const sql=`-- Owner review artifact. Run only after approval of CONTENT-REVIEW.md and manifest.\nBEGIN;\nSELECT pg_advisory_xact_lock(hashtext('a5-authority-expansion-2026-10'));\nDO $$ BEGIN\n${guards}\nEND $$;\nINSERT INTO public.sources (id,title,url,publisher,source_type,retrieved_at,reviewed_at) SELECT id,title,url,publisher,source_type,retrieved_at,reviewed_at FROM jsonb_populate_recordset(NULL::public.sources, ${json(plan.sources.map(s=>({...s,reviewed_at:new Date().toISOString()})))}) ON CONFLICT (id) DO NOTHING;\nINSERT INTO public.content_pages SELECT * FROM jsonb_populate_recordset(NULL::public.content_pages, ${json(rows)}) ON CONFLICT (id) DO UPDATE SET ${mutable.map(k=>`${k}=EXCLUDED.${k}`).join(", ")};\nINSERT INTO public.content_sources (content_page_id,source_id,relationship_type) SELECT content_page_id,source_id,relationship_type FROM jsonb_populate_recordset(NULL::public.content_sources, ${json(plan.sourceLinks)}) ON CONFLICT DO NOTHING;\nINSERT INTO public.content_relationships (from_page_id,to_page_id,relationship_type) SELECT from_page_id,to_page_id,relationship_type FROM jsonb_populate_recordset(NULL::public.content_relationships, ${json(plan.relationships)}) ON CONFLICT DO NOTHING;\nCOMMIT;\n`;
+writeFileSync(`${dir}/publish.sql`,sql);
+writeFileSync(`${dir}/dry-run.sql`,sql.replace(/COMMIT;\n$/,"ROLLBACK;\n"));
+let review="# Authority expansion — content review\n\nDraft for owner review. No new content has been published.\n\n";
+for(const page of plan.pages){const manifest=plan.manifest.find(m=>m.id===page.id)!;review+=`## ${page.title}\n\n${manifest.path} · ${manifest.action}\n\n**Description:** ${page.meta_description}\n\n**${page.primary_question}**\n\n${page.direct_answer}\n\n`;for(const section of page.sections){if(section.type==="RICH_TEXT")review+=`### ${section.heading}\n\n${section.paragraphs.join("\n\n")}\n\n`;if(section.type==="QUESTION_ANSWER")for(const qa of section.items)review+=`**${qa.question}** ${qa.answer}\n\n`;if(section.type==="COST_FACTORS")review+=`### ${section.heading}\n\n${section.factors.map(f=>`- ${f}`).join("\n")}\n\n`;}
+const sources=plan.sources.filter(s=>plan.sourceLinks.some(l=>l.content_page_id===page.id&&l.source_id===s.id));if(sources.length)review+=`Sources: ${sources.map(s=>`[${s.title}](${s.url})`).join("; ")}\n\n`;}
+writeFileSync("docs/authority-expansion/CONTENT-REVIEW.md",review);
+writeFileSync("docs/authority-expansion/MANIFEST.json",JSON.stringify({preparedAt:new Date().toISOString(),status:"DRAFT",pages:plan.manifest,sourceCount:plan.sources.length,relationships:plan.relationships.length,contentSha256:createHash("sha256").update(JSON.stringify(plan.pages)).digest("hex")},null,2));
+writeFileSync("docs/authority-expansion/SOURCES.md","# Source ledger\n\nRetrieved October 7, 2026. These sources support the narrow statements below, not vendor availability, A5 project history or blanket permit determinations. General planning recommendations are editorial guidance.\n\n"+Object.values(EXPANSION_SOURCES).map(s=>`- [${s.title}](${s.url}): ${s.claim}`).join("\n"));
+console.log(`Prepared ${plan.pages.length} pages (${plan.manifest.filter(p=>p.action==="insert").length} new), ${plan.relationships.length} directed relationships; no database writes.`);

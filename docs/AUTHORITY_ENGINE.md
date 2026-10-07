@@ -1,7 +1,7 @@
 # A5 Authority Engine
 
 **Task:** A5-G001  
-**Status:** Architecture foundation (almost no published SEO content)
+**Status (October 7, 2026):** Production has 8 service hubs, 6 town hubs, 14 problem pages, 1 local service page and 1 guide. See `docs/authority-expansion/MANIFEST.json` for the current unpublished expansion; do not treat old proposal status as the live inventory.
 
 ## Authority philosophy
 
@@ -65,6 +65,8 @@ Machine-readable registry: `src/lib/authority/registry.ts` → `AUTHORITY_REGIST
 Finalized in G001 (ADR-008 amendment):
 
 ```text
+/services                           Service directory
+/home-services                      Town directory
 /services/{service}                 SERVICE
 /home-services/{location}           LOCATION
 /{location}/{service}               SERVICE_LOCATION
@@ -140,7 +142,9 @@ Do not attach every schema type to every page. Do not invent ratings, reviews, s
 
 ## Internal linking
 
-Explicit `content_relationships` with constrained types:
+Editorial links use explicit `content_relationships`. The October 7 directory expansion also derives browse navigation from matching service/town fields on published, indexable records, without creating or publishing combinations.
+
+Explicit relationship types:
 
 ```text
 RELATED | PARENT | SUPPORTING_GUIDE | COMPARISON | COST_GUIDE | LOCAL_VARIANT

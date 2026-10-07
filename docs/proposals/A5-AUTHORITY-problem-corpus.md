@@ -1,3 +1,5 @@
+> Historical proposal: its original draft status and numeric URL budget are superseded. The 14 problem pages and eight service hubs are now published; ADR-010 replaces the numeric ceiling with content quality gates. See docs/authority-expansion for the current package.
+
 # A5 authority draft: service hubs as help centers + problem corpus (tranche 1)
 
 - **Branch:** `feature/a5-authority-problem-corpus` (from `origin/main` @ `695dbd9`)

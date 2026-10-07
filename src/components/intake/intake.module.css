@@ -1,7 +1,7 @@
 .shell {
   width: min(100%, 40rem);
   margin: 0 auto;
-  padding: clamp(1.75rem, 5vh, 3rem) 1.25rem clamp(3rem, 8vh, 4.5rem);
+  padding: clamp(1.75rem, 4vw, 3rem) var(--gutter) 3rem;
 }
 
 .intro {
@@ -19,7 +19,7 @@
 
 .pageTitle {
   font-family: var(--font-display);
-  font-size: var(--text-h1);
+  font-size: clamp(2rem, 4vw, 2.75rem);
   font-weight: 500;
   letter-spacing: -0.03em;
   line-height: 1.12;
@@ -87,10 +87,28 @@
   background: var(--color-accent);
 }
 
+.stepSections {
+  display: grid;
+  gap: var(--space-6);
+}
+
+.stepSections > * + * {
+  padding-top: var(--space-6);
+  border-top: 1px solid var(--color-line);
+}
+
 .panel {
   display: grid;
-  gap: var(--space-5);
+  gap: var(--space-4);
 }
+
+/* Programmatic heading focus announces a step without drawing a false form box. */
+.pageTitle:focus { outline: none; }
+.contextHint { color: var(--color-ink-soft); margin-bottom: var(--space-5); }
+legend.stepTitle, legend.label { margin-bottom: var(--space-3); }
+.panel > .stepTitle + .stepHint { margin-top: -.5rem; }
+.errorSummary { margin-bottom: var(--space-5); }
+
 
 .stepTitle {
   font-family: var(--font-display);
@@ -118,7 +136,7 @@
   width: 100%;
   text-align: left;
   min-height: 3.25rem;
-  padding: 0.95rem 1rem;
+  padding: 0.75rem;
   border-radius: var(--radius-md);
   border: 1px solid var(--color-line);
   background: var(--color-surface);
@@ -142,7 +160,7 @@
 
 .choiceTitle {
   font-weight: 600;
-  font-size: 1.02rem;
+  font-size: 1rem;
 }
 
 .choiceBody {
@@ -333,7 +351,7 @@
   flex-wrap: wrap;
   gap: 0.75rem;
   justify-content: space-between;
-  margin-top: var(--space-2);
+  margin-top: var(--space-5);
 }
 
 .navEnd {
@@ -352,7 +370,7 @@
   border: 1px solid var(--color-line);
   border-radius: var(--radius-md);
   background: var(--color-surface);
-  padding: 0.95rem 1rem;
+  padding: 0.75rem;
   display: grid;
   gap: 0.35rem;
 }
@@ -420,7 +438,7 @@
   background: #fff5f5;
   color: #8a1f1f;
   border-radius: var(--radius-md);
-  padding: 0.95rem 1rem;
+  padding: 0.75rem;
   font-size: 0.95rem;
   display: grid;
   gap: 0.5rem;
@@ -486,4 +504,13 @@
   .unsureFull {
     grid-column: 1 / -1;
   }
+}
+
+@media (min-width: 360px) {
+  .choiceGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .unsureFull { grid-column: 1 / -1; }
+}
+@media (max-width: 559px) {
+  .navEnd { flex: 1; }
+  .navEnd button { width: 100%; }
 }
