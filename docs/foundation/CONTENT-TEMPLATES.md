@@ -42,3 +42,7 @@ This draft reorganizes the existing page’s homeowner guidance; technical secti
 | 4 | Expand only useful guides and cost explanations | Distinct homeowner intent, reliable sources and appropriate estimate context |
 
 The About page, collection introductions and empty states are rewritten in this branch. Public project galleries do not claim illustrative images are completed work. No prices, testimonials, credentials or guaranteed lead outcomes are invented.
+
+## October 7 editorial completion
+
+Priorities 1 and 2 above are now published across eight service hubs and fourteen problem pages, with reviewed conditional language and source references. The example above is retained as historical template guidance; final copy is in ../editorial/EXISTING-PAGES-REVIEW.md. Wave 2 also adds thirteen new pages. See ../expansion-wave-2/RELEASE.md. Genuine team/project evidence and any future cost guides remain separate work.

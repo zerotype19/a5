@@ -25,9 +25,10 @@ if(existsSync(`${dir}/release-receipt.json`))throw Error('Release receipt exists
 writeFileSync(`${dir}/release-before.json`,JSON.stringify({before,oldLocations,manifest},null,2));
 const upsert='resolution=ignore-duplicates,return=representation';
 await rest('locations?on_conflict=id','POST',newLocations,upsert);
-const staged=await rest<ContentPageRecord[]>('content_pages?on_conflict=id','POST',plan.inserts,upsert);
+const stagedAt=new Date().toISOString();
+const staged=await rest<ContentPageRecord[]>('content_pages?on_conflict=id','POST',plan.inserts.map(p=>({...p,created_at:stagedAt,updated_at:stagedAt})),upsert);
 if(staged.length!==13)throw Error('Unexpected staged page count');
-await rest('sources?on_conflict=id','POST',plan.newSources,upsert);
+await rest('sources?on_conflict=id','POST',plan.newSources.map(s=>({...s,retrieved_at:stagedAt,reviewed_at:stagedAt})),upsert);
 await rest('content_sources?on_conflict=content_page_id,source_id,relationship_type','POST',plan.sourceLinks,upsert);
 await rest('content_relationships?on_conflict=from_page_id,to_page_id,relationship_type','POST',plan.relationships,upsert);
 const now=new Date().toISOString();const published:{id:string;slug:string;updated_at:string}[]=[];

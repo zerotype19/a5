@@ -47,6 +47,8 @@ Apply migrations to your Supabase project before testing live flows — producti
 
 ## Current production state
 
-The public foundation, responsive templates and authority directory are deployed. Supabase holds 49 published content records: 8 service hubs, 6 town hubs, 12 service/town pages, 14 problem pages and 9 guides. The sitemap contains 54 URLs. Intake supports optional private photos, idempotent submission and acquisition attribution. Operations supports qualification, notes, manual vendor assignment and email Accept/Pass. Vendor notification is implemented; internal new-lead alerts are a separate gated capability.
+The public foundation, responsive templates and authority directory are deployed. Supabase holds 62 published content records: 8 service hubs, 9 town hubs, 18 service/town pages, 18 problem pages and 9 guides. The sitemap contains 67 URLs. The latest wave adds Livingston, Summit and Hanover Township with individual provider-availability review; these are request areas, not verified standing vendor coverage.
 
-Use [the current completion audit](docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md) for remaining operating, measurement and evidence requirements. The [operations task](docs/operations/TASK.md) and [verification record](docs/operations/VERIFICATION.md) describe work in progress; implementation does not mean production activation. Pilot spending and expansion choices are deferred at the owner's request.
+Intake supports private photos, idempotent submission and acquisition attribution. Operations supports qualification, manual vendor assignment, email Accept/Pass and audited lead outcomes. Scheduled internal new-lead alerts are live at hello@a5homeservices.com, with inbox receipt confirmed. GA4 is configured with consent controls.
+
+See [the expansion release](docs/expansion-wave-2/RELEASE.md), [operations evidence](docs/operations/RELEASE-2026-10-07.md), and [the completion audit](docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md). Paid pilot spending remains deferred. Verified provider capacity, genuine project/team evidence and the full operational rehearsal remain separate operating tasks.
