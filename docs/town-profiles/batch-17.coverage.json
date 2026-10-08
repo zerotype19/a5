@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-10-08T18:09:00.149Z",
+  "meaning": "Recorded active/email/category/municipality eligibility only; not specialist coverage, availability, delivery or fulfillment.",
+  "matrix": [
+    {
+      "town": "andover-borough",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "andover-borough",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "andover-borough",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-borough",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "andover-borough",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "andover-borough",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "andover-borough",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-borough",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-borough",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-borough",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "andover-borough",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-borough",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-borough",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-borough",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-borough",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-borough",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "andover-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "andover-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "andover-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "andover-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "andover-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "andover-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "andover-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "andover-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "branchville",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "branchville",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "branchville",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "branchville",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "branchville",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "branchville",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "branchville",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "branchville",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "branchville",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "branchville",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "branchville",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "branchville",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "branchville",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "branchville",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "branchville",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "branchville",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "byram",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "byram",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "byram",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "byram",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "byram",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "byram",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "byram",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "byram",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "byram",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "byram",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "byram",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "byram",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "byram",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "byram",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "byram",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "byram",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "frankford",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "frankford",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "frankford",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "frankford",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "frankford",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "frankford",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "frankford",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "frankford",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "frankford",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "frankford",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "frankford",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "frankford",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "frankford",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "frankford",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "frankford",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "frankford",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "franklin-borough",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "franklin-borough",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "franklin-borough",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "franklin-borough",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "franklin-borough",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "franklin-borough",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "franklin-borough",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "franklin-borough",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "franklin-borough",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "franklin-borough",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "franklin-borough",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "franklin-borough",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "franklin-borough",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "franklin-borough",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "franklin-borough",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "franklin-borough",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "fredon",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "fredon",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "fredon",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "fredon",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "fredon",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "fredon",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "fredon",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "fredon",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "fredon",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "fredon",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "fredon",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "fredon",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "fredon",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "fredon",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "fredon",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "fredon",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "green-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "green-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "green-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "green-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "green-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "green-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "green-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "green-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "green-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "green-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "green-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "green-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "green-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "green-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "green-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "green-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hamburg",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hamburg",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "hamburg",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hamburg",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hamburg",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hamburg",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hamburg",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hamburg",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hamburg",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hamburg",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hamburg",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hamburg",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hamburg",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hamburg",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hamburg",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hamburg",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hampton-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hampton-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "hampton-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hampton-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hampton-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hampton-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hampton-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hampton-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hampton-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hampton-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hampton-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hampton-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hampton-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hampton-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hampton-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hampton-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    }
+  ]
+}

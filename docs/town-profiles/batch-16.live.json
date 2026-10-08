@@ -1,0 +1,80 @@
+{
+  "batch": "16",
+  "sha256": "85188f00c0850ec7bc4ecb07f6b2abbd052a94cc6f6f5c75b3e8263bec49c75b",
+  "checkedAt": "2026-10-08T18:17:02.944Z",
+  "count": 10,
+  "sitemapCount": 276,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/bayonne",
+      "status": 200,
+      "title": "Bayonne Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Bayonne urgent repair follow-up with the work history, contractor details and the City's after-hours construction notification guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/east-newark",
+      "status": 200,
+      "title": "East Newark Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare East Newark home repairs with the correct Borough address, project scope and local construction resources, keeping Newark records separate.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/guttenberg",
+      "status": 200,
+      "title": "Guttenberg Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Guttenberg heating requests with unit versus shared-system details and management coordination before arranging repairs or changes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/harrison",
+      "status": 200,
+      "title": "Harrison Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Harrison curb, sidewalk and paving requests with clear work boundaries and the Town's engineering and zoning review distinctions.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/kearny",
+      "status": 200,
+      "title": "Kearny Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Kearny pre-sale repairs with inspection scheduling, a clear punch list and finish work coordinated before the planned closing.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/north-bergen",
+      "status": 200,
+      "title": "North Bergen Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare North Bergen permitted repairs with complete trade scope, permit status and the Township's inspection scheduling sequence.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/secaucus",
+      "status": 200,
+      "title": "Secaucus Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Secaucus renovation logistics with distinct dumpster, storage and removal plans using the Town's construction resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/union-city",
+      "status": 200,
+      "title": "Union City Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Union City heating changes with fuel, venting and chimney questions alongside the City's equipment-related application resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/weehawken",
+      "status": 200,
+      "title": "Weehawken Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare Weehawken home-repair requests with clear symptoms, affected areas and the distinction between housing concerns and construction work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/west-new-york",
+      "status": 200,
+      "title": "West New York Home Services | Hudson County | A5 Home Services",
+      "description": "Prepare West New York basement projects with the intended use, existing records and life-safety questions before selecting finishes or fixtures.",
+      "errors": []
+    }
+  ]
+}

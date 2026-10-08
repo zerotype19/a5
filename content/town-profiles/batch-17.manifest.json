@@ -1,0 +1,1324 @@
+{
+  "updates": [
+    {
+      "id": "a04fa58e-30cf-4efb-81ee-35e7c31eb5d9",
+      "slug": "andover-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Andover Borough, Sussex County",
+      "meta_title": "Andover Borough Home Services | Sussex County",
+      "meta_description": "Plan Andover Borough home repairs with the correct municipal record, permit number and inspection stage before scheduling finish work.",
+      "h1": "Home services in Andover Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "andover-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Andover Borough, Sussex County?",
+      "direct_answer": "Andover Borough publishes its own construction inspection instructions and asks for the permit number, work address and inspection type when arranging a visit. Use the Borough's current contact route for a Borough property. A similarly named Andover Township record or appointment does not identify the same job.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give every repair the right address and inspection record",
+          "paragraphs": [
+            "Start with the work municipality shown on your property documents, then add the street address and affected room or structure. Keep earlier permits, plans and contractor paperwork together. This is especially useful when a mailing address simply says Andover and a search returns information for both the Borough and Township.",
+            "The Borough's construction page describes appointment-based inspections and the information needed to request one. Ask the responsible professional which stage is ready and confirm the current arrangements with the office. Do not assume an emailed request is a confirmed appointment or that a finished surface can be installed before the relevant work is checked.",
+            "Build the repair proposal around a clear sequence: assess the problem, define the trade work, complete applicable checks and restore the opening. Identify who will request the inspection and retain its result. A5 can forward your request to an independent professional with matching recorded coverage; the professional and Borough determine the project-specific work and review process."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Andover Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Sequence a bathroom repair",
+              "body": "Describe the leak or fixture issue and any existing opening. Ask the plumber to identify trade work and inspection steps before finish restoration.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Document an electrical alteration",
+              "body": "Share the affected room and existing project records. Confirm which inspection stage relates to the proposed electrical work.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Close an opening at the right time",
+              "body": "Photograph the repair area and agree on drywall scope after underlying work and applicable checks are complete.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which details help arrange an Andover Borough construction inspection?",
+              "answer": "Have the permit number, work address and inspection type available, as requested by the Borough's construction page. Confirm the current appointment process and readiness with the office and responsible professional."
+            },
+            {
+              "question": "How does A5 help with my Andover Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Andover Borough is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Andover Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.128+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0023625e-cd07-4d00-8c2d-426b2d5a289f",
+      "slug": "andover-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Andover Township, Sussex County",
+      "meta_title": "Andover Township Home Services | Sussex County",
+      "meta_description": "Prepare Andover Township home projects with the DCA inspection route, permit details and work phase so trade and finish work stay coordinated.",
+      "h1": "Home services in Andover Township.",
+      "primary_service_id": null,
+      "primary_location_id": "andover-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Andover Township, Sussex County?",
+      "direct_answer": "Andover Township's construction page directs inspection requests to the New Jersey DCA online process. Gather the permit number, municipality, block and lot, discipline and inspection phase before submitting. Have the responsible professional confirm readiness and the appointment rather than assuming an online request completes the inspection.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Match the inspection request to the actual stage of work",
+          "paragraphs": [
+            "A project can involve several different checks, so describe what has been installed and what is still open. Ask the contractor which discipline and phase apply. Keep the permit record and approved scope nearby rather than trying to reconstruct them from an estimate or a photo when it is time to arrange the visit.",
+            "The Township identifies state DCA construction services and directs inspection requests online. Its checklist distinguishes the property, permit and requested inspection details. Use the current route linked by the Township, with Andover Township as the municipality. Confirm any unresolved questions directly; A5 does not submit or approve the inspection on your behalf.",
+            "Plan access and the next trade around the confirmed arrangements. If the work changes after the original proposal, ask whether the documentation or inspection sequence needs attention before proceeding. Retain the resulting record alongside equipment information and the final scope, making it easier to understand what was completed when a future repair or sale raises questions."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Andover Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate heating replacement",
+              "body": "Provide equipment details and the installation proposal. Ask the HVAC professional which checks relate to the specific equipment and connections.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Keep plumbing stages clear",
+              "body": "Identify the fixture or piping work and what remains accessible. Agree on inspection coordination before walls or floors are restored.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Finish after the trade work",
+              "body": "Separate drywall preparation and painting from underlying repairs. Confirm the surface is ready before scheduling the finish visit.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does A5 arrange the state inspection for my Andover Township job?",
+              "answer": "No. Use the current DCA route linked by Andover Township and agree with your professional who will submit the request and coordinate access. A5 provides an introduction, not municipal or state approval."
+            },
+            {
+              "question": "How does A5 help with my Andover Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Andover Township is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Andover Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.233+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "8b382462-8401-4387-8e74-9f8216336f27",
+      "slug": "branchville",
+      "page_type": "LOCATION",
+      "title": "Home services in Branchville, Sussex County",
+      "meta_title": "Branchville Home Services | Sussex County",
+      "meta_description": "Plan Branchville exterior cleanup with debris containment, drainage observations and the Borough's stormwater resources before work begins.",
+      "h1": "Home services in Branchville.",
+      "primary_service_id": null,
+      "primary_location_id": "branchville",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Branchville, Sussex County?",
+      "direct_answer": "Branchville's stormwater page explains how material left on the ground or entering drains can affect water quality. For exterior repairs, agree on debris collection and cleanup before the work starts. A drainage complaint and a contractor's waste-removal plan are different issues; describe both clearly rather than treating a street inlet as a disposal route.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Include cleanup in the exterior repair scope",
+          "paragraphs": [
+            "Look at where loose material could travel from the work area during rain or cleanup. Photograph existing debris, nearby drainage features and the surface being repaired from safe ground. Ask the contractor to explain containment and removal in the quote, including who collects material left by scraping, cutting or demolition.",
+            "Branchville publishes stormwater information covering improper disposal, litter and yard waste. Consult the current Borough resource for local handling questions and ask the appropriate office about an unusual discharge or connection. The presence of a drain does not establish that a proposed disposal method is acceptable, and a general service match does not authorize changes to public drainage infrastructure.",
+            "Keep the practical work list specific: clean the gutter, assess the damaged joint or remove the agreed pile of material. If water continues to collect after routine maintenance, document where it comes from and request an assessment before ordering a new drain or changing grade. Separate recurring water movement from the cleanup task so the quote addresses the actual problem."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Branchville project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Collect gutter debris",
+              "body": "Describe overflow locations and access. Ask how removed leaves and sediment will be collected and taken away from the work area.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Contain masonry cleanup",
+              "body": "Show the damaged joints or surface and nearby drains. Include debris collection and surface cleanup in the masonry proposal.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Define a yard cleanup",
+              "body": "Identify the material to remove and any drainage concerns. Keep disposal arrangements separate from proposed changes to the yard's grade.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should a Branchville exterior repair quote say about cleanup?",
+              "answer": "It should identify what material will be generated, how it will be contained and who will remove it. Use the Borough's stormwater resources for local disposal questions instead of assuming nearby drains can receive the residue."
+            },
+            {
+              "question": "How does A5 help with my Branchville request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Branchville is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Branchville project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.33+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1fa89dbd-276e-4852-8318-7a13de9bfcf0",
+      "slug": "byram",
+      "page_type": "LOCATION",
+      "title": "Home services in Byram, Sussex County",
+      "meta_title": "Byram Home Services | Sussex County",
+      "meta_description": "Use Byram's permit-record resources to prepare a repair request, understand earlier work and coordinate the next trade or inspection.",
+      "h1": "Home services in Byram.",
+      "primary_service_id": null,
+      "primary_location_id": "byram",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Byram, Sussex County?",
+      "direct_answer": "Byram's Construction Department provides an SDL portal for building permit records, application status and inspection requests on open permits. Review relevant existing records before treating a partially completed project as a simple new repair. Ask the department and contractor to resolve unclear status; a record search is background, not a diagnosis or approval.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Find out what the previous project actually included",
+          "paragraphs": [
+            "Gather the earlier estimate, any permit reference and photographs showing the current condition. Distinguish work that was proposed from work that was installed. If you have inherited an unfinished bathroom, equipment replacement or wall opening, describe that history with your request rather than asking a new professional to guess what is behind the surface.",
+            "Byram explains that its online portal lets the public search permit records and application status and arrange inspections for open permits. Follow the Township's current account instructions. If a record is missing, unclear or does not appear to match the property, ask the Construction Department for guidance rather than interpreting the search result as proof that no review was needed.",
+            "Use the information to agree on the next decision: assess existing work, complete a defined trade task or restore finishes. Ask who will address outstanding project documentation and how newly discovered problems affect the quote. Keep the final scope and applicable completion records together so the next homeowner or contractor can understand the work without repeating the same investigation."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Byram project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess an unfinished bathroom",
+              "body": "Share prior plumbing records and what remains incomplete. Ask for an assessment before combining old work with a new fixture request.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Review an equipment replacement",
+              "body": "Provide model information, installation history and any related permit reference. Confirm remaining HVAC work with the professional.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Plan wall restoration",
+              "body": "Show existing openings and explain the earlier project. Schedule drywall finishing only after the underlying scope is resolved.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I check earlier building permit records in Byram?",
+              "answer": "Byram links an SDL portal for permit records and application status. Follow its current access instructions and ask the Construction Department about incomplete or unclear records before relying on them for a new project."
+            },
+            {
+              "question": "How does A5 help with my Byram request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Byram is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Byram project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.438+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b42e71f0-b73d-4c67-8092-286dff2ba0a7",
+      "slug": "frankford",
+      "page_type": "LOCATION",
+      "title": "Home services in Frankford, Sussex County",
+      "meta_title": "Frankford Home Services | Sussex County",
+      "meta_description": "Prepare Frankford landscaping work with clear fill sourcing, delivery and cleanup questions, supported by the Township's dirty-dirt resource.",
+      "h1": "Home services in Frankford.",
+      "primary_service_id": null,
+      "primary_location_id": "frankford",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Frankford, Sussex County?",
+      "direct_answer": "Frankford's Construction Office links a Sussex County warning about contaminated fill advertised online. Before accepting soil for a yard project, ask where it comes from, what documentation accompanies it and who is responsible for delivery and removal. An attractive price or the description 'free fill' does not establish that material is suitable for your property.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Know what is arriving before the truck unloads",
+          "paragraphs": [
+            "Describe the intended yard improvement first: repairing a bare patch, preparing a planting bed or addressing an uneven area. Ask the professional what material is appropriate and whether the proposal changes drainage or grade. Do not let an available load of soil define the project before the property's needs have been assessed.",
+            "The Township publishes a link to the Sussex County Prosecutor's Office dirty-dirt notice, which warns that advertised fill can contain contaminants or construction debris. Review that resource and consult the appropriate authorities when sourcing or suspected dumping raises concerns. A landscaping introduction through A5 is not a certification of soil quality, testing or environmental suitability.",
+            "Put the material description, quantity, supplier, delivery location and cleanup responsibilities in the proposal. Decide how unsuitable or unexpected material will be handled before accepting it. Keep delivery documentation with the project record, and avoid mixing unknown material into existing soil while a concern is unresolved. For changes beyond routine yard maintenance, confirm the needed assessment and approvals before work proceeds."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Frankford project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Specify planting-bed material",
+              "body": "Describe the planting goal and existing soil condition. Ask the landscaper to identify the proposed material and its source in the quote.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Prepare a paver repair",
+              "body": "Show movement and drainage symptoms. Discuss the base material and disposal scope before ordering replacement pavers or fill.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Separate debris from ordinary removal",
+              "body": "List known material and disclose uncertainty. Confirm the provider can handle it; ordinary junk removal is not an environmental remediation service.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is free fill automatically suitable for a Frankford yard project?",
+              "answer": "No. The county notice linked by Frankford warns about potentially contaminated fill. Ask about source and documentation, and consult the appropriate environmental authority if the material or delivery raises concerns."
+            },
+            {
+              "question": "How does A5 help with my Frankford request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Frankford is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Frankford project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.546+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6d983048-d9de-4254-82d4-12be753a8723",
+      "slug": "franklin-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Franklin Borough, Sussex County",
+      "meta_title": "Franklin Borough Home Services | Sussex County",
+      "meta_description": "Plan Franklin Borough outdoor improvements with a placement sketch, existing property information and local zoning guidance before ordering materials.",
+      "h1": "Home services in Franklin Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "franklin-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Franklin Borough, Sussex County?",
+      "direct_answer": "Franklin Borough's zoning guidance specifically includes fences, pools and accessory structures among projects to discuss with the Zoning Office. Before buying a shed or changing an outdoor layout, describe the proposed location and use. Ask about the actual property's requirements; product dimensions alone do not determine whether an installation is appropriate.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Settle the location before committing to the installation",
+          "paragraphs": [
+            "Mark the proposed improvement on an available property plan and photograph the surrounding area. Show nearby structures, access paths and the space needed to bring materials in. If the property boundary is uncertain, say so; a fence, hedge or online image is not a substitute for establishing the correct line when placement matters.",
+            "Franklin Borough publishes zoning permit information with examples including fences, swimming pools and sheds or garages. Use the Borough's current resource to ask which approvals relate to your proposal, and keep any construction review distinct. Do not assume a store-bought structure, replacement item or small footprint removes the need to check the specific project.",
+            "After the location is resolved, divide the installation into clear tasks: site preparation, assembly, any trade connections and final cleanup. Confirm the professional's scope and qualifications directly. Avoid including pool systems, engineered structures or new electrical work in an ordinary handyman request without identifying the specialist work. A5 helps make an introduction; the proposal and relevant authorities establish what can proceed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Franklin Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Prepare the surrounding yard",
+              "body": "Show the intended footprint and access route. Ask the landscaper to separate routine preparation from grading or other work needing additional review.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Clarify assembly work",
+              "body": "Provide the product information and approved placement where applicable. Confirm whether the assembly fits the handyman's actual scope.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Describe a planned power connection",
+              "body": "Explain the intended equipment and location. Have an electrician assess the connection separately from structure assembly.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I order a shed before checking its Franklin Borough location?",
+              "answer": "Resolve placement and applicable requirements first. Franklin Borough includes accessory structures in its zoning guidance, so provide the proposed location and use to the office before committing to installation."
+            },
+            {
+              "question": "How does A5 help with my Franklin Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Franklin Borough is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Franklin Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.655+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ae5a4532-c771-4212-89ce-0da8cdd77030",
+      "slug": "fredon",
+      "page_type": "LOCATION",
+      "title": "Home services in Fredon, Sussex County",
+      "meta_title": "Fredon Home Services | Sussex County",
+      "meta_description": "Prepare Fredon repairs with clear work-area access, permit details and inspection-stage information using the Township's DCA construction resource.",
+      "h1": "Home services in Fredon.",
+      "primary_service_id": null,
+      "primary_location_id": "fredon",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Fredon, Sussex County?",
+      "direct_answer": "Fredon's Construction Office page directs inspection requests through the state process and includes special access instructions in the information to provide. Coordinate a safe route to the work area and a responsible contact with your contractor. Keep private access codes out of general project descriptions and share sensitive arrangements only through the appropriate direct channel.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the work area ready for the person who needs to see it",
+          "paragraphs": [
+            "Identify where the work is located and what must be accessible: an equipment room, an opened wall or a particular entrance. Explain practical obstacles such as stored items, pets or a locked outbuilding. Arrange access in advance without asking anyone to enter an unsafe area or move equipment they are not qualified to handle.",
+            "Fredon's construction resource identifies the DCA process and the details needed for an inspection request, including the permit, property, discipline, phase and special access information. Ask the responsible professional which stage is ready and follow the current official instructions. Submitting those details does not itself confirm a visit or establish that the work has passed.",
+            "Include access preparation in the schedule rather than leaving it to the morning of a planned visit. Agree who will meet the inspector where needed and who will preserve any result or follow-up instruction. Keep repair, inspection and finish work coordinated so a surface does not have to be reopened simply because the next trade arrived before the underlying work was ready."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Fredon project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Prepare equipment access",
+              "body": "Describe the HVAC equipment location and access restrictions. Ask the professional what needs to remain clear for the work and relevant checks.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Identify the plumbing work area",
+              "body": "Explain which fixture or pipe is involved and where access is available. Coordinate any required opening with the plumber.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate finish restoration",
+              "body": "Share the size and location of an opening. Agree on drywall restoration after trade work and applicable inspection steps are resolved.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What access information should I prepare for a Fredon inspection?",
+              "answer": "Fredon's checklist includes special access instructions. Coordinate the work-area location, responsible contact and safe entry arrangements through the official process; share sensitive codes privately rather than in a general A5 request."
+            },
+            {
+              "question": "How does A5 help with my Fredon request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Fredon is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Fredon project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.755+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6225cba2-f97a-48b9-8411-5ad854d1cf59",
+      "slug": "green-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Green Township, Sussex County",
+      "meta_title": "Green Township Home Services | Sussex County",
+      "meta_description": "Prepare Green Township repairs with the correct local submission route, equipment documents and a clear scope under its shared construction services.",
+      "h1": "Home services in Green Township.",
+      "primary_service_id": null,
+      "primary_location_id": "green-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Green Township, Sussex County?",
+      "direct_answer": "Green Township identifies construction services shared through Independence Township while publishing its own Green Township submission and contact instructions. Start with Green's current construction page for a Green property. Shared staffing does not mean that the work municipality, property record or delivery address should be replaced with another town's details.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the property record consistent from quote to completion",
+          "paragraphs": [
+            "Use Green Township as the work municipality and keep the street address, block and lot consistent across existing records and the proposed project. A Tranquility mailing address can be useful contact information, but it should not replace the actual municipality when explaining the work to a contractor or submitting your A5 request.",
+            "Green's Construction Department describes its shared-service arrangement and lists documentation for applications, including contractor information and applicable equipment guides or plans. Follow the current instructions for your actual project rather than borrowing a neighboring town's checklist. The page also distinguishes its new-home and addition procedure from other alterations, for which it directs applicants to contact the office.",
+            "For an equipment or fixture change, gather the model information and installation requirements before agreeing on the final scope. Ask who supplies the documentation, who handles applicable submissions and how any related trade work will be coordinated. Retain the final equipment details and project record together so later maintenance starts with the correct installation history."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Green Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Collect heating equipment documents",
+              "body": "Provide the existing model and proposed replacement information. Ask the HVAC professional to identify related work and relevant installation documentation.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Scope a fixture change",
+              "body": "Describe the existing plumbing and the intended replacement. Keep product selection separate from assumptions about the required installation work.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate equipment power",
+              "body": "Share the equipment requirements with an electrician. Confirm the electrical scope directly rather than assuming it is included with delivery.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should Green Township paperwork use Independence as the work municipality?",
+              "answer": "No. Green identifies shared construction services but publishes Green Township submission instructions. Use the actual work municipality and confirm the current route with Green's Construction Department."
+            },
+            {
+              "question": "How does A5 help with my Green Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Green Township is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Green Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.857+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2ba83cb6-3462-4066-8248-dc1d27aa0f04",
+      "slug": "hamburg",
+      "page_type": "LOCATION",
+      "title": "Home services in Hamburg, Sussex County",
+      "meta_title": "Hamburg Home Services | Sussex County",
+      "meta_description": "Prepare Hamburg outdoor and home improvement requests with local zoning questions and the Borough's connection to Hardyston construction guidance.",
+      "h1": "Home services in Hamburg.",
+      "primary_service_id": null,
+      "primary_location_id": "hamburg",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hamburg, Sussex County?",
+      "direct_answer": "Hamburg's Zoning and Property Maintenance page describes local zoning review and directs construction questions to Hardyston's Construction Department. Clarify both parts before scheduling an improvement that changes the property's layout or use. A zoning decision and a construction review answer different questions; neither should be inferred from a contractor's estimate.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Ask the right office the right project question",
+          "paragraphs": [
+            "Write down what is changing, where it will sit and how it will be used. An outdoor structure, altered entrance or new equipment location may raise different questions from routine maintenance. Include an available property plan and photos so the discussion starts with the actual proposal rather than a broad label such as backyard work.",
+            "Hamburg's local page explains its zoning role and points residents to Hardyston for construction guidance. Follow the Borough's current instructions and confirm the route for your specific work. Do not substitute Hardyston as the property's municipality or assume that submitting one application resolves every aspect of the project.",
+            "Once the scope is clear, ask the professional to identify preparation, installation, trade connections and cleanup separately. Record any conditions that affect placement or sequence before materials arrive. If the design changes during pricing, check whether the earlier review still matches the revised proposal. A5 forwards requests to independent professionals; it does not determine zoning compliance or issue construction approvals."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hamburg project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Describe an entrance repair",
+              "body": "Show the existing steps or landing and explain whether dimensions will change. Ask the masonry professional to separate repair from redesign.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan the surrounding landscape",
+              "body": "Mark the proposed work area and existing features. Confirm the scope before moving soil or altering the outdoor layout.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Clarify exterior electrical work",
+              "body": "Identify the equipment or lighting location and intended use. Have an electrician assess the work and applicable coordination.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who should I ask about zoning and construction for a Hamburg project?",
+              "answer": "Start with Hamburg's Zoning and Property Maintenance resource. It describes local zoning review and directs construction guidance to Hardyston; confirm the current process for your Hamburg property."
+            },
+            {
+              "question": "How does A5 help with my Hamburg request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hamburg is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hamburg project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:36.973+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1fd17db1-f5a8-4375-8923-1c2664370a92",
+      "slug": "hampton-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Hampton Township, Sussex County",
+      "meta_title": "Hampton Township Home Services | Sussex County",
+      "meta_description": "Prepare Hampton Township home repairs with focused construction questions, relevant project records and the correct appointment or inspection route.",
+      "h1": "Home services in Hampton Township.",
+      "primary_service_id": null,
+      "primary_location_id": "hampton-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hampton Township, Sussex County?",
+      "direct_answer": "Hampton Township's Construction page provides separate links for applications and inspections, identifies the Clerk route for records requests and asks residents to arrange appointments to speak with inspectors. Decide whether you need an existing record, an answer about proposed work or a site inspection before contacting the office.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn an unclear repair into a focused set of questions",
+          "paragraphs": [
+            "Start with the observed problem and the proposed change, then identify what is unknown. You may need to understand earlier work, ask which documents belong with a proposal or arrange a check on work already underway. Those are different tasks, and a single vague request can make it harder to reach the right next step.",
+            "Hampton's construction resource distinguishes online applications and inspection requests from records requests directed to the Clerk. It also asks for appointments for in-person or telephone discussions with inspectors. Use the current official page to arrange the appropriate contact, with the property address and relevant permit information ready. Do not treat an appointment request as an approval to proceed.",
+            "After clarifying the question, give the independent professional the relevant information and ask for a defined scope. Keep diagnosis, optional upgrades and finish restoration separately priced where useful. Record who will manage documentation and follow-up so that a repair does not stall between the homeowner, contractor and office. Use Hampton Township in Sussex County as the project location, even where the mailing address uses Newton."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hampton Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify an existing electrical project",
+              "body": "Share known permit or installation records and the current symptom. Ask the electrician what assessment is needed before further work.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Prepare a heating question",
+              "body": "Provide equipment details and describe the proposed change. Separate a consultation about scope from scheduling the installation.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Plan restoration around resolved work",
+              "body": "Show the area needing paint and explain any unresolved underlying repair. Agree on preparation and timing before finishing.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is requesting a Hampton construction record the same as requesting an inspection?",
+              "answer": "No. Hampton lists a Clerk route for records requests and separate application and inspection links. Identify the information or visit you need and follow the current official instructions for that task."
+            },
+            {
+              "question": "How does A5 help with my Hampton Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hampton Township is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hampton Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:16:02.618Z",
+      "published_at": "2026-10-08T01:22:37.082+00:00",
+      "last_reviewed_at": "2026-10-08T18:16:02.618Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "aac5d3f3-6f29-4762-8f1f-02f91fc2acd4",
+      "title": "Andover Borough Construction Inspections",
+      "url": "https://www.andoverboroughnj.org/construction-inspections",
+      "publisher": "Borough of Andover",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "9101dc2a-3ff5-42b8-84f3-21029ed2a305",
+      "title": "Andover Township Construction",
+      "url": "https://andovertwp.org/directory/construction/",
+      "publisher": "Andover Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "11541847-9026-47a5-8d4c-55b54884ea0d",
+      "title": "Branchville Stormwater Information",
+      "url": "https://www.branchvilleborough.org/stormwater/",
+      "publisher": "Borough of Branchville",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "bd73125b-1021-4478-8155-b36dad9b3996",
+      "title": "Byram Township Construction",
+      "url": "https://www.byramtwp.org/index.php/town_hall/township_offices_detail/construction",
+      "publisher": "Byram Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "d60a2326-2516-4cfa-872b-f384bb5f6258",
+      "title": "Frankford Construction Office",
+      "url": "https://frankfordtownship.org/departments/construction/",
+      "publisher": "Frankford Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "72530aab-d4f5-4758-8fd9-74d1d23c801d",
+      "title": "Environmental Hazards Associated with Dirty Dirt",
+      "url": "https://frankfordtownship.org/newsandannouncements/2023/SCPO-EnvironmentalDirtyDirt.pdf",
+      "publisher": "Sussex County Prosecutor's Office",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "fac2b466-49e4-4751-82bf-b74b0795b878",
+      "title": "Franklin Borough Zoning Office Permit Information",
+      "url": "https://franklinborough.org/index.php/departments/land-use/zoning-office-permit-information",
+      "publisher": "Borough of Franklin",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "ccfff5fd-59f2-4217-84c5-95abc44f8805",
+      "title": "Fredon Construction Office",
+      "url": "https://fredonnj.gov/construction-office/",
+      "publisher": "Fredon Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "f8041c5b-fd54-4459-8ba8-316e6e1362df",
+      "title": "Green Township Construction",
+      "url": "https://www.greentwp.com/cn/webpage.cfm?TID=147&TPID=14281",
+      "publisher": "Green Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "6ebc2d86-f67a-4819-82ba-4bc2be6aad20",
+      "title": "Hamburg Zoning and Property Maintenance",
+      "url": "https://hamburgnj.org/departments/zoning-property-maintenance/",
+      "publisher": "Borough of Hamburg",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    },
+    {
+      "id": "7ed699e2-181d-419c-84f9-f46382ccefb7",
+      "title": "Hampton Township Construction",
+      "url": "https://www.hamptontownshipnj.info/1227/Construction",
+      "publisher": "Hampton Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:16:02.618Z",
+      "reviewed_at": "2026-10-08T18:16:02.618Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "a04fa58e-30cf-4efb-81ee-35e7c31eb5d9",
+      "source_id": "aac5d3f3-6f29-4762-8f1f-02f91fc2acd4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0023625e-cd07-4d00-8c2d-426b2d5a289f",
+      "source_id": "9101dc2a-3ff5-42b8-84f3-21029ed2a305",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "8b382462-8401-4387-8e74-9f8216336f27",
+      "source_id": "11541847-9026-47a5-8d4c-55b54884ea0d",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1fa89dbd-276e-4852-8318-7a13de9bfcf0",
+      "source_id": "bd73125b-1021-4478-8155-b36dad9b3996",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b42e71f0-b73d-4c67-8092-286dff2ba0a7",
+      "source_id": "d60a2326-2516-4cfa-872b-f384bb5f6258",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b42e71f0-b73d-4c67-8092-286dff2ba0a7",
+      "source_id": "72530aab-d4f5-4758-8fd9-74d1d23c801d",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6d983048-d9de-4254-82d4-12be753a8723",
+      "source_id": "fac2b466-49e4-4751-82bf-b74b0795b878",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ae5a4532-c771-4212-89ce-0da8cdd77030",
+      "source_id": "ccfff5fd-59f2-4217-84c5-95abc44f8805",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6225cba2-f97a-48b9-8411-5ad854d1cf59",
+      "source_id": "f8041c5b-fd54-4459-8ba8-316e6e1362df",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2ba83cb6-3462-4066-8248-dc1d27aa0f04",
+      "source_id": "6ebc2d86-f67a-4819-82ba-4bc2be6aad20",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1fd17db1-f5a8-4375-8923-1c2664370a92",
+      "source_id": "7ed699e2-181d-419c-84f9-f46382ccefb7",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "a04fa58e-30cf-4efb-81ee-35e7c31eb5d9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "0023625e-cd07-4d00-8c2d-426b2d5a289f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "8b382462-8401-4387-8e74-9f8216336f27",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "1fa89dbd-276e-4852-8318-7a13de9bfcf0",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "b42e71f0-b73d-4c67-8092-286dff2ba0a7",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "6d983048-d9de-4254-82d4-12be753a8723",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "ae5a4532-c771-4212-89ce-0da8cdd77030",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "6225cba2-f97a-48b9-8411-5ad854d1cf59",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "2ba83cb6-3462-4066-8248-dc1d27aa0f04",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "1fd17db1-f5a8-4375-8923-1c2664370a92",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

@@ -133,3 +133,11 @@ North Haledon, Passaic, Paterson, Pompton Lakes, Prospect Park, Ringwood, Totowa
 ## Batch 16: ready for publication
 
 Bayonne, East Newark, Guttenberg, Harrison, Kearny, North Bergen, Secaucus, Union City, Weehawken and West New York finish Hudson. Brand positioning ideas approved all ten. Narrow official-source claims distinguish shared heating, street work, containers and basement use. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 16: published and verified
+
+2026-10-08: PR #65 merged (9711381). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 276 URLs. One hundred sixty completed; 42 remain.
+
+## Batch 17: ready for publication
+
+Andover Borough, Andover Township, Branchville, Byram, Frankford, Franklin Borough, Fredon, Green Township, Hamburg and Hampton Township. Brand positioning ideas approved all ten. Official sources support precise distinctions in jurisdiction, inspection access, records and fill sourcing. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
