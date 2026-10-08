@@ -28,7 +28,7 @@ export function Footer() {
         <li><Link href="/services">All services</Link></li><li><Link href="/home-services">All service areas</Link></li><li><Link href="/about">About A5</Link></li>
         <li><Link href="/#how-it-works">How it works</Link></li>
         <li><Link href="/guides">Homeowner guides</Link></li>
-        <li><Link href="/request-service">Request service</Link></li>
+        <li><Link href="/request-service" prefetch={false}>Request service</Link></li>
         <li><Link href="/vendors/join">Join as a vendor</Link></li>
       </ul></nav>
     </div>
