@@ -4,7 +4,7 @@
  * content page per new problem. Does not insert problem entities.
  */
 
-import type { ServiceId } from "../../../config/services.ts";
+
 import { PROBLEM_PAGE_DRAFTS } from "./drafts/problems.ts";
 import { SERVICE_HUB_DRAFTS } from "./drafts/service-hubs.ts";
 import type { ClaimToVerify } from "./drafts/types.ts";
@@ -13,8 +13,9 @@ import type { ContentSection, ContentSourceRelationshipType, SourceType } from "
 
 export const TRANCHE_REVIEWED_AT = "2026-09-30T12:00:00.000Z";
 
-/** Live SERVICE content_pages ids. One row per service. Do not replace these ids. */
-export const LIVE_SERVICE_PAGE_IDS: Record<ServiceId, string> = {
+/** Original tranche SERVICE content_pages ids. Frozen to its eight services. Do not replace these ids. */
+export const LIVE_SERVICE_PAGE_IDS: Record<string, string> = {
+
   handyman: "20000000-0000-4000-8000-000000000001",
   landscaping: "20000000-0000-4000-8000-000000000002",
   painting: "20000000-0000-4000-8000-000000000003",

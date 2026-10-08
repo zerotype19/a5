@@ -1,0 +1,11 @@
+# Service expansion and vendor depth release
+
+Owner requested at least eight email-assignable businesses per service and municipality, targeting ten, plus immediate service expansion. The existing eight categories reached that minimum across all 226 municipalities on October 8, 2026: handyman 8, masonry 11, landscaping 9, painting 11, drywall 9, tile 10, plumbing 9, electrical 8 (minimum town counts). Production contains 136 real vendors, 111 email-assignable, after 53 distinct additions in three receipted batches. These are advertised mappings, not verified availability or credentials.
+
+Eight additions: heating and cooling, roofing, house cleaning, gutters, pest control, junk removal, tree services, appliance repair. Eight authored hubs, distinct illustrations, common requests, project preparation and scope guidance use the existing network introduction model. Existing selectors derive from the canonical registry. No automatic routing, new dependencies, outreach or spending.
+
+Service expansion uses a data-only additive seed migration. The matching release script inserts the same service rows, eight validated hubs, and corrects outdated service-count/roofing-exclusion copy with timestamp guards. It saves production before-images, write intents and receipts. Never blindly retry a partial run. Existing indexing flags are preserved; the eight authored service hubs are indexable. No service/town cross-product pages are generated.
+
+Historical eight-service publication tests retain their original tranche scope; current registry/intake/signup tests cover all sixteen. Regression: 290 tests passed; typecheck, lint, Next production build and Vinext production build passed. Final release status and HTTP verification to be appended after deployment.
+
+Vendor enrichment remains open for the eight new categories. COVERAGE.csv records every service/town combination against minimum eight and target ten; STATUS.json records the actual production count, including zero coverage. A vendor without an email stays inactive. Source-specific restrictions remain in vendor notes (for example, statewide landscape projects do not imply statewide mowing). Shared identity/contact signals are held out rather than counted twice; no existing operational records are overwritten.

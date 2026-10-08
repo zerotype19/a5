@@ -266,9 +266,9 @@ describe("A5-G001 URL + registry integration", () => {
 
   it("resolves valid service/location routes and rejects invalid combos", () => {
     assert.equal(resolveServiceRoute("masonry").ok, true);
-    assert.equal(resolveServiceRoute("hvac").ok, false);
+    assert.equal(resolveServiceRoute("pool-building").ok, false);
     assert.equal(resolveServiceLocationRoute("madison", "masonry").ok, true);
-    assert.equal(resolveServiceLocationRoute("madison", "hvac").ok, false);
+    assert.equal(resolveServiceLocationRoute("madison", "pool-building").ok, false);
     assert.equal(resolveServiceLocationRoute("admin", "masonry").ok, false);
     assert.equal(resolveProblemRoute("masonry", "brick-step-repair").ok, true);
   });

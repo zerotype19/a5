@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import {describe,it} from "node:test";
-import {SERVICES} from "../config/services.ts";
+import {INITIAL_SERVICES as SERVICES} from "../config/services.ts";
 import {LOCATIONS} from "../config/locations.ts";
 import {buildExpansionPlan, type PublicSnapshot} from "../content/authority-expansion/plan.ts";
 import {FIXTURE_SERVICE_PAGE, FIXTURE_LOCATION_PAGE, FIXTURE_SERVICE_LOCATION_PAGE} from "../src/lib/authority/fixtures.ts";

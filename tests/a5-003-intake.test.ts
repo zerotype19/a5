@@ -58,8 +58,7 @@ describe("A5-003 project intake UI", () => {
     for (const service of SERVICES) {
       assert.ok(SERVICES.some((s) => s.id === service.id));
     }
-    assert.doesNotMatch(serviceStep, /\bHVAC\b/);
-    assert.equal(SERVICES.length, 8);
+    assert.equal(SERVICES.length, 16);
   });
 
   it("blocks continue without service selection", () => {

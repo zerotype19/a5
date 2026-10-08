@@ -1,0 +1,7 @@
+# Vendor depth and service expansion
+
+Owner request: load at least 8 distinct email-assignable vendors per service and municipality; target 10. Existing scope is 226 municipalities, eight counties, eight live services. Owner-requested additions: HVAC, roofing, gutters, pest control, appliance repair, tree services, junk removal, house cleaning; implemented as the working set under the owner’s request to add services now and supported by the Brand positioning ideas review. Preserve service IDs and URLs. No spending, outreach, automatic routing, duplicate businesses, invented emails/territory or public availability claims.
+
+Baseline: 83 real businesses, 58 usable emails, 1,808 service/municipality pairs with minimum 2. All original pairs need evaluation against the higher target. Email-present DISCOVERED records are manually assignable; missing-email vendors stay INACTIVE. Geographic mappings require explicit advertised county or municipality coverage, not proximity. Broad wording with qualifiers is not statewide evidence.
+
+Save source URLs, dates, supported services/geography and deduplication results in reviewed manifests. Use existing import parser/RPC and receipts, taking a fresh private baseline before production writes. Never overwrite prior operational history. New service rollout includes registry, DB seed migration, intake/admin/signup selectors, authored service landing content, navigation, metadata and meaningful tests. Do not mass-generate municipality/service permutations or change existing noindex flags.

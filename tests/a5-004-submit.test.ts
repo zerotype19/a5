@@ -88,7 +88,7 @@ describe("A5-004 server validation", () => {
 
   it("rejects unknown service IDs", () => {
     const result = validateSubmissionPayload(
-      validPayload({ serviceId: "hvac" }),
+      validPayload({ serviceId: "pool-building" }),
     );
     assert.equal(result.ok, false);
     if (!result.ok) {
