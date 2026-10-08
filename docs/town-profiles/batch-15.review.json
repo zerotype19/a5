@@ -1,0 +1,145 @@
+{
+  "sha256": "f881f718fce5c8835fd94c732dbcb5100924ea23bda1ac8dff7910dad69ab307",
+  "pages": [
+    {
+      "id": "5c9fc81b-03b2-417b-8a2b-b5678e64273f",
+      "path": "/home-services/north-haledon",
+      "newlyIndexable": true,
+      "purpose": "Plan temporary storage placement as part of a renovation",
+      "sourceClaims": [
+        {
+          "title": "North Haledon Construction Permits and Applications",
+          "url": "https://www.northhaledon.com/departments/construction_department/construction_permits_and_applications.php",
+          "publisher": "Borough of North Haledon",
+          "supports": "Live browser expanded all 16 documents; combined FENCE SHED POD DRIVEWAY PERMIT listed. No unread PDF placement or duration provisions asserted."
+        }
+      ]
+    },
+    {
+      "id": "1c4f9192-211a-4f5e-86bb-e88720a3913b",
+      "path": "/home-services/passaic",
+      "newlyIndexable": true,
+      "purpose": "Make a contractor handoff on existing permitted work explicit",
+      "sourceClaims": [
+        {
+          "title": "Passaic Construction and Zoning",
+          "url": "https://www.cityofpassaic.com/247/Code-Enforcement-Zoning",
+          "publisher": "City of Passaic",
+          "supports": "Current construction resource list includes Change of Contractor Request. No unread form provisions or contractual-rights conclusions asserted."
+        }
+      ]
+    },
+    {
+      "id": "527929d6-0ddd-4003-85b2-cde5b4501454",
+      "path": "/home-services/paterson",
+      "newlyIndexable": true,
+      "purpose": "Use maintenance to preserve historic exterior materials before major replacement",
+      "sourceClaims": [
+        {
+          "title": "Paterson Historic Preservation Guidelines: Introduction",
+          "url": "https://www.patersonnj.gov/egov/apps/document/center.egov?id=1813&view=item",
+          "publisher": "City of Paterson",
+          "supports": "Official indexed document text: Maintenance Is Preservation and Repairs & Replacement sections. Narrow maintenance/repair priorities only; no property designation or absolute replacement prohibition."
+        }
+      ]
+    },
+    {
+      "id": "39c3a4c5-0839-46d2-8623-5d16a9b2e9e9",
+      "path": "/home-services/pompton-lakes",
+      "newlyIndexable": true,
+      "purpose": "Allow for gaps in older online permit records",
+      "sourceClaims": [
+        {
+          "title": "Pompton Lakes Building Department",
+          "url": "https://pomptonlakes-nj.gov/192/Building-Department",
+          "publisher": "Borough of Pompton Lakes",
+          "supports": "FASTTRACKGOV section states pre-2000 permits may be absent and OPRA Clerk route. No record-completeness or condition guarantee."
+        }
+      ]
+    },
+    {
+      "id": "b6cd875c-b2dc-4692-8019-c6d79b60d4f2",
+      "path": "/home-services/prospect-park",
+      "newlyIndexable": true,
+      "purpose": "Separate sale preparation from rental turnover requirements",
+      "sourceClaims": [
+        {
+          "title": "Prospect Park Housing Department",
+          "url": "https://www.prospectpark.net/departments/housing_department/index.php",
+          "publisher": "Borough of Prospect Park, New Jersey",
+          "supports": "Live browser main content distinguishes sale Compliance and tenant-change Occupancy. Fees, detector placement, deadlines and legal conclusions excluded."
+        }
+      ]
+    },
+    {
+      "id": "f75832a9-c239-4e94-8e90-7465e76aa634",
+      "path": "/home-services/ringwood",
+      "newlyIndexable": true,
+      "purpose": "Keep septic-system work distinct from ordinary plumbing and yard maintenance",
+      "sourceClaims": [
+        {
+          "title": "Ringwood Septic Systems",
+          "url": "https://ringwoodnj.net/content/2347/2357/5648.aspx",
+          "publisher": "Borough of Ringwood",
+          "supports": "Health Department maintenance/repair/installation resources and specialist listings. No universal pumping interval, property system type or vendor expertise assumed."
+        }
+      ]
+    },
+    {
+      "id": "faaaa4ea-62a9-4500-8603-5c584d573a72",
+      "path": "/home-services/totowa",
+      "newlyIndexable": true,
+      "purpose": "Coordinate fence replacement with access and adjoining yard restoration",
+      "sourceClaims": [
+        {
+          "title": "Totowa Building Department",
+          "url": "https://www.totowanj.org/building",
+          "publisher": "Borough of Totowa",
+          "supports": "PERMITS section explicitly includes fence replacements. No universal heights, boundary determination or specialty-provider guarantees."
+        }
+      ]
+    },
+    {
+      "id": "fe56f035-bb8f-4ee4-8e9c-49f081ff3003",
+      "path": "/home-services/wanaque",
+      "newlyIndexable": true,
+      "purpose": "Plan tree work separately from the surrounding landscape project",
+      "sourceClaims": [
+        {
+          "title": "Wanaque Building and Zoning",
+          "url": "https://wanaquenj.gov/buildingzoning",
+          "publisher": "Borough of Wanaque",
+          "supports": "Tree permits and Tree Removal Application explicitly listed. No tree thresholds, exemptions or assessment conclusions asserted."
+        }
+      ]
+    },
+    {
+      "id": "8502b0d1-833a-4695-8039-a9f2e3b7f0f0",
+      "path": "/home-services/west-milford",
+      "newlyIndexable": true,
+      "purpose": "Coordinate lake-community property work with the relevant review channels",
+      "sourceClaims": [
+        {
+          "title": "West Milford Township FAQs",
+          "url": "https://westmilford.org/cn/faq/index.cfm",
+          "publisher": "Township of West Milford",
+          "supports": "Environmental Health lake-property and property-owner-association coordination discussion. Older thresholds, generalized soil facts and septic deadlines not repeated."
+        }
+      ]
+    },
+    {
+      "id": "23cff5f1-f1c8-4626-81d3-3088e8428882",
+      "path": "/home-services/woodland-park",
+      "newlyIndexable": true,
+      "purpose": "Identify which trades participate in heating-equipment changes",
+      "sourceClaims": [
+        {
+          "title": "Woodland Park Department of Inspections",
+          "url": "https://wpnj.us/building",
+          "publisher": "Borough of Woodland Park",
+          "supports": "Separate electrical/plumbing/fire subcode responsibilities and equipment examples. No universal all-subcodes requirement or specialty guarantee."
+        }
+      ]
+    }
+  ]
+}
