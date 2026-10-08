@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-10-08T15:08:27.572Z",
-  "sitemapCount": 116,
+  "checkedAt": "2026-10-08T18:50:15.031Z",
+  "sitemapCount": 318,
   "errors": [],
   "examples": [
     {
@@ -16,7 +16,7 @@
       "words": 716,
       "inSitemap": true,
       "depth": 0,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -106,7 +106,7 @@
       "words": 119,
       "inSitemap": false,
       "depth": 1,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Expected noindex intake; leave out of sitemap."
@@ -142,7 +142,7 @@
       "words": 989,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -214,7 +214,7 @@
       "words": 1021,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -268,7 +268,7 @@
       "words": 986,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -286,7 +286,7 @@
       "words": 882,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -394,7 +394,7 @@
       "words": 982,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 116,
+      "inbound": 318,
       "googleSummary": "Crawled - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
