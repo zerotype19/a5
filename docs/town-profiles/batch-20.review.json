@@ -1,0 +1,145 @@
+{
+  "sha256": "6a17046f48095ae7da561f9182272d35b582275fe53e045fc98347eb0d57474c",
+  "pages": [
+    {
+      "id": "b956b6b2-2c65-4354-8f3c-c254497dc609",
+      "path": "/home-services/harmony",
+      "newlyIndexable": true,
+      "purpose": "Find well and septic records before planning work around the yard",
+      "sourceClaims": [
+        {
+          "title": "Harmony Township Wells & Septics",
+          "url": "https://harmonytwp-nj.gov/departments/wells-septics/",
+          "publisher": "Harmony Township",
+          "supports": "County health contact and records routes only; no assumed prevalence, system condition or contractor qualification."
+        }
+      ]
+    },
+    {
+      "id": "1694d0cc-86a7-4295-8609-19e85446e92e",
+      "path": "/home-services/hope",
+      "newlyIndexable": true,
+      "purpose": "Allow time to clarify historic review before ordering exterior materials",
+      "sourceClaims": [
+        {
+          "title": "Hope Historic Preservation Commission",
+          "url": "https://www.hopetwp-nj.us/historic-preservation-commission",
+          "publisher": "Hope Township",
+          "supports": "Commission applications, meeting information and advance-submission guidance exist; no universal designation or specific approval outcome asserted."
+        }
+      ]
+    },
+    {
+      "id": "7071735b-58f7-405a-896a-29ff00ddfc84",
+      "path": "/home-services/independence",
+      "newlyIndexable": true,
+      "purpose": "Check the record of earlier work before starting the next phase",
+      "sourceClaims": [
+        {
+          "title": "Independence Township Building Department",
+          "url": "https://independencenj.com/departments/building-department/",
+          "publisher": "Independence Township",
+          "supports": "Open/closed permit review and inspection portal links only; intentionally does not repeat the page's blanket permit statement."
+        }
+      ]
+    },
+    {
+      "id": "bbb55062-239c-446f-8dd8-7e3dce6b7b27",
+      "path": "/home-services/knowlton",
+      "newlyIndexable": true,
+      "purpose": "Keep the scale and proposed layout clear when preparing a property plan",
+      "sourceClaims": [
+        {
+          "title": "Knowlton Zoning Application Instructions",
+          "url": "https://knowlton-nj.com/wp-content/uploads/2025/01/Zpermit-packet-Knowlton.pdf",
+          "publisher": "Knowlton Township",
+          "supports": "Official indexed packet text verifies scale/reduction instructions, property identifiers and site information; no fees or universal permit rules repeated."
+        }
+      ]
+    },
+    {
+      "id": "ada7e99e-4b65-4dea-87eb-b1eafee9ba1e",
+      "path": "/home-services/liberty-township",
+      "newlyIndexable": true,
+      "purpose": "Coordinate the electrical and inspection stages of work near a well",
+      "sourceClaims": [
+        {
+          "title": "Liberty Township Construction Office",
+          "url": "https://libertytownship.org/municipal/construction/index.html",
+          "publisher": "Liberty Township",
+          "supports": "Well electrical work and open-trench inspection guidance; current inspection-request route. Avoids older general permit thresholds and exemptions on the same page."
+        }
+      ]
+    },
+    {
+      "id": "0fd5c17b-ac07-4c17-87b3-5bb1e37b2d0d",
+      "path": "/home-services/lopatcong",
+      "newlyIndexable": true,
+      "purpose": "Make inspection requests specific enough to identify the correct job",
+      "sourceClaims": [
+        {
+          "title": "Lopatcong Building & Construction",
+          "url": "https://www.lopatcongtwp.com/offices-boards-commissions/building-construction",
+          "publisher": "Lopatcong Township",
+          "supports": "Live browser main content verified required request identifiers and appointment basis; no promised timing or approval."
+        }
+      ]
+    },
+    {
+      "id": "ea25e48b-b0cf-4a02-8cf1-65aa01fa06a4",
+      "path": "/home-services/mansfield-township",
+      "newlyIndexable": true,
+      "purpose": "Use the correct Washington Township office for a Mansfield project",
+      "sourceClaims": [
+        {
+          "title": "Mansfield Township Construction",
+          "url": "https://mansfieldtownship-nj.gov/index.php/offices/construction-and-zoning",
+          "publisher": "Mansfield Township, Warren County",
+          "supports": "Explicit shared services with Washington Township Morris County, permit-guide and status links; maintains county distinction."
+        }
+      ]
+    },
+    {
+      "id": "d7a65590-169f-4975-8637-6d343194cc77",
+      "path": "/home-services/oxford",
+      "newlyIndexable": true,
+      "purpose": "Separate long-range planning documents from a property's project approval",
+      "sourceClaims": [
+        {
+          "title": "Oxford Construction and Land Use Master Plans",
+          "url": "https://oxfordtwpnj.org/index.php/2021/06/01/construction-and-land-use/",
+          "publisher": "Oxford Township",
+          "supports": "Resource page lists zoning application/map, construction office and distinct master-plan documents; no parcel classification or approval inferred."
+        }
+      ]
+    },
+    {
+      "id": "eb19d004-fa39-4645-8826-bf10a0f7c323",
+      "path": "/home-services/pohatcong",
+      "newlyIndexable": true,
+      "purpose": "Resolve proposed placement locally before moving into construction review",
+      "sourceClaims": [
+        {
+          "title": "Pohatcong Construction, Zoning and Subcode Officials",
+          "url": "https://www.pohatcongtwp.org/departments/construction-zoning-sub-code-officials",
+          "publisher": "Pohatcong Township",
+          "supports": "Separate Township zoning and state construction responsibilities, property-plan guidance; no blanket exemption, fee or processing promise."
+        }
+      ]
+    },
+    {
+      "id": "1d5bdbbf-772b-4d7c-86a9-3c5b3331e29f",
+      "path": "/home-services/washington-borough",
+      "newlyIndexable": true,
+      "purpose": "Identify Washington Borough before asking about a property's proposed use",
+      "sourceClaims": [
+        {
+          "title": "Washington Borough Zoning",
+          "url": "https://washingtonboro-nj.gov/207/Zoning",
+          "publisher": "Washington Borough",
+          "supports": "Borough zoning application responsibilities, zoning map/forms/contact resources; no mapped parcel or use entitlement inferred."
+        }
+      ]
+    }
+  ]
+}

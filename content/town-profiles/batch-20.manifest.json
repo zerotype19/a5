@@ -1,0 +1,1310 @@
+{
+  "updates": [
+    {
+      "id": "b956b6b2-2c65-4354-8f3c-c254497dc609",
+      "slug": "harmony",
+      "page_type": "LOCATION",
+      "title": "Home services in Harmony, Warren County",
+      "meta_title": "Harmony Home Services | Warren County",
+      "meta_description": "Plan Harmony home maintenance with well and septic records, clear access notes and a practical scope for plumbing, landscaping and exterior repairs.",
+      "h1": "Home services in Harmony.",
+      "primary_service_id": null,
+      "primary_location_id": "harmony",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Harmony, Warren County?",
+      "direct_answer": "Harmony Township directs well and septic questions to the Warren County Health Department and identifies a records-request route. If your property uses either system, gather available records before planning work that could affect its location or access. A household plumbing repair and a well or septic project may need different specialists.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make underground systems part of the project brief",
+          "paragraphs": [
+            "Start with what you know about the property rather than assuming the whole neighborhood has the same water or wastewater setup. Keep any system drawings, inspection reports and maintenance records together. Mark uncertain information as unverified; an old sketch is useful context, but it does not establish a safe digging location or the current condition of equipment.",
+            "Harmony's Wells & Septics page provides the county contact and references online records. Ask the responsible office which records are available for the actual address. Share relevant information with the professional before deciding where equipment, materials or vehicles will travel. Do not open a septic tank or approach unsafe equipment to collect photographs; let a qualified specialist assess inaccessible components.",
+            "For an indoor problem, describe the affected fixtures, when symptoms occur and any recent work. For yard maintenance, explain which areas should remain accessible and which locations need confirmation before digging. Ask each proposed contractor to identify what their quote covers and where separate expertise is necessary. A landscaping or plumbing category match is not proof of well or septic qualifications."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Harmony project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Explain a household plumbing symptom",
+              "body": "List affected fixtures and recent changes. Tell the plumber whether the home's supply or wastewater arrangement is known or still needs confirmation.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan yard access around existing systems",
+              "body": "Share available records and identify uncertain underground locations. Agree on equipment access before setting a landscaping scope.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Investigate runoff near the house",
+              "body": "Photograph overflow from safe ground and describe where water collects. Discuss existing underground systems before changing a discharge route.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a plumbing request cover septic or well work?",
+              "answer": "Not automatically. Describe the actual system and problem, then confirm the professional's qualifications and scope. Harmony's official page directs well and septic questions and records inquiries to the county health route."
+            },
+            {
+              "question": "How does A5 help with my Harmony request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Harmony is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Harmony project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:41.83+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1694d0cc-86a7-4295-8609-19e85446e92e",
+      "slug": "hope",
+      "page_type": "LOCATION",
+      "title": "Home services in Hope, Warren County",
+      "meta_title": "Hope Home Services | Warren County",
+      "meta_description": "Prepare Hope home repairs with clear exterior photos, material choices and questions for the Historic Preservation Commission before committing to changes.",
+      "h1": "Home services in Hope.",
+      "primary_service_id": null,
+      "primary_location_id": "hope",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hope, Warren County?",
+      "direct_answer": "Hope Township's Historic Preservation Commission page provides application and meeting information, including advance submission guidance. For a property or exterior change that may fall within its review, confirm applicability and the current submission route early. A contractor's estimate does not establish that a proposed material or alteration has been approved.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve the exterior choice before the order is placed",
+          "paragraphs": [
+            "Begin with a photo of the entire affected elevation and closer views of the feature from a safe position. Describe whether you want to repair damage, replace a component or change its appearance. Include the existing profile, finish and material if known. That distinction helps a professional propose options without treating every worn feature as a replacement project.",
+            "Use Hope's commission page to locate the current application and meeting information, then ask about the particular address and scope. The presence of a commission does not mean every property or interior repair has the same review requirements. Confirm what drawings, samples or product information the responsible office needs before purchasing custom pieces or setting a start date.",
+            "Ask for a proposal that separates investigation, repair and optional replacement. Keep proposed material specifications together so any local review and the contractor's quote describe the same work. If a choice changes later, check whether the paperwork and price need updating. Confirm relevant experience directly with the professional; a general trade listing does not establish historic-restoration expertise."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hope project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Compare exterior paint preparation",
+              "body": "Show finish failures and the details you want to retain. Agree on assessment and preparation before selecting a new finish.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Discuss an older masonry feature",
+              "body": "Photograph the joint or damaged unit and ask about compatible repair methods and any specialist assessment needed.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Assess trim before full replacement",
+              "body": "Identify the failing section and desired appearance. Compare a limited repair with replacement after confirming applicable review.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I buy replacement materials before speaking with Hope's commission?",
+              "answer": "If historic review may apply, first confirm the property's status, proposed scope and required information. Use the commission's current guidance rather than assuming a product choice or meeting date guarantees approval."
+            },
+            {
+              "question": "How does A5 help with my Hope request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hope is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hope project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:41.938+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "7071735b-58f7-405a-896a-29ff00ddfc84",
+      "slug": "independence",
+      "page_type": "LOCATION",
+      "title": "Home services in Independence, Warren County",
+      "meta_title": "Independence Home Services | Warren County",
+      "meta_description": "Plan Independence Township repairs with open and closed permit records, a clear unfinished-work list and a practical sequence for the next contractor.",
+      "h1": "Home services in Independence.",
+      "primary_service_id": null,
+      "primary_location_id": "independence",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Independence, Warren County?",
+      "direct_answer": "Independence Township's Building Department links to a portal for reviewing open and closed permits and scheduling inspections. That is a useful starting point when a project is unfinished or you are planning another phase. Ask the department to clarify unclear records instead of treating an old permit number as proof that the work is complete.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate completed work from work that still needs attention",
+          "paragraphs": [
+            "Collect the previous proposal, permit references and any inspection results you already have. Make a room-by-room list of what was physically completed, what is still exposed and what you cannot verify. Keep that list separate from your new wish list. A replacement contractor can then assess the existing condition without guessing which parts of the earlier job were included.",
+            "Use Independence's official building page to reach its permit lookup and inspection resources. Match the record to your address and project description, and ask about entries you do not understand. Portal availability does not guarantee that every historic document is online or that a status label answers all questions. The relevant official should explain outstanding inspections or documents for the actual project.",
+            "Agree on a sequence that resolves hidden-work questions before cosmetic finishes. Ask who will coordinate any required inspections and which records you should receive at the end. Photograph accessible conditions without opening electrical equipment or disturbing suspect materials. Keep new and prior scopes distinguishable in the quote, particularly where the next professional must investigate another contractor's unfinished work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Independence project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Resume a paused wall repair",
+              "body": "Explain why the wall is open and what work occurred behind it. Resolve any inspection questions before scheduling drywall closure.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Review unfinished electrical work",
+              "body": "Share the prior scope and permit reference. Have an appropriately qualified professional assess the condition before using or concealing it.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Finish a bathroom in the right order",
+              "body": "List remaining plumbing, surface preparation and tile tasks separately so the final finish follows the necessary checks.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does an existing permit mean my Independence project is finished?",
+              "answer": "No. Review the relevant record and ask the Building Department about unresolved inspections or documentation. Keep physical completion, inspection status and the next contractor's scope separate."
+            },
+            {
+              "question": "How does A5 help with my Independence request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Independence is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Independence project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.045+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "bbb55062-239c-446f-8dd8-7e3dce6b7b27",
+      "slug": "knowlton",
+      "page_type": "LOCATION",
+      "title": "Home services in Knowlton, Warren County",
+      "meta_title": "Knowlton Home Services | Warren County",
+      "meta_description": "Prepare Knowlton outdoor projects with a legible property survey, clearly marked proposed changes and questions about structure placement and site information.",
+      "h1": "Home services in Knowlton.",
+      "primary_service_id": null,
+      "primary_location_id": "knowlton",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Knowlton, Warren County?",
+      "direct_answer": "Knowlton's zoning application instructions call for a scaled property plan and specifically warn that a reduced survey copy needs its scale identified correctly. Before planning a new outdoor feature, assemble a legible plan showing the existing conditions and proposed change. A photograph or rough sketch can explain an idea but does not replace the required application material.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Show where the work goes, not just what it looks like",
+          "paragraphs": [
+            "Locate your existing survey and keep an unchanged original copy. On a working copy, distinguish the proposed feature from existing structures and note dimensions that still need professional confirmation. A saved screenshot or printer setting can change the apparent scale, so tell the person preparing the application how the copy was produced rather than presenting measurements as certain.",
+            "Knowlton's published packet asks for property identifiers and information about structures, setbacks and well or septic locations. Use the current packet to check which details apply to your proposal. Do not infer exact property lines from a fence, planting bed or online aerial image. Ask the zoning office or the appropriate licensed professional to clarify missing or uncertain site information.",
+            "Give the contractor both a description of the desired result and the available site context. Compare proposals for the same footprint, material and access plan. If the size or placement changes, resolve the effect on the application before installation. Service coverage alone does not establish surveying, engineering or design qualifications; confirm separately who is responsible for those parts."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Knowlton project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define a proposed patio footprint",
+              "body": "Describe the desired use and approximate dimensions, then confirm placement and any required design before agreeing on masonry work.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan beds around existing features",
+              "body": "Distinguish existing and proposed planting areas and flag unknown underground systems or boundaries before any excavation.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Discuss an outdoor electrical addition",
+              "body": "Show the intended equipment location and route concept. Have the electrical professional assess supply and installation requirements.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I shrink a Knowlton survey to fit an application page?",
+              "answer": "The Township's instructions say a reduced copy must identify the appropriate scale. Confirm that the submitted plan remains legible and meets the current requirements rather than relying on a distorted printout."
+            },
+            {
+              "question": "How does A5 help with my Knowlton request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Knowlton is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Knowlton project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.148+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ada7e99e-4b65-4dea-87eb-b1eafee9ba1e",
+      "slug": "liberty-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Liberty Township, Warren County",
+      "meta_title": "Liberty Township Home Services | Warren County",
+      "meta_description": "Plan Liberty Township home projects with clear well-pump scope, trade responsibilities and inspection sequencing before trenches or access areas are closed.",
+      "h1": "Home services in Liberty Township.",
+      "primary_service_id": null,
+      "primary_location_id": "liberty-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Liberty Township, Warren County?",
+      "direct_answer": "Liberty Township's construction guidance specifically addresses the electrical side of well-pump installations and inspection before a trench is backfilled. If your project involves that equipment, confirm the current requirements and sequence with the responsible official and qualified installer. Treat the pump, electrical supply and site restoration as coordinated parts of the job.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Agree on the handoff before work is covered",
+          "paragraphs": [
+            "Describe the symptom or proposed change without attempting to open controls or electrical equipment. Share available equipment information and previous service records. Identify who will assess the well system itself and who will handle the electrical work. A general plumbing request does not establish that a provider is qualified for every part of a well installation.",
+            "Liberty's construction page provides well-related guidance and a current online inspection-request route. Ask the office which requirements apply to the actual scope, especially where a trench or other work would later become inaccessible. Follow the current official instructions instead of relying on a contractor's memory of an earlier project. Do not treat a submitted inspection request as a completed inspection.",
+            "Put site restoration after the necessary checks in the work plan. Ask who will keep the area safe, coordinate trade visits and confirm that it is ready to close. Photographs and written records can help the next professional understand the project, but they do not replace an official inspection when required. Keep the final scope and equipment records for future service."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Liberty Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the electrical portion of pump work",
+              "body": "Explain the equipment and symptom. Confirm appropriate qualifications, scope and coordination with the well-system specialist.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Separate household plumbing from well equipment",
+              "body": "Describe where the problem appears and any known system details. Ask which part the plumber can assess and what needs another specialist.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore disturbed ground after checks",
+              "body": "Agree on the restoration area and access arrangements after the installer confirms that required inspections and underground work are complete.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should landscaping restoration happen immediately after well-related trench work?",
+              "answer": "First confirm the inspection and completion sequence with the responsible installer and official. Liberty's published guidance specifically discusses inspection before backfill for the electrical well work it describes."
+            },
+            {
+              "question": "How does A5 help with my Liberty Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Liberty Township is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Liberty Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.261+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0fd5c17b-ac07-4c17-87b3-5bb1e37b2d0d",
+      "slug": "lopatcong",
+      "page_type": "LOCATION",
+      "title": "Home services in Lopatcong, Warren County",
+      "meta_title": "Lopatcong Home Services | Warren County",
+      "meta_description": "Prepare Lopatcong home repairs with permit identifiers, the right inspection type and clear contractor access arrangements so project steps stay organized.",
+      "h1": "Home services in Lopatcong.",
+      "primary_service_id": null,
+      "primary_location_id": "lopatcong",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Lopatcong, Warren County?",
+      "direct_answer": "Lopatcong's construction office asks inspection callers to provide the permit number, block and lot, work address, contact details and inspection type. Gather those details with the contractor before requesting a visit. Clear identifiers help connect the request to the correct project; they do not guarantee an appointment or approval.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Know which inspection the next stage depends on",
+          "paragraphs": [
+            "Keep a short project sheet with the address, permit reference if applicable and the person responsible for coordinating the work. Ask the contractor to identify the next inspection by its actual type rather than saying the job is ready for someone to look at. Separate the work that is ready from any trade or area that still needs attention.",
+            "The Lopatcong building page explains the information needed to expedite subcode inspection requests and says inspections are arranged by appointment. Check the current instructions before contacting the office. Confirm access with the household and contractor, including how an inspector will reach the relevant room or equipment. Avoid sharing private entry codes in a general service request or public project note.",
+            "Schedule finishing work around the confirmed sequence. A painter or tile installer should know whether another trade still needs access, but should not be asked to decide whether concealed work has passed inspection. Save the result and any follow-up instructions with the project sheet. When additional work is required, update the next appointment and scope instead of assuming the earlier request covers it."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Lopatcong project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate an electrical inspection stage",
+              "body": "Ask the electrical professional which work is ready and what access must remain available before walls or panels are covered.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Sequence bathroom plumbing and finishes",
+              "body": "Keep the plumbing stage, inspection questions and surface installation separate so the finishing contractor receives a clear handoff.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Schedule the final paint work",
+              "body": "List remaining trade access and repairs before setting the painting date. Confirm who will protect completed surfaces during follow-up visits.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What information should I have for a Lopatcong inspection request?",
+              "answer": "The official office page lists the permit number, block and lot, address, your name and phone number, and inspection type. Confirm the current request process and project readiness with the contractor and office."
+            },
+            {
+              "question": "How does A5 help with my Lopatcong request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Lopatcong is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Lopatcong project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.372+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ea25e48b-b0cf-4a02-8cf1-65aa01fa06a4",
+      "slug": "mansfield-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Mansfield Township, Warren County",
+      "meta_title": "Mansfield Township Home Services | Warren County",
+      "meta_description": "Plan Mansfield Township, Warren County repairs using the correct shared construction office, project records and local property identifiers.",
+      "h1": "Home services in Mansfield Township.",
+      "primary_service_id": null,
+      "primary_location_id": "mansfield-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mansfield Township, Warren County?",
+      "direct_answer": "Mansfield Township in Warren County identifies Washington Township, Morris County as its shared construction-service office. Keep Mansfield as the work municipality while following that official service link. This is a different route from assuming every office named Washington serves the same jurisdiction.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the property's identity separate from the office address",
+          "paragraphs": [
+            "Put Mansfield Township, Warren County and the exact property address on your project brief. Add the block and lot if available and note any existing permit reference. Use the same identification when discussing the job with a contractor, requesting records or checking a submission. A mailing address or the location of a shared office should not replace the actual work municipality.",
+            "Mansfield's construction page links to the Washington Township office in Morris County, a permit guide and a permit-status portal. Start from that official page so you follow the correct service arrangement. Confirm current instructions for the proposed repair or alteration before submitting plans. The presence of an online status link does not mean that submitting an application authorizes work to begin.",
+            "Ask the contractor who will prepare the required materials, respond to any review comments and coordinate inspections. Keep the proposed scope consistent across the quote and application, especially if a repair expands after investigation. Separate local property questions from construction review when another municipal contact is needed. At completion, retain the resulting documents with the home's maintenance records."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mansfield Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Describe a heating-system change",
+              "body": "Share equipment information and the desired change. Ask the professional to explain trade coordination and applicable project documentation.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Plan an electrical upgrade",
+              "body": "Identify existing equipment and the intended use without opening panels. Keep the Mansfield property details on the shared-office paperwork.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Compare roof repair scopes",
+              "body": "Provide safe photographs and distinguish a localized issue from a larger replacement proposal before confirming the required review route.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is Mansfield's shared construction office in Washington Township, Warren County?",
+              "answer": "Mansfield's official construction page identifies Washington Township in Morris County. Follow the link from Mansfield's own website and retain Mansfield Township, Warren County as the project's municipality."
+            },
+            {
+              "question": "How does A5 help with my Mansfield Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mansfield Township is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mansfield Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.495+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d7a65590-169f-4975-8637-6d343194cc77",
+      "slug": "oxford",
+      "page_type": "LOCATION",
+      "title": "Home services in Oxford, Warren County",
+      "meta_title": "Oxford Home Services | Warren County",
+      "meta_description": "Plan Oxford Township home projects with the right zoning resources, existing property information and a clear distinction between master plans and approvals.",
+      "h1": "Home services in Oxford.",
+      "primary_service_id": null,
+      "primary_location_id": "oxford",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Oxford, Warren County?",
+      "direct_answer": "Oxford's Construction and Land Use page brings together zoning resources, construction contacts and several master-plan documents. These serve different purposes. A planning document can provide context, but a homeowner should confirm the rules and approvals for the actual property and proposed work before treating a concept as ready to build.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn a broad idea into a property-specific question",
+          "paragraphs": [
+            "Describe the change you want in plain language: repair an existing feature, enlarge a paved area, add equipment or change how a space is used. Collect a survey or other available property information and mark uncertainties. A contractor can discuss feasibility more usefully when the proposed footprint and purpose are clear, rather than relying on a broad neighborhood planning concept.",
+            "Use Oxford's official resource page to distinguish the zoning map and application from the master-plan materials. Ask the appropriate office which current requirements apply to the address. Do not infer a parcel's boundaries, approved use or development rights from a general map excerpt. If formal design or a property survey is needed, confirm who will provide it before requesting a final installation price.",
+            "Keep the initial investigation separate from the work you authorize. An estimate may contain assumptions about placement, access or materials that change after local review. Ask the contractor to make those assumptions visible, and update the scope when the proposal changes. Save the final specification and any applicable approval documents together so future repairs refer to the actual completed project."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Oxford project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Explore a patio change",
+              "body": "Distinguish repair of the existing surface from a larger footprint. Confirm the relevant property and design questions before installation.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Prepare an outdoor equipment location",
+              "body": "Show the proposed position and access needs, then confirm electrical scope and applicable placement questions with the right professionals.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Revise a planting area thoughtfully",
+              "body": "Describe the existing condition and intended layout. Flag uncertain boundaries or underground features before settling the landscaping scope.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Oxford's master plan approve my proposed home project?",
+              "answer": "Do not treat a master-plan document as a project approval. Use Oxford's zoning and construction resources to ask about the particular property, proposed change and current requirements."
+            },
+            {
+              "question": "How does A5 help with my Oxford request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Oxford is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Oxford project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.602+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "eb19d004-fa39-4645-8826-bf10a0f7c323",
+      "slug": "pohatcong",
+      "page_type": "LOCATION",
+      "title": "Home services in Pohatcong, Warren County",
+      "meta_title": "Pohatcong Home Services | Warren County",
+      "meta_description": "Prepare Pohatcong home projects with a clear plot plan, local zoning questions and the separate state construction-review route for applicable work.",
+      "h1": "Home services in Pohatcong.",
+      "primary_service_id": null,
+      "primary_location_id": "pohatcong",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Pohatcong, Warren County?",
+      "direct_answer": "Pohatcong's official guidance separates Township zoning review from construction services handled by the State Office of Local Code Enforcement. For a project involving placement or use, explain those details to the local zoning office and clarify any next construction step. One office's role should not be mistaken for every approval the project may need.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the location and intended use explicit",
+          "paragraphs": [
+            "Begin with the address, available survey and a plain description of the existing and proposed work. Show what would change in size, placement or use, rather than sending only a product brochure. If you do not know a boundary or site condition, label it as uncertain and ask who can establish it. An installer should not be asked to guess from a fence or landscape edge.",
+            "Pohatcong's department page describes a plot-plan approach for zoning applications and identifies a separate state construction office. Ask which requirements apply to the specific proposal and which supporting documents are relevant. Follow the current instructions for each stage; an inquiry, submission or contractor quote is not the same as an issued clearance or permit.",
+            "Keep a single project description across the contractor's estimate and the applicable application materials. When a placement or design changes, confirm the implications before ordering or installing. Agree on responsibility for follow-up questions, required inspections and final records. Local service matching helps start a conversation but does not establish design qualifications or guarantee the proposed work will be approved."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Pohatcong project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Describe a new outdoor masonry feature",
+              "body": "Give its intended use, approximate footprint and relationship to existing structures. Confirm site and review questions before construction.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate outdoor power placement",
+              "body": "Show the intended equipment position and proposed use. Ask an electrical professional to assess the installation after placement questions are resolved.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plan landscaping around approved work",
+              "body": "Keep planting and restoration plans consistent with the project's final layout, access needs and any areas requiring separate assessment.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Pohatcong handle zoning and construction through the same office?",
+              "answer": "Its official page identifies local Township zoning and separate state construction services. Confirm the applicable sequence for your specific project and keep both offices working from the same scope."
+            },
+            {
+              "question": "How does A5 help with my Pohatcong request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Pohatcong is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Pohatcong project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.821+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1d5bdbbf-772b-4d7c-86a9-3c5b3331e29f",
+      "slug": "washington-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Washington Borough, Warren County",
+      "meta_title": "Washington Borough Home Services | Warren County",
+      "meta_description": "Plan Washington Borough home improvements with the Borough's zoning resources, accurate property identification and a clear description of the proposed change.",
+      "h1": "Home services in Washington Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "washington-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Washington Borough, Warren County?",
+      "direct_answer": "Washington Borough's zoning page provides its own zoning map, forms and department contact. Use those Borough resources for a Borough property, rather than assuming a similarly named township is the right authority. Describe both the physical work and any intended change in use so the office can understand the actual proposal.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give the Borough a clear question before pricing the finish",
+          "paragraphs": [
+            "Start the project brief with Washington Borough, Warren County and the exact address. Note whether you are repairing an existing feature or proposing a different size, layout or use. Keep supporting photographs and available property records together. This is particularly useful when a contractor serves several nearby municipalities and a mailing address alone could leave the jurisdiction unclear.",
+            "The Borough's zoning department says it processes zoning and land-use development applications and links to a map and forms. Use those resources to ask a property-specific question; the page does not establish that every idea is allowed at every address. Confirm any additional construction or design steps with the responsible office before treating a quoted installation date as a firm start.",
+            "Ask proposals to distinguish preparatory assessment from the finished work. Changing a room's function or an exterior footprint can raise questions beyond replacing its surfaces. Make sure the provider understands those intentions before recommending materials. If the scope changes after an official discussion, update the quote and project notes so everyone is pricing and planning the same result."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Washington Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Explain the purpose of an interior change",
+              "body": "Tell the professional how the space will be used and what physical work is planned before requesting drywall or finish pricing.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Distinguish patio repair from expansion",
+              "body": "Show the existing surface and proposed boundaries. Confirm the Borough's applicable questions before comparing masonry proposals.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Prepare electrical work for a changed space",
+              "body": "Describe intended equipment and use. Let the electrical professional assess the needed scope after relevant planning questions are clarified.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Washington resources should a Borough homeowner use?",
+              "answer": "Start with Washington Borough's own official website and zoning page. Keep the Borough's identity on the request and confirm the correct authority for each project step instead of using a township's rules by mistake."
+            },
+            {
+              "question": "How does A5 help with my Washington Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Washington Borough is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Washington Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:35:57.474Z",
+      "published_at": "2026-10-08T01:22:42.934+00:00",
+      "last_reviewed_at": "2026-10-08T18:35:57.474Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "cbe85466-4b5d-4c0d-87cd-28159a306b86",
+      "title": "Harmony Township Wells & Septics",
+      "url": "https://harmonytwp-nj.gov/departments/wells-septics/",
+      "publisher": "Harmony Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "00161bf0-1b68-4c45-8e23-458ba56019d6",
+      "title": "Hope Historic Preservation Commission",
+      "url": "https://www.hopetwp-nj.us/historic-preservation-commission",
+      "publisher": "Hope Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "5ed07ba0-da5b-49d0-8efa-4b94aedd5cd8",
+      "title": "Independence Township Building Department",
+      "url": "https://independencenj.com/departments/building-department/",
+      "publisher": "Independence Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "ddbe2b3b-9780-44ca-88c7-22a82f092e34",
+      "title": "Knowlton Zoning Application Instructions",
+      "url": "https://knowlton-nj.com/wp-content/uploads/2025/01/Zpermit-packet-Knowlton.pdf",
+      "publisher": "Knowlton Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "04ce1b94-c912-4b1b-85fa-0bd913bf1840",
+      "title": "Liberty Township Construction Office",
+      "url": "https://libertytownship.org/municipal/construction/index.html",
+      "publisher": "Liberty Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "0cb23dc0-72d6-4d3d-8e49-2a5f1c8b994b",
+      "title": "Lopatcong Building & Construction",
+      "url": "https://www.lopatcongtwp.com/offices-boards-commissions/building-construction",
+      "publisher": "Lopatcong Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "569cd619-85e7-4b8c-8cc9-2f87c4039365",
+      "title": "Mansfield Township Construction",
+      "url": "https://mansfieldtownship-nj.gov/index.php/offices/construction-and-zoning",
+      "publisher": "Mansfield Township, Warren County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "c70cbdec-50ae-46ec-8d82-a9de3591f72d",
+      "title": "Oxford Construction and Land Use Master Plans",
+      "url": "https://oxfordtwpnj.org/index.php/2021/06/01/construction-and-land-use/",
+      "publisher": "Oxford Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "c8b478a2-440e-4618-82c8-00e291879e35",
+      "title": "Pohatcong Construction, Zoning and Subcode Officials",
+      "url": "https://www.pohatcongtwp.org/departments/construction-zoning-sub-code-officials",
+      "publisher": "Pohatcong Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    },
+    {
+      "id": "234e3b30-46c9-43ba-8cfc-7c40ae4e93bf",
+      "title": "Washington Borough Zoning",
+      "url": "https://washingtonboro-nj.gov/207/Zoning",
+      "publisher": "Washington Borough",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:35:57.474Z",
+      "reviewed_at": "2026-10-08T18:35:57.474Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "b956b6b2-2c65-4354-8f3c-c254497dc609",
+      "source_id": "cbe85466-4b5d-4c0d-87cd-28159a306b86",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1694d0cc-86a7-4295-8609-19e85446e92e",
+      "source_id": "00161bf0-1b68-4c45-8e23-458ba56019d6",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "7071735b-58f7-405a-896a-29ff00ddfc84",
+      "source_id": "5ed07ba0-da5b-49d0-8efa-4b94aedd5cd8",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "bbb55062-239c-446f-8dd8-7e3dce6b7b27",
+      "source_id": "ddbe2b3b-9780-44ca-88c7-22a82f092e34",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ada7e99e-4b65-4dea-87eb-b1eafee9ba1e",
+      "source_id": "04ce1b94-c912-4b1b-85fa-0bd913bf1840",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0fd5c17b-ac07-4c17-87b3-5bb1e37b2d0d",
+      "source_id": "0cb23dc0-72d6-4d3d-8e49-2a5f1c8b994b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ea25e48b-b0cf-4a02-8cf1-65aa01fa06a4",
+      "source_id": "569cd619-85e7-4b8c-8cc9-2f87c4039365",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d7a65590-169f-4975-8637-6d343194cc77",
+      "source_id": "c70cbdec-50ae-46ec-8d82-a9de3591f72d",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "eb19d004-fa39-4645-8826-bf10a0f7c323",
+      "source_id": "c8b478a2-440e-4618-82c8-00e291879e35",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1d5bdbbf-772b-4d7c-86a9-3c5b3331e29f",
+      "source_id": "234e3b30-46c9-43ba-8cfc-7c40ae4e93bf",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "b956b6b2-2c65-4354-8f3c-c254497dc609",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "1694d0cc-86a7-4295-8609-19e85446e92e",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "7071735b-58f7-405a-896a-29ff00ddfc84",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "bbb55062-239c-446f-8dd8-7e3dce6b7b27",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "ada7e99e-4b65-4dea-87eb-b1eafee9ba1e",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "0fd5c17b-ac07-4c17-87b3-5bb1e37b2d0d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "ea25e48b-b0cf-4a02-8cf1-65aa01fa06a4",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "d7a65590-169f-4975-8637-6d343194cc77",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "eb19d004-fa39-4645-8826-bf10a0f7c323",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "1d5bdbbf-772b-4d7c-86a9-3c5b3331e29f",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

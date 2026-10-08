@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-10-08T18:28:57.810Z",
+  "meaning": "Recorded active/email/category/municipality eligibility only; not specialist coverage, availability, delivery or fulfillment.",
+  "matrix": [
+    {
+      "town": "harmony",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "harmony",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "harmony",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harmony",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harmony",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harmony",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harmony",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harmony",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harmony",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harmony",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harmony",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harmony",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harmony",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harmony",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harmony",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harmony",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hope",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hope",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hope",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hope",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hope",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hope",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hope",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hope",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hope",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hope",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "independence",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "independence",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "independence",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "independence",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "independence",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "independence",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "independence",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "independence",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "independence",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "independence",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "knowlton",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "knowlton",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "knowlton",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "knowlton",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "knowlton",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "knowlton",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "knowlton",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "knowlton",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "knowlton",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "knowlton",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "liberty-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "liberty-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "liberty-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "liberty-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "liberty-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "liberty-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "liberty-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "liberty-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "liberty-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "liberty-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lopatcong",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lopatcong",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lopatcong",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lopatcong",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lopatcong",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lopatcong",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lopatcong",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lopatcong",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lopatcong",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lopatcong",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mansfield-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mansfield-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mansfield-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mansfield-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mansfield-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mansfield-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mansfield-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mansfield-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mansfield-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mansfield-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "oxford",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "oxford",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "oxford",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "oxford",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "oxford",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "oxford",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "oxford",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "oxford",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "oxford",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "oxford",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "pohatcong",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "pohatcong",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "pohatcong",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "pohatcong",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "pohatcong",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "pohatcong",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "pohatcong",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "pohatcong",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "pohatcong",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "pohatcong",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "washington-borough",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "washington-borough",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "washington-borough",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "washington-borough",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "washington-borough",
+      "service": "tile",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "washington-borough",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "washington-borough",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "washington-borough",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "washington-borough",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "washington-borough",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 10
+    }
+  ]
+}

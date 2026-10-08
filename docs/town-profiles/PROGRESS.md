@@ -157,3 +157,11 @@ Hardyston, Hopatcong, Lafayette, Montague, Ogdensburg, Sandyston, Stanhope, Stil
 ## Batch 19: ready for publication
 
 Walpack, Wantage, Allamuchy, Alpha, Belvidere, Blairstown, Franklin Township (Warren), Frelinghuysen, Greenwich Township (Warren) and Hardwick finish Sussex and begin Warren. Brand positioning ideas approved all ten. Official sources distinguish named historic properties, advisory preservation guidance, current shared services and separate inspection contacts. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 19: published and verified
+
+2026-10-08: PR #68 merged (ff8ad45). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 306 URLs. One hundred ninety completed; 12 remain.
+
+## Batch 20: ready for publication
+
+Harmony, Hope, Independence, Knowlton, Liberty Township, Lopatcong, Mansfield Township, Oxford, Pohatcong and Washington Borough. Brand positioning ideas approved all ten. Official sources support distinct local records, survey, inspection and jurisdiction guidance. Lopatcong verified in live browser; Knowlton packet claims verified in official indexed text. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
