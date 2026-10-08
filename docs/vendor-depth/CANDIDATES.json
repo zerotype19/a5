@@ -2640,5 +2640,467 @@
     ],
     "observed_date": "2026-10-08",
     "notes": "Independent out-of-warranty appliance repairs. Eleven explicitly named counties include seven registry counties; Warren excluded despite older search snippets."
+  },
+  {
+    "business_name": "Apex Electrical Group LLC",
+    "website": "https://www.aegnj.com/",
+    "email": "admin@aegnj.com",
+    "phone": "732-413-1911",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.aegnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official site advertises residential electrical work and Serving all of New Jersey. Contact email in inquiry/footer. Claims not independently verified."
+  },
+  {
+    "business_name": "SRA Security Systems / Attisano Electrical",
+    "website": "https://www.sraelectricnj.com/",
+    "email": "sraelectric@hotmail.com",
+    "phone": "201-858-2778",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.sraelectricnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official residential electrical service page says Proudly Servicing all of New Jersey. Footer named cities are examples. Treat SRA/Attisano as one business. Ignore website designer email."
+  },
+  {
+    "business_name": "True Temp Heating & Cooling",
+    "website": "https://www.truetempnj.com/",
+    "email": "TrueTempHeatnCool@gmail.com",
+    "phone": "",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "warren",
+      "sussex",
+      "morris"
+    ],
+    "source_urls": [
+      "https://www.truetempnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official homepage identifies HVAC diagnostics, installations and maintenance for Warren, Sussex and Morris counties; no other counties inferred."
+  },
+  {
+    "business_name": "Cleanix.US",
+    "website": "https://cleanix.us/contact-us/",
+    "email": "book@cleanix.us",
+    "phone": "201-777-3389",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://cleanix.us/contact-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official contact page advertises residential cleaning and all New Jersey locations, North/Central/South/Shore. No claim of guaranteed availability."
+  },
+  {
+    "business_name": "Clean Horizon NJ",
+    "website": "https://www.cleanhorizonnj.com/",
+    "email": "cleanhorizonnj@gmail.com",
+    "phone": "201-832-3096",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.cleanhorizonnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official homepage publicly indexed contact and Serving All of New Jersey; rental turnover, deep and move-out cleaning specialty. Routine occupied-home recurring cleaning not assumed. Research fetch blocked by robots; public search-rendered official page reviewed."
+  },
+  {
+    "business_name": "New Jersey Cleanouts / Cleanouts and Property Services LLC",
+    "website": "https://newjerseycleanouts.vercel.app/locations/newark",
+    "email": "Scott@NewJerseyCleanouts.com",
+    "phone": "201-267-2336",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://newjerseycleanouts.vercel.app/locations/newark"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official branded site identifies operating company Cleanouts and Property Services LLC, Dumont address, statewide cleanouts/junk removal. Demolition is primary trade but standalone furniture/appliance removal advertised. Ignore form placeholder."
+  },
+  {
+    "business_name": "NJ Handyman Services",
+    "website": "https://njhandymanservice.com/",
+    "email": "Info@njhandymanservices.Com",
+    "phone": "201-534-3834",
+    "services": [
+      "handyman"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://njhandymanservice.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official Asbury Park business homepage explicitly says services now extend to all of New Jersey. Home repair/remodeling handyman work advertised. Exact email uses plural services domain as published; no regulated-trade mapping inferred."
+  },
+  {
+    "business_name": "Seneca Maple",
+    "website": "https://senecamaple.com/",
+    "email": "jake@senecamaple.com",
+    "phone": "862-243-1114",
+    "services": [
+      "handyman"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://senecamaple.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official homepage names Morris, Sussex, Warren and Somerset County. Wall repair, mounting and handyman services. Junk pickup described as metal items only; not added to general hauling count."
+  },
+  {
+    "business_name": "Two Pest Control",
+    "website": "https://twopestcontrol.com/",
+    "email": "info@twopestcontrol.com",
+    "phone": "802-279-4729",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union"
+    ],
+    "source_urls": [
+      "https://twopestcontrol.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official publicly indexed page lists these seven counties and business email. Warren excluded. Own research fetch robots unavailable; reviewed public official-page rendering. License claims not verified."
+  },
+  {
+    "business_name": "Clearview Pest Control Inc.",
+    "website": "https://clearviewpestcontrol.com/",
+    "email": "info@clearviewsciences.com",
+    "phone": "201-932-2264",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "hudson",
+      "union",
+      "morris",
+      "passaic",
+      "essex"
+    ],
+    "source_urls": [
+      "https://clearviewpestcontrol.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official service area names six registry counties plus Middlesex. No Sussex/Warren inferred. Business email differs from website domain exactly as published. Exclude website vendor email."
+  },
+  {
+    "business_name": "Beyond the Leaf Tree & Shrub Experts",
+    "website": "https://beyondtheleaftreeservice.com/services-nj/",
+    "email": "karen@beyondtheleaftreeservice.com",
+    "phone": "908-844-8227",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "union",
+      "morris",
+      "essex",
+      "bergen",
+      "passaic"
+    ],
+    "source_urls": [
+      "https://beyondtheleaftreeservice.com/services-nj/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official NJ service page lists these five whole registry counties. Southern Sussex/Southern Warren NOT expanded to entire counties; Hudson not listed. Public Send Email business link; claims not verified."
+  },
+  {
+    "business_name": "Grandview Landscape and Masonry",
+    "website": "https://www.grandviewoutdoor.com/",
+    "email": "grandviewpartner@gmail.com",
+    "phone": "9736011114",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.grandviewoutdoor.com/tree-removal/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Tree-removal page explicitly lists all eight registry counties. Grandview Outdoor is the same business; do not duplicate aliases. Credentials not verified."
+  },
+  {
+    "business_name": "Pete\u2019s Major Appliance Repair",
+    "website": "https://petesmajor.com/",
+    "email": "service@petesmajor.com",
+    "phone": "2018437575",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "hudson",
+      "essex",
+      "passaic"
+    ],
+    "source_urls": [
+      "https://petesmajor.com/",
+      "https://petesmajor.com/service-area"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Premium/high-end kitchen and laundry appliance specialist; check appliance brand and model before forwarding. Four NJ counties explicitly stated; NY coverage excluded."
+  },
+  {
+    "business_name": "Daibes Plumbing and Heating",
+    "website": "https://daibesplumbing.com/",
+    "email": "odaibes1@daibesplumbing.com",
+    "phone": "8622338190",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex"
+    ],
+    "source_urls": [
+      "https://daibesplumbing.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official footer lists seven registry counties; Warren not included. Published license claim not independently verified."
+  },
+  {
+    "business_name": "New Jersey Junk Removal LLC",
+    "website": "https://newjerseyjunkremoval.com/",
+    "email": "dominic@newjerseyjunkremoval.com",
+    "phone": "8556557552",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://newjerseyjunkremoval.com/pricing/",
+      "https://newjerseyjunkremoval.com/about/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Owner-operated Central NJ business. Pricing page explicitly serves all New Jersey; small distant jobs include travel in pricing. Published $250 minimum at observation; reconfirm current quote. License claims unverified."
+  },
+  {
+    "business_name": "Top Notch Moving and Storage LLC",
+    "website": "https://www.topnotchmovingnj.com/",
+    "email": "info@topnotchmovingnj.com",
+    "phone": "2014166156",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.topnotchmovingnj.com/junk-removal-and-storage",
+      "https://www.hackensackchamber.org/business-directory/139996/top-notch-moving/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Junk-removal page explicitly serves all New Jersey. Email from local Chamber business listing with matching official domain; current phone from own site. Hackensack company DOT 3227079; not similarly named out-of-state mover. Credentials not verified."
+  },
+  {
+    "business_name": "Cardone Custom Builders / Cardone Construction Management",
+    "website": "https://cardonecm.com/",
+    "email": "info@cardonecm.com",
+    "phone": "2018158815",
+    "services": [
+      "handyman",
+      "drywall"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.cardonecustoms.com/new-jersey-handyman-services",
+      "https://www.cardonecustoms.com/foundations",
+      "https://cardonecm.com/contact",
+      "https://cardonecm.com/handyman-services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Cardone Custom Builders is now Cardone Construction Management at the same 140 Mayhill Street, Saddle Brook address. Current company site confirms handyman and drywall patching/repair and current contact; older official handyman page explicitly covers all New Jersey from Bergen to Cape May. Use current published info@cardonecm.com rather than old sales domain. Check job scope; credentials unverified."
+  },
+  {
+    "business_name": "Panda Tree Service and Landscaping LLC",
+    "website": "https://pandatreeservicenj.com/",
+    "email": "pandatreeservice@gmail.com",
+    "phone": "9732883924",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://nextdoor.com/pages/panda-tree-service-landscaping-llc-dover-nj/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Business-published Our Story on Nextdoor explicitly all New Jersey tree removal/trimming/stump grinding. Business contact email, phone and website from that profile; own site unavailable during review. Source-reported territory, not independently confirmed."
+  },
+  {
+    "business_name": "JP Repair Services LLC",
+    "website": "https://jprepairservices.com/",
+    "email": "info@jprepairservices.com",
+    "phone": "9734008442",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "essex",
+      "morris",
+      "passaic",
+      "union"
+    ],
+    "source_urls": [
+      "https://jprepairservices.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Own homepage lists Essex, Morris, Passaic and Union counties, business email and major household appliance services. Check brand/model fit."
+  },
+  {
+    "business_name": "Oceanic Repair Services LLC",
+    "website": "https://oceanicrepairservicesllc.jobbersites.com/",
+    "email": "service@oceanicrepair.com",
+    "phone": "7327204005",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "morris",
+      "essex",
+      "union",
+      "bergen",
+      "passaic",
+      "hudson",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://oceanicrepairservicesllc.jobbersites.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official business site explicitly all New Jersey. Specialty brands: Viking, Lynx, Marvel, Aga, La Cornue, Bluestar, Pinnacle sales group, Forno, Zephyr, Best and Broan. Review brand/model fit; factory authorization is a vendor claim, not independently verified."
   }
 ]

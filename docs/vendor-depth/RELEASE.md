@@ -1,5 +1,7 @@
 # Service expansion and vendor depth release
 
+October 8 update: the subsequent [content/data release](../growth-wave-3/RELEASE.md) completed the ten-vendor target for all 3,616 pairs. STATUS.json and COVERAGE.csv contain current counts. The original eight-vendor milestone below is historical.
+
 The owner-requested minimum is complete: all 3,616 combinations of 16 services and 226 municipalities have at least eight email-assignable business records. The production audit on October 8, 2026 found 193 real businesses: 168 with public business email contacts eligible for manual assignment and 25 inactive without email. This work added 110 distinct businesses in ten receipted batches and 18 source-backed service relationships on 13 existing businesses. No outreach was sent. Email presence is not proof of deliverability, availability, credential verification, or fit for every request.
 
 ## Production release

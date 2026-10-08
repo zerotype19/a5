@@ -1,7 +1,7 @@
 import { SubmitButton } from "./SubmitButton";
 import Link from "next/link";
 import type { AssignmentRow, VendorCoverage } from "@/lib/admin/vendors";
-import { coverageLabels } from "@/lib/admin/vendors";
+import { AssignmentVendorSelect } from "./AssignmentVendorSelect";
 import { assignLeadToVendor, sendVendorEmail } from "@/lib/admin/vendor-actions";
 import { isOpenAssignmentStatus } from "@/lib/admin/eligibility";
 import { formatAdminDateTime, formatStatus } from "@/lib/admin/format";
@@ -25,8 +25,6 @@ export function LeadAssignmentPanel({
   assignments,
 }: Props) {
   const current = assignments.find((row) => isOpenAssignmentStatus(row.status));
-  void serviceId;
-  void locationId;
 
   return (
     <section id="assignment" className={styles.section} aria-labelledby="assignment-heading">
@@ -82,23 +80,7 @@ export function LeadAssignmentPanel({
           eligible.length > 0 ? (
             <form className={styles.form} action={assignLeadToVendor}>
               <input type="hidden" name="leadId" value={leadId} />
-              <label className={styles.fieldLabel}>
-                Assign vendor
-                <select name="vendorId" required defaultValue="">
-                  <option value="" disabled>
-                    Choose a vendor with email
-                  </option>
-                  {eligible.map((vendor) => {
-                    const labels = coverageLabels(vendor);
-                    return (
-                      <option key={vendor.id} value={vendor.id}>
-                        {vendor.businessName} — {labels.services} — {labels.locations} — {vendor.status}
-                        {vendor.acceptingLeads ? " — accepting" : ""}
-                      </option>
-                    );
-                  })}
-                </select>
-              </label>
+              <AssignmentVendorSelect vendors={eligible.map(({id,businessName,status,discoveryNotes,credentialsNotes,serviceIds,locationIds})=>({id,businessName,status,discoveryNotes,credentialsNotes,serviceMatch:serviceId?serviceIds.includes(serviceId):null,locationMatch:locationId?locationIds.includes(locationId):null}))} />
               <SubmitButton pendingLabel="Assigning…">Assign vendor</SubmitButton>
             </form>
           ) : (

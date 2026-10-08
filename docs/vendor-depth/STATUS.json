@@ -1,18 +1,18 @@
 {
-  "checkedAt": "2026-10-08T04:04:38.722Z",
-  "realVendors": 193,
-  "emailAssignable": 168,
+  "checkedAt": "2026-10-08T04:41:01.421Z",
+  "realVendors": 212,
+  "emailAssignable": 187,
   "pairs": 3616,
   "belowEight": 0,
-  "eightToNine": 1586,
-  "tenOrMore": 2030,
+  "eightToNine": 0,
+  "tenOrMore": 3616,
   "services": [
     {
       "service": "handyman",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 101
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "masonry",
@@ -37,10 +37,10 @@
     },
     {
       "service": "drywall",
-      "minimum": 9,
+      "minimum": 11,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 204
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "tile",
@@ -51,24 +51,24 @@
     },
     {
       "service": "plumbing",
-      "minimum": 9,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 183
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "electrical",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 39
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "hvac",
-      "minimum": 9,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 204
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "roofing",
@@ -79,45 +79,45 @@
     },
     {
       "service": "house-cleaning",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 0
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "gutters",
-      "minimum": 9,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 21
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "pest-control",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 85
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "junk-removal",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 0
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "tree-services",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 0
+      "municipalitiesAtLeastTen": 226
     },
     {
       "service": "appliance-repair",
-      "minimum": 8,
+      "minimum": 10,
       "belowEight": 0,
       "municipalitiesAtLeastEight": 226,
-      "municipalitiesAtLeastTen": 63
+      "municipalitiesAtLeastTen": 226
     }
   ]
 }

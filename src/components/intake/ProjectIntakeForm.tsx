@@ -6,7 +6,7 @@ import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
 import { uploadPhotoToSignedUrl } from "@/lib/photos/browser-upload";
 import { readAttribution } from "@/lib/marketing/attribution";
-import { trackEvent } from "@/lib/marketing/analytics";
+import { trackEvent, observeRequestStart } from "@/lib/marketing/analytics";
 import { readFirstLandingPage } from "@/lib/intake/landing-page";
 import type { SubmitProjectResult } from "@/lib/intake/submit-types";
 import { FormButton } from "./FormButton";
@@ -83,7 +83,7 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
   const turnstileSiteKey = turnstileSiteKeyFromEnv();
   const turnstileRequired = Boolean(turnstileSiteKey);
 
-  useEffect(() => { trackEvent("request_started"); }, []);
+  useEffect(() => observeRequestStart(window, () => trackEvent("request_started")), []);
 
   useEffect(() => {
     headingRef.current?.focus();
