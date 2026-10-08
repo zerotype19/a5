@@ -4,6 +4,7 @@
 
 import type { Metadata } from "next";
 import { SITE } from "../../../config/site.ts";
+import { SERVICES } from "../../../config/services.ts";
 import { buildCanonicalUrl } from "./urls.ts";
 import { robotsForPublicPage } from "./validate.ts";
 import type { ContentPageRecord } from "./types.ts";
@@ -23,8 +24,10 @@ export type ContentMetadataInput = {
 
 export function buildContentMetadata(input: ContentMetadataInput): Metadata {
   const title = (input.page.meta_title?.trim() || input.page.title).replace(/(?:\s*[|–—-]\s*A5(?: Home Services)?)+$/i, "").trim();
-  const service = input.path.match(/^\/services\/([a-z-]+)/)?.[1];
-  const image = ["handyman","masonry","landscaping","painting","drywall","tile","plumbing","electrical"].includes(service ?? "") ? `/images/${service}.webp` : "/images/hero.webp";
+  const parts = input.path.split('/').filter(Boolean);
+  const slug = parts[0] === 'services' ? parts[1] : parts.length === 2 ? parts[1] : undefined;
+  const service = SERVICES.find(s => s.slug === slug);
+  const image = service ? `/images/${service.id}.webp` : "/images/hero.webp";
   const description =
     input.page.meta_description?.trim() ||
     `${input.page.title} — ${SITE.name}`;
