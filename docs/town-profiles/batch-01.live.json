@@ -1,0 +1,80 @@
+{
+  "batch": "01",
+  "sha256": "3c35e16259dd1e1e20f8737f216b450edb9eb97c53d1928f481628b6e3e9ab48",
+  "checkedAt": "2026-10-08T16:13:52.998Z",
+  "count": 10,
+  "sitemapCount": 126,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/boonton",
+      "status": 200,
+      "title": "Boonton Home Services | Morris County | A5 Home Services",
+      "description": "Plan Boonton home repairs with a clear exterior-work brief, Town permit resources and practical masonry, door and painting guidance. Request help through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/boonton-township",
+      "status": 200,
+      "title": "Boonton Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan Boonton Township equipment and property repairs with the right construction, zoning and health contacts. Prepare a clear service request through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/butler",
+      "status": 200,
+      "title": "Butler Home Services | Morris County | A5 Home Services",
+      "description": "Plan a Butler cleanout without mixing furniture, electronics and renovation debris. Compare municipal disposal options and request private help through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/chatham-borough",
+      "status": 200,
+      "title": "Chatham Borough Home Services | Morris County | A5 Home Services",
+      "description": "Plan Chatham Borough entrance and outdoor repairs with clear trade scopes and the correct Borough/Madison review path. Start a service request with A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/chatham-township",
+      "status": 200,
+      "title": "Chatham Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan Chatham Township renovations with a clear trade sequence, inspection questions and finish-repair scope. Connect with independent professionals through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/chester-borough",
+      "status": 200,
+      "title": "Chester Borough Home Services | Morris County | A5 Home Services",
+      "description": "Prepare Chester Borough home repairs with separate interior and exterior scopes, historic-property questions and useful photos. Request a professional through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/chester-township",
+      "status": 200,
+      "title": "Chester Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan Chester Township tree and yard projects with clear removal, stump and restoration scopes and Township resources. Start a local service request through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/denville",
+      "status": 200,
+      "title": "Denville Home Services | Morris County | A5 Home Services",
+      "description": "Plan Denville water-related home repairs with a clear incident history, separate trade scopes and official flood-risk resources. Request planned service through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/dover",
+      "status": 200,
+      "title": "Dover Home Services | Morris County | A5 Home Services",
+      "description": "Organize Dover home repairs with clear trade responsibilities, inspection-stage questions and Town forms. Send a focused request to the A5 network.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/harding",
+      "status": 200,
+      "title": "Harding Home Services | Morris County | A5 Home Services",
+      "description": "Plan Harding home and yard repairs with clear access routes, known well/septic locations and Township health resources. Request independent help through A5.",
+      "errors": []
+    }
+  ]
+}

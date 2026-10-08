@@ -1,0 +1,1338 @@
+{
+  "updates": [
+    {
+      "id": "9751e4ef-2b9d-4c44-8411-155fa3d27676",
+      "slug": "jefferson-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Jefferson Township, Morris County",
+      "meta_title": "Jefferson Township Home Services | Morris County",
+      "meta_description": "Plan Jefferson Township home projects with survey and zoning preparation, equipment details and practical repair guidance. Send one clear request through A5.",
+      "h1": "Home services in Jefferson Township.",
+      "primary_service_id": null,
+      "primary_location_id": "jefferson-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Jefferson Township, Morris County?",
+      "direct_answer": "For a Jefferson Township project that changes an outdoor footprint, find the survey and describe the proposed location before requesting estimates. The Building Department directs projects needing zoning approval to Planning first. Keep those approvals and the construction scope together so a repair does not quietly become a larger alteration.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Set the footprint before pricing the work",
+          "paragraphs": [
+            "A deck repair and a larger replacement may look similar in a short request but involve different decisions. Photograph the existing structure, show the connection to the house and identify the parts you want to retain. State whether you want the same footprint, a different stair location or additional space.",
+            "Jefferson’s Building Department asks applicants whose projects need zoning approval to obtain that approval first and include the survey with their construction submission. Its guidance also distinguishes mechanical equipment work from the electrical work that may accompany it. Confirm the actual scope with the office; an estimate alone does not resolve either question.",
+            "For equipment beside a deck or patio, mark access needs on the same sketch. Agree on the sequence for disconnection, carpentry or paving, equipment work and restoration. Keep the professional’s scope, municipal correspondence and final inspection records in one project folder."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Jefferson Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Deck repair assessment",
+              "body": "List loose boards, railing concerns and visible deterioration separately from desired design changes. A handyman can discuss limited repairs; structural redesign may require a different professional and scope.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Heating and cooling access",
+              "body": "Show the equipment location and the route needed to remove it. Ask whether electrical coordination and restoration of the surrounding area are included in the replacement quote.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Patio and landing transitions",
+              "body": "Photograph where paving meets stairs and the house. Describe ponding or uneven surfaces and ask how the proposal addresses the underlying condition before choosing a finish.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should I collect before discussing an outdoor project with Jefferson Township?",
+              "answer": "Start with the property survey, the existing and proposed footprint, and a written work description. The Building Department says projects requiring zoning approval should go through Planning first. Ask which approvals and documents apply to your address and scope."
+            },
+            {
+              "question": "How does A5 help with my Jefferson Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Jefferson Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Jefferson Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:31.813+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2f73c3fb-e406-443a-86c6-225dddbcc7f4",
+      "slug": "kinnelon",
+      "page_type": "LOCATION",
+      "title": "Home services in Kinnelon, Morris County",
+      "meta_title": "Kinnelon Home Services | Morris County",
+      "meta_description": "Prepare Kinnelon exterior repair requests with clear scope, shared construction-office guidance and practical planning for doors, finishes and outdoor work.",
+      "h1": "Home services in Kinnelon.",
+      "primary_service_id": null,
+      "primary_location_id": "kinnelon",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Kinnelon, Morris County?",
+      "direct_answer": "For Kinnelon exterior work, distinguish repairing the current feature from changing its size, location or appearance. Kinnelon directs building inspection services to Bloomingdale through shared services. Check property-specific zoning and any applicable community review separately before ordering custom materials.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve the design decisions before materials arrive",
+          "paragraphs": [
+            "An entrance refresh may combine a door, trim, lighting and the walk leading to it. Begin with one photo of the whole elevation and a short list of the intended changes. Identify what should match the existing house and what you want the professional to propose.",
+            "Kinnelon’s Construction Department identifies Bloomingdale as the shared building-inspection provider. The Borough’s 2025 service directory also flags additional architectural review for Smoke Rise residents. That is a reason to check the requirements for the actual property, not a claim that every Kinnelon home belongs to the same association or follows the same review path.",
+            "Settle dimensions, material choices and any required approvals before committing to items that cannot be returned. Ask each professional to identify their portion of the entrance project and who repairs surfaces disturbed by another trade. A single written scope makes those handoffs easier."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Kinnelon project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Door and trim work",
+              "body": "Explain whether the opening stays the same and whether the door binds or leaks. Request separate allowances for hidden deterioration and the visible finish work.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Exterior painting preparation",
+              "body": "Show the siding or trim condition and proposed color changes. Ask about preparation, protection of adjoining surfaces and any repairs needed before painting begins.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Entrance lighting",
+              "body": "Describe which fixtures are being replaced and whether wiring or fixture positions will change. Let an electrician assess the installation and coordinate any required inspections.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why does a Kinnelon construction question lead to Bloomingdale?",
+              "answer": "Kinnelon’s official Construction Department page says building inspection services are provided by Bloomingdale under a shared-service agreement. The work location remains Kinnelon. Confirm local zoning and any applicable community architectural review as separate parts of the project."
+            },
+            {
+              "question": "How does A5 help with my Kinnelon request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Kinnelon is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Kinnelon project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:31.917+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6153aeb7-74bb-44c5-831b-251310450429",
+      "slug": "lincoln-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Lincoln Park, Morris County",
+      "meta_title": "Lincoln Park Home Services | Morris County",
+      "meta_description": "Plan Lincoln Park home repairs with water-history documentation, flood-review questions and a clear sequence for plumbing, drywall and finish work.",
+      "h1": "Home services in Lincoln Park.",
+      "primary_service_id": null,
+      "primary_location_id": "lincoln-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Lincoln Park, Morris County?",
+      "direct_answer": "Before refinishing a water-affected room in Lincoln Park, document how water entered and ask the Borough about the proposed work. Its Construction Department notes that flood elevations can affect zoning review even for indoor projects. Resolve the source and review questions before covering walls or selecting finishes.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start a room restoration with the water history",
+          "paragraphs": [
+            "Record when the room became wet, where water first appeared and what has already been removed or repaired. Photos taken safely during and after the event can help distinguish a plumbing leak from water entering at the building exterior. Avoid describing every wet basement as the same repair.",
+            "Lincoln Park’s published permitting sequence begins with zoning review and specifically notes that indoor work may need approval based on flood elevations. That guidance does not establish the risk or approval requirements for every property. Give the Borough the address, affected level and proposed scope so it can direct the review.",
+            "Ask the professional to separate diagnosis, source correction and restoration in the estimate. Keep damaged finishes accessible until the relevant assessment and inspections are complete. Discuss what conditions must be met before drywall, trim or paint return, and keep a record of the work performed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Lincoln Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Find a plumbing-related source",
+              "body": "Describe fixture use, visible pipe leaks and when the water appears. A plumber can evaluate plumbing causes; river, groundwater or structural water entry may need other expertise.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore wall finishes",
+              "body": "Identify the affected rooms and materials already removed. Request a defined scope for replacement and finishing after the source and any inspection requirements are addressed.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Paint after repairs",
+              "body": "Share the repair history and ask the painter to assess surface readiness. A new coating should follow the resolved repair scope, rather than conceal an unexplained recurring stain.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can Lincoln Park zoning review matter for an indoor repair?",
+              "answer": "Yes. The Borough’s Construction Department says indoor work may need zoning approval based on flood elevations. Ask about your address and proposed repair before proceeding; the town-wide guidance does not determine a particular home’s flood status."
+            },
+            {
+              "question": "How does A5 help with my Lincoln Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Lincoln Park is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Lincoln Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.016+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a36481fb-128a-4d45-8a14-2f3a5253ebeb",
+      "slug": "long-hill-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Long Hill Township, Morris County",
+      "meta_title": "Long Hill Township Home Services | Morris County",
+      "meta_description": "Plan a Long Hill Township kitchen refresh with clear trade responsibilities, inspection coordination and practical preparation for plumbing, tile and appliances.",
+      "h1": "Home services in Long Hill Township.",
+      "primary_service_id": null,
+      "primary_location_id": "long-hill-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Long Hill Township, Morris County?",
+      "direct_answer": "For a Long Hill Township kitchen refresh, list the fixtures and appliances staying in place and those being moved. The Township identifies its Construction Office technical assistant as the first contact for construction questions and inspection scheduling. Confirm the review path before arranging the finish trades.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep a kitchen refresh from becoming an unplanned remodel",
+          "paragraphs": [
+            "Changing a backsplash, replacing a dishwasher and moving a sink are different tasks. Start with a simple layout and label the work you actually want. Include appliance dimensions, cabinet openings and photos of accessible connections so professionals can identify dependencies before arrival.",
+            "Long Hill’s Construction Department routes general questions, applications and inspection scheduling through its technical assistant. The department also links its inspection-request portal. Use the current municipal page to confirm the process for your project instead of relying on a contractor’s recollection of another town’s procedure.",
+            "Ask who disconnects and reconnects each appliance, who repairs the wall behind the work and when tile can begin. Agree on what happens if an opening reveals a problem. Keeping those responsibilities in the written estimate helps avoid booking a finish trade before the underlying work is ready."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Long Hill Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Sink and supply changes",
+              "body": "State whether the sink remains in its current position. Identify leaks or shutoff concerns for the plumber and request a clear boundary between fixture work and cabinet repair.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Backsplash installation",
+              "body": "Provide the wall dimensions, chosen tile and planned outlet or cabinet changes. Ask what preparation is included and coordinate the finish after other work behind the wall.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            },
+            {
+              "title": "Repair or replace an appliance",
+              "body": "Share the model number and symptoms before assuming replacement is necessary. If replacing it, confirm removal, connections and fit rather than treating delivery as a complete installation.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who should I contact first about Long Hill construction and inspection questions?",
+              "answer": "The Township’s Construction Department identifies its technical assistant as the first point of contact. Have the address, work description and any existing permit number ready, and use the current municipal instructions for scheduling."
+            },
+            {
+              "question": "How does A5 help with my Long Hill Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Long Hill Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Long Hill Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.123+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "4ebe1f21-ed42-460b-82db-06c43d3f0a1a",
+      "slug": "mendham-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Mendham Borough, Morris County",
+      "meta_title": "Mendham Borough Home Services | Morris County",
+      "meta_description": "Plan Mendham Borough equipment and electrical projects using local project guides, a clear scope and inspection records. Request an independent professional through A5.",
+      "h1": "Home services in Mendham Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "mendham-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mendham Borough, Morris County?",
+      "direct_answer": "For a Mendham Borough equipment upgrade, start with the current equipment, proposed location and any wiring or fuel changes. The Borough publishes separate resources for HVAC, furnaces, generators and EV outlets. Use the relevant guide and confirm the scope with its Construction Department before installation.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Match the request to the equipment change",
+          "paragraphs": [
+            "A failing furnace, a new outdoor unit and an EV charging outlet call for different assessments. Photograph labels from a safe position and describe the goal: restore an existing function, replace equipment or add a new load. Include access limitations and any other work already planned nearby.",
+            "Mendham Borough’s Construction page provides project-specific guides and asks for permit, site and inspection information when inspections are requested. Use Borough resources for a Borough property; Mendham Township has a separate office. Do not assume that a nearby contractor’s previous permit process applies to your address.",
+            "Ask the installer to itemize removal, installation, electrical or plumbing coordination and surface repairs. Confirm who keeps the paperwork and follows up on inspections. Save model information and the final documentation together so later maintenance starts with an accurate record."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mendham Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Heating equipment replacement",
+              "body": "List the existing fuel type, equipment location and rooms affected. Ask whether controls, venting assessment and removal of the old unit are part of the proposal.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Electrical equipment assessment",
+              "body": "Describe the equipment you want to add and its intended location. An electrician should assess the electrical scope; A5’s category match does not establish specialist capability for every installation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Finish repairs after installation",
+              "body": "Identify wall openings or trim disturbed by the equipment work. Coordinate finishing after required access and inspections, and ask whether paint matching is included.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Mendham Borough provide guidance for particular equipment projects?",
+              "answer": "Yes. Its Construction page links separate guides for items including heating and cooling equipment, furnaces, generators and EV outlets. Use the relevant resource to prepare questions for the Borough and your professional; it is not approval of a specific installation."
+            },
+            {
+              "question": "How does A5 help with my Mendham Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mendham Borough is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mendham Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.231+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "36266b0b-120b-4d56-874a-0a4cdeea5c2f",
+      "slug": "mendham-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Mendham Township, Morris County",
+      "meta_title": "Mendham Township Home Services | Morris County",
+      "meta_description": "Prepare Mendham Township renovation requests with accurate property identity, trade scopes and inspection handoffs. Connect with independent home professionals through A5.",
+      "h1": "Home services in Mendham Township.",
+      "primary_service_id": null,
+      "primary_location_id": "mendham-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mendham Township, Morris County?",
+      "direct_answer": "For a Mendham Township room renovation, confirm the work address belongs to the Township and organize the work by trade. The Township has its own Construction Department in Brookside with building, plumbing, electrical and fire subcode responsibilities. Keep its records separate from Mendham Borough’s process.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give each trade a clear starting point",
+          "paragraphs": [
+            "A bathroom or utility-room update can begin as finish work and uncover plumbing or electrical changes. Make a room-by-room list showing what stays, what is removed and what needs assessment. Photograph existing conditions before removal so the next professional can understand the original arrangement.",
+            "Mendham Township’s current Construction Department page identifies its office in Brookside and separate subcode officials. Older documents found through a search may refer to other municipalities or obsolete procedures. Use the Township’s current department resources to verify the address and review path instead of choosing an office from a mailing-town name alone.",
+            "In the estimate, identify the point at which plumbing or electrical work is ready for inspection and when finish work can follow. Keep responsibility for scheduling explicit. After completion, retain the scope, inspection records and product details together rather than relying on several unrelated text-message threads."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mendham Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Bathroom plumbing scope",
+              "body": "Explain whether fixtures stay in place and whether piping will move. Ask the plumber to identify work that affects walls or floors so finishing can be quoted accurately.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Room electrical changes",
+              "body": "List outlets, lights and equipment involved. Ask for an assessment of the actual electrical work and any coordination needed before the room is closed up.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Tile and finish handoff",
+              "body": "Provide the planned tile areas and proposed materials. Confirm substrate preparation and the point when other trades have completed the work that tile would conceal.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should a Mendham Township renovation use Mendham Borough’s Construction Office?",
+              "answer": "Use the Township’s own Construction Department resources for a property in Mendham Township. Its published office is in Brookside. Confirm the municipality from property records when the mailing address is unclear."
+            },
+            {
+              "question": "How does A5 help with my Mendham Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mendham Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mendham Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.34+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ed1c9cda-6381-4cb6-834e-d37e80e0c834",
+      "slug": "mine-hill",
+      "page_type": "LOCATION",
+      "title": "Home services in Mine Hill, Morris County",
+      "meta_title": "Mine Hill Home Services | Morris County",
+      "meta_description": "Plan Mine Hill repairs with existing permit records, a clear old-versus-new scope and practical preparation for plumbing, electrical and wall restoration.",
+      "h1": "Home services in Mine Hill.",
+      "primary_service_id": null,
+      "primary_location_id": "mine-hill",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mine Hill, Morris County?",
+      "direct_answer": "Before adding another phase to a Mine Hill renovation, check the existing permit history. The Township’s Construction page separates its current permit portal from an archive of older open permits. Ask the department to clarify unresolved work, then give each professional a scope that distinguishes prior work from the new request.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Find the unfinished paperwork before the next project",
+          "paragraphs": [
+            "If you inherited a partly finished room or a past owner’s renovation, start by gathering the records you have. Note the room, approximate work date, permit numbers and anything still incomplete. A fresh paint job or new fixture does not establish that earlier work was inspected or closed.",
+            "Mine Hill’s Construction Department says its portal provides closed and recently opened permit information, with a separate list for permits opened before 2013 that remain open. That distinction can explain why a quick portal search does not tell the whole story. Ask the department about the property rather than assuming a missing search result means no open work exists.",
+            "Separate record review from the new contractor’s estimate. Ask what the professional will inspect, what remains unknown and which corrections require a further proposal. Keep the response from the Township with the project documents so plumbing, electrical and finish work use the same understanding."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mine Hill project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess unfinished plumbing",
+              "body": "Show visible connections and identify the prior work you know about. Ask the plumber to evaluate the current condition rather than certify hidden work from photographs alone.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Review electrical changes",
+              "body": "Describe the room’s intended use and incomplete fixtures or outlets. An electrician can assess the requested work and discuss access needed for evaluation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Close walls at the right stage",
+              "body": "Ask what access must remain until assessments and required inspections are complete. Price patching and finishing against that sequence, with clear limits on paint matching.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why might a Mine Hill permit not appear in the current portal?",
+              "answer": "The Township links a separate archive of permits opened before 2013 that have not been closed. Its current portal covers closed and recently opened permits. Check both resources and ask the Construction Department to confirm the property’s record."
+            },
+            {
+              "question": "How does A5 help with my Mine Hill request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mine Hill is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mine Hill project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.45+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "69ebacbf-a888-4374-8a6b-dbe70a3dd09a",
+      "slug": "montville",
+      "page_type": "LOCATION",
+      "title": "Home services in Montville, Morris County",
+      "meta_title": "Montville Home Services | Morris County",
+      "meta_description": "Plan Montville paving and yard repairs with clear drainage observations, right-of-way questions and restoration scope. Send a focused request through A5.",
+      "h1": "Home services in Montville.",
+      "primary_service_id": null,
+      "primary_location_id": "montville",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Montville, Morris County?",
+      "direct_answer": "For Montville work near a driveway, sidewalk or curb, show where the repair sits relative to the street and property boundary. The Township’s Engineering Department handles right-of-way work and reviews lot grading. Ask about those requirements before treating a paving or drainage change as a simple surface repair.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Look beyond the cracked surface",
+          "paragraphs": [
+            "A sunken walk or worn driveway edge may involve the surface, the base beneath it or water moving across it. Photograph the whole route from the house to the street and note where water collects. Describe whether you want to repair the existing area or change its width, level or drainage direction.",
+            "Montville’s Engineering guidance identifies road-opening review for work in the public right of way, including curb and sidewalk work, and describes its role in lot grading and soil movement. Confirm what applies to the proposed scope; this is not a determination of where the public right of way lies on your property.",
+            "Ask the professional to separate demolition, base preparation, drainage coordination and final restoration. Do not assume moving water toward a boundary is an acceptable solution. If the proposal changes grading or needs design work, settle that review before scheduling the paving and planting."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Montville project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Walk and curb-adjacent masonry",
+              "body": "Show cracked or settled sections and their relationship to the road. Ask whether the proposal restores existing dimensions and what approvals must be resolved first.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Yard restoration",
+              "body": "Mark planting and lawn areas disturbed by access or excavation. Ask how final grades and restoration will follow the agreed project plan.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Roof-water discharge observations",
+              "body": "Photograph the gutters and visible downspout outlets from the ground. Explain where runoff lands so the professional can distinguish gutter maintenance from a larger drainage design issue.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Montville office handles questions about grading and work near the street?",
+              "answer": "The Township’s Engineering Department describes responsibilities for lot grading, soil movement and road-opening permits. Share the address and scope, including curb, sidewalk or utility work, so the department can direct the applicable review."
+            },
+            {
+              "question": "How does A5 help with my Montville request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Montville is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Montville project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.561+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "655044f3-15ad-4793-8b55-04215afdcfac",
+      "slug": "morris-plains",
+      "page_type": "LOCATION",
+      "title": "Home services in Morris Plains, Morris County",
+      "meta_title": "Morris Plains Home Services | Morris County",
+      "meta_description": "Plan Morris Plains home updates by separating like-for-like repairs from layout changes. Use Borough resources and clear scopes for fixtures, doors and finishes.",
+      "h1": "Home services in Morris Plains.",
+      "primary_service_id": null,
+      "primary_location_id": "morris-plains",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Morris Plains, Morris County?",
+      "direct_answer": "For a Morris Plains home refresh, state whether fixtures, doors and openings will remain in the same positions and sizes. The Borough’s project chart distinguishes replacements from alterations. Use it to prepare questions for the Construction Office, then confirm the requirements for the exact work before beginning.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the difference between replacement and alteration explicit",
+          "paragraphs": [
+            "A request to update a bathroom or replace a door can mean anything from a small repair to a changed layout. List the elements staying in place, the items being replaced and any openings or connections that will move. Include dimensions and wide photos rather than only a close-up of the new product.",
+            "Morris Plains publishes a zoning and permit chart that separates direct fixture replacement from piping changes and same-size openings from enlarged ones. The Construction Department directs residents to that chart and the application process. Treat the chart as a starting point for confirming current requirements, not a blanket exemption for an entire renovation.",
+            "Ask each estimate to use the same scope assumptions. If a professional discovers damaged framing or an incompatible connection, agree on how a change will be documented before proceeding. Keep painting and finish repairs in the scope so a small replacement does not leave an unfinished room."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Morris Plains project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Fixture replacement or relocation",
+              "body": "Tell the plumber which fixtures stay in place and which may move. Include known leaks and the desired finish, and separate product supply from installation in the estimate.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Door adjustments and replacement",
+              "body": "Provide the current opening dimensions and explain the problem. Ask whether the proposed work changes the opening or repairs the existing door and frame.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Finish the disturbed surfaces",
+              "body": "Identify walls, trim and ceilings affected by the repair. Ask about preparation and paint boundaries so the finished result is part of the original plan.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I use the Morris Plains project chart as approval for my renovation?",
+              "answer": "Use it to identify the questions to ask, then confirm the actual scope with the Borough’s Construction Office. The chart distinguishes types of replacement and alteration; a project combining several tasks may need more review than one chart row suggests."
+            },
+            {
+              "question": "How does A5 help with my Morris Plains request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Morris Plains is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Morris Plains project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.659+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "28de0d0e-21d5-4b3d-837c-f88472e4c95b",
+      "slug": "mount-arlington",
+      "page_type": "LOCATION",
+      "title": "Home services in Mount Arlington, Morris County",
+      "meta_title": "Mount Arlington Home Services | Morris County",
+      "meta_description": "Prepare Mount Arlington yard and home projects with clear boundaries, grading questions and a practical repair sequence. Request help through the A5 network.",
+      "h1": "Home services in Mount Arlington.",
+      "primary_service_id": null,
+      "primary_location_id": "mount-arlington",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mount Arlington, Morris County?",
+      "direct_answer": "For a Mount Arlington yard improvement, sketch the proposed feature, nearby boundaries and any change to the ground. The Borough advises contacting both Construction and Zoning even for smaller improvements. Confirm the review path before combining a wall, planting or outdoor electrical work into one project.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give a small outdoor project a complete scope",
+          "paragraphs": [
+            "A garden refresh can grow when it includes a retaining edge, new lighting or moving soil. Begin with a photo of the full area and mark the features that should remain. Explain whether the goal is repair, a new layout or a response to erosion or standing water.",
+            "Mount Arlington’s Construction page distinguishes zoning questions from construction-code requirements and links grading and excavation materials. It encourages residents to check before minor installations as well as larger work. Ask about the actual proposal rather than assuming that a small budget means no review is needed.",
+            "Have the professional identify the work order: assessment and any design, required review, excavation or repairs, then planting and cleanup. Agree on access and where materials will be stored. If an electrical connection or structural wall is involved, make the trade responsibility explicit instead of leaving it inside a general landscaping description."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mount Arlington project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Planting and bed changes",
+              "body": "Show the current layout and desired maintenance level. Identify any grading or drainage change for discussion before selecting plants or ordering soil.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Wall and paving assessment",
+              "body": "Photograph movement, cracking and the area above and below a wall. Ask whether repair is appropriate or a separate design assessment is needed; category matching is not structural approval.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Outdoor lighting work",
+              "body": "Describe the fixtures and whether wiring or power locations will change. Ask an electrician to assess the electrical portion and coordinate it with the outdoor work.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a small Mount Arlington outdoor project still warrant a zoning question?",
+              "answer": "Yes. The Borough’s Construction page advises discussing even minor improvements with Construction and Zoning, and notes that the two review paths are distinct. Share the address, dimensions and proposed ground changes to confirm what applies."
+            },
+            {
+              "question": "How does A5 help with my Mount Arlington request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mount Arlington is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mount Arlington project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:11:31.717Z",
+      "published_at": "2026-10-08T01:22:32.764+00:00",
+      "last_reviewed_at": "2026-10-08T16:11:31.717Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "d934f746-a840-4002-8856-5f847d670e4a",
+      "title": "Jefferson Township Building Department",
+      "url": "https://jeffersontownship.net/153/Building-Department",
+      "publisher": "Jefferson Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "ea92a182-5ec6-4df5-87d0-01a15b6fbb5c",
+      "title": "Kinnelon Construction Department",
+      "url": "https://www.kinnelonboro.org/cn/webpage.cfm?tpid=11974",
+      "publisher": "Borough of Kinnelon",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "01b40f22-2ad0-45eb-8b5a-52c9cdaf9498",
+      "title": "Kinnelon 2025 Service Directory",
+      "url": "https://www.kinnelonboro.org/documents/Side%20Menu/Service%20Directory%202025%20%20FINAL%20_041525.pdf",
+      "publisher": "Borough of Kinnelon",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "57f13a54-6324-460b-8f26-ef80cd4f4b6f",
+      "title": "Lincoln Park Construction Department",
+      "url": "https://www.lincolnpark.org/132/Construction",
+      "publisher": "Borough of Lincoln Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "d86bb522-e2d5-4237-865e-81e6dc23cf41",
+      "title": "Long Hill Township Construction Department",
+      "url": "https://www.longhillnj.gov/Departments/construction-department",
+      "publisher": "Township of Long Hill",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "4986c493-2777-41f2-842c-cabd889d8b47",
+      "title": "Mendham Borough Construction Permits and Inspections",
+      "url": "https://www.mendhamnj.org/cn/webpage.cfm?tpid=16780",
+      "publisher": "Borough of Mendham",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "814e295d-8a2d-4ca0-83d1-bbfca982c4e1",
+      "title": "Mendham Township Construction Department",
+      "url": "https://www.mendhamtownship.org/226/Construction-Department",
+      "publisher": "Mendham Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "47f19815-fb18-48fb-8891-4979377f956e",
+      "title": "Mine Hill Construction Department",
+      "url": "https://minehill.com/township-departments/construction/",
+      "publisher": "Township of Mine Hill",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "d48609e0-19c4-47c2-8cf1-d3c3a9147cce",
+      "title": "Montville Township Engineering",
+      "url": "https://www.montvillenj.org/169/Engineering",
+      "publisher": "Montville Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "c19b8c0e-1dc3-4bd4-8838-392e170444a8",
+      "title": "Morris Plains Zoning and Permit Requirements",
+      "url": "https://morrisplainsboro.org/zoning-permit-requirements/",
+      "publisher": "Borough of Morris Plains",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "f92f9b62-964b-4e11-82de-314cc0cb29be",
+      "title": "Morris Plains Construction Department",
+      "url": "https://morrisplainsboro.org/construction-department/",
+      "publisher": "Borough of Morris Plains",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    },
+    {
+      "id": "a86e44eb-2f8a-4249-8738-3f2cb0b03eae",
+      "title": "Mount Arlington Construction Department",
+      "url": "https://mountarlingtonnj.org/departments/construction/",
+      "publisher": "Borough of Mount Arlington",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:11:31.717Z",
+      "reviewed_at": "2026-10-08T16:11:31.717Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "9751e4ef-2b9d-4c44-8411-155fa3d27676",
+      "source_id": "d934f746-a840-4002-8856-5f847d670e4a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2f73c3fb-e406-443a-86c6-225dddbcc7f4",
+      "source_id": "ea92a182-5ec6-4df5-87d0-01a15b6fbb5c",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2f73c3fb-e406-443a-86c6-225dddbcc7f4",
+      "source_id": "01b40f22-2ad0-45eb-8b5a-52c9cdaf9498",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6153aeb7-74bb-44c5-831b-251310450429",
+      "source_id": "57f13a54-6324-460b-8f26-ef80cd4f4b6f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "a36481fb-128a-4d45-8a14-2f3a5253ebeb",
+      "source_id": "d86bb522-e2d5-4237-865e-81e6dc23cf41",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "4ebe1f21-ed42-460b-82db-06c43d3f0a1a",
+      "source_id": "4986c493-2777-41f2-842c-cabd889d8b47",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "36266b0b-120b-4d56-874a-0a4cdeea5c2f",
+      "source_id": "814e295d-8a2d-4ca0-83d1-bbfca982c4e1",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ed1c9cda-6381-4cb6-834e-d37e80e0c834",
+      "source_id": "47f19815-fb18-48fb-8891-4979377f956e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "69ebacbf-a888-4374-8a6b-dbe70a3dd09a",
+      "source_id": "d48609e0-19c4-47c2-8cf1-d3c3a9147cce",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "655044f3-15ad-4793-8b55-04215afdcfac",
+      "source_id": "c19b8c0e-1dc3-4bd4-8838-392e170444a8",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "655044f3-15ad-4793-8b55-04215afdcfac",
+      "source_id": "f92f9b62-964b-4e11-82de-314cc0cb29be",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "28de0d0e-21d5-4b3d-837c-f88472e4c95b",
+      "source_id": "a86e44eb-2f8a-4249-8738-3f2cb0b03eae",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "9751e4ef-2b9d-4c44-8411-155fa3d27676",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "2f73c3fb-e406-443a-86c6-225dddbcc7f4",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "6153aeb7-74bb-44c5-831b-251310450429",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "a36481fb-128a-4d45-8a14-2f3a5253ebeb",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "4ebe1f21-ed42-460b-82db-06c43d3f0a1a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "36266b0b-120b-4d56-874a-0a4cdeea5c2f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "ed1c9cda-6381-4cb6-834e-d37e80e0c834",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "69ebacbf-a888-4374-8a6b-dbe70a3dd09a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "655044f3-15ad-4793-8b55-04215afdcfac",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "28de0d0e-21d5-4b3d-837c-f88472e4c95b",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

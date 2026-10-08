@@ -1,0 +1,157 @@
+{
+  "sha256": "bfa6ec0a0c8a273bb9c1dbff3601ada6800081cb0351cfb61857ba29a74ded07",
+  "pages": [
+    {
+      "id": "9751e4ef-2b9d-4c44-8411-155fa3d27676",
+      "path": "/home-services/jefferson-township",
+      "newlyIndexable": true,
+      "purpose": "Prepare a deck or equipment project with zoning, survey and construction information aligned",
+      "sourceClaims": [
+        {
+          "title": "Jefferson Township Building Department",
+          "url": "https://jeffersontownship.net/153/Building-Department",
+          "publisher": "Jefferson Township",
+          "supports": "Zoning-first direction for applicable projects, survey in submission and coordination of mechanical/electrical work. No fees or exemptions reproduced."
+        }
+      ]
+    },
+    {
+      "id": "2f73c3fb-e406-443a-86c6-225dddbcc7f4",
+      "path": "/home-services/kinnelon",
+      "newlyIndexable": true,
+      "purpose": "Coordinate Kinnelon exterior repairs with shared construction administration and property-specific review",
+      "sourceClaims": [
+        {
+          "title": "Kinnelon Construction Department",
+          "url": "https://www.kinnelonboro.org/cn/webpage.cfm?tpid=11974",
+          "publisher": "Borough of Kinnelon",
+          "supports": "Bloomingdale shared building inspection services; no copied hours or staff names."
+        },
+        {
+          "title": "Kinnelon 2025 Service Directory",
+          "url": "https://www.kinnelonboro.org/documents/Side%20Menu/Service%20Directory%202025%20%20FINAL%20_041525.pdf",
+          "publisher": "Borough of Kinnelon",
+          "supports": "Smoke Rise architectural-review reminder only; no blanket construction-permit claims copied."
+        }
+      ]
+    },
+    {
+      "id": "6153aeb7-74bb-44c5-831b-251310450429",
+      "path": "/home-services/lincoln-park",
+      "newlyIndexable": true,
+      "purpose": "Plan interior restoration with flood-elevation review before concealing damaged areas",
+      "sourceClaims": [
+        {
+          "title": "Lincoln Park Construction Department",
+          "url": "https://www.lincolnpark.org/132/Construction",
+          "publisher": "Borough of Lincoln Park",
+          "supports": "Zoning-first permitting sequence and possible indoor review based on flood elevations; no parcel risk inferred."
+        }
+      ]
+    },
+    {
+      "id": "a36481fb-128a-4d45-8a14-2f3a5253ebeb",
+      "path": "/home-services/long-hill-township",
+      "newlyIndexable": true,
+      "purpose": "Sequence a kitchen refresh through one inspection contact and clear trade handoffs",
+      "sourceClaims": [
+        {
+          "title": "Long Hill Township Construction Department",
+          "url": "https://www.longhillnj.gov/Departments/construction-department",
+          "publisher": "Township of Long Hill",
+          "supports": "Technical assistant is first construction contact and handles inspection scheduling; no processing-time or permit-exemption claims."
+        }
+      ]
+    },
+    {
+      "id": "4ebe1f21-ed42-460b-82db-06c43d3f0a1a",
+      "path": "/home-services/mendham-borough",
+      "newlyIndexable": true,
+      "purpose": "Prepare equipment and electrical work with the Borough's project-specific resources",
+      "sourceClaims": [
+        {
+          "title": "Mendham Borough Construction Permits and Inspections",
+          "url": "https://www.mendhamnj.org/cn/webpage.cfm?tpid=16780",
+          "publisher": "Borough of Mendham",
+          "supports": "Project-specific equipment guides and inspection request information; Borough/Township distinction preserved."
+        }
+      ]
+    },
+    {
+      "id": "36266b0b-120b-4d56-874a-0a4cdeea5c2f",
+      "path": "/home-services/mendham-township",
+      "newlyIndexable": true,
+      "purpose": "Keep Township renovation records and trade inspections separate from Borough administration",
+      "sourceClaims": [
+        {
+          "title": "Mendham Township Construction Department",
+          "url": "https://www.mendhamtownship.org/226/Construction-Department",
+          "publisher": "Mendham Township",
+          "supports": "Current Township office in Brookside and separate construction/subcode responsibilities. No old permit-procedures PDF used."
+        }
+      ]
+    },
+    {
+      "id": "ed1c9cda-6381-4cb6-834e-d37e80e0c834",
+      "path": "/home-services/mine-hill",
+      "newlyIndexable": true,
+      "purpose": "Reconcile older open permits before starting another repair phase",
+      "sourceClaims": [
+        {
+          "title": "Mine Hill Construction Department",
+          "url": "https://minehill.com/township-departments/construction/",
+          "publisher": "Township of Mine Hill",
+          "supports": "Current portal versus pre-2013 open-permit archive distinction; no claim about an individual property's status."
+        }
+      ]
+    },
+    {
+      "id": "69ebacbf-a888-4374-8a6b-dbe70a3dd09a",
+      "path": "/home-services/montville",
+      "newlyIndexable": true,
+      "purpose": "Separate driveway-edge and yard repairs from public right-of-way and grading review",
+      "sourceClaims": [
+        {
+          "title": "Montville Township Engineering",
+          "url": "https://www.montvillenj.org/169/Engineering",
+          "publisher": "Montville Township",
+          "supports": "Engineering responsibilities for right-of-way work, lot grading and soil movement; no thresholds or exemptions reproduced."
+        }
+      ]
+    },
+    {
+      "id": "655044f3-15ad-4793-8b55-04215afdcfac",
+      "path": "/home-services/morris-plains",
+      "newlyIndexable": true,
+      "purpose": "Distinguish direct replacement from layout changes in a small home refresh",
+      "sourceClaims": [
+        {
+          "title": "Morris Plains Zoning and Permit Requirements",
+          "url": "https://morrisplainsboro.org/zoning-permit-requirements/",
+          "publisher": "Borough of Morris Plains",
+          "supports": "Chart distinguishes replacement and alteration; no potentially dated exemption, threshold or permit determination reproduced."
+        },
+        {
+          "title": "Morris Plains Construction Department",
+          "url": "https://morrisplainsboro.org/construction-department/",
+          "publisher": "Borough of Morris Plains",
+          "supports": "Department directs residents to chart and process resources; current scope confirmation recommended."
+        }
+      ]
+    },
+    {
+      "id": "28de0d0e-21d5-4b3d-837c-f88472e4c95b",
+      "path": "/home-services/mount-arlington",
+      "newlyIndexable": true,
+      "purpose": "Plan a small yard improvement without overlooking separate zoning and construction questions",
+      "sourceClaims": [
+        {
+          "title": "Mount Arlington Construction Department",
+          "url": "https://mountarlingtonnj.org/departments/construction/",
+          "publisher": "Borough of Mount Arlington",
+          "supports": "Separate zoning/construction review and grading/excavation resources; no fees, penalties or blanket permit assertions reproduced."
+        }
+      ]
+    }
+  ]
+}
