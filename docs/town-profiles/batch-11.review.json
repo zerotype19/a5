@@ -1,0 +1,145 @@
+{
+  "sha256": "01ccebe9050075d003dac6849bb5f0e9916c9df2e77cb90dde6e388cb7b9f1bc",
+  "pages": [
+    {
+      "id": "2e04751e-24c0-4bc2-8bd1-9c4cbbb059b0",
+      "path": "/home-services/river-vale",
+      "newlyIndexable": true,
+      "purpose": "Plan renovation staging and dumpster placement before delivery",
+      "sourceClaims": [
+        {
+          "title": "River Vale Building Department",
+          "url": "https://www.rivervalenj.org/page/building-department",
+          "publisher": "Township of River Vale",
+          "supports": "Explicit dumpster zoning approval and permit guidance; no fees, office hours or implied construction-permit sufficiency."
+        }
+      ]
+    },
+    {
+      "id": "9add8c91-c54d-4da0-83c7-bdb2b3352a21",
+      "path": "/home-services/rochelle-park",
+      "newlyIndexable": true,
+      "purpose": "Prepare an EV-charger request as a defined electrical project",
+      "sourceClaims": [
+        {
+          "title": "Rochelle Park Building Department Resources",
+          "url": "https://rochelleparknj.gov/building-department-2/",
+          "publisher": "Township of Rochelle Park",
+          "supports": "Existence of dedicated EV Charger Permit Requirements for Plan Review link; no unread PDF requirements or technical specifications asserted."
+        }
+      ]
+    },
+    {
+      "id": "c45eeee9-61fd-4aee-8c17-d2d9fdb84161",
+      "path": "/home-services/rockleigh",
+      "newlyIndexable": true,
+      "purpose": "Check historic context before changing a road-facing exterior",
+      "sourceClaims": [
+        {
+          "title": "Rockleigh Planning Board and Historic Preservation Commission",
+          "url": "https://www.rockleighnj.org/planning-hpc",
+          "publisher": "Borough of Rockleigh",
+          "supports": "Official historic roadway guidelines and nomination-report resources; no unread guideline provisions or parcel designation inferred."
+        }
+      ]
+    },
+    {
+      "id": "2b2a470e-8e79-4eac-897f-f834ca85c5dd",
+      "path": "/home-services/rutherford",
+      "newlyIndexable": true,
+      "purpose": "Separate public-tree concerns from private exterior work",
+      "sourceClaims": [
+        {
+          "title": "Rutherford Tree Care and Services",
+          "url": "https://www.rutherfordboronj.com/shade-tree-board-pages/351-tree-care-and-services",
+          "publisher": "Borough of Rutherford",
+          "supports": "Live-browser verification of public-tree reporting and construction protection guidance; no dimensional rules or blanket private-tree claims copied."
+        }
+      ]
+    },
+    {
+      "id": "85a1b208-f650-4d0f-89e3-9faf6770dc0d",
+      "path": "/home-services/saddle-brook",
+      "newlyIndexable": true,
+      "purpose": "Sequence rough inspections before framing review and finish work",
+      "sourceClaims": [
+        {
+          "title": "Saddle Brook Inspection Requests",
+          "url": "https://saddlebrooknj.us/building-department/inspection-requests/",
+          "publisher": "Township of Saddle Brook",
+          "supports": "Explicit rough electrical/plumbing/fire before framing sequence and written request process; no universal applicability or appointment guarantees."
+        }
+      ]
+    },
+    {
+      "id": "02357780-1f5a-4a3c-8e27-a5a4b81681f6",
+      "path": "/home-services/saddle-river",
+      "newlyIndexable": true,
+      "purpose": "Distinguish well or septic work from an ordinary plumbing request",
+      "sourceClaims": [
+        {
+          "title": "Saddle River Board of Health",
+          "url": "https://saddleriver.gov/board_health",
+          "publisher": "Borough of Saddle River",
+          "supports": "Health Office coordination for well/septic installation, alteration, repair and abandonment; no property system assumptions, water-quality advice or specialist availability claims."
+        }
+      ]
+    },
+    {
+      "id": "a0f661d9-04c1-43f8-8d34-0a0affdbf449",
+      "path": "/home-services/south-hackensack",
+      "newlyIndexable": true,
+      "purpose": "Separate the municipal steps in a residential sale punch list",
+      "sourceClaims": [
+        {
+          "title": "South Hackensack Residential Certificate Guidance",
+          "url": "https://www.southhackensacknj.org/building/cco.php",
+          "publisher": "Township of South Hackensack",
+          "supports": "Residential-sale zoning, smoke/CO inspection and Certificate of Inspection distinctions; no fees, processing times or commercial rules reproduced."
+        }
+      ]
+    },
+    {
+      "id": "512d8a94-d891-45b6-8b4f-efe2d496ab4b",
+      "path": "/home-services/teaneck",
+      "newlyIndexable": true,
+      "purpose": "Plan an outdoor condenser location with survey and noise-review information",
+      "sourceClaims": [
+        {
+          "title": "Teaneck Building Permits",
+          "url": "https://www.teanecknj.gov/building-and-business/building-permits/",
+          "publisher": "Township of Teaneck",
+          "supports": "Survey and noise-form guidance for condensers/generators; no numerical setbacks, noise thresholds or replacement exemptions asserted."
+        }
+      ]
+    },
+    {
+      "id": "63ad461e-2ba2-461c-8665-4bd5720c7677",
+      "path": "/home-services/tenafly",
+      "newlyIndexable": true,
+      "purpose": "Distinguish historic designation from a centennial-house recognition",
+      "sourceClaims": [
+        {
+          "title": "Tenafly Historic Development",
+          "url": "https://www.tenaflynj.gov/463/Historic-Development",
+          "publisher": "Borough of Tenafly",
+          "supports": "Separate centennial-house plaque program and landmark Certificate of Appropriateness resource; no parcel designation or blanket repair requirement inferred."
+        }
+      ]
+    },
+    {
+      "id": "f1acefe7-8886-451a-8aac-60215e455855",
+      "path": "/home-services/teterboro",
+      "newlyIndexable": true,
+      "purpose": "Separate a public drainage report from a private home repair",
+      "sourceClaims": [
+        {
+          "title": "Teterboro Department of Public Works",
+          "url": "https://www.teterboronj.org/departments/dpw",
+          "publisher": "Borough of Teterboro",
+          "supports": "DPW sanitary-sewer and stormwater responsibilities including Vincent Place pump station/catch basins; no property risk or repair-boundary inference."
+        }
+      ]
+    }
+  ]
+}

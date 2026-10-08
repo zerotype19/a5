@@ -85,3 +85,11 @@ Lodi, Lyndhurst, Mahwah, Maywood, Midland Park, Montvale, Moonachie, New Milford
 ## Batch 10: ready for publication
 
 Norwood, Oakland, Old Tappan, Oradell, Palisades Park, Park Ridge, Ramsey, Ridgefield, Ridgefield Park and River Edge. Brand positioning ideas approved all ten. Official sources support narrow homeowner guidance; no outdated tree thresholds, utility rates or inspection guarantees copied. Tests, lint, typecheck and Next build passed. All 160 service/town combinations retain at least ten active emailed mapped vendors.
+
+## Batch 10: published and verified
+
+2026-10-08: PR #59 merged (9977d91). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 216 URLs. One hundred completed; 102 remain.
+
+## Batch 11: ready for publication
+
+River Vale, Rochelle Park, Rockleigh, Rutherford, Saddle Brook, Saddle River, South Hackensack, Teaneck, Tenafly and Teterboro. Brand positioning ideas approved all ten. Official sources support narrow local guidance; Rutherford was verified in the live browser. Unread EV and historic-guideline provisions are not asserted. Tests, lint, typecheck and Next build passed. All 160 service/town combinations retain at least ten active emailed mapped vendors.

@@ -1,0 +1,1310 @@
+{
+  "updates": [
+    {
+      "id": "2e04751e-24c0-4bc2-8bd1-9c4cbbb059b0",
+      "slug": "river-vale",
+      "page_type": "LOCATION",
+      "title": "Home services in River Vale, Bergen County",
+      "meta_title": "River Vale Home Services | Bergen County",
+      "meta_description": "Prepare River Vale renovation cleanup with a dumpster placement check, access plan and clear disposal responsibilities before work starts.",
+      "h1": "Home services in River Vale.",
+      "primary_service_id": null,
+      "primary_location_id": "river-vale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in River Vale, Bergen County?",
+      "direct_answer": "For a River Vale renovation that needs a dumpster, settle the placement question before scheduling delivery. The Township's Building Department identifies zoning approval and a permit for dumpsters. Ask the office about the proposed location, then have the contractor or hauler include placement, access and removal in the project plan.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Include the temporary work area in the renovation scope",
+          "paragraphs": [
+            "A room renovation affects more than the room itself. Identify the route for removed material, the proposed container location and the space needed for deliveries. Share photos of that route with the contractor so the estimate can account for protection, loading and access without relying on an unreviewed staging assumption.",
+            "River Vale's Building Department page specifically addresses dumpster approval and provides a route for zoning applications. Confirm the current process for the actual placement before booking the container. An agreement with a hauler does not establish municipal approval, and an existing construction permit should not be assumed to answer the separate placement question.",
+            "Ask the written proposal to identify who arranges the container, checks placement requirements and removes it. Separate household belongings from renovation debris, and identify uncertain materials before removal begins. Keep final cleaning and restoration of the access route in the scope so the project ends with a usable home rather than a pile of remaining work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your River Vale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plan renovation debris removal",
+              "body": "Describe the material, loading route and proposed container location. Confirm what the hauler accepts and who handles placement approval.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Scope wall repairs and removal",
+              "body": "Identify the surfaces being opened or replaced. Ask for protection and debris handling alongside the drywall work.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Schedule the final clean",
+              "body": "Identify the rooms and access areas affected by the project. Arrange cleaning after the dusty work and debris removal are complete.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should I check before ordering a dumpster in River Vale?",
+              "answer": "The Building Department identifies zoning approval and a permit for dumpsters. Confirm the current process and proposed placement with the Township before delivery."
+            },
+            {
+              "question": "How does A5 help with my River Vale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "River Vale is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your River Vale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.082+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "9add8c91-c54d-4da0-83c7-bdb2b3352a21",
+      "slug": "rochelle-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Rochelle Park, Bergen County",
+      "meta_title": "Rochelle Park Home Services | Bergen County",
+      "meta_description": "Plan a Rochelle Park home EV-charger request with equipment information, a proposed location and the Township's dedicated plan-review resource.",
+      "h1": "Home services in Rochelle Park.",
+      "primary_service_id": null,
+      "primary_location_id": "rochelle-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Rochelle Park, Bergen County?",
+      "direct_answer": "For a home EV-charger project in Rochelle Park, start with the charger information and proposed installation location. The Township's Building Department publishes a dedicated EV Charger Permit Requirements for Plan Review resource. Ask a qualified electrician and the department to confirm the current requirements for your installation before treating a product purchase as an installation plan.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give the electrician a location and equipment brief",
+          "paragraphs": [
+            "Explain where the vehicle is normally parked and where you would like the charger. Share the product information if you have selected equipment, plus accessible photos of the proposed area. Leave electrical-capacity assessment and equipment access to the electrician; do not open a panel or assume an existing outlet answers the installation question.",
+            "Rochelle Park lists an EV-specific plan-review document alongside its electrical application resources. Use the department's current guidance with the professional rather than relying on a generic online checklist. The existence of that resource does not establish approval for a particular product, property or installation method.",
+            "Ask the proposal to explain the electrical scope, any necessary surface access and who handles the applicable submissions and inspections. If a cable route affects a finished wall or outdoor surface, identify restoration as a separate line of work. Compare quotes on the same proposed equipment and location so differences in preparation are visible."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Rochelle Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Request an electrical installation assessment",
+              "body": "Share the charger information and proposed parking location. Ask the electrician to assess the installation and current local requirements.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Allow for wall restoration",
+              "body": "Identify finished surfaces that may be affected by the agreed electrical route. Plan drywall repairs after the underlying work is ready to close.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate exterior surface repairs",
+              "body": "If the professional scope affects paving or masonry, clarify restoration and access before final pricing. Do not assume excavation is necessary.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Rochelle Park provide a local resource for EV-charger projects?",
+              "answer": "Yes. The Building Department lists EV Charger Permit Requirements for Plan Review. Confirm the current document and project-specific requirements with the office and your electrician."
+            },
+            {
+              "question": "How does A5 help with my Rochelle Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Rochelle Park is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Rochelle Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.194+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "c45eeee9-61fd-4aee-8c17-d2d9fdb84161",
+      "slug": "rockleigh",
+      "page_type": "LOCATION",
+      "title": "Home services in Rockleigh, Bergen County",
+      "meta_title": "Rockleigh Home Services | Bergen County",
+      "meta_description": "Prepare Rockleigh exterior improvements with a historic-context check, existing-condition photos and a repair scope before selecting replacement materials.",
+      "h1": "Home services in Rockleigh.",
+      "primary_service_id": null,
+      "primary_location_id": "rockleigh",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Rockleigh, Bergen County?",
+      "direct_answer": "For a Rockleigh exterior project, check the property's historic context before finalizing visible changes. The Borough's Planning Board and Historic Preservation Commission page provides Historic Roadway Design Guidelines and a National Register nomination report. Ask the Borough how the resources and any current review apply to the property; they are not a substitute for project-specific direction.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Document the existing exterior before choosing a replacement",
+          "paragraphs": [
+            "Take clear photos of the feature needing attention and wider views showing its relationship to the home and road. Describe the condition separately from the proposed solution: a damaged detail, failing finish or worn surface may need an assessment before replacement is selected. Retain any relevant prior project records for the discussion.",
+            "Rockleigh's planning and preservation page makes the historic roadway materials available together. Use that local context to frame questions about the actual property and proposed work. This guide does not assign a designation, interpret the guidelines as a blanket rule or establish that a particular material is acceptable.",
+            "Ask professionals to distinguish repair, partial replacement and a broader redesign in their proposals. Describe visible finishes and dimensions consistently, and confirm the applicable review before committing to materials. A contractor's general category match through A5 does not establish preservation expertise; discuss the specific experience the job needs directly."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Rockleigh project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess exterior masonry condition",
+              "body": "Share close and wider photos of the affected feature. Ask about repair options and relevant experience before choosing a replacement appearance.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Define an exterior painting scope",
+              "body": "Identify the surfaces and existing finish condition. Coordinate proposed visible changes with the property's applicable local review.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Plan frontage landscape work",
+              "body": "Show retained features and proposed planting changes. Clarify the project boundary and local review before finalizing the layout.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I begin checking Rockleigh's historic exterior context?",
+              "answer": "The Borough's Planning Board/HPC page links Historic Roadway Design Guidelines and a National Register nomination report. Ask the Borough how current review applies to your property and proposal."
+            },
+            {
+              "question": "How does A5 help with my Rockleigh request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Rockleigh is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Rockleigh project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.314+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2b2a470e-8e79-4eac-897f-f834ca85c5dd",
+      "slug": "rutherford",
+      "page_type": "LOCATION",
+      "title": "Home services in Rutherford, Bergen County",
+      "meta_title": "Rutherford Home Services | Bergen County",
+      "meta_description": "Plan Rutherford exterior repairs with a public-tree responsibility check and coordinated access, material staging and private tree-service questions.",
+      "h1": "Home services in Rutherford.",
+      "primary_service_id": null,
+      "primary_location_id": "rutherford",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Rutherford, Bergen County?",
+      "direct_answer": "If a Rutherford exterior project involves a street or park tree, contact the Borough before arranging tree work. Its Tree Care and Services guidance directs public-tree concerns to DPW and the Shade Tree Commission and addresses protection during nearby construction. Clarify responsibility and applicable protection before combining a tree issue with private paving or landscape work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Account for nearby public trees in the work plan",
+          "paragraphs": [
+            "Photograph the tree and surrounding work area from the ground, and describe the proposed repair without attempting to prune or disturb it. Explain whether the concern is a tree condition, access obstruction or an adjacent surface. The location near your property does not by itself establish that you can authorize work on the tree.",
+            "Rutherford's public-tree guidance covers both direct tree injury and construction-related impacts, including material storage and nearby work. Ask DPW or the Shade Tree Commission about the specific tree and proposal. Do not use a contractor's estimate as a substitute for that local responsibility and protection check.",
+            "Give the paving, landscape and tree professionals the same site information so access and material staging are coordinated. Ask each proposal to identify work boundaries and any dependency on Borough direction. Keep private-tree assessment separate from public-tree requests, and avoid approving removal simply to make another job easier."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Rutherford project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify private tree-service scope",
+              "body": "Identify the tree and first confirm whether the Borough handles it. Discuss qualifications and the actual private work directly with the professional.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Plan adjacent masonry repairs",
+              "body": "Show the surface condition and nearby trees. Coordinate the repair approach with applicable protection and responsibility guidance.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Organize landscape access",
+              "body": "Identify planting work and the intended route for materials. Keep staging decisions consistent with the Borough's direction for public trees.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who should I contact about a Rutherford street-tree issue before hiring work?",
+              "answer": "The Borough directs public street and park tree concerns to DPW and the Shade Tree Commission for observation. Confirm responsibility and any protection requirements before arranging work."
+            },
+            {
+              "question": "How does A5 help with my Rutherford request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Rutherford is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Rutherford project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.412+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "85a1b208-f650-4d0f-89e3-9faf6770dc0d",
+      "slug": "saddle-brook",
+      "page_type": "LOCATION",
+      "title": "Home services in Saddle Brook, Bergen County",
+      "meta_title": "Saddle Brook Home Services | Bergen County",
+      "meta_description": "Plan Saddle Brook renovation stages around applicable rough inspections, framing review and coordinated wall restoration with your professionals.",
+      "h1": "Home services in Saddle Brook.",
+      "primary_service_id": null,
+      "primary_location_id": "saddle-brook",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Saddle Brook, Bergen County?",
+      "direct_answer": "For a permitted Saddle Brook renovation, agree on the inspection sequence before scheduling finish work. The Township's inspection-request guidance states that rough electrical, plumbing and fire inspections must pass before a framing inspection is requested. Confirm which inspections apply to the actual project and record their status before the next stage is booked.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Put inspection milestones in the renovation schedule",
+          "paragraphs": [
+            "List the trades involved and the areas being opened, altered or rebuilt. Ask the project lead to identify which work needs to remain available for inspection and who requests each visit. This helps avoid a finishing appointment arriving before underlying work has reached the required stage.",
+            "Saddle Brook's Building Department provides an online inspection-request process and identifies the rough-inspection sequence before framing. A request is not the same as an approved appointment or a passed inspection. Confirm current instructions with the office and rely on the actual project record rather than an informal assumption that another trade handled it.",
+            "Ask each professional to communicate completion and any correction items before the following trade begins. Keep photos and relevant records together, and clarify who authorizes wall closure. Once the underlying work and applicable reviews are complete, define drywall preparation and finish expectations so the final surfaces are included in the job."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Saddle Brook project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate electrical rough work",
+              "body": "Explain the planned changes and accessible work areas. Ask the electrician to identify applicable inspection milestones and communicate completion.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate plumbing work",
+              "body": "Share the fixture changes and project sequence. Confirm who handles the relevant requests and how corrections are communicated.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Schedule wall restoration at the right stage",
+              "body": "Define the surfaces to close and finish. Arrange drywall work after the project lead confirms the underlying work is ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What inspection sequence does Saddle Brook highlight for renovation work?",
+              "answer": "Its inspection-request guidance says rough electrical, plumbing and fire inspections must pass before a framing inspection is requested. Confirm which stages apply to your specific project."
+            },
+            {
+              "question": "How does A5 help with my Saddle Brook request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Saddle Brook is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Saddle Brook project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.518+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "02357780-1f5a-4a3c-8e27-a5a4b81681f6",
+      "slug": "saddle-river",
+      "page_type": "LOCATION",
+      "title": "Home services in Saddle River, Bergen County",
+      "meta_title": "Saddle River Home Services | Bergen County",
+      "meta_description": "Prepare Saddle River well or septic questions with property records, Health Office guidance and a specialist scope before planning related home repairs.",
+      "h1": "Home services in Saddle River.",
+      "primary_service_id": null,
+      "primary_location_id": "saddle-river",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Saddle River, Bergen County?",
+      "direct_answer": "If a Saddle River project involves a well or septic system, identify that clearly at the start. The Borough's Board of Health page directs installation, alteration, repair and abandonment questions for these systems to the Health Office. Confirm the applicable process and specialist qualifications before treating the work as a routine plumbing job.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the actual system records to define the request",
+          "paragraphs": [
+            "State whether the concern involves indoor fixtures, the water supply or an onsite wastewater system, and share existing professional findings. Use available plans and service records rather than guessing from the property's size or location. Do not assume every Saddle River home has the same water or wastewater arrangement.",
+            "The Borough's health guidance separates well and septic review from other municipal approvals and identifies local coordination for septic plans. Start with the Health Office for the actual system and proposed work. A plumbing-category match in A5's network does not confirm well or septic expertise, testing capability or the credentials required for the job.",
+            "Once the proper professional has defined the work, coordinate any access and surface restoration with that plan. Ask the proposal to identify the investigation, the approved repair scope where applicable and what records will be supplied afterward. Keep planting and paved-surface restoration separate so those tasks follow the underlying system work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Saddle River project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify the plumbing request",
+              "body": "Explain whether the issue is inside the home or involves a well or septic system. Confirm the professional's specific qualifications before agreeing on specialist work.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan landscape restoration",
+              "body": "Identify affected planting and access areas only after the system work is defined. Coordinate restoration with the responsible professional.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Identify surface repairs",
+              "body": "Describe paving or masonry affected by the agreed access route. Keep the restoration scope separate from diagnosis of the underlying system.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where should Saddle River well or septic project questions begin?",
+              "answer": "The Borough's Board of Health page directs these system questions to the Health Office. Confirm the applicable process and specialist qualifications; a general plumbing match does not establish that expertise."
+            },
+            {
+              "question": "How does A5 help with my Saddle River request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Saddle River is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Saddle River project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.61+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a0f661d9-04c1-43f8-8d34-0a0affdbf449",
+      "slug": "south-hackensack",
+      "page_type": "LOCATION",
+      "title": "Home services in South Hackensack, Bergen County",
+      "meta_title": "South Hackensack Home Services | Bergen County",
+      "meta_description": "Prepare a South Hackensack home-sale repair list around separate zoning, smoke and carbon monoxide inspection, and certificate requirements.",
+      "h1": "Home services in South Hackensack.",
+      "primary_service_id": null,
+      "primary_location_id": "south-hackensack",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in South Hackensack, Bergen County?",
+      "direct_answer": "For a South Hackensack residential sale, keep the municipal steps distinct when planning repairs. The Township's certificate guidance identifies a zoning permit, a smoke and carbon monoxide inspection, and a Certificate of Inspection. Confirm the current requirements for the transaction, then build a repair list from the actual findings rather than assuming one visit closes every requirement.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn transaction findings into a clear repair list",
+          "paragraphs": [
+            "Collect the current municipal instructions, relevant inspection findings and your own maintenance list in one place. Label each item by its source and the professional needed. That keeps a cosmetic task from being confused with a required correction and helps the contractor understand what evidence or follow-up may be needed.",
+            "South Hackensack's residential-sale guidance distinguishes zoning, smoke/CO inspection and certificate steps. Check the current process with the Township before setting a closing-related work schedule. A booked contractor or completed repair does not itself establish that the municipal requirements have been satisfied.",
+            "Ask for a room-by-room or itemized proposal and name who follows up on outstanding inspections or documentation. Keep small repairs, electrical concerns and cleaning as separate scopes where different skills are needed. Save the completed-work details alongside the official record so the remaining tasks are visible before the transaction deadline."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your South Hackensack project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Organize small repair items",
+              "body": "Provide the written list and photos, identifying which items came from an inspection. Confirm what the handyman can address and what requires another trade.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Review electrical correction items",
+              "body": "Share the actual findings with a qualified electrician. Ask for the repair scope and any applicable follow-up documentation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Arrange cleaning after repairs",
+              "body": "Identify the rooms and surfaces affected by the work. Schedule the final cleaning after the repair visits are complete.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is South Hackensack's residential-sale process just one certificate request?",
+              "answer": "The Township guidance identifies separate zoning, smoke/CO inspection and Certificate of Inspection steps. Confirm the current transaction requirements and track each step independently."
+            },
+            {
+              "question": "How does A5 help with my South Hackensack request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "South Hackensack is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your South Hackensack project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.725+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "512d8a94-d891-45b6-8b4f-efe2d496ab4b",
+      "slug": "teaneck",
+      "page_type": "LOCATION",
+      "title": "Home services in Teaneck, Bergen County",
+      "meta_title": "Teaneck Home Services | Bergen County",
+      "meta_description": "Prepare a Teaneck air-conditioning project with proposed condenser placement, survey information and the Township's equipment-review resources.",
+      "h1": "Home services in Teaneck.",
+      "primary_service_id": null,
+      "primary_location_id": "teaneck",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Teaneck, Bergen County?",
+      "direct_answer": "For a Teaneck air-conditioning condenser project, include the outdoor location in the planning discussion. The Township's building-permit guidance identifies survey and noise-form information for condensers and generators. Ask the Building Department and HVAC professional what applies to your proposal before assuming a preferred spot is ready for installation.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Include the outdoor equipment in the replacement brief",
+          "paragraphs": [
+            "Describe the cooling problem and whether the request concerns repair, replacement or a new arrangement. Share accessible photos of the existing equipment and surrounding area, along with any available survey. Have the HVAC professional assess the system rather than choosing capacity or an equipment location from appearance alone.",
+            "Teaneck's permit resources give outdoor equipment placement a specific documentation step through survey and noise information. Use the current guidance with the office and installer for the actual scope. This does not establish a setback, noise limit or automatic approval for a replacement in an existing location.",
+            "Ask the proposal to identify the proposed equipment, location and related electrical or landscape work. Coordinate access for service and any planting changes with the manufacturer's instructions and professional plan. Keep responsibility for submissions, installation and restoration clear so the finished job matches the reviewed proposal."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Teaneck project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the cooling system",
+              "body": "Share the operating concern and existing equipment information. Ask the HVAC professional to define the system and proposed outdoor location.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate related electrical work",
+              "body": "Have the installer identify the electrical scope. Confirm responsibility for that work and its place in the installation sequence.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plan nearby planting changes",
+              "body": "Show planting affected by the proposed equipment area. Coordinate landscaping with the professional's access and clearance requirements.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What local documentation should I ask about for a Teaneck condenser project?",
+              "answer": "The Township's building-permit guidance identifies survey and noise-form information for condensers. Confirm the current requirements for your proposed equipment and location with the office and installer."
+            },
+            {
+              "question": "How does A5 help with my Teaneck request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Teaneck is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Teaneck project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.836+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "63ad461e-2ba2-461c-8665-4bd5720c7677",
+      "slug": "tenafly",
+      "page_type": "LOCATION",
+      "title": "Home services in Tenafly, Bergen County",
+      "meta_title": "Tenafly Home Services | Bergen County",
+      "meta_description": "Plan Tenafly exterior repairs with a historic-status check, existing-material documentation and a clear scope before selecting visible changes.",
+      "h1": "Home services in Tenafly.",
+      "primary_service_id": null,
+      "primary_location_id": "tenafly",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Tenafly, Bergen County?",
+      "direct_answer": "Before changing an older Tenafly home's exterior, confirm its actual historic status. The Borough's Historic Development page provides a Certificate of Appropriateness resource for designated landmarks and separately describes centennial-house plaques. Age or a recognition plaque alone should not be used to infer the review that applies to a particular property.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Check status before turning a repair into an exterior redesign",
+          "paragraphs": [
+            "Photograph the damaged area and the whole exterior feature. Describe what is failing and what you hope to change, keeping repair needs separate from design preferences. Gather prior project records or designation information if available so the Borough and professionals can discuss the same property and scope.",
+            "Tenafly's historic-development resources distinguish landmark-related review from its centennial-house recognition program. Ask the relevant Borough office to confirm the property's status and current process for the proposed alteration. This guide does not designate a home or determine whether a particular repair needs a Certificate of Appropriateness.",
+            "Ask proposals to separate preparation, repair and replacement, with visible materials and finishes described clearly. Confirm applicable review before ordering products or starting demolition. For work that needs preservation experience, ask the professional about that experience directly; a general painting, masonry or roofing listing is not proof of specialist capability."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Tenafly project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define exterior finish work",
+              "body": "Identify the existing finish and the proposed change. Discuss preparation and applicable historic review before committing to a new appearance.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Assess masonry repair options",
+              "body": "Share close and wider views of the affected feature. Ask the professional to explain repair options and relevant material experience.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan a roof repair discussion",
+              "body": "Describe the condition and visible elements involved. Coordinate any proposed material change with the property's applicable review.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does an older Tenafly home or centennial plaque establish its historic-review requirements?",
+              "answer": "Do not infer the requirements from age or a plaque alone. The Borough separately describes centennial recognition and landmark-related Certificate of Appropriateness resources; confirm the property's status and proposed work with the office."
+            },
+            {
+              "question": "How does A5 help with my Tenafly request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Tenafly is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Tenafly project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:25.945+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f1acefe7-8886-451a-8aac-60215e455855",
+      "slug": "teterboro",
+      "page_type": "LOCATION",
+      "title": "Home services in Teterboro, Bergen County",
+      "meta_title": "Teterboro Home Services | Bergen County",
+      "meta_description": "Prepare Teterboro drainage and plumbing requests with clear observations and a distinction between Borough infrastructure and private-property work.",
+      "h1": "Home services in Teterboro.",
+      "primary_service_id": null,
+      "primary_location_id": "teterboro",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Teterboro, Bergen County?",
+      "direct_answer": "For a Teterboro water or drainage concern, identify whether the observation involves public infrastructure or the home before arranging private work. The Borough's DPW page lists sanitary-sewer and stormwater responsibilities, including catch basins and the Vincent Place pump station. Report the public-system concern to the appropriate office and ask a qualified professional to assess any separate private problem.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe what you observe without assuming the cause",
+          "paragraphs": [
+            "Record where and when the problem appears from a safe location. Distinguish an indoor fixture issue, roof runoff, a yard concern and a visible street-drain problem in the description. These observations help direct the first conversation, but they do not establish which system failed or who is responsible for the repair.",
+            "Teterboro's Public Works responsibilities include different sewer and stormwater facilities. Use that local distinction to route an infrastructure report rather than treating a private contractor as the authority for a Borough asset. Confirm the boundary and appropriate response with the office; this guide does not assign flood risk to a property or diagnose a system condition.",
+            "For the private portion, ask the professional to state what they will investigate and what the proposed work is intended to address. Keep roof drainage, indoor plumbing and landscape changes separate until their relationship is assessed. Save findings and photos so later work is based on the actual diagnosis rather than repeated guesses."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Teterboro project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the private plumbing concern",
+              "body": "Describe the affected fixtures and any professional findings. Clarify the private repair scope and any need to coordinate with the Borough.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Review roof-runoff symptoms",
+              "body": "Share ground-level observations of gutters and downspouts. Ask the professional to distinguish maintenance from a wider drainage issue.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Define the yard-work scope",
+              "body": "Explain where water is observed and provide any assessment already completed. Ask what a proposed landscape change would and would not address.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Teterboro DPW handle both sewer and stormwater infrastructure?",
+              "answer": "Its department page lists sanitary-sewer and stormwater responsibilities, including catch basins and the Vincent Place pump station. Confirm the relevant public-system contact and keep private repair diagnosis separate."
+            },
+            {
+              "question": "How does A5 help with my Teterboro request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Teterboro is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Teterboro project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:32:08.506Z",
+      "published_at": "2026-10-08T01:22:26.06+00:00",
+      "last_reviewed_at": "2026-10-08T17:32:08.506Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "e3e39457-0864-42a0-8f69-9ab5e6e6385f",
+      "title": "River Vale Building Department",
+      "url": "https://www.rivervalenj.org/page/building-department",
+      "publisher": "Township of River Vale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "cf91e3e3-1ebf-431b-8d6f-535049e16d73",
+      "title": "Rochelle Park Building Department Resources",
+      "url": "https://rochelleparknj.gov/building-department-2/",
+      "publisher": "Township of Rochelle Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "e398d1b9-b6a9-4e22-83f0-bda034c7d946",
+      "title": "Rockleigh Planning Board and Historic Preservation Commission",
+      "url": "https://www.rockleighnj.org/planning-hpc",
+      "publisher": "Borough of Rockleigh",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "d9cf9f2a-02e2-4ab7-8cc2-2c716420cc9a",
+      "title": "Rutherford Tree Care and Services",
+      "url": "https://www.rutherfordboronj.com/shade-tree-board-pages/351-tree-care-and-services",
+      "publisher": "Borough of Rutherford",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "c0a1a50c-51a1-48ce-831c-9fe55e98dce9",
+      "title": "Saddle Brook Inspection Requests",
+      "url": "https://saddlebrooknj.us/building-department/inspection-requests/",
+      "publisher": "Township of Saddle Brook",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "b3c2b57d-bc97-45e5-860d-872fc73cbf0f",
+      "title": "Saddle River Board of Health",
+      "url": "https://saddleriver.gov/board_health",
+      "publisher": "Borough of Saddle River",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "c42edfe3-1cee-4069-8e00-2be4e187b403",
+      "title": "South Hackensack Residential Certificate Guidance",
+      "url": "https://www.southhackensacknj.org/building/cco.php",
+      "publisher": "Township of South Hackensack",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "56687353-5f80-4229-8b11-684bab5f6085",
+      "title": "Teaneck Building Permits",
+      "url": "https://www.teanecknj.gov/building-and-business/building-permits/",
+      "publisher": "Township of Teaneck",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "f33778b5-1184-4920-8027-6cbcd64cdd3f",
+      "title": "Tenafly Historic Development",
+      "url": "https://www.tenaflynj.gov/463/Historic-Development",
+      "publisher": "Borough of Tenafly",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    },
+    {
+      "id": "fe31196e-4cec-4902-80bf-64f2797d5e60",
+      "title": "Teterboro Department of Public Works",
+      "url": "https://www.teterboronj.org/departments/dpw",
+      "publisher": "Borough of Teterboro",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:32:08.506Z",
+      "reviewed_at": "2026-10-08T17:32:08.506Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "2e04751e-24c0-4bc2-8bd1-9c4cbbb059b0",
+      "source_id": "e3e39457-0864-42a0-8f69-9ab5e6e6385f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "9add8c91-c54d-4da0-83c7-bdb2b3352a21",
+      "source_id": "cf91e3e3-1ebf-431b-8d6f-535049e16d73",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "c45eeee9-61fd-4aee-8c17-d2d9fdb84161",
+      "source_id": "e398d1b9-b6a9-4e22-83f0-bda034c7d946",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2b2a470e-8e79-4eac-897f-f834ca85c5dd",
+      "source_id": "d9cf9f2a-02e2-4ab7-8cc2-2c716420cc9a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "85a1b208-f650-4d0f-89e3-9faf6770dc0d",
+      "source_id": "c0a1a50c-51a1-48ce-831c-9fe55e98dce9",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "02357780-1f5a-4a3c-8e27-a5a4b81681f6",
+      "source_id": "b3c2b57d-bc97-45e5-860d-872fc73cbf0f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "a0f661d9-04c1-43f8-8d34-0a0affdbf449",
+      "source_id": "c42edfe3-1cee-4069-8e00-2be4e187b403",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "512d8a94-d891-45b6-8b4f-efe2d496ab4b",
+      "source_id": "56687353-5f80-4229-8b11-684bab5f6085",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "63ad461e-2ba2-461c-8665-4bd5720c7677",
+      "source_id": "f33778b5-1184-4920-8027-6cbcd64cdd3f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f1acefe7-8886-451a-8aac-60215e455855",
+      "source_id": "fe31196e-4cec-4902-80bf-64f2797d5e60",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "2e04751e-24c0-4bc2-8bd1-9c4cbbb059b0",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "9add8c91-c54d-4da0-83c7-bdb2b3352a21",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "c45eeee9-61fd-4aee-8c17-d2d9fdb84161",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "2b2a470e-8e79-4eac-897f-f834ca85c5dd",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "85a1b208-f650-4d0f-89e3-9faf6770dc0d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "02357780-1f5a-4a3c-8e27-a5a4b81681f6",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "a0f661d9-04c1-43f8-8d34-0a0affdbf449",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "512d8a94-d891-45b6-8b4f-efe2d496ab4b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "63ad461e-2ba2-461c-8665-4bd5720c7677",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "f1acefe7-8886-451a-8aac-60215e455855",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "batch": "10",
+  "sha256": "879870470eca2227e426a03342ea2158ebe25d4422567269cd886cc2719906ed",
+  "checkedAt": "2026-10-08T17:28:23.371Z",
+  "count": 10,
+  "sitemapCount": 216,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/norwood",
+      "status": 200,
+      "title": "Norwood Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare a Norwood water-service repair with a clear responsibility check, professional diagnosis, access information and a plan for restoring disturbed surfaces.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/oakland",
+      "status": 200,
+      "title": "Oakland Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Oakland drainage and exterior repair questions using Borough flood-map resources, site observations and a clearly defined professional scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/old-tappan",
+      "status": 200,
+      "title": "Old Tappan Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Old Tappan tree work with the Borough's application information, a clear tree inventory and coordinated removal, planting and site-restoration scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/oradell",
+      "status": 200,
+      "title": "Oradell Home Services | Bergen County | A5 Home Services",
+      "description": "Plan an Oradell generator inquiry with survey information, equipment documentation and coordinated electrical, fuel and site-work responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/palisades-park",
+      "status": 200,
+      "title": "Palisades Park Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Palisades Park repairs with clear permit responsibilities, realistic inspection access and coordinated contractor handoffs before finishing work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/park-ridge",
+      "status": 200,
+      "title": "Park Ridge Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Park Ridge electrical equipment work with the Borough utility's service resources, clear electrician responsibilities and coordinated equipment information.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/ramsey",
+      "status": 200,
+      "title": "Ramsey Home Services | Bergen County | A5 Home Services",
+      "description": "Organize Ramsey repair projects using the Borough's permit-status portal, prior-approval resources and a clear record of inspection and contractor next steps.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/ridgefield",
+      "status": 200,
+      "title": "Ridgefield Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Ridgefield yard cleanup with the Borough's Shaler Boulevard collection-area distinction, separate branch handling and clear professional removal responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/ridgefield-park",
+      "status": 200,
+      "title": "Ridgefield Park Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Ridgefield Park renovation cleanup with a clear contractor disposal scope and the Village's separate guidance for small resident-generated repair debris.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/river-edge",
+      "status": 200,
+      "title": "River Edge Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare River Edge outdoor improvements with survey information, exact proposed dimensions and coordinated landscape and hardscape plans for local review.",
+      "errors": []
+    }
+  ]
+}
