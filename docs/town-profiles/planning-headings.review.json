@@ -1,0 +1,9 @@
+{
+  "reviewedAt": "2026-10-08T18:44:49.952Z",
+  "sha256": "3cf5bd77bb53f5c2f46630fbc63151f21a2deeeeb8da0829694a8d81f9e2a12d",
+  "disposition": "APPROVED",
+  "reviewer": "Brand positioning ideas",
+  "scope": "Only primary_question and routine updated_at timestamp on the exact 202 authored records. Existing municipality/county wording retained. Prior batch manifests immutable.",
+  "treatment": "What should I know before planning a home project in {existing municipality and county}?",
+  "rationale": "Align inherited request-instructions heading with new local project-planning direct answer."
+}

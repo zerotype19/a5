@@ -1,0 +1,24 @@
+{
+  "batch": "21",
+  "sha256": "f1e8488ceb52f8a87f1dcb023746cd14c5146e1d5744d0d314118f8e8e82e28d",
+  "checkedAt": "2026-10-08T18:45:36.852Z",
+  "count": 2,
+  "sitemapCount": 318,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/washington-township-warren",
+      "status": 200,
+      "title": "Washington Township Home Services | Warren County | A5 Home Services",
+      "description": "Plan Washington Township, Warren County exterior work with clear property limits, road-maintenance questions and a practical cleanup or repair scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/white-township",
+      "status": 200,
+      "title": "White Township Home Services | Warren County | A5 Home Services",
+      "description": "Prepare White Township home improvements with the correct local zoning application, shared construction-office route and a consistent property-specific scope.",
+      "errors": []
+    }
+  ]
+}

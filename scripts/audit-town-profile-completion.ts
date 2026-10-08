@@ -37,6 +37,16 @@ for(let i=1;i<=21;i++){
 }
 if(authored.size!==queue.length||verified!==queue.length)errors.push('Incomplete queue');
 const changedFields=new Set(['sections','direct_answer','meta_description','indexable','reviewed_by','reviewed_at','last_reviewed_at','updated_at']);
+let alignedHeadings=0;
+if(process.argv.includes('--expect-planning-headings')){
+ const headings=JSON.parse(readFileSync('content/town-profiles/planning-headings.json','utf8')) as {id:string;after:string}[];
+ if(headings.length!==queue.length)errors.push('Incomplete heading correction');
+ for(const heading of headings){
+  if(!authored.has(heading.id)||live.content_pages.find(p=>p.id===heading.id)?.primary_question!==heading.after)errors.push(`Heading mismatch ${heading.id}`);
+  else alignedHeadings++;
+ }
+ changedFields.add('primary_question');
+}
 if(live.content_pages.length!==before.content_pages.length)errors.push('Content record count changed');
 for(const old of before.content_pages){
  const current=live.content_pages.find(p=>p.id===old.id);
@@ -56,6 +66,6 @@ const matrix=MUNICIPALITIES.flatMap(t=>SERVICES.map(s=>({town:t.id,service:s.id,
 const published=live.content_pages.filter(p=>p.status==='PUBLISHED');
 const locations=published.filter(p=>p.page_type==='LOCATION');
 for(const town of MUNICIPALITIES)if(!locations.some(p=>p.primary_location_id===town.id&&p.indexable))errors.push(`Missing indexable municipality ${town.id}`);
-const evidence={checkedAt:new Date().toISOString(),programProfiles:authored.size,verifiedProfiles:verified,publishedContent:published.length,indexableContent:published.filter(p=>p.indexable).length,locationRecords:locations.length,indexableLocations:locations.filter(p=>p.indexable).length,remainingNoindexLocations:locations.filter(p=>!p.indexable).length,municipalities:MUNICIPALITIES.length,serviceTownCombinations:matrix.length,minimumActiveEmailedMappedVendors:Math.min(...matrix.map(r=>r.count)),coverageMeaning:'Recorded active/email/service/town eligibility only; not specialty, availability, mailbox delivery or fulfillment.',unchanged,errors};
+const evidence={checkedAt:new Date().toISOString(),programProfiles:authored.size,verifiedProfiles:verified,alignedHeadings,publishedContent:published.length,indexableContent:published.filter(p=>p.indexable).length,locationRecords:locations.length,indexableLocations:locations.filter(p=>p.indexable).length,remainingNoindexLocations:locations.filter(p=>!p.indexable).length,municipalities:MUNICIPALITIES.length,serviceTownCombinations:matrix.length,minimumActiveEmailedMappedVendors:Math.min(...matrix.map(r=>r.count)),coverageMeaning:'Recorded active/email/service/town eligibility only; not specialty, availability, mailbox delivery or fulfillment.',unchanged,errors};
 writeFileSync('docs/town-profiles/COMPLETION.json',JSON.stringify(evidence,null,2)+'\n');
 console.log(evidence);if(errors.length)process.exitCode=1;
