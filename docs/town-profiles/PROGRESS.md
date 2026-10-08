@@ -61,3 +61,11 @@ Allendale, Alpine, Bergenfield, Bogota, Carlstadt, Cliffside Park, Closter, Cres
 ## Batch 07: ready for publication
 
 East Rutherford, Edgewater, Elmwood Park, Emerson, Englewood, Englewood Cliffs, Fair Lawn, Fairview, Fort Lee and Franklin Lakes. Brand positioning ideas approved all ten. Official sources distinguish transaction-related occupancy from repairs, public road authority from private ownership, and septic expertise from general plumbing. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 07: published and verified
+
+2026-10-08: PR #56 merged (ce7a0c8). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 186 URLs. Seventy completed; 132 remain. Closter's published article was also checked at 390px with clean wrapping and no horizontal overflow; viewport reset.
+
+## Batch 08: ready for publication
+
+Garfield, Glen Rock, Hackensack, Harrington Park, Hasbrouck Heights, Haworth, Hillsdale, Ho-Ho-Kus, Leonia and Little Ferry. Brand positioning ideas approved all ten. Leonia's source was verified in the live browser after HTTP blocking; no credentials required. Official guidance supports specific local planning distinctions, without parcel flood claims or broad permit exemptions. Tests, lint, typecheck and Next build passed. All 160 service/town combinations retain at least ten active emailed mapped vendors.
