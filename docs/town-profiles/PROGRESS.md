@@ -117,3 +117,11 @@ Elizabeth, Fanwood, Garwood, Hillside, Kenilworth, Linden, Mountainside, New Pro
 ## Batch 14: ready for publication
 
 Roselle, Roselle Park, Scotch Plains, Springfield, Union Township, Winfield, Bloomingdale, Haledon, Hawthorne and Little Falls finish Union and begin Passaic. Brand positioning ideas approved all ten. Source-backed distinctions include solar coordination, changes to approved plans and written contractor expectations. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 14: published and verified
+
+2026-10-08: PR #63 merged (aae5ee7). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 256 URLs. One hundred forty completed; 62 remain.
+
+## Batch 15: ready for publication
+
+North Haledon, Passaic, Paterson, Pompton Lakes, Prospect Park, Ringwood, Totowa, Wanaque, West Milford and Woodland Park finish Passaic. Brand positioning ideas approved all ten. North Haledon and Prospect Park resources verified in live browser; Paterson narrow claims checked against official indexed preservation document text. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.

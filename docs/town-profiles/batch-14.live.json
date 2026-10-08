@@ -1,0 +1,80 @@
+{
+  "batch": "14",
+  "sha256": "d5ea20c4b826a16dee36d9df280ccf1cf603a8f32a282e49094d91d5d65a4b35",
+  "checkedAt": "2026-10-08T18:03:56.380Z",
+  "count": 10,
+  "sitemapCount": 256,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/roselle",
+      "status": 200,
+      "title": "Roselle Home Services | Union County | A5 Home Services",
+      "description": "Prepare Roselle repair requests after an inspection with the correction report, permit context and a clear plan for repairs and reinspection.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/roselle-park",
+      "status": 200,
+      "title": "Roselle Park Home Services | Union County | A5 Home Services",
+      "description": "Plan Roselle Park basement improvements with condition photos, a defined finish scope and the Borough's basement and trade-work resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/scotch-plains",
+      "status": 200,
+      "title": "Scotch Plains Home Services | Union County | A5 Home Services",
+      "description": "Prepare Scotch Plains roofing requests around solar equipment with condition photos, structural-review questions and clear contractor responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/springfield",
+      "status": 200,
+      "title": "Springfield Home Services | Union County | A5 Home Services",
+      "description": "Plan Springfield renovation changes with updated scope, approved-plan questions and coordinated trade work before finishes conceal the changes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/union-township",
+      "status": 200,
+      "title": "Union Township Home Services | Union County | A5 Home Services",
+      "description": "Prepare Union Township driveway and yard requests by separating surface repair from expansion, with survey and zoning questions before pricing.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/winfield",
+      "status": 200,
+      "title": "Winfield Home Services | Union County | A5 Home Services",
+      "description": "Prepare Winfield home-service requests with clear materials, finish expectations and responsibilities, using the Township's contractor-selection guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/bloomingdale",
+      "status": 200,
+      "title": "Bloomingdale Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Bloomingdale home repairs with the correct property municipality, project records and clear questions for the shared construction office.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/haledon",
+      "status": 200,
+      "title": "Haledon Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Haledon renovation requests with trade sequencing, inspection questions and finish restoration planned before walls are closed.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hawthorne",
+      "status": 200,
+      "title": "Hawthorne Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Hawthorne sidewalk and front-walk repairs with clear location photos, scope boundaries and questions for the Borough's Building Department.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/little-falls",
+      "status": 200,
+      "title": "Little Falls Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Little Falls renovation requests with an exact work scope, property information and floodplain questions for the Township before finishes are chosen.",
+      "errors": []
+    }
+  ]
+}

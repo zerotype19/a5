@@ -1,0 +1,1310 @@
+{
+  "updates": [
+    {
+      "id": "5c9fc81b-03b2-417b-8a2b-b5678e64273f",
+      "slug": "north-haledon",
+      "page_type": "LOCATION",
+      "title": "Home services in North Haledon, Passaic County",
+      "meta_title": "North Haledon Home Services | Passaic County",
+      "meta_description": "Prepare North Haledon renovation requests with temporary storage, access and cleanup plans alongside the Borough's project application resources.",
+      "h1": "Home services in North Haledon.",
+      "primary_service_id": null,
+      "primary_location_id": "north-haledon",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in North Haledon, Passaic County?",
+      "direct_answer": "If a North Haledon renovation needs a storage pod, include its placement in the project plan. The Borough's construction application list includes a combined fence, shed, pod and driveway form. Ask the office about the current requirements for your proposed setup before arranging delivery; a temporary container is a separate planning question from the repair inside the home.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make room for the work without losing everyday access",
+          "paragraphs": [
+            "Describe what needs to be moved, the area being renovated and the access you must keep available. Show the intended delivery and storage location in photos or a sketch. Ask the professional how materials, tools and removed items will be managed rather than discovering on the first day that the work area has nowhere to go.",
+            "North Haledon's Construction Permits and Applications page provides a pod-related application among its local forms. Use it to start a property-specific discussion with the office. This guide does not establish allowable placement, duration or an exemption, and the form's existence is not approval for a particular container arrangement.",
+            "Keep storage, debris removal and final cleanup distinct in the quote. Identify who arranges each service, what belongs in storage and what is being discarded, and how access will work while the project is active. If the renovation schedule changes, revisit the temporary setup as well. A5's introduction helps begin the discussion; it does not reserve equipment or secure municipal permission."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your North Haledon project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clear the work area deliberately",
+              "body": "Identify items to remove and items to retain. Ask the junk-removal provider about accepted materials and access before scheduling pickup.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Plan interior painting access",
+              "body": "Show the rooms and furnishings that need protection or relocation. Agree on preparation and access arrangements with the painter.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Define the final cleaning stage",
+              "body": "Describe the completed work and surfaces to clean. Schedule cleaning around removal of tools, materials and temporary storage.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where do I start with a storage pod for a North Haledon project?",
+              "answer": "The Borough's construction application page lists a fence, shed, pod and driveway form. Describe the proposed location and duration to the office and confirm current requirements before delivery."
+            },
+            {
+              "question": "How does A5 help with my North Haledon request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "North Haledon is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your North Haledon project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:34.914+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1c4f9192-211a-4f5e-86bb-e88720a3913b",
+      "slug": "passaic",
+      "page_type": "LOCATION",
+      "title": "Home services in Passaic, Passaic County",
+      "meta_title": "Passaic Home Services | Passaic County",
+      "meta_description": "Prepare Passaic home-repair handoffs with existing project records, unfinished scope and the City's change-of-contractor resource.",
+      "h1": "Home services in Passaic.",
+      "primary_service_id": null,
+      "primary_location_id": "passaic",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Passaic, Passaic County?",
+      "direct_answer": "If a different professional will take over a Passaic project, identify the unfinished work and existing permit context first. The City's Construction and Zoning page provides a Change of Contractor Request resource. Ask the office which current steps apply before assuming that a new private agreement also updates the municipal project record.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give the next professional a clear starting point",
+          "paragraphs": [
+            "Gather the original scope, available plans, permit information, inspection findings and a list of what has actually been completed. Photograph accessible unfinished areas. Describe current conditions factually and ask the new professional to assess them rather than relying only on the earlier estimate or a disagreement about progress.",
+            "Passaic publishes a change-of-contractor resource alongside its construction forms. Confirm the process with the City for the specific permit and proposed handoff. This guide does not decide contractual rights, assign fault or authorize another person to change a record. Keep agreement questions and municipal documentation questions separate.",
+            "Ask the new quote to distinguish assessment, completion, correction and optional changes. Identify exclusions and responsibility for any required inspections or finish restoration. Do not assume the replacement professional will adopt the earlier contractor's scope, price or warranties. Save the agreed handoff details so all participants understand where the next phase begins."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Passaic project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define unfinished electrical work",
+              "body": "Share records and observed conditions. Ask the electrical professional to assess remaining work and relevant checks before quoting completion.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Clarify plumbing takeover scope",
+              "body": "Provide the original proposal and present status. Separate assessment and corrections from new fixtures or optional changes.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate remaining finish work",
+              "body": "List exposed or unfinished surfaces. Plan drywall completion after the responsible trades confirm readiness and applicable checks.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does hiring a new contractor automatically update a Passaic construction permit?",
+              "answer": "Do not assume so. The City provides a Change of Contractor Request resource. Ask the Construction and Zoning office what the specific project needs and keep that process separate from the private agreement."
+            },
+            {
+              "question": "How does A5 help with my Passaic request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Passaic is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Passaic project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.02+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "527929d6-0ddd-4003-85b2-cde5b4501454",
+      "slug": "paterson",
+      "page_type": "LOCATION",
+      "title": "Home services in Paterson, Passaic County",
+      "meta_title": "Paterson Home Services | Passaic County",
+      "meta_description": "Plan Paterson historic-home maintenance with condition photos, repair priorities and the City's preservation guidance before choosing replacement materials.",
+      "h1": "Home services in Paterson.",
+      "primary_service_id": null,
+      "primary_location_id": "paterson",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Paterson, Passaic County?",
+      "direct_answer": "For a Paterson home with historic features, begin with the condition and maintenance needs before choosing replacement. The City's preservation guidance emphasizes maintaining original materials and addressing deterioration early. Confirm the property's designation and applicable review separately; an older building is not automatically subject to the same process as every designated property.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn a historic exterior concern into a maintenance plan",
+          "paragraphs": [
+            "Photograph the affected detail and the wider building from a safe position. Identify whether the concern is peeling coating, water getting behind a surface, loose material or visible deterioration. Ask a professional with relevant experience to distinguish maintenance, localized repair and work that needs a preservation specialist.",
+            "Paterson's preservation introduction presents maintenance as a way to prolong the life of original features, with examples including roof repairs, gutters and exterior painting. Use that guidance to frame questions about your property. It does not establish the condition of an individual feature or mean that replacement can never be appropriate.",
+            "Compare proposals on preparation, compatible materials and the parts of the original feature that can be retained. Ask about property-specific review before ordering a substitute product. Keep routine maintenance findings and photos together for the next visit. A5 connects the request to independent professionals; a category match does not certify restoration expertise or provide historic approval."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Paterson project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Check roof repair priorities",
+              "body": "Share visible symptoms and relevant records. Ask for an assessment that distinguishes a localized repair from broader replacement or specialist work.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            },
+            {
+              "title": "Plan gutter maintenance carefully",
+              "body": "Describe overflow, loose sections or other observed concerns. Discuss the building details and suitable repair approach directly with the professional.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Define exterior paint preparation",
+              "body": "Identify the feature, existing finish and condition. Confirm experience with the materials and any specialist assessment before agreeing on preparation.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why start with maintenance on a Paterson historic exterior?",
+              "answer": "The City's preservation guidance emphasizes prolonging the life of original materials and addressing deterioration early. Have the actual condition assessed and confirm any applicable property review before making replacement decisions."
+            },
+            {
+              "question": "How does A5 help with my Paterson request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Paterson is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Paterson project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.146+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "39c3a4c5-0839-46d2-8623-5d16a9b2e9e9",
+      "slug": "pompton-lakes",
+      "page_type": "LOCATION",
+      "title": "Home services in Pompton Lakes, Passaic County",
+      "meta_title": "Pompton Lakes Home Services | Passaic County",
+      "meta_description": "Prepare Pompton Lakes repairs with available project history and the Borough's guidance for finding older permits missing from its online database.",
+      "h1": "Home services in Pompton Lakes.",
+      "primary_service_id": null,
+      "primary_location_id": "pompton-lakes",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Pompton Lakes, Passaic County?",
+      "direct_answer": "If an older Pompton Lakes permit does not appear online, do not assume no permit existed. The Borough's Building Department says records before 2000 may be absent from its online database and directs older-record searches through the Clerk's public-records process. Use that distinction when assembling the history for a new repair.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Treat a missing online record as a question to resolve",
+          "paragraphs": [
+            "Start with the property address, any known permit number and an approximate date or description of the earlier work. Keep owner-held documents and photographs with the search information. Tell the professional which facts are documented and which are uncertain so the present assessment is not built around an assumption.",
+            "Pompton Lakes explains the limits of its online construction database and identifies a separate route for earlier records. Confirm current search instructions with the Borough. Finding a permit still does not establish present-day condition or approval for a new alteration; the record provides context for questions and assessment.",
+            "Ask the repair proposal to distinguish investigation, work supported by current findings and optional changes. If an earlier project affects access or the current scope, identify that dependency before finishes are removed. Save newly obtained records with the completed repair information to make future maintenance easier to understand."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Pompton Lakes project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess an earlier plumbing installation",
+              "body": "Share available history and today's symptom. Ask the plumber to assess the current issue without treating a missing online permit as a diagnosis.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Review electrical changes in context",
+              "body": "Explain the proposed work and known earlier alterations. Keep record questions separate from the qualified professional's current assessment.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Scope roof repair using current findings",
+              "body": "Provide earlier roof information if available and describe the present concern. Ask the roofer to verify the condition before defining repairs.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why might an old Pompton Lakes permit not show up online?",
+              "answer": "The Borough says permits before 2000 may not appear in the online database. Its Building Department directs older-record searches through the Clerk's public-records process; confirm the current route for your request."
+            },
+            {
+              "question": "How does A5 help with my Pompton Lakes request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Pompton Lakes is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Pompton Lakes project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.251+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b6cd875c-b2dc-4692-8019-c6d79b60d4f2",
+      "slug": "prospect-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Prospect Park, Passaic County",
+      "meta_title": "Prospect Park Home Services | Passaic County",
+      "meta_description": "Prepare Prospect Park repair and turnover requests with the correct sale or rental context and the Borough's distinct certificate resources.",
+      "h1": "Home services in Prospect Park.",
+      "primary_service_id": null,
+      "primary_location_id": "prospect-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Prospect Park, Passaic County?",
+      "direct_answer": "For a Prospect Park turnover project, say whether the property is being sold or a tenant is changing. The Borough's Housing Department distinguishes a Certificate of Compliance for a sale from a Certificate of Occupancy for a tenant change. Confirm the current process before building your repair and cleaning schedule around an assumed inspection.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the type of turnover clear in the request",
+          "paragraphs": [
+            "List the property, affected rooms, visible repairs and intended turnover date. Share any written inspection findings rather than describing the job only as making the home ready. Ask the professional to separate the reported repairs from optional presentation improvements and identify work that needs another trade.",
+            "Prospect Park publishes separate certificate resources for rental changes and sales. Use the correct municipal pathway and confirm current documentation and scheduling with the Housing Department. A5 does not perform the inspection, certify occupancy or determine whether a property can be transferred or occupied.",
+            "Plan underlying repairs before paint touch-ups and final cleaning, allowing for applicable checks. Have the quote state access arrangements, cleanup and exclusions. Do not treat a clean appearance as proof that a certificate will be issued, or assume that a turnover certificate resolves every construction-permit question. Keep the final documents and work records together for the property."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Prospect Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "List small turnover repairs",
+              "body": "Provide itemized tasks and any official findings. Confirm which repairs fit the handyman's scope and which require a qualified trade.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Refresh finishes after repairs",
+              "body": "Identify surfaces and preparation needs. Coordinate painting after underlying repairs and relevant checks are complete.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Schedule the final clean",
+              "body": "Describe the rooms and included tasks. Keep cleaning after the work that creates dust or requires repeated access.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Are Prospect Park sale and tenant-change certificates the same?",
+              "answer": "The Housing Department describes different certificate resources: Compliance for a sale and Occupancy for a tenant change. Confirm the current requirements and inspection process for the property's actual situation."
+            },
+            {
+              "question": "How does A5 help with my Prospect Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Prospect Park is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Prospect Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.358+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f75832a9-c239-4e94-8e90-7465e76aa634",
+      "slug": "ringwood",
+      "page_type": "LOCATION",
+      "title": "Home services in Ringwood, Passaic County",
+      "meta_title": "Ringwood Home Services | Passaic County",
+      "meta_description": "Prepare Ringwood plumbing and yard requests with known septic-system information and the Borough's specialist maintenance and repair resources.",
+      "h1": "Home services in Ringwood.",
+      "primary_service_id": null,
+      "primary_location_id": "ringwood",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Ringwood, Passaic County?",
+      "direct_answer": "If a Ringwood property uses a septic system, include that fact in plumbing and yard requests. The Borough's Health Department publishes septic maintenance, repair and installation resources, including specialist listings. Confirm the expertise required for the actual work; ordinary plumbing or landscaping coverage does not establish septic design, installation or inspection qualifications.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Tell each professional where the septic scope begins",
+          "paragraphs": [
+            "Gather available system records and describe the observed issue without opening or entering system components. Distinguish an indoor fixture concern from a suspected system problem. If yard work is planned, share known system information with the professional before equipment or materials are placed in the work area.",
+            "Ringwood provides separate resources for septic operation, maintenance, repair and installation, along with Health Department contacts. Use those resources to clarify the current process and the specialist needed. Do not assume that every home uses the same wastewater arrangement or infer the cause of a plumbing symptom from location alone.",
+            "Ask the quote to define the assessment, work boundaries and any coordination with a septic specialist or municipal office. Keep planting or hardscape restoration separate from system work and tied to an agreed plan. A5 can introduce service providers, but specialist credentials, system decisions and applicable approvals must be confirmed directly before proceeding."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Ringwood project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Describe the indoor plumbing symptom",
+              "body": "Share the fixture issue and known wastewater arrangement. Ask the plumber to clarify their scope and whether a septic specialist should assess further.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan yard work around known systems",
+              "body": "Provide available location records and describe the intended work. Confirm access and specialist coordination before disturbing the area.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate hardscape boundaries",
+              "body": "Show the proposed surface and known system information. Keep masonry work dependent on the appropriate assessment and reviewed layout.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does an A5 plumbing match establish septic-system expertise in Ringwood?",
+              "answer": "No. Confirm relevant qualifications directly. Ringwood's Health Department provides septic resources and specialist listings to help distinguish system work from ordinary plumbing maintenance."
+            },
+            {
+              "question": "How does A5 help with my Ringwood request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Ringwood is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Ringwood project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.464+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "faaaa4ea-62a9-4500-8603-5c584d573a72",
+      "slug": "totowa",
+      "page_type": "LOCATION",
+      "title": "Home services in Totowa, Passaic County",
+      "meta_title": "Totowa Home Services | Passaic County",
+      "meta_description": "Prepare Totowa fence-replacement requests with existing-line photos, local permit questions and a defined plan for adjoining yard work.",
+      "h1": "Home services in Totowa.",
+      "primary_service_id": null,
+      "primary_location_id": "totowa",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Totowa, Passaic County?",
+      "direct_answer": "For a Totowa fence replacement, photograph the existing fence and describe what will change before obtaining a final proposal. The Borough's Building Department explicitly includes fence replacements in its permit guidance. Confirm the current requirements for the specific work; replacing an existing feature should not be treated automatically as permission to change its location or size.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define the fence work and the yard work separately",
+          "paragraphs": [
+            "Show the existing fence, gates and adjacent planting, and gather a survey if available. Distinguish a small repair from replacing posts, sections or the entire fence. Do not rely on the current fence as proof of a property boundary; ask the appropriate professional or municipal office about uncertainty before changing the layout.",
+            "Totowa's Building Department identifies fence replacement among projects to discuss through its permit process. Describe the actual proposed materials and dimensions to confirm what applies now. This guide does not establish a permitted height, setback or property line, and an A5 match does not grant zoning approval.",
+            "Ask the proposal to identify removal, installation, access protection and restoration of disturbed ground. Confirm that the selected provider actually handles the fence material and work required; broad landscaping or handyman categories do not establish specialist fencing capability. Keep optional yard improvements separate until the fence scope and relevant review are clear."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Totowa project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess small fence-related repairs",
+              "body": "List the individual repairs and existing materials. Confirm the handyman's experience and limits before assigning structural or full replacement work.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Plan adjoining landscape restoration",
+              "body": "Show beds and lawn that may be disturbed. Coordinate restoration with the agreed fence scope and final access arrangement.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Arrange removal of discarded materials",
+              "body": "Describe the old material and quantity. Confirm accepted items and pickup access with the removal provider before demolition starts.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I check with Totowa before replacing an existing fence?",
+              "answer": "Yes. The Building Department specifically lists fence replacement in its permit guidance. Describe the proposed work and confirm current requirements rather than assuming the existing fence settles the question."
+            },
+            {
+              "question": "How does A5 help with my Totowa request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Totowa is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Totowa project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.568+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "fe56f035-bb8f-4ee4-8e9c-49f081ff3003",
+      "slug": "wanaque",
+      "page_type": "LOCATION",
+      "title": "Home services in Wanaque, Passaic County",
+      "meta_title": "Wanaque Home Services | Passaic County",
+      "meta_description": "Prepare Wanaque tree and landscape requests with condition photos, local application questions and clear restoration responsibilities.",
+      "h1": "Home services in Wanaque.",
+      "primary_service_id": null,
+      "primary_location_id": "wanaque",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Wanaque, Passaic County?",
+      "direct_answer": "If a Wanaque yard project includes tree removal, treat that as a specific scope item before finalizing the landscape work. The Borough's Building and Zoning page provides a tree-removal application and identifies tree permits among its responsibilities. Ask the office and qualified tree professional which current requirements apply to the actual proposal.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Assess the tree before designing around its removal",
+          "paragraphs": [
+            "Photograph the tree and surrounding work area from a safe position. Explain the observed concern and the purpose of the yard project without assuming removal is the only answer. Ask a qualified professional to assess the condition and options before pricing a layout that depends on the tree disappearing.",
+            "Wanaque publishes a tree-removal application alongside its other Building and Zoning resources. Use that route for property-specific questions. This guide does not determine whether an individual tree qualifies for removal, establish an exemption or authorize work; current requirements and professional assessment remain separate steps.",
+            "Ask the proposal to distinguish tree work, stump treatment if included, debris removal and restoration. Confirm access, protection of surrounding areas and who coordinates applicable municipal paperwork. Keep landscape installation tied to the final agreed scope. A5's service-category matching helps make an introduction, but it does not establish every specialist qualification or promise a removal outcome."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Wanaque project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Request a tree assessment",
+              "body": "Describe the concern and share ground-level photos. Confirm qualifications and the proposed scope directly before choosing removal or another approach.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Plan landscape restoration",
+              "body": "Identify planting and lawn areas affected by the potential work. Wait for a defined tree scope before finalizing restoration materials.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Review nearby hardscape condition",
+              "body": "Show adjacent paths or masonry and observed damage. Ask for assessment rather than attributing the issue to the tree without evidence.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I find Wanaque's tree-removal application?",
+              "answer": "The Borough's Building and Zoning page links it. Confirm current requirements for the property and tree with the office and qualified professional before work is arranged."
+            },
+            {
+              "question": "How does A5 help with my Wanaque request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Wanaque is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Wanaque project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.672+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "8502b0d1-833a-4695-8039-a9f2e3b7f0f0",
+      "slug": "west-milford",
+      "page_type": "LOCATION",
+      "title": "Home services in West Milford, Passaic County",
+      "meta_title": "West Milford Home Services | Passaic County",
+      "meta_description": "Prepare West Milford lake-community projects with property records, association questions and a clear scope before landscape or hardscape changes.",
+      "h1": "Home services in West Milford.",
+      "primary_service_id": null,
+      "primary_location_id": "west-milford",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in West Milford, Passaic County?",
+      "direct_answer": "For work near a West Milford lake community, identify the property and proposed changes before finalizing the scope. The Township's environmental-health FAQ calls attention to lake-property considerations and coordination with the relevant property owners association. Confirm current municipal, state and association requirements for the actual project; this guide does not assign parcel restrictions.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve the site questions before ordering the finished project",
+          "paragraphs": [
+            "Collect available survey and system records, describe the intended work and photograph the existing area. Explain any known association involvement or earlier approvals. A nearby lake is a reason to ask specific questions, not enough information to decide the site's soils, wastewater arrangement or regulatory status.",
+            "West Milford's FAQ discusses lake properties alongside environmental-health and septic issues. Because individual conditions and current rules matter, use it as a route to the appropriate office rather than copying a generalized threshold into the project plan. Ask which documentation and review channels apply before changing ground, structures or related systems.",
+            "Keep assessment, design and installation responsibilities distinct in the proposal. Confirm the professional's relevant experience and any need for engineering or other specialists. Have landscape and masonry work follow the same agreed plan, and retain the final records. An A5 introduction does not replace association permission, municipal approval or specialist design."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your West Milford project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the yard change",
+              "body": "Show the intended area and describe the work. Ask the landscape professional about site questions and review dependencies before final pricing.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate a hardscape proposal",
+              "body": "Provide the proposed footprint and known property information. Keep masonry installation aligned with the reviewed plan and specialist input where needed.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Clarify plumbing versus system work",
+              "body": "Describe the symptom and available system history. Confirm the plumber's scope and any separate septic or engineering expertise required.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should a West Milford lake-community project include association questions?",
+              "answer": "Yes, where an association applies. The Township FAQ flags lake-community coordination. Confirm the current property-specific municipal, state and association requirements rather than assuming one approval covers them all."
+            },
+            {
+              "question": "How does A5 help with my West Milford request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "West Milford is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your West Milford project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:35.898+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "23cff5f1-f1c8-4626-81d3-3088e8428882",
+      "slug": "woodland-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Woodland Park, Passaic County",
+      "meta_title": "Woodland Park Home Services | Passaic County",
+      "meta_description": "Prepare Woodland Park heating-equipment requests with fuel, electrical and venting details and questions about the applicable trade reviews.",
+      "h1": "Home services in Woodland Park.",
+      "primary_service_id": null,
+      "primary_location_id": "woodland-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Woodland Park, Passaic County?",
+      "direct_answer": "For a Woodland Park heating-equipment change, describe the whole installation rather than only the replacement unit. The Borough's Department of Inspections lists different responsibilities for electrical, plumbing and fire subcodes, including equipment-related work. Ask the professional and office which current reviews apply to the actual system and proposed change.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Price the connections and coordination alongside the equipment",
+          "paragraphs": [
+            "Provide the equipment type, available model information, observed problem and accessible photos. Explain whether the proposal keeps the same arrangement or changes fuel, location or related connections. Have the qualified professional assess the system; do not assume that selecting a unit determines the entire installation scope.",
+            "Woodland Park's inspection guidance distinguishes electrical equipment, plumbing and fuel connections, and fire-related systems. Use those distinctions to ask who will handle each relevant part of the project and municipal process. They are not a claim that every replacement needs all subcodes or that a single A5 category establishes every required qualification.",
+            "Ask the quote to separate equipment, connections, any related building work and finish restoration. Confirm exclusions, applicable inspection coordination and completion records before agreeing on the schedule. If assessment identifies additional work, update the proposal rather than relying on the original equipment-only price. The independent professionals determine scope and timing directly with you."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Woodland Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the heating and cooling scope",
+              "body": "Share equipment information and the proposed change. Ask the HVAC professional to define connections, exclusions and coordination needs.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Clarify electrical work",
+              "body": "Describe the equipment proposal and existing accessible information. Confirm whether a separate electrical scope is needed and who handles it.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Identify plumbing-related connections",
+              "body": "Explain the system and intended changes. Ask the qualified plumber to define their role rather than assuming all connection work is included.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Could a Woodland Park heating project involve more than one trade?",
+              "answer": "Yes, depending on the system and changes. The Department of Inspections describes electrical, plumbing and fire responsibilities for different equipment-related work. Confirm the applicable scope and reviews with the professionals and office."
+            },
+            {
+              "question": "How does A5 help with my Woodland Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Woodland Park is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Woodland Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:02:45.589Z",
+      "published_at": "2026-10-08T01:22:36.01+00:00",
+      "last_reviewed_at": "2026-10-08T18:02:45.589Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "2a2be859-a969-4b44-8287-742fa3012501",
+      "title": "North Haledon Construction Permits and Applications",
+      "url": "https://www.northhaledon.com/departments/construction_department/construction_permits_and_applications.php",
+      "publisher": "Borough of North Haledon",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "33251d48-9a47-4411-8a71-199ea1a628b4",
+      "title": "Passaic Construction and Zoning",
+      "url": "https://www.cityofpassaic.com/247/Code-Enforcement-Zoning",
+      "publisher": "City of Passaic",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "d80c7a69-a85b-408f-8b20-af364e09164b",
+      "title": "Paterson Historic Preservation Guidelines: Introduction",
+      "url": "https://www.patersonnj.gov/egov/apps/document/center.egov?id=1813&view=item",
+      "publisher": "City of Paterson",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "b57614f0-94f4-42f5-8f81-74d6db97d937",
+      "title": "Pompton Lakes Building Department",
+      "url": "https://pomptonlakes-nj.gov/192/Building-Department",
+      "publisher": "Borough of Pompton Lakes",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "5913e640-9f83-4369-86bf-4bf48aed468f",
+      "title": "Prospect Park Housing Department",
+      "url": "https://www.prospectpark.net/departments/housing_department/index.php",
+      "publisher": "Borough of Prospect Park, New Jersey",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "47752501-e80d-4190-8cab-d6e6e3e74b55",
+      "title": "Ringwood Septic Systems",
+      "url": "https://ringwoodnj.net/content/2347/2357/5648.aspx",
+      "publisher": "Borough of Ringwood",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "160f1b0f-2fed-4a69-85f7-8f16aa915b39",
+      "title": "Totowa Building Department",
+      "url": "https://www.totowanj.org/building",
+      "publisher": "Borough of Totowa",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "755e2596-5580-4d64-8633-211438348ddc",
+      "title": "Wanaque Building and Zoning",
+      "url": "https://wanaquenj.gov/buildingzoning",
+      "publisher": "Borough of Wanaque",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "fd95ad2c-817c-4389-887e-05339012baa9",
+      "title": "West Milford Township FAQs",
+      "url": "https://westmilford.org/cn/faq/index.cfm",
+      "publisher": "Township of West Milford",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    },
+    {
+      "id": "1a944409-c7cb-441f-8c9e-9a835f740ae7",
+      "title": "Woodland Park Department of Inspections",
+      "url": "https://wpnj.us/building",
+      "publisher": "Borough of Woodland Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:02:45.589Z",
+      "reviewed_at": "2026-10-08T18:02:45.589Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "5c9fc81b-03b2-417b-8a2b-b5678e64273f",
+      "source_id": "2a2be859-a969-4b44-8287-742fa3012501",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1c4f9192-211a-4f5e-86bb-e88720a3913b",
+      "source_id": "33251d48-9a47-4411-8a71-199ea1a628b4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "527929d6-0ddd-4003-85b2-cde5b4501454",
+      "source_id": "d80c7a69-a85b-408f-8b20-af364e09164b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "39c3a4c5-0839-46d2-8623-5d16a9b2e9e9",
+      "source_id": "b57614f0-94f4-42f5-8f81-74d6db97d937",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b6cd875c-b2dc-4692-8019-c6d79b60d4f2",
+      "source_id": "5913e640-9f83-4369-86bf-4bf48aed468f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f75832a9-c239-4e94-8e90-7465e76aa634",
+      "source_id": "47752501-e80d-4190-8cab-d6e6e3e74b55",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "faaaa4ea-62a9-4500-8603-5c584d573a72",
+      "source_id": "160f1b0f-2fed-4a69-85f7-8f16aa915b39",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "fe56f035-bb8f-4ee4-8e9c-49f081ff3003",
+      "source_id": "755e2596-5580-4d64-8633-211438348ddc",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "8502b0d1-833a-4695-8039-a9f2e3b7f0f0",
+      "source_id": "fd95ad2c-817c-4389-887e-05339012baa9",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "23cff5f1-f1c8-4626-81d3-3088e8428882",
+      "source_id": "1a944409-c7cb-441f-8c9e-9a835f740ae7",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "5c9fc81b-03b2-417b-8a2b-b5678e64273f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "1c4f9192-211a-4f5e-86bb-e88720a3913b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "527929d6-0ddd-4003-85b2-cde5b4501454",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "39c3a4c5-0839-46d2-8623-5d16a9b2e9e9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "b6cd875c-b2dc-4692-8019-c6d79b60d4f2",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "f75832a9-c239-4e94-8e90-7465e76aa634",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "faaaa4ea-62a9-4500-8603-5c584d573a72",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "fe56f035-bb8f-4ee4-8e9c-49f081ff3003",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "8502b0d1-833a-4695-8039-a9f2e3b7f0f0",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "23cff5f1-f1c8-4626-81d3-3088e8428882",
+      "relationship_type": "RELATED"
+    }
+  ]
+}
