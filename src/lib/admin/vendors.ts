@@ -1,3 +1,4 @@
+import {readAllRows} from "./read-all.ts";
 import { getLocationById, type LocationId } from "../../../config/locations.ts";
 import { getServiceById, type ServiceId } from "../../../config/services.ts";
 import { getSupabaseAdmin } from "../supabase/admin.ts";
@@ -71,26 +72,14 @@ async function coverageFor(vendorIds: string[]): Promise<{
   const locations = new Map<string, string[]>();
   if (vendorIds.length === 0) return { services, locations };
   const admin = getSupabaseAdmin();
-  const { data: serviceRows, error: serviceErr } = await admin
-    .from("vendor_services")
-    .select("vendor_id, service_id")
-    .in("vendor_id", vendorIds);
-  if (serviceErr) {
-    throw new Error(`admin_vendor_services:${serviceErr.code ?? "error"}`);
-  }
+  const serviceRows = await readAllRows((from,to)=>admin.from("vendor_services").select("vendor_id, service_id").in("vendor_id",vendorIds).order("vendor_id").order("service_id").range(from,to),"admin_vendor_services");
   for (const row of serviceRows ?? []) {
     const id = row.vendor_id as string;
     const list = services.get(id) ?? [];
     list.push(row.service_id as string);
     services.set(id, list);
   }
-  const { data: locationRows, error: locationErr } = await admin
-    .from("vendor_locations")
-    .select("vendor_id, location_id")
-    .in("vendor_id", vendorIds);
-  if (locationErr) {
-    throw new Error(`admin_vendor_locations:${locationErr.code ?? "error"}`);
-  }
+  const locationRows = await readAllRows((from,to)=>admin.from("vendor_locations").select("vendor_id, location_id").in("vendor_id",vendorIds).order("vendor_id").order("location_id").range(from,to),"admin_vendor_locations");
   for (const row of locationRows ?? []) {
     const id = row.vendor_id as string;
     const list = locations.get(id) ?? [];
@@ -128,14 +117,7 @@ function mapVendor(
 
 export async function loadVendors(): Promise<VendorCoverage[]> {
   const admin = getSupabaseAdmin();
-  const { data, error } = await admin
-    .from("vendors")
-    .select(
-      "id, business_name, contact_name, phone, email, website, source, source_url, discovery_notes, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes",
-    )
-    .order("business_name", { ascending: true });
-  if (error) throw new Error(`admin_vendors:${error.code ?? "error"}`);
-  const rows = (data ?? []) as VendorRecord[];
+  const rows = await readAllRows((from,to)=>admin.from("vendors").select("id, business_name, contact_name, phone, email, website, source, source_url, discovery_notes, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes").order("business_name").order("id").range(from,to),"admin_vendors") as VendorRecord[];
   const coverage = await coverageFor(rows.map((row) => row.id));
   return rows.map((row) => mapVendor(row, coverage.services, coverage.locations));
 }

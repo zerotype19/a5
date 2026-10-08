@@ -10,6 +10,7 @@ import styles from "./admin.module.css";
 
 const NAV = [
   { href: "/admin", label: "Overview", exact: true },
+  { href: "/admin/queue", label: "Work queue", exact: false },
   { href: "/admin/leads", label: "Leads", exact: false },
   { href: "/admin/vendors", label: "Vendors", exact: false },
   { href: "/admin/acquisition", label: "Acquisition", exact: false },

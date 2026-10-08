@@ -29,5 +29,5 @@ export default async function CountyAuthorityPage({ params }: Props) {
   const result = await loadCountyPage(county);
   if (result.status !== "ok") notFound();
   const pages=await fetchPublishedPages();
-  return <AuthorityPage page={result.page} discoveryPages={pages}><MunicipalityDirectory countyId={getCountyBySlug(county)!.id} publishedHubSlugs={pages.filter(p=>p.page_type==="LOCATION"&&p.indexable).map(p=>p.slug)} /></AuthorityPage>;
+  return <AuthorityPage page={result.page} discoveryPages={pages}><MunicipalityDirectory countyId={getCountyBySlug(county)!.id} publishedHubSlugs={pages.filter(p=>p.page_type==="LOCATION").map(p=>p.slug)} /></AuthorityPage>;
 }

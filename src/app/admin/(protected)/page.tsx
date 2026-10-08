@@ -13,7 +13,7 @@ export default async function AdminDashboardPage() {
 
   return (
     <>
-      <AdminPageHeader title="Overview" description="Review new requests, move active projects forward, and keep provider handoffs on track." actions={<Link className={styles.primaryButton} href="/admin/leads?attention=1">Review new leads <ArrowIcon direction="up-right" /></Link>} />
+      <AdminPageHeader title="Overview" description="Review new requests, move active projects forward, and keep provider handoffs on track." actions={<Link className={styles.primaryButton} href="/admin/queue">Open work queue <ArrowIcon direction="up-right" /></Link>} />
       <section className={styles.section} aria-labelledby="needs-attention">
         <h2 id="needs-attention" className={styles.sectionTitle}>
           Needs attention

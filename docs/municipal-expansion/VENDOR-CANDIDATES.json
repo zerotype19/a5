@@ -1,0 +1,598 @@
+{
+  "batch": "a5-north-jersey-2026-10-08",
+  "mapping_basis": "Business-owned service pages and explicit advertised county territories, reconciled to registry municipality IDs. This is prospect reach, not confirmed capacity. No address-only or directory-only county expansion.",
+  "candidates": [
+    {
+      "business_name": "Griffith Handyman",
+      "website": "https://www.griffithhandyman.com/",
+      "phone": "973-831-6102",
+      "email": "jim@griffithhandyman.com",
+      "services": [
+        "handyman",
+        "masonry",
+        "painting",
+        "drywall",
+        "tile"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.griffithhandyman.com/",
+        "https://www.griffithhandymannj.com/contact/"
+      ],
+      "evidence_summary": "Business explicitly advertises all towns in seven named counties. Masonry and tile mappings are for repair work; confirm project size. Both domains identify the same business and phone.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Sentinel Handyman LLC",
+      "website": "https://sentinelhandyman.com/",
+      "phone": "201-400-9827",
+      "email": "info@sentinelhandyman.com",
+      "services": [
+        "handyman",
+        "drywall",
+        "painting"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "union"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://sentinelhandyman.com/",
+        "https://sentinelhandyman.com/contact.html"
+      ],
+      "evidence_summary": "Six counties advertised for small repairs, drywall and painting. Site says home-improvement registration pending; credential review required. No electrical or plumbing mapping inferred from fixture swaps.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Silver Hammer Handyman",
+      "website": "https://silverhammerhandyman.com/",
+      "phone": "908-247-6513",
+      "email": "silverhammerhandyman@gmail.com",
+      "services": [
+        "handyman",
+        "drywall",
+        "painting",
+        "tile"
+      ],
+      "county_ids": [
+        "morris",
+        "sussex",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://silverhammerhandyman.com/",
+        "https://silverhammerhandyman.com/contact"
+      ],
+      "evidence_summary": "Small and medium projects only. Tile: kitchen backsplashes; excludes large-room flooring. Excludes masonry, structural deck work and work beyond a 10-foot ladder. Single operator; photos requested before discussion.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Geo's Handyman",
+      "website": "https://geoshandyman.com/",
+      "phone": "551-426-6503",
+      "email": "Geoshandymanservice.llc@gmail.com",
+      "services": [
+        "handyman"
+      ],
+      "county_ids": [
+        "warren",
+        "sussex"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://geoshandyman.com/contact/",
+        "https://geoshandyman.com/service-area/blairstown/"
+      ],
+      "evidence_summary": "Contact territory includes western Morris only; no blanket Morris mapping. Hunterdon outside scope. Handyman category only; trade credentials and exact scope require confirmation.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Brush House Painting and Flooring Services of North Jersey",
+      "website": "https://www.brushhouseofnorthjersey.com/",
+      "phone": "973-804-6120",
+      "email": "support@brushhouseofnorthjersey.com",
+      "services": [
+        "painting",
+        "drywall",
+        "tile"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.brushhouseofnorthjersey.com/tile-flooring-installation/",
+        "https://www.brushhouseofnorthjersey.com/drywall-repair/"
+      ],
+      "evidence_summary": "Service pages explicitly advertise ten counties, including all eight in scope. Tile flooring installation and drywall repair; repair-only minimums require confirmation. No marketing credential claims treated as verified.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "K2 Electric",
+      "website": "https://www.k2electricnj.com/",
+      "phone": "201-321-5056",
+      "email": "todd@k2electricnj.com",
+      "services": [
+        "electrical"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.k2electricnj.com/serviceareas"
+      ],
+      "evidence_summary": "Residential electrical services and all eight counties listed. Other state/county territory excluded. Credential and recipient confirmation pending.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "HK Electrical Group",
+      "website": "https://www.hkelectricalgroup.net/",
+      "phone": "201-993-2685",
+      "email": "HKelectrical@gmail.com",
+      "services": [
+        "electrical"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.hkelectricalgroup.net/"
+      ],
+      "evidence_summary": "Residential electrical work and all eight counties explicitly advertised. Site also uses HKEG Electrical Group; identity and credential claims need owner confirmation.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "All County Plumbing and Heating",
+      "website": "https://allcountyplumbingnj.com/",
+      "phone": "973-657-5710",
+      "email": "cityservicegroupnj@gmail.com",
+      "services": [
+        "plumbing"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://allcountyplumbingnj.com/contact"
+      ],
+      "evidence_summary": "All eight counties explicitly advertised. All Pro Plumbing uses the same recipient; do not count that other brand as an independent backup. Confirm legal business and intended recipient.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Daibes Plumbing and Heating",
+      "website": "https://daibesplumbing.com/",
+      "phone": "862-233-8190",
+      "email": "odaibes1@daibesplumbing.com",
+      "services": [
+        "plumbing"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://daibesplumbing.com/contact-us/"
+      ],
+      "evidence_summary": "Residential plumbing and seven named counties. License shown on source is a vendor claim; verification pending.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "All A's Plumbing and Heating",
+      "website": "https://allasplumbingllc.com/",
+      "phone": "973-252-6233",
+      "email": "info@allasplumbingllc.com",
+      "services": [
+        "plumbing"
+      ],
+      "county_ids": [
+        "morris",
+        "sussex",
+        "warren",
+        "bergen"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://allasplumbingllc.com/plumbing/"
+      ],
+      "evidence_summary": "Four in-scope counties advertised. Source also exposes allasplumbing@yahoo.com; confirm preferred recipient. General residential plumbing, fixtures and leaks.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Clear Flow Plumbing Heating and HVAC",
+      "website": "https://www.clearflowllc.com/",
+      "phone": "201-669-0051",
+      "email": "clearflowinc@me.com",
+      "services": [
+        "plumbing"
+      ],
+      "county_ids": [
+        "hudson",
+        "essex",
+        "bergen",
+        "union"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.clearflowllc.com/plumbing/"
+      ],
+      "evidence_summary": "Residential plumbing explicitly offered across four named counties, including fixture and leak repairs.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Jersey Complete Construction",
+      "website": "https://jerseycompleteconstruction.com/",
+      "phone": "973-563-3232",
+      "email": "contact@jerseycompleteconstruction.com",
+      "services": [
+        "masonry"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://jerseycompleteconstruction.com/masonry-work-repair/"
+      ],
+      "evidence_summary": "Masonry repair and construction page explicitly lists all eight counties. Steps, brick, stone and concrete work; project minimums unconfirmed.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "A&E Exteriors LLC",
+      "website": "https://www.aeexteriorsnj.com/",
+      "phone": "732-956-0411",
+      "email": "aeexteriorsnj@gmail.com",
+      "services": [
+        "masonry"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union",
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.aeexteriorsnj.com/"
+      ],
+      "evidence_summary": "Masonry advertised statewide, with primary focus on Bergen, Essex, Morris and Passaic. All other counties are advertised candidate territory only; current travel willingness unconfirmed.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Hubinger Landscaping",
+      "website": "https://www.hubingerlandscaping.com/",
+      "phone": "973-696-1932",
+      "email": "hubscaping@gmail.com",
+      "services": [
+        "landscaping"
+      ],
+      "county_ids": [
+        "bergen",
+        "passaic",
+        "sussex",
+        "morris",
+        "essex",
+        "hudson"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.hubingerlandscaping.com/landscaping/",
+        "https://www.hubingerlandscaping.com/service-area"
+      ],
+      "evidence_summary": "Landscape design and installation in six explicitly named counties. Scope and minimums for small maintenance jobs need confirmation.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Finishing Touch Landscape Construction",
+      "website": "https://finishingtouchlandscape.com/",
+      "phone": "973-492-0016",
+      "email": "info@finishingtouchlandscape.com",
+      "services": [
+        "landscaping"
+      ],
+      "county_ids": [
+        "bergen",
+        "essex",
+        "hudson",
+        "morris",
+        "passaic",
+        "sussex",
+        "union"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://finishingtouchlandscape.com/service/excavation-and-site-planning/",
+        "https://finishingtouchlandscape.com/home/",
+        "https://finishingtouchlandscape.com/contact/"
+      ],
+      "evidence_summary": "Seven in-scope counties stated. Landscape construction and grounds maintenance advertised; confirm exact project and travel area. Do not confuse with similarly named Missouri business.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Custom Clippings",
+      "website": "https://www.customsealcoatingandlandscape.com/",
+      "phone": "908-790-1000",
+      "email": "gallo585@aol.com",
+      "services": [
+        "landscaping"
+      ],
+      "county_ids": [
+        "union",
+        "morris",
+        "essex"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.customsealcoatingandlandscape.com/"
+      ],
+      "evidence_summary": "Residential landscaping, lawn maintenance and planting offered in three in-scope counties. Sealcoating is not mapped to an A5 service.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Tarazona Lawn Care LLC",
+      "website": "https://www.tarazonalawncare.com/",
+      "phone": "908-887-0135",
+      "email": "tarazonalawncare@gmail.com",
+      "services": [
+        "landscaping"
+      ],
+      "county_ids": [
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://www.tarazonalawncare.com/"
+      ],
+      "evidence_summary": "Explicitly advertises all Warren County. Unnamed surrounding counties not mapped. Lawn maintenance category; exact work and availability unconfirmed.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Hidden Leaf Landscaping",
+      "website": "https://hiddenleaflandscaping.com/",
+      "phone": "908-441-8696",
+      "email": "hiddenleaflawncare@gmail.com",
+      "services": [
+        "landscaping"
+      ],
+      "county_ids": [
+        "warren"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://hiddenleaflandscaping.com/home-2/contact-us/"
+      ],
+      "evidence_summary": "Warren County expressly stated. Unqualified mailing/locality names outside Warren not automatically mapped. Confirm exact project and capacity.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Neighbor First Home Services",
+      "website": "https://neighborfirsthomeservices.com/",
+      "phone": "201-650-7340",
+      "email": "bryanreiss@neighborfirsthomeservices.com",
+      "services": [
+        "handyman"
+      ],
+      "county_ids": [
+        "bergen"
+      ],
+      "municipality_ids": [],
+      "source_urls": [
+        "https://neighborfirsthomeservices.com/contact/",
+        "https://neighborfirsthomeservices.com/"
+      ],
+      "evidence_summary": "County-level territory; municipal mapping still needs review. Insurance/registration statements are vendor claims, not independently verified. Initial pilot source re-review; source claims only.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "M & S Premier Home Services",
+      "website": "https://www.mspremierhomeservices.com/",
+      "phone": "201-312-7595",
+      "email": "sales@mspremierhomeservices.com",
+      "services": [
+        "handyman"
+      ],
+      "county_ids": [],
+      "municipality_ids": [
+        "glen-rock",
+        "ridgewood",
+        "paramus",
+        "fair-lawn",
+        "wyckoff",
+        "waldwick",
+        "hawthorne",
+        "franklin-lakes",
+        "ho-ho-kus",
+        "mahwah",
+        "ramsey",
+        "midland-park",
+        "allendale",
+        "westwood",
+        "park-ridge"
+      ],
+      "source_urls": [
+        "https://www.mspremierhomeservices.com/contact"
+      ],
+      "evidence_summary": "Page also lists info@mspremierhomeservices.com; confirm intended recipient. Explicit Hawthorne town listing is in Passaic County despite broad Bergen copy. Do not lose this distinction. Initial pilot source re-review; source claims only.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Handyman on the Hudson",
+      "website": "https://www.handymanonthehudson.com/",
+      "phone": "201-978-8790",
+      "email": "brian@handymanonthehudson.com",
+      "services": [
+        "handyman",
+        "drywall"
+      ],
+      "county_ids": [],
+      "municipality_ids": [
+        "hoboken",
+        "jersey-city"
+      ],
+      "source_urls": [
+        "https://www.handymanonthehudson.com/services"
+      ],
+      "evidence_summary": "General repairs and drywall explicitly described. Additional plumbing/electrical work is advertised, but scope and applicable credentials need review before treating this as full trade coverage. Initial pilot source re-review; source claims only.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Tropic Pro Services",
+      "website": "https://tropicproservice.com/",
+      "phone": "862-201-1648",
+      "email": "customerservice@tropicproservice.com",
+      "services": [
+        "handyman",
+        "painting"
+      ],
+      "county_ids": [],
+      "municipality_ids": [
+        "maplewood",
+        "linden",
+        "nutley",
+        "ramsey",
+        "newark",
+        "jersey-city",
+        "morristown",
+        "clifton",
+        "wayne",
+        "westwood",
+        "paramus",
+        "fort-lee",
+        "franklin-lakes",
+        "parsippany-troy-hills",
+        "livingston"
+      ],
+      "source_urls": [
+        "https://tropicproservice.com/"
+      ],
+      "evidence_summary": "Ambiguous Caldwells/Union and misspelled locality strings were not automatically mapped. Self-described hours, reviews and insured status are not A5 confirmations. Initial pilot source re-review; source claims only.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    },
+    {
+      "business_name": "Mohawk Handyman Services",
+      "website": "https://mohawkhandymanservices.com/",
+      "phone": "201-841-9370",
+      "email": "",
+      "services": [
+        "handyman"
+      ],
+      "county_ids": [],
+      "municipality_ids": [
+        "sparta"
+      ],
+      "source_urls": [
+        "https://mohawkhandymanservices.com/"
+      ],
+      "evidence_summary": "Sparta and county reach advertised. Email appears in indexed source text; open-page extraction masks it, so recheck intended recipient before import. Credential claims unverified. Initial pilot source re-review; source claims only. Current re-fetch failed; retained prior reviewed pilot evidence for Sparta only. Email remains blank pending manual confirmation.",
+      "observed_date": "2026-10-08",
+      "review_state": "REVIEWED_PUBLIC_CANDIDATE",
+      "a5_capacity_confirmed": false
+    }
+  ]
+}

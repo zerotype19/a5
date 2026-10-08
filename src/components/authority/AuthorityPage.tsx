@@ -1,3 +1,4 @@
+import {TownServices} from "./TownServices";
 import {getCountyBySlug} from "@config/counties";
 import { ArrowIcon } from "@/components/ArrowIcon";
 import { ContentDiscovery } from "./ContentDiscovery";
@@ -87,7 +88,7 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
       />
       <div className={styles.inner}>
         <AuthorityBreadcrumbs items={crumbs} />
-        {page.status === "PUBLISHED" && !page.indexable ? (
+        {page.status === "PUBLISHED" && !page.indexable && page.created_by !== "a5-municipal-directory-2026-10" ? (
           <p className={styles.fixtureNote}>
             Published for review — not indexed.
           </p>
@@ -97,6 +98,7 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
         ) : <>
           <PageIntro eyebrow={page.page_type === "CORE" && getCountyBySlug(page.slug) ? "North Jersey home services" : kinds[page.page_type]} title={page.h1} />
           {page.page_type === "CORE" && getCountyBySlug(page.slug) && <p style={{marginBottom:"2rem"}}><a href="#municipalities">Find your municipality and request service</a></p>}
+          {page.created_by === "a5-municipal-directory-2026-10" && page.primary_location_id && <TownServices locationId={page.primary_location_id} />}
           <div className={styles.articleLayout}>
             <aside className={styles.articleAside}>
               {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}

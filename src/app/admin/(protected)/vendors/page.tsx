@@ -55,7 +55,7 @@ export default async function VendorsPage({ searchParams }: { searchParams: Prom
                       {vendor.acceptingLeads ? "Accepting" : "Not accepting"}
                     </td>
                     <td data-label="Services">{labels.services}</td>
-                    <td data-label="Towns">{labels.locations}</td>
+                    <td data-label="Towns">{vendor.locationIds.length > 4 ? <details><summary>{vendor.locationIds.length} mapped areas</summary><p>{labels.locations}</p></details> : labels.locations}</td>
                     <td data-label="Contact">
                       {vendor.phone ?? vendor.email ?? "—"}
                     </td>
