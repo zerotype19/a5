@@ -1,0 +1,80 @@
+{
+  "batch": "13",
+  "sha256": "8bad4e5c9b6b13ff3c889bb108e03d1ed97a9dfe90a54b1493c9765574cb1c9f",
+  "checkedAt": "2026-10-08T17:56:04.833Z",
+  "count": 10,
+  "sitemapCount": 246,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/elizabeth",
+      "status": 200,
+      "title": "Elizabeth Home Services | Union County | A5 Home Services",
+      "description": "Prepare Elizabeth roof, gutter and exterior repair requests with access information and the City's crane and boom-lift planning resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/fanwood",
+      "status": 200,
+      "title": "Fanwood Home Services | Union County | A5 Home Services",
+      "description": "Prepare Fanwood projects involving stormwater retention with engineering coordination, clear work stages and a landscape restoration plan.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/garwood",
+      "status": 200,
+      "title": "Garwood Home Services | Union County | A5 Home Services",
+      "description": "Plan Garwood home repairs with the Borough's shared construction service in Cranford, local zoning resources and clearly identified work-address records.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hillside",
+      "status": 200,
+      "title": "Hillside Home Services | Union County | A5 Home Services",
+      "description": "Prepare Hillside sidewalk repairs with condition photos, the Township's permit resource and a clear masonry, access and restoration scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/kenilworth",
+      "status": 200,
+      "title": "Kenilworth Home Services | Union County | A5 Home Services",
+      "description": "Prepare Kenilworth repair follow-up with existing permit records, outstanding inspection questions and a clearly separated new-work scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/linden",
+      "status": 200,
+      "title": "Linden Home Services | Union County | A5 Home Services",
+      "description": "Prepare Linden home-sale or occupancy-related repairs with the City's residential Housing contact distinction and a clear contractor punch list.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mountainside",
+      "status": 200,
+      "title": "Mountainside Home Services | Union County | A5 Home Services",
+      "description": "Prepare Mountainside drainage and drywell questions with site observations, engineering coordination and a defined landscape-restoration scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/new-providence",
+      "status": 200,
+      "title": "New Providence Home Services | Union County | A5 Home Services",
+      "description": "Prepare New Providence yard changes with a land-disturbance review question, existing-condition information and coordinated professional scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/plainfield",
+      "status": 200,
+      "title": "Plainfield Home Services | Union County | A5 Home Services",
+      "description": "Prepare Plainfield historic-exterior repairs with condition photos, repair alternatives and property-specific preservation questions before ordering materials.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/rahway",
+      "status": 200,
+      "title": "Rahway Home Services | Union County | A5 Home Services",
+      "description": "Prepare Rahway home repairs with available permit history, previous project information and a clear distinction between records and current condition.",
+      "errors": []
+    }
+  ]
+}
