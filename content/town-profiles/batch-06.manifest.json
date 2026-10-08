@@ -1,0 +1,1324 @@
+{
+  "updates": [
+    {
+      "id": "66c42411-f95f-4561-8676-f081e3f851e8",
+      "slug": "allendale",
+      "page_type": "LOCATION",
+      "title": "Home services in Allendale, Bergen County",
+      "meta_title": "Allendale Home Services | Bergen County",
+      "meta_description": "Plan Allendale home cleanouts with Borough collection resources, a clear sorting and loading plan, and coordinated hauling, repairs and cleaning.",
+      "h1": "Home services in Allendale.",
+      "primary_service_id": null,
+      "primary_location_id": "allendale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Allendale, Bergen County?",
+      "direct_answer": "For an Allendale cleanout, sort belongings before choosing between municipal collection and private hauling. The Borough's collection guidance uses the NJ Transit railroad to distinguish east and west service areas and describes side-yard pickup as a separate arrangement. Check the current address-specific instructions before scheduling a load or placing items outside.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Clear the house without losing the useful things",
+          "paragraphs": [
+            "Work room by room with a keep, donate and remove inventory. Label furniture that remains and photograph large items, stairs and doorways. Tell the hauler whether the home will be occupied during the job so access and protection are included in the plan.",
+            "Allendale's Garbage and Recycling page explains its east/west collection boundary and distinguishes regular curbside service from privately arranged side-yard pickup. Use the current Borough guidance to confirm what is accepted and where it should be presented. A collection schedule is not permission to leave every item from a renovation at the curb.",
+            "Sequence removal before repairs to exposed shelving, doors or walls, with final cleaning last. Ask who handles disassembly and anything excluded from the hauling quote. Keep the loading route usable throughout the visit so the project does not turn one cluttered room into an obstructed hall."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Allendale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Price the actual removal list",
+              "body": "Share the inventory and access photos. Clarify whether the service starts inside the home or assumes items are already at an agreed loading point.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Repair newly accessible storage",
+              "body": "List shelves, cabinet hardware and doors needing attention. Schedule the work after belongings are cleared and distinguish repair from replacement.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Clean the cleared rooms",
+              "body": "Give the cleaner a room and surface list. Explain any repair dust and agree on the expected finish before the space is refilled.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "How do I determine the relevant Allendale collection guidance?",
+              "answer": "Use the Borough's current Garbage and Recycling page for the address and item type. It explains the railroad-based east/west distinction and separate side-yard arrangements; confirm acceptance before relying on a collection for your cleanout."
+            },
+            {
+              "question": "How does A5 help with my Allendale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Allendale is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Allendale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.18+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "9449ac83-c6d2-4fab-8337-c5d144415d95",
+      "slug": "alpine",
+      "page_type": "LOCATION",
+      "title": "Home services in Alpine, Bergen County",
+      "meta_title": "Alpine Home Services | Bergen County",
+      "meta_description": "Prepare Alpine property repair requests with clear system information and Borough contacts for construction, drainage and septic questions.",
+      "h1": "Home services in Alpine.",
+      "primary_service_id": null,
+      "primary_location_id": "alpine",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Alpine, Bergen County?",
+      "direct_answer": "For an Alpine water or outdoor repair problem, identify the system involved before choosing a trade. The Borough's Building Department directs seepage-pit and drainage inspections to its engineer and septic matters to its Health Department. Use those distinctions to clarify the next step; a wet area alone does not establish which system has failed.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Identify the system before naming the repair",
+          "paragraphs": [
+            "Collect the available property plans, system records and previous service findings. Describe when the symptom appears and its location relative to the house, drains and known equipment. Do not assume an Alpine property has a particular system merely because another home nearby does.",
+            "Alpine's Building Department page separates ordinary construction inspections from engineer-led drainage or seepage-pit matters and Health Department septic questions. Use the correct office to establish the requirements for the actual property. That routing information helps prepare a request but does not replace a qualified assessment.",
+            "Ask the professional to state which systems the visit covers and whether specialist work is outside the scope. Keep investigation separate from excavation or restoration. Before making landscape changes, identify existing equipment and access needs so the finished yard does not hide or obstruct something that must remain serviceable."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Alpine project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess a plumbing symptom",
+              "body": "Provide fixture observations and available system records. Ask whether the issue falls within the plumber's scope or needs a separate septic specialist.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan landscape work around systems",
+              "body": "Show known drainage and service-access locations. Coordinate planting or ground work only after the relevant constraints have been assessed.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Inspect gutter-related symptoms",
+              "body": "Describe overflow and visible outlet conditions separately from underground drainage. Ask for maintenance findings without assuming they explain every wet area.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Alpine office handles septic and drainage inspection questions?",
+              "answer": "The Building Department's official page directs septic matters to Health and seepage-pit or drainage inspections to the Borough Engineer. Use its current contacts and the property's actual system information when asking about the work."
+            },
+            {
+              "question": "How does A5 help with my Alpine request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Alpine is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Alpine project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.314+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "95d12c56-ec85-45e9-880a-4a085ac2d72c",
+      "slug": "bergenfield",
+      "page_type": "LOCATION",
+      "title": "Home services in Bergenfield, Bergen County",
+      "meta_title": "Bergenfield Home Services | Bergen County",
+      "meta_description": "Plan Bergenfield paving and yard repairs with clear debris removal, DPW collection guidance and coordinated masonry, hauling and restoration scopes.",
+      "h1": "Home services in Bergenfield.",
+      "primary_service_id": null,
+      "primary_location_id": "bergenfield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Bergenfield, Bergen County?",
+      "direct_answer": "For a Bergenfield paving or yard repair, include removal of concrete, brick and other excavated material in the private scope. Borough Public Works lists contractor debris and several heavy materials among items it does not collect. Confirm disposal before work starts instead of treating the broken surface as ordinary household bulk.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Price the old material as well as the new surface",
+          "paragraphs": [
+            "Mark the exact sections to be repaired and photograph the access route. Describe whether material will be lifted, broken out or retained, without assuming the visible crack explains the underlying problem. Ask the professional to assess the base and the surrounding transitions before selecting a finish.",
+            "Bergenfield's DPW guidance excludes contractor debris, concrete, brick, asphalt and rocks from its pickup service. Use current Borough instructions for other items, and have the private estimate name the removal and disposal responsibilities for the project materials. Do not leave that work to an assumed special municipal pickup.",
+            "Plan where equipment and material can be staged, how adjacent planting will be protected and what cleanup means at completion. If the repair reaches a public sidewalk, curb or tree area, clarify responsibility and applicable review before enlarging the work. Keep restoration of the surrounding lawn in the same project plan."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Bergenfield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess and repair the surface",
+              "body": "Provide wide and close photographs of the affected sections. Ask for a scope that distinguishes surface repair from work to the underlying support.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Remove the specified debris",
+              "body": "List concrete, brick or other materials and approximate quantities. Confirm the hauler accepts the load and whether loading is included.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Restore the work perimeter",
+              "body": "Show lawn and planting beside the repair. Agree on restoration after hauling so equipment does not damage newly finished landscaping.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Will Bergenfield pick up concrete from my home repair?",
+              "answer": "The Borough's DPW page lists concrete and contractor debris among excluded materials. Arrange the appropriate private disposal scope and check current municipal guidance for any other items before setting them out."
+            },
+            {
+              "question": "How does A5 help with my Bergenfield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Bergenfield is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Bergenfield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.428+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "40367397-d0f8-426b-814d-80f7d8f79263",
+      "slug": "bogota",
+      "page_type": "LOCATION",
+      "title": "Home services in Bogota, Bergen County",
+      "meta_title": "Bogota Home Services | Bergen County",
+      "meta_description": "Prepare Bogota cleanouts with a categorized inventory, Borough waste resources and clear private hauling, repair and cleaning responsibilities.",
+      "h1": "Home services in Bogota.",
+      "primary_service_id": null,
+      "primary_location_id": "bogota",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Bogota, Bergen County?",
+      "direct_answer": "For a larger Bogota household cleanout, check the volume and material categories before assuming municipal pickup will handle the full load. The Borough's Public Works page explains limits on municipal service and circumstances requiring private removal. A photographed inventory makes that check and a private hauling quote more useful.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give a large cleanout a manageable sequence",
+          "paragraphs": [
+            "Choose one area to clear first and label belongings that stay. Photograph furniture, boxes and heavier items, then note stairs or narrow access. Separate recyclables and unusual materials from the general removal list so one unknown item does not complicate the whole job.",
+            "Bogota's Public Works resources link the current collection calendar and explain limits on the municipal collection obligation, including private-removal responsibilities for larger volumes. Consult the current rules for your load rather than copying a numeric limit from an old notice. Ask about any material whose disposal route is unclear before it is placed outside.",
+            "Agree on loading, hauling, protection and the final condition of the cleared area. Follow removal with any small repairs, then cleaning. Keep the quote specific about excluded materials and where remaining belongings will be moved so the job does not simply shift clutter to another room."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Bogota project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Quote the whole cleanout inventory",
+              "body": "Provide photos and access details. Ask whether loading, disassembly and each material category are included, with exclusions recorded before the visit.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Repair the cleared space",
+              "body": "List loose doors, damaged trim or storage hardware revealed by the cleanout. Group small repairs while keeping electrical or plumbing concerns with the appropriate trade.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Finish with a defined cleaning scope",
+              "body": "Describe the rooms, surfaces and any residual dust. Confirm the cleaner's service matches the condition left after removal and repairs.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I assume Bogota municipal pickup covers an entire large cleanout?",
+              "answer": "No. Check the current Public Works guidance for volume and material limits. It describes situations requiring private removal; use an inventory to establish which route applies before setting out the load."
+            },
+            {
+              "question": "How does A5 help with my Bogota request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Bogota is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Bogota project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.557+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0ebb07c7-528f-4238-8a35-27c255a09d54",
+      "slug": "carlstadt",
+      "page_type": "LOCATION",
+      "title": "Home services in Carlstadt, Bergen County",
+      "meta_title": "Carlstadt Home Services | Bergen County",
+      "meta_description": "Plan Carlstadt home updates with Borough construction resources, coordinated trade scopes and clear inspection and completion records through A5.",
+      "h1": "Home services in Carlstadt.",
+      "primary_service_id": null,
+      "primary_location_id": "carlstadt",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Carlstadt, Bergen County?",
+      "direct_answer": "For a Carlstadt multi-trade improvement, keep the proposed scope, applicable approvals and inspection steps in one project record. The Borough's Construction, Zoning and Planning page distinguishes the review functions and describes inspection-based completion certificates. Clarify the path for the actual work before treating a private quote as the complete project plan.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep every trade working from the same scope",
+          "paragraphs": [
+            "Describe what is being repaired, replaced or moved and provide a simple room plan. Mark existing fixtures and any intended layout change. When separate professionals quote the plumbing, electrical and finishes, give each the same version so omissions and overlaps are easier to identify.",
+            "Carlstadt's construction resources explain the Building Department's permit and inspection role and separately describe planning and zoning functions. Ask the Borough which reviews apply to your address and scope. If the proposal changes, update the municipal and private records as needed rather than assuming the original paperwork covers any later addition.",
+            "Build the schedule around required access and inspections, with one person tracking outstanding steps. Keep approval records, trade findings and final documents together. This makes the handoff to surface repair clearer and gives future maintenance a useful history of what was actually changed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Carlstadt project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate plumbing changes",
+              "body": "Identify fixtures staying in place and those proposed to move. Ask for a clear boundary between plumbing work and the surrounding repair scope.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Define electrical requirements",
+              "body": "Share the same room plan and desired lighting or equipment use. Ask the electrician to identify the work and inspection coordination within the quote.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Restore surfaces after access is finished",
+              "body": "List openings and finish expectations. Confirm that required trade access and inspections are complete before closing walls or ceilings.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a finished-looking Carlstadt room mean the municipal project is complete?",
+              "answer": "Not necessarily. The Borough describes inspections and appropriate completion certificates as part of permitted projects. Confirm which records apply and that outstanding steps are resolved rather than relying on appearance alone."
+            },
+            {
+              "question": "How does A5 help with my Carlstadt request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Carlstadt is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Carlstadt project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.677+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "158eca37-aef1-46e8-8a1b-e97fdc1842ce",
+      "slug": "cliffside-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Cliffside Park, Bergen County",
+      "meta_title": "Cliffside Park Home Services | Bergen County",
+      "meta_description": "Plan Cliffside Park home cleanouts with recycling-center guidance, sorted materials and clear hauling and room-restoration scopes through A5.",
+      "h1": "Home services in Cliffside Park.",
+      "primary_service_id": null,
+      "primary_location_id": "cliffside-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Cliffside Park, Bergen County?",
+      "direct_answer": "For a Cliffside Park cleanout, separate clothing, paper and household objects before deciding where they will go. The Borough describes its recycling center as an additional resident option, not a replacement for regular collection, and says it does not accept ordinary garbage. Check the exact materials before arranging a drop-off or private haul.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Match each pile to a real destination",
+          "paragraphs": [
+            "Make a list by category rather than counting bags alone. Set aside reusable belongings and photograph furniture or heavy objects for a hauling quote. If the property has shared access, confirm loading arrangements with the building before scheduling a visit.",
+            "Cliffside Park's Recycling Center page lists specific accepted materials and distinguishes the center from normal DPW collection. Use its current instructions and collection resources to check your items. Do not assume a municipal drop-off point accepts renovation waste or every object removed from a home.",
+            "Agree on what the hauler removes from inside, what you will transport separately and what remains for another service. Follow the cleanout with small repairs and final cleaning. This avoids paying to handle the same belongings twice and leaves a clear finish point for each visit."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Cliffside Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the private hauling load",
+              "body": "Share a categorized inventory and loading constraints. Ask the hauler to identify exclusions and whether carrying items from inside is included.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Repair storage and room details",
+              "body": "List damaged shelves, hardware or trim after the space is cleared. Distinguish limited repairs from larger renovation work.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Clean the usable space",
+              "body": "Specify rooms, surfaces and any dust from repairs. Arrange cleaning after the hauling and repair work so the space is ready for its next use.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can all items from a Cliffside Park cleanout go to the recycling center?",
+              "answer": "No. The Borough lists particular accepted materials and excludes regular garbage. Check the current center and collection instructions, then arrange an appropriate route for items outside those services."
+            },
+            {
+              "question": "How does A5 help with my Cliffside Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Cliffside Park is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Cliffside Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.79+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "585b49ea-bfa6-44d9-8044-8d73a923b6d3",
+      "slug": "closter",
+      "page_type": "LOCATION",
+      "title": "Home services in Closter, Bergen County",
+      "meta_title": "Closter Home Services | Bergen County",
+      "meta_description": "Plan Closter exterior repairs with local design guidelines, material documentation and clear scopes for roofing, masonry and porch or trim work.",
+      "h1": "Home services in Closter.",
+      "primary_service_id": null,
+      "primary_location_id": "closter",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Closter, Bergen County?",
+      "direct_answer": "For a Closter exterior repair, photograph the existing feature before comparing replacement products. The Borough-linked historic preservation site provides design guidance organized by roofs, masonry, porches, siding and other elements. Use the relevant section to prepare questions, then confirm any property-specific review with the Borough.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the repair with the original detail",
+          "paragraphs": [
+            "Show the whole elevation and the damaged feature in the same request. Record the shape, material and any previous patch that looks or behaves differently. Explain whether your priority is stopping a leak, restoring function or preserving appearance; those goals may need different scopes.",
+            "Closter's historic preservation resources include a design guide with separate sections for common building elements and ordinary repairs. The Borough links this resource from its website. It can help a homeowner discuss a repair intelligently without assuming every Closter house is designated or that reading a guide grants approval.",
+            "Ask for repair and replacement options that explain what would be retained and how new material meets the old. Where a match matters, discuss a sample before committing to the full job. Check the applicable review early, particularly before ordering custom components that may be difficult to change."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Closter project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Document the roof detail",
+              "body": "Provide safe ground-level photos of the affected area and any previous findings. Ask how a proposed repair interfaces with the existing roof rather than choosing solely by shingle color.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            },
+            {
+              "title": "Match the masonry approach",
+              "body": "Show joints, texture and prior patches. Ask how the repair method and materials will suit the existing assembly.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Preserve porch and trim details",
+              "body": "Photograph profiles and connections. Clarify whether the professional can repair or reproduce the detail and which parts would be replaced.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I find Closter guidance for an exterior feature repair?",
+              "answer": "The Borough-linked preservation website organizes its design guidelines by building element, including roofs, masonry, porches and trim. Use that resource for planning and confirm current review requirements for the actual property separately."
+            },
+            {
+              "question": "How does A5 help with my Closter request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Closter is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Closter project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:19.902+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d1636c45-30c1-4009-8a31-f45ed172ed61",
+      "slug": "cresskill",
+      "page_type": "LOCATION",
+      "title": "Home services in Cresskill, Bergen County",
+      "meta_title": "Cresskill Home Services | Bergen County",
+      "meta_description": "Plan Cresskill equipment updates with Building Department completion guidance, coordinated inspections and clear electrical, plumbing and heating scopes.",
+      "h1": "Home services in Cresskill.",
+      "primary_service_id": null,
+      "primary_location_id": "cresskill",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Cresskill, Bergen County?",
+      "direct_answer": "For a Cresskill home systems upgrade, include the applicable final inspections and completion documents alongside installation and testing. The Borough's Building Department reminds owners that permitted projects need final inspections and an appropriate certificate. Confirm the requirements for the scope rather than assuming new equipment alone closes the project.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the handover part of the installation",
+          "paragraphs": [
+            "Collect model numbers, symptoms and previous service records, and photograph the equipment in its surrounding space. Describe access limits and what you want to improve. A replacement quote should say what happens to existing connections and equipment rather than leaving those details implicit.",
+            "Cresskill's Building Department publishes its inspection contacts and a reminder about completion of permitted work. Ask which inspections and documents apply to the installation and who will coordinate them. Do not copy an old inspection schedule into the contractor's promise; confirm arrangements for the actual project.",
+            "At handover, retain operating instructions, the final scope and applicable municipal records. Ask the installer to explain normal operation and remaining maintenance needs. If another trade restores nearby walls or cabinetry, coordinate that work around any access that must remain available."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Cresskill project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Heating and cooling replacement planning",
+              "body": "Provide equipment details and comfort concerns. Ask what the installation includes, how operation will be demonstrated and what records you should keep.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Plumbing work with closeout responsibilities",
+              "body": "Identify the fixture or equipment and existing symptoms. Clarify removal, connections, inspection coordination and surrounding restoration.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Electrical scope for new equipment",
+              "body": "Share the proposed equipment information and location. Have the electrician assess requirements and document the work rather than assuming existing connections are sufficient.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should remain on a Cresskill installation checklist after the equipment works?",
+              "answer": "Confirm any required final inspections and certificate with the Building Department, and retain instructions and project records. The exact closeout depends on the permitted scope, not just whether the equipment turns on."
+            },
+            {
+              "question": "How does A5 help with my Cresskill request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Cresskill is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Cresskill project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:20.01+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "efa68565-f3bc-472b-8915-5d4dd366db14",
+      "slug": "demarest",
+      "page_type": "LOCATION",
+      "title": "Home services in Demarest, Bergen County",
+      "meta_title": "Demarest Home Services | Bergen County",
+      "meta_description": "Plan Demarest outdoor work with Shade Tree Commission resources, retained-tree protection and coordinated landscape, tree and paving scopes.",
+      "h1": "Home services in Demarest.",
+      "primary_service_id": null,
+      "primary_location_id": "demarest",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Demarest, Bergen County?",
+      "direct_answer": "For a Demarest outdoor project, identify trees to protect as well as trees proposed for work. The Shade Tree Commission's guidance addresses damage from construction and ground disturbance, not only cutting. Show equipment routes and staging areas to the professionals and confirm the current protection requirements before work begins.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Put tree protection on the work sketch",
+          "paragraphs": [
+            "Mark trees, proposed work areas and the route equipment would take through the yard. Photograph narrow passages and existing paving. Explain which trees must remain so protection is considered before a truck arrives or material is stacked near the work.",
+            "Demarest's Shade Tree Commission publishes private-tree resources that address constructive damage and protection during construction. Use the current Commission guidance and linked code to discuss the actual project. Do not assume that leaving the trunk standing means roots and the surrounding ground are unaffected by the work.",
+            "Ask the professionals to agree on access, staging and protection before separately pricing removal, paving or planting. Keep responsibility for any required replacement and final landscape restoration clear. If the plan changes during the project, revisit the protection arrangements instead of improvising a new equipment route."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Demarest project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the trees involved",
+              "body": "Share the site sketch and work proposal. Ask a tree professional to identify protection concerns and distinguish tree care from an unrelated construction task.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Plan the landscape sequence",
+              "body": "Define protected areas and the intended planting. Coordinate soil handling and restoration with the agreed access route and municipal requirements.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate paving near trees",
+              "body": "Show the distance and relationship between the proposed repair and retained trees. Request an assessment before changing the surface or excavating nearby.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Demarest tree planning matter when I am not removing a tree?",
+              "answer": "Yes. The Commission's resources also address damage from construction and ground disturbance. Review protection and access for the actual project with the relevant professionals and Borough before work begins."
+            },
+            {
+              "question": "How does A5 help with my Demarest request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Demarest is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Demarest project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:20.117+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "7037b942-80aa-46ee-8466-83406529e5f6",
+      "slug": "dumont",
+      "page_type": "LOCATION",
+      "title": "Home services in Dumont, Bergen County",
+      "meta_title": "Dumont Home Services | Bergen County",
+      "meta_description": "Plan Dumont seasonal yard work with current DPW collection resources, separate debris streams and coordinated gutter, landscape and hauling scopes.",
+      "h1": "Home services in Dumont.",
+      "primary_service_id": null,
+      "primary_location_id": "dumont",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Dumont, Bergen County?",
+      "direct_answer": "For a Dumont yard cleanup, agree on how leaves, branches and other objects will be separated and removed. The Borough's DPW page provides street-based collection resources and preparation guidance for vegetative waste. Check the current instructions for the work date, especially when a cleanup extends beyond ordinary yard material.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the cleanup's finished condition",
+          "paragraphs": [
+            "List the lawn, beds and hard surfaces to be cleared, and identify anything to keep. Separate branches and leaves from broken furniture, planters or repair debris. Photograph the access route and any heavy material so the professional can distinguish routine cleanup from a larger hauling job.",
+            "Dumont's Public Works resources link a street list and explain preparation of vegetative waste in suitable containers or biodegradable bags. Confirm the current acceptance and collection arrangement rather than relying on last season's calendar. Municipal yard collection does not establish a disposal route for every object found outdoors.",
+            "Ask whether the quote ends with material prepared on site or fully hauled away. Coordinate gutter cleaning before the final yard pass and keep sidewalks and access clear. Agree on responsibility for excluded items so a tidy lawn is not accompanied by an unresolved pile beside the house."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Dumont project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the yard cleanup areas",
+              "body": "Share a photo checklist and plants to retain. Clarify whether the professional prepares material for collection or removes it privately.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate gutter debris",
+              "body": "Identify the gutters and access conditions. Ask how removed leaves will be gathered and schedule the work before the final ground cleanup.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Remove non-vegetative objects",
+              "body": "List furniture, damaged containers and other objects separately. Confirm each material with the hauler rather than mixing it with municipal yard waste.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should a Dumont yard-cleanup quote say about disposal?",
+              "answer": "It should state whether material is prepared for a confirmed municipal collection or hauled away privately, and identify exclusions. Check the DPW's current street and preparation resources before relying on a collection date or method."
+            },
+            {
+              "question": "How does A5 help with my Dumont request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Dumont is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Dumont project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:45:16.847Z",
+      "published_at": "2026-10-08T01:22:20.237+00:00",
+      "last_reviewed_at": "2026-10-08T16:45:16.847Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "62697a4c-e746-4b0d-876f-adb0aa37a06f",
+      "title": "Allendale Garbage and Recycling",
+      "url": "https://www.allendalenj.gov/residents-businesses/garbage-and-recycling/",
+      "publisher": "Borough of Allendale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "37022440-f82e-40d1-89ac-8805ba4b659d",
+      "title": "Alpine Building Department",
+      "url": "https://www.alpinenj.gov/page/building-dept",
+      "publisher": "Borough of Alpine",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "95bcf5cc-e0a2-404a-86db-302369f5e7b8",
+      "title": "Bergenfield Department of Public Works",
+      "url": "https://bergenfieldnj.gov/departments/dpw-public-works/",
+      "publisher": "Borough of Bergenfield",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "6e3fdc6c-4b57-4245-8312-de4db7e2a621",
+      "title": "Bogota Department of Public Works",
+      "url": "https://www.bogotanj.gov/department-of-public-works",
+      "publisher": "Borough of Bogota",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "8d58abee-8c16-4de8-8b46-ec82836e8091",
+      "title": "Carlstadt Construction, Zoning and Planning",
+      "url": "https://www.carlstadtnj.us/Departments/construction-zoning-planning",
+      "publisher": "Borough of Carlstadt",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "99dd99a7-7f2d-496b-8a8a-c03923dfbfb8",
+      "title": "Cliffside Park Recycling Center",
+      "url": "https://www.cliffsideparknj.gov/departments/recycling_center.php",
+      "publisher": "Borough of Cliffside Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "ba4d9254-46ba-4ef3-80b0-3bcc73444c15",
+      "title": "Closter Design Guidelines",
+      "url": "https://closterhistory.com/documents/guidelines/guidelines.html",
+      "publisher": "Closter Historic Preservation Commission",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "521721d9-adea-4c2a-8e54-6146e5a59e80",
+      "title": "Borough of Closter Official Website",
+      "url": "https://www.closterboro.com/",
+      "publisher": "Borough of Closter",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "c9af2be3-61af-488e-8523-fa8ef2fe25ad",
+      "title": "Cresskill Building Department",
+      "url": "https://www.cresskillboro.com/departments/construction",
+      "publisher": "Borough of Cresskill",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "7f8a7c99-4ffd-4936-8bbf-6084f3cb6f4c",
+      "title": "Demarest Shade Tree Commission",
+      "url": "https://direct.demarestnj.gov/boards/tree",
+      "publisher": "Borough of Demarest",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    },
+    {
+      "id": "f04427f7-48cb-4a13-8768-cfeaf337b965",
+      "title": "Dumont Department of Public Works",
+      "url": "https://www.dumontnj.gov/department-of-public-works",
+      "publisher": "Borough of Dumont",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:45:16.847Z",
+      "reviewed_at": "2026-10-08T16:45:16.847Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "66c42411-f95f-4561-8676-f081e3f851e8",
+      "source_id": "62697a4c-e746-4b0d-876f-adb0aa37a06f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "9449ac83-c6d2-4fab-8337-c5d144415d95",
+      "source_id": "37022440-f82e-40d1-89ac-8805ba4b659d",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "95d12c56-ec85-45e9-880a-4a085ac2d72c",
+      "source_id": "95bcf5cc-e0a2-404a-86db-302369f5e7b8",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "40367397-d0f8-426b-814d-80f7d8f79263",
+      "source_id": "6e3fdc6c-4b57-4245-8312-de4db7e2a621",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0ebb07c7-528f-4238-8a35-27c255a09d54",
+      "source_id": "8d58abee-8c16-4de8-8b46-ec82836e8091",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "158eca37-aef1-46e8-8a1b-e97fdc1842ce",
+      "source_id": "99dd99a7-7f2d-496b-8a8a-c03923dfbfb8",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "585b49ea-bfa6-44d9-8044-8d73a923b6d3",
+      "source_id": "ba4d9254-46ba-4ef3-80b0-3bcc73444c15",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "585b49ea-bfa6-44d9-8044-8d73a923b6d3",
+      "source_id": "521721d9-adea-4c2a-8e54-6146e5a59e80",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d1636c45-30c1-4009-8a31-f45ed172ed61",
+      "source_id": "c9af2be3-61af-488e-8523-fa8ef2fe25ad",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "efa68565-f3bc-472b-8915-5d4dd366db14",
+      "source_id": "7f8a7c99-4ffd-4936-8bbf-6084f3cb6f4c",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "7037b942-80aa-46ee-8466-83406529e5f6",
+      "source_id": "f04427f7-48cb-4a13-8768-cfeaf337b965",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "66c42411-f95f-4561-8676-f081e3f851e8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "9449ac83-c6d2-4fab-8337-c5d144415d95",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "95d12c56-ec85-45e9-880a-4a085ac2d72c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "40367397-d0f8-426b-814d-80f7d8f79263",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "0ebb07c7-528f-4238-8a35-27c255a09d54",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "158eca37-aef1-46e8-8a1b-e97fdc1842ce",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "585b49ea-bfa6-44d9-8044-8d73a923b6d3",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "d1636c45-30c1-4009-8a31-f45ed172ed61",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "efa68565-f3bc-472b-8915-5d4dd366db14",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "7037b942-80aa-46ee-8466-83406529e5f6",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

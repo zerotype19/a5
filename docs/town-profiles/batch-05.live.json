@@ -1,0 +1,80 @@
+{
+  "batch": "05",
+  "sha256": "755b8d3b64e3bec0eae08891112735ecdaad3af81bec196e1c64f2479e135e74",
+  "checkedAt": "2026-10-08T16:41:38.360Z",
+  "count": 10,
+  "sitemapCount": 166,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/millburn",
+      "status": 200,
+      "title": "Millburn Home Services | Essex County | A5 Home Services",
+      "description": "Plan Millburn home maintenance with Township water-preparedness resources, documented symptoms and coordinated gutter, plumbing and landscape assessments.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/newark",
+      "status": 200,
+      "title": "Newark Home Services | Essex County | A5 Home Services",
+      "description": "Plan Newark room cleanouts and repairs with clear debris categories, City collection guidance and coordinated hauling, drywall and cleaning scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/north-caldwell",
+      "status": 200,
+      "title": "North Caldwell Home Services | Essex County | A5 Home Services",
+      "description": "Plan North Caldwell landscape changes with tree and stormwater resources, a clear work sketch and coordinated removal, planting and surface repair scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/nutley",
+      "status": 200,
+      "title": "Nutley Home Services | Essex County | A5 Home Services",
+      "description": "Investigate unexpected Nutley water use with Township leak resources, a fixture history and clear plumbing or appliance repair requests through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/orange",
+      "status": 200,
+      "title": "Orange Home Services | Essex County | A5 Home Services",
+      "description": "Plan Orange home improvements with clear room-by-room scopes, City zoning and construction resources and coordinated trade work through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/roseland",
+      "status": 200,
+      "title": "Roseland Home Services | Essex County | A5 Home Services",
+      "description": "Plan Roseland bathroom updates with specialty-waste guidance, separate removal responsibilities and coordinated plumbing, tile and hauling scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/south-orange",
+      "status": 200,
+      "title": "South Orange Home Services | Essex County | A5 Home Services",
+      "description": "Prepare South Orange sewer-related service requests with Village contact guidance, a clear symptom history and documented private repair follow-up.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/verona",
+      "status": 200,
+      "title": "Verona Home Services | Essex County | A5 Home Services",
+      "description": "Plan Verona backyard and accessory-space projects with Township zoning guidance, a clear layout and coordinated carpentry, electrical and landscape scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/west-caldwell",
+      "status": 200,
+      "title": "West Caldwell Home Services | Essex County | A5 Home Services",
+      "description": "Plan West Caldwell basement improvements with Construction Department guidance, written inspection coordination and clear trade-to-finish sequencing.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/west-orange",
+      "status": 200,
+      "title": "West Orange Home Services | Essex County | A5 Home Services",
+      "description": "Plan West Orange tree and landscape work with Forestry Division resources, tree-specific observations and clear protection, removal and aftercare scopes.",
+      "errors": []
+    }
+  ]
+}
