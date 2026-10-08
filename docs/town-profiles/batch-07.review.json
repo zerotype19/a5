@@ -1,0 +1,151 @@
+{
+  "sha256": "a89aa920d99d286131e580589322849f4d7046e6fcbcbed3db83dcfba632ad2c",
+  "pages": [
+    {
+      "id": "de50b070-7c1b-4234-8662-437f6c3a2208",
+      "path": "/home-services/east-rutherford",
+      "newlyIndexable": true,
+      "purpose": "Sort a renovation cleanout by material before arranging collection",
+      "sourceClaims": [
+        {
+          "title": "East Rutherford Garbage and Recycling",
+          "url": "https://www.eastrutherfordnj.net/251/Garbage-Recycling",
+          "publisher": "Borough of East Rutherford",
+          "supports": "Separate collection categories, unpainted/untreated wood description and East End/West End street lists; no dates, weights or contradictory shredded-paper instructions copied."
+        }
+      ]
+    },
+    {
+      "id": "a1d5fdbe-f91a-4529-8c98-eb8ce434b250",
+      "path": "/home-services/edgewater",
+      "newlyIndexable": true,
+      "purpose": "Coordinate a unit repair with building responsibilities and occupancy paperwork",
+      "sourceClaims": [
+        {
+          "title": "Edgewater Building Department",
+          "url": "https://edgewaternj.org/149/Building-Department",
+          "publisher": "Borough of Edgewater",
+          "supports": "Department responsibilities for construction, multiple dwellings and condo/co-op continued occupancy; no inspection hours or universal private-building rules inferred."
+        }
+      ]
+    },
+    {
+      "id": "da112544-c05e-41ae-8ec3-2520e4765f57",
+      "path": "/home-services/elmwood-park",
+      "newlyIndexable": true,
+      "purpose": "Turn a move-related punch list into documented repairs and municipal closeout",
+      "sourceClaims": [
+        {
+          "title": "Elmwood Park Building Department",
+          "url": "https://elmwoodparknj.us/building-department",
+          "publisher": "Borough of Elmwood Park",
+          "supports": "Published certificate-of-occupancy guidance for house sales and apartment rentals; no fees, inspection dates or exhaustive checklist inferred."
+        }
+      ]
+    },
+    {
+      "id": "54199a3b-1486-4e27-8eb1-db1f5338f201",
+      "path": "/home-services/emerson",
+      "newlyIndexable": true,
+      "purpose": "Build inspection readiness into the repair schedule",
+      "sourceClaims": [
+        {
+          "title": "Emerson Building Department",
+          "url": "https://emersonnj.gov/?SEC=CAE99956-793B-48C6-930F-762AC417DF10",
+          "publisher": "Borough of Emerson",
+          "supports": "Emailed inspection requests, permit/address identification, readiness and written date confirmation; malformed email link, hours and older FAQ exemptions not copied."
+        }
+      ]
+    },
+    {
+      "id": "aca063ac-d8b6-4aeb-8dd9-4b7751d443a5",
+      "path": "/home-services/englewood",
+      "newlyIndexable": true,
+      "purpose": "Define the ground-work footprint before pricing a landscape change",
+      "sourceClaims": [
+        {
+          "title": "Englewood Engineering",
+          "url": "https://cityofenglewood.org/1173/Engineering",
+          "publisher": "City of Englewood",
+          "supports": "Separate right-of-way, soil removal/deposit and tree resources; no permit thresholds or current validity of dated forms inferred."
+        }
+      ]
+    },
+    {
+      "id": "031d374a-e56b-4bcd-8929-1f8507980ee3",
+      "path": "/home-services/englewood-cliffs",
+      "newlyIndexable": true,
+      "purpose": "Distinguish selective repair from a larger removal and rebuilding project",
+      "sourceClaims": [
+        {
+          "title": "Englewood Cliffs Building Department",
+          "url": "https://englewoodcliffsnj.org/departments/building/index.php",
+          "publisher": "Borough of Englewood Cliffs",
+          "supports": "Distinct demolition, new construction and residential occupancy resources; no universal permit rule inferred from the general examples."
+        }
+      ]
+    },
+    {
+      "id": "2dc1965a-ced0-492e-8044-b49445b5fa37",
+      "path": "/home-services/fair-lawn",
+      "newlyIndexable": true,
+      "purpose": "Separate household plumbing symptoms from street storm-drain concerns",
+      "sourceClaims": [
+        {
+          "title": "Fair Lawn Sewer Division",
+          "url": "https://www.fairlawn.org/sewer",
+          "publisher": "Borough of Fair Lawn",
+          "supports": "Sanitary-system versus storm-drain distinction and responsible divisions; no private lateral ownership or property-specific diagnosis asserted."
+        }
+      ]
+    },
+    {
+      "id": "4f7a0502-749a-4a20-878b-192746fb5a74",
+      "path": "/home-services/fairview",
+      "newlyIndexable": true,
+      "purpose": "Identify the road authority before work at a driveway or curb",
+      "sourceClaims": [
+        {
+          "title": "Fairview Public Works",
+          "url": "https://www.fairviewborough.com/departments/dpw",
+          "publisher": "Borough of Fairview",
+          "supports": "Municipal road-opening responsibility and named county/state road distinctions; no private-driveway permit requirement inferred."
+        }
+      ]
+    },
+    {
+      "id": "25e2f288-e30a-4d6b-879b-38275beb1239",
+      "path": "/home-services/fort-lee",
+      "newlyIndexable": true,
+      "purpose": "Coordinate bathroom repairs across trades before choosing finishes",
+      "sourceClaims": [
+        {
+          "title": "Fort Lee Building Department",
+          "url": "https://www.fortleenj.org/162/Building-Department",
+          "publisher": "Borough of Fort Lee",
+          "supports": "Instructional construction-permit video and separate subcode resources; no blanket permitting or building-management rules asserted."
+        }
+      ]
+    },
+    {
+      "id": "e5bd59b1-d999-454c-8977-7d9fb1f46ab4",
+      "path": "/home-services/franklin-lakes",
+      "newlyIndexable": true,
+      "purpose": "Protect septic-system access when planning other property improvements",
+      "sourceClaims": [
+        {
+          "title": "Franklin Lakes Septic Systems",
+          "url": "https://www.franklinlakes.org/septic",
+          "publisher": "Borough of Franklin Lakes",
+          "supports": "Official septic-system resources and homeowner information."
+        },
+        {
+          "title": "Franklin Lakes Septic FAQs",
+          "url": "https://www.franklinlakes.org/septicfaq",
+          "publisher": "Borough of Franklin Lakes",
+          "supports": "Board of Health repair permitting and local installer qualification distinction; no design formulas, sale obligations or maintenance intervals copied."
+        }
+      ]
+    }
+  ]
+}

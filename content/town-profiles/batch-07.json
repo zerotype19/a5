@@ -1,0 +1,202 @@
+[
+  {
+    "location": "east-rutherford",
+    "focus": "Sort a renovation cleanout by material before arranging collection",
+    "description": "Plan East Rutherford home cleanouts with material sorting, local collection guidance and coordinated hauling, repairs and final cleaning.",
+    "answer": "For an East Rutherford renovation cleanout, identify the materials before deciding how they will leave the property. The Borough distinguishes household collection, heavy trash and separate recycling streams; its heavy-trash list specifically describes unpainted, untreated wood. Confirm acceptance for the actual debris instead of treating every removed cabinet or board alike.",
+    "heading": "Make a removal plan before the room is taken apart",
+    "paragraphs": [
+      "Photograph the items being removed while their material and condition are still visible. Separate reusable furnishings from broken fixtures, packaging and construction debris. Tell the hauler about painted or treated surfaces and anything whose material is uncertain, rather than combining the entire project into a single estimated pile.",
+      "East Rutherford publishes East End and West End street lists alongside its Garbage and Recycling guidance. The page also distinguishes heavy trash from ordinary recyclables. Check the current instructions for the address and material, and ask Public Works about anything unclear. A listed collection category does not establish that a mixed renovation load is acceptable.",
+      "Coordinate the removal appointment with the repair sequence. Keep usable furniture and new materials out of the loading route, protect doorways, and agree who removes items from inside the home. Once the space is clear, record exposed repair needs before arranging the final cleaning. Ask for disposal and cleanup responsibilities in the written scope."
+    ],
+    "projects": [
+      {"title":"Describe the actual debris","body":"Provide photos and a material list for a hauling quote. Identify the items that remain, those being donated and those requiring a separate disposal arrangement.","service":"junk-removal"},
+      {"title":"Repair after removal","body":"List damaged shelving, trim and doors exposed by the cleanout. Ask the professional to separate minor repairs from work requiring another trade.","service":"handyman"},
+      {"title":"Finish with a defined cleaning scope","body":"Specify cleared rooms and surfaces, and explain what repair dust remains. Confirm that disposal and repair work will be finished before the cleaning visit.","service":"house-cleaning"}
+    ],
+    "question":"Can all wood from an East Rutherford renovation go out as heavy trash?",
+    "response":"Do not assume so. The Borough's published heavy-trash list describes unpainted, untreated wood. Check the current material and preparation rules with Public Works and arrange appropriate private hauling for excluded debris.",
+    "sources":[{"title":"East Rutherford Garbage and Recycling","url":"https://www.eastrutherfordnj.net/251/Garbage-Recycling","publisher":"Borough of East Rutherford","supports":"Separate collection categories, unpainted/untreated wood description and East End/West End street lists; no dates, weights or contradictory shredded-paper instructions copied."}]
+  },
+  {
+    "location":"edgewater",
+    "focus":"Coordinate a unit repair with building responsibilities and occupancy paperwork",
+    "description":"Prepare Edgewater condo, co-op and home repair requests with clear work boundaries, access arrangements and Borough building resources.",
+    "answer":"For an Edgewater condo or co-op project, establish which parts of the work belong to the unit owner and which involve the building before booking trades. The Borough's Building Department handles continued-occupancy certificates for condo and co-op transactions as well as construction matters. Building-management approval and municipal requirements are separate questions to resolve for the actual project.",
+    "heading":"Define the unit work and the building coordination together",
+    "paragraphs":[
+      "Describe the room, the problem and the proposed change, including whether shared piping, a common wall or building equipment could be involved. Where there is a manager or association, ask who may authorize access and whether the work needs a building-specific submission. Avoid promising a contractor access that has not yet been arranged.",
+      "Edgewater's Building Department page expressly includes condos and co-ops in its continued-occupancy functions and provides a route for multiple-dwelling maintenance matters. Use that office to confirm the municipal process for the address. A private contractor's completed repair, a management sign-off and a Borough certificate serve different purposes.",
+      "Before choosing an installation date, discuss deliveries, material storage, elevator or stair access and any shutdown coordination with the responsible people. Request a quote that identifies what the contractor will protect and restore. Keep photos, equipment information and completion documents together so a later owner or manager can understand what changed."
+    ],
+    "projects":[
+      {"title":"Clarify a plumbing repair boundary","body":"Describe the affected fixtures and ask whether the problem may involve shared infrastructure. Coordinate any building access or shutdown before committing to the repair visit.","service":"plumbing"},
+      {"title":"Plan electrical work by room","body":"Provide the proposed fixture or outlet changes and any relevant building instructions. Have the electrician identify scope and applicable submissions before finishes are disturbed.","service":"electrical"},
+      {"title":"Restore the affected surfaces","body":"Identify exactly which walls need patching after the underlying work is complete. Agree on protection, finish level and responsibility for matching adjacent surfaces.","service":"drywall"}
+    ],
+    "question":"Does building-management approval replace Edgewater's municipal process?",
+    "response":"Treat them separately. Ask management about the building's requirements and the Borough Building Department about the property's construction or occupancy process. Confirm both before scheduling dependent work.",
+    "sources":[{"title":"Edgewater Building Department","url":"https://edgewaternj.org/149/Building-Department","publisher":"Borough of Edgewater","supports":"Department responsibilities for construction, multiple dwellings and condo/co-op continued occupancy; no inspection hours or universal private-building rules inferred."}]
+  },
+  {
+    "location":"elmwood-park",
+    "focus":"Turn a move-related punch list into documented repairs and municipal closeout",
+    "description":"Organize Elmwood Park move-related repairs, cleaning and follow-up with a practical punch list and local occupancy information.",
+    "answer":"For an Elmwood Park sale or rental turnover, keep the repair punch list separate from the municipal occupancy process. The Building Department's guidance directs residents selling a house or renting an apartment to obtain a certificate of occupancy. Confirm the current requirements early, then give each contractor a clear list of the findings that apply to their work.",
+    "heading":"Close the repair list before handing over the keys",
+    "paragraphs":[
+      "Create one room-by-room list with photos, locations and a person responsible for each item. Distinguish a requested cosmetic improvement from a documented inspection finding. If an item is unclear, obtain clarification before asking a contractor to price it; vague instructions can produce a finished repair that does not address the original concern.",
+      "Elmwood Park's Building Department publishes occupancy guidance for home sales and apartment rentals. Ask the department which application and inspection process applies to the address and transaction. Contractor invoices can document completed work, but they should not be represented as the municipal certificate or a substitute for required follow-up.",
+      "Schedule disruptive repairs first, touch-up work next and cleaning after the trades have finished. Keep invoices and before-and-after photographs with the punch list. Leave time to review outstanding items before movers arrive, and confirm who will arrange any required return visit. A single current list is more useful than separate verbal promises to several professionals."
+    ],
+    "projects":[
+      {"title":"Resolve small repair findings","body":"Share the exact door, trim or hardware problem and any written finding. Ask for a defined repair outcome rather than an open-ended visit to fix everything.","service":"handyman"},
+      {"title":"Coordinate final touch-ups","body":"Identify repaired areas and remaining paint information. Have the painter assess preparation and matching after underlying repairs are complete.","service":"painting"},
+      {"title":"Prepare for the handover clean","body":"Specify empty or occupied rooms, inside-cabinet work and any construction dust. Arrange access after repairs and before the next occupant moves in.","service":"house-cleaning"}
+    ],
+    "question":"Is finishing my Elmwood Park repair punch list the same as obtaining an occupancy certificate?",
+    "response":"No. Repairs and their records support the project, while the Building Department determines the applicable occupancy process. Confirm what paperwork and follow-up are needed for the particular sale or rental.",
+    "sources":[{"title":"Elmwood Park Building Department","url":"https://elmwoodparknj.us/building-department","publisher":"Borough of Elmwood Park","supports":"Published certificate-of-occupancy guidance for house sales and apartment rentals; no fees, inspection dates or exhaustive checklist inferred."}]
+  },
+  {
+    "location":"emerson",
+    "focus":"Build inspection readiness into the repair schedule",
+    "description":"Plan Emerson repairs around clear trade responsibilities, written inspection confirmation and a sensible sequence for restoring finished surfaces.",
+    "answer":"For an Emerson project that requires inspections, include readiness and written confirmation in the schedule. The Building Department asks for emailed inspection requests identifying the permit and address, with proposed dates that are not confirmed until the department responds in writing. Agree with the contractor who makes that request before booking work that depends on the inspection.",
+    "heading":"Schedule the next trade around a confirmed milestone",
+    "paragraphs":[
+      "Ask the professional to identify the stages of work and which, if any, need municipal inspection. Put the person responsible for each request on the project schedule. A proposed inspection date is a planning placeholder; it should not automatically become the date when the next contractor closes a wall or installs the final finish.",
+      "Emerson's current Building Department instructions distinguish requested dates from written confirmation and state that work must be ready when an inspection is requested. Check the department's current contact instructions directly. Include the project address and permit information so the request can be connected to the right record.",
+      "Before a follow-on trade arrives, confirm that the preceding work and any applicable inspection have reached the required stage. Keep the inspector's findings with the job records and clarify who will address them. Plan drywall, tile or painting around those milestones to reduce avoidable reopening and repeat visits."
+    ],
+    "projects":[
+      {"title":"Identify plumbing milestones","body":"Describe fixture changes and ask the plumber which stages require access or inspection. Agree who coordinates those steps before restoration begins.","service":"plumbing"},
+      {"title":"Coordinate electrical access","body":"Give the electrician the scope and planned finish schedule. Ask what must remain accessible and how readiness will be communicated to the next trade.","service":"electrical"},
+      {"title":"Restore walls at the right stage","body":"Confirm that underlying work is ready to be covered before scheduling patching. Define the finish level and painting responsibility in the quote.","service":"drywall"}
+    ],
+    "question":"Does suggesting an Emerson inspection date mean it is booked?",
+    "response":"The Building Department's instructions say proposed dates are not valid until confirmed in writing. Follow its current request process and coordinate readiness with the contractor before arranging dependent work.",
+    "sources":[{"title":"Emerson Building Department","url":"https://emersonnj.gov/?SEC=CAE99956-793B-48C6-930F-762AC417DF10","publisher":"Borough of Emerson","supports":"Emailed inspection requests, permit/address identification, readiness and written date confirmation; malformed email link, hours and older FAQ exemptions not copied."}]
+  },
+  {
+    "location":"englewood",
+    "focus":"Define the ground-work footprint before pricing a landscape change",
+    "description":"Prepare Englewood landscape and exterior repair projects with clear soil, tree and access information and City engineering resources.",
+    "answer":"For an Englewood landscape change, describe the ground work as well as the finished planting or paving. The City's Engineering page provides separate resources for right-of-way work, soil removal or deposit and trees. Use those distinctions to ask which current requirements apply before a contractor commits to excavation, deliveries or work near the street.",
+    "heading":"Show what changes below and around the finished surface",
+    "paragraphs":[
+      "Mark the proposed work area on an available property plan and photograph the existing trees, paved edges and access route. Explain whether soil will be brought in or taken away, where equipment could enter and what must remain protected. A sketch for a quote helps communicate scope; it is not a survey or an approval drawing.",
+      "Englewood's Engineering resources separate tree, soil and right-of-way submissions rather than treating all outdoor work as one application. Some posted forms carry earlier dates, so confirm the current process with the office instead of relying on an old downloaded copy. Ask about the actual project footprint and property conditions.",
+      "Request a written division of responsibility for preparation, hauling, protection and restoration. If one professional handles trees and another handles the ground finish, agree on the handoff before either begins. Keep the final scope and relevant records so future maintenance does not disturb work or access that was meant to remain in place."
+    ],
+    "projects":[
+      {"title":"Describe the complete landscape change","body":"Include soil movement, planting, access and restoration in the request. Ask what information is needed before an installation quote can be finalized.","service":"landscaping"},
+      {"title":"Assess trees within the work area","body":"Identify trees near planned equipment routes or excavation. Request an assessment and clarify the relevant City process before authorizing work.","service":"tree-services"},
+      {"title":"Coordinate adjoining masonry","body":"Show where a walkway or paved edge meets the landscape project. Ask the mason to define preparation and reinstatement rather than pricing only the visible finish.","service":"masonry"}
+    ],
+    "question":"Where can I start with Englewood soil, tree or right-of-way questions?",
+    "response":"The City's Engineering page links resources for those distinct topics. Contact the office with the address and proposed footprint to confirm current forms and requirements; a general landscape quote does not resolve every approval question.",
+    "sources":[{"title":"Englewood Engineering","url":"https://cityofenglewood.org/1173/Engineering","publisher":"City of Englewood","supports":"Separate right-of-way, soil removal/deposit and tree resources; no permit thresholds or current validity of dated forms inferred."}]
+  },
+  {
+    "location":"englewood-cliffs",
+    "focus":"Distinguish selective repair from a larger removal and rebuilding project",
+    "description":"Define Englewood Cliffs repair and renovation scope with clear retained features, removal responsibilities and Borough construction resources.",
+    "answer":"For an Englewood Cliffs renovation, state what stays, what is removed and what will be rebuilt before seeking comparable quotes. The Borough Building Department publishes distinct resources for demolition, new construction and residential occupancy. Ask which process fits the actual scope; calling a project a repair does not by itself determine its requirements.",
+    "heading":"Agree on what remains before work starts",
+    "paragraphs":[
+      "Photograph the existing room or exterior area and mark the features you intend to retain. Identify adjacent cabinets, trim, paving or planting that need protection. Ask the professional to explain whether the proposed approach can work with what remains and what discoveries could change the scope once surfaces are opened.",
+      "Englewood Cliffs provides different construction and occupancy resources through its Building Department. Use the relevant office to confirm the submission and inspection path for the address. Avoid selecting a form based only on a contractor's shorthand description or assuming every small replacement follows the same process as a larger project.",
+      "Compare quotes using the same boundaries: removal, material supply, installation, debris handling and finish restoration. Name who will coordinate follow-on trades and any required closeout. Keep change decisions in writing so an initially selective repair does not gradually become a larger project without a shared understanding of cost and responsibilities."
+    ],
+    "projects":[
+      {"title":"Define masonry repair limits","body":"Show the damaged area and the adjoining surfaces to retain. Ask for the proposed repair boundary, preparation and treatment of debris in the scope.","service":"masonry"},
+      {"title":"Plan a contained tile replacement","body":"Identify the tiles and surrounding fixtures that should stay. Discuss substrate assessment and how unexpected damage would be handled before new material is ordered.","service":"tile"},
+      {"title":"Separate small repairs from rebuilding","body":"Provide a specific punch list and retention photos. Ask which tasks suit the handyman's scope and which need a separate qualified trade.","service":"handyman"}
+    ],
+    "question":"Which Englewood Cliffs construction resource fits my renovation?",
+    "response":"The Building Department publishes separate demolition, new-construction and residential-occupancy resources. Describe the actual removal and rebuilding scope to the office so it can identify the applicable process.",
+    "sources":[{"title":"Englewood Cliffs Building Department","url":"https://englewoodcliffsnj.org/departments/building/index.php","publisher":"Borough of Englewood Cliffs","supports":"Distinct demolition, new construction and residential occupancy resources; no universal permit rule inferred from the general examples."}]
+  },
+  {
+    "location":"fair-lawn",
+    "focus":"Separate household plumbing symptoms from street storm-drain concerns",
+    "description":"Describe Fair Lawn drainage and plumbing problems clearly, with local sewer and road responsibilities and practical preparation for professional assessment.",
+    "answer":"For a Fair Lawn water or drainage concern, record where the problem appears before deciding whom to contact. The Borough assigns sanitary sewer mains to its Sewer Division and street storm drains to its Road Division. A private fixture problem, a public sewer concern and rainwater at a street inlet can require different responses; do not assume they share one cause.",
+    "heading":"Give the right professional a useful account of the problem",
+    "paragraphs":[
+      "Note the affected fixtures or outdoor locations, when the symptom began and whether it follows rainfall or ordinary household use. Take photos only from a safe position and keep prior service findings available. Describe what you observed without deciding in advance that a pipe, gutter or public drain must be responsible.",
+      "Fair Lawn's Sewer Division page explicitly distinguishes the sanitary system from the stormwater system and identifies the Road Division as responsible for storm drains. That provides a starting point for reporting a public-system concern. Have the relevant office or professional clarify the repair boundary rather than assuming municipal maintenance includes every line on the property.",
+      "For private work, ask the professional to separate diagnosis from the proposed repair and explain what remains uncertain. Coordinate surface restoration only after the underlying issue has been assessed. Keep the findings with photos of the affected area so a later recurrence can be compared with the original conditions."
+    ],
+    "projects":[
+      {"title":"Describe a household drain symptom","body":"List affected fixtures and timing, and provide prior plumbing findings. Ask the plumber to identify the scope of assessment before authorizing a repair.","service":"plumbing"},
+      {"title":"Document gutter overflow separately","body":"Show visible overflow locations and outlet conditions from ground level. Ask for maintenance findings without assuming they explain a street or underground drainage problem.","service":"gutters"},
+      {"title":"Restore the landscape after assessment","body":"Identify disturbed or persistently wet areas and share the underlying findings. Plan planting or ground restoration after the relevant drainage questions are resolved.","service":"landscaping"}
+    ],
+    "question":"Which Fair Lawn division handles street storm drains?",
+    "response":"The Borough's Sewer Division page identifies storm drains as the Road Division's responsibility and distinguishes them from sanitary sewer mains. Use the current Borough contact information for the relevant concern.",
+    "sources":[{"title":"Fair Lawn Sewer Division","url":"https://www.fairlawn.org/sewer","publisher":"Borough of Fair Lawn","supports":"Sanitary-system versus storm-drain distinction and responsible divisions; no private lateral ownership or property-specific diagnosis asserted."}]
+  },
+  {
+    "location":"fairview",
+    "focus":"Identify the road authority before work at a driveway or curb",
+    "description":"Plan Fairview driveway-edge and exterior repairs with clear public-road boundaries, contractor scope and local Public Works guidance.",
+    "answer":"For a Fairview project near the curb or driveway entrance, identify the road authority before agreeing to work affecting the street. Public Works distinguishes Borough roads from county roads such as Anderson Avenue, Fairview Avenue and Bergenwood Road, and from state highways. Ask the relevant authority what applies to the actual work area instead of assuming every frontage follows one Borough process.",
+    "heading":"Define the edge between your project and the street",
+    "paragraphs":[
+      "Photograph the driveway entrance, curb and adjoining walkway, and provide any available property plan. Describe the intended repair and whether equipment, excavation or materials could extend beyond the private work area. Do not use the apparent pavement edge as proof of a property or right-of-way boundary.",
+      "Fairview's Public Works page explains that it issues road-opening permits for work affecting municipal roads and lists county and state road distinctions. Use that information to identify the right starting office. The existence of a road-opening process does not establish that every private driveway repair requires one; the responsible authority should determine applicability.",
+      "Have the contractor distinguish preparation, hauling, protection of adjoining surfaces and final restoration in the quote. Clarify how residents will enter the property during the work and who coordinates any approved public-space use. Resolve those details before deliveries arrive so access arrangements do not become an improvised part of the job."
+    ],
+    "projects":[
+      {"title":"Scope the paved-edge repair","body":"Provide photos of the damaged area and its connection to the walkway or curb. Ask the mason to define boundaries and preparation before pricing the finish.","service":"masonry"},
+      {"title":"Coordinate adjoining landscape work","body":"Show planting and soil areas beside the repair. Agree on protection and restoration after the hard-surface work, with access kept in the plan.","service":"landscaping"},
+      {"title":"Plan debris loading and removal","body":"Identify material types and the proposed loading location. Confirm the hauling scope and any applicable placement arrangements before debris accumulates.","service":"junk-removal"}
+    ],
+    "question":"Does Fairview Public Works control every road in the Borough?",
+    "response":"No. Its official guidance identifies municipal, county and state roads. Check the road and proposed work area with the appropriate authority before relying on a Borough road-opening process.",
+    "sources":[{"title":"Fairview Public Works","url":"https://www.fairviewborough.com/departments/dpw","publisher":"Borough of Fairview","supports":"Municipal road-opening responsibility and named county/state road distinctions; no private-driveway permit requirement inferred."}]
+  },
+  {
+    "location":"fort-lee",
+    "focus":"Coordinate bathroom repairs across trades before choosing finishes",
+    "description":"Prepare Fort Lee bathroom repair projects with a shared scope, sensible trade sequencing and Borough building and subcode resources.",
+    "answer":"For a Fort Lee bathroom project, describe the plumbing, electrical and surface work together before requesting separate quotes. The Borough Building Department provides distinct subcode application resources and a construction-permit instructional video. Confirm which requirements apply to the scope, then assign responsibility for coordination before fixtures or finishes are ordered.",
+    "heading":"Build one bathroom plan that each trade can use",
+    "paragraphs":[
+      "Start with a list of existing problems and desired changes. Mark whether fixtures stay in place, what equipment will be replaced and which surfaces will be opened. Include product information when available, but ask the relevant professional to confirm suitability before buying items that may determine plumbing or electrical work.",
+      "Fort Lee's Building Department groups plumbing, electrical, fire and building resources separately and offers guidance on preparing a construction application. Those resources help organize questions for the office; they are not a determination that every bathroom task needs every form. Explain the actual project and confirm the applicable path.",
+      "Agree on the handoff between investigation, underlying repairs, any required inspection and finish installation. Make responsibility for waterproofing, patching and final painting explicit in the combined scope. If the bathroom must remain usable during part of the work, discuss that constraint before the schedule is finalized rather than after the room has been opened."
+    ],
+    "projects":[
+      {"title":"Confirm fixture and piping scope","body":"Provide the existing layout and proposed fixtures. Ask the plumber to identify repair versus relocation work and the information needed before installation.","service":"plumbing"},
+      {"title":"Coordinate lighting and ventilation connections","body":"Share product details and the room plan with the electrician. Clarify electrical scope and its timing relative to opened walls and finished surfaces.","service":"electrical"},
+      {"title":"Define the tile system and finish","body":"Discuss substrate condition, preparation and waterproofing responsibilities before tile selection is final. Schedule installation after the necessary underlying work is ready.","service":"tile"}
+    ],
+    "question":"Where can I find Fort Lee's construction application guidance?",
+    "response":"The Borough Building Department links an instructional video and separate subcode resources. Use them to prepare questions, then confirm which submissions and inspections apply to the actual bathroom work.",
+    "sources":[{"title":"Fort Lee Building Department","url":"https://www.fortleenj.org/162/Building-Department","publisher":"Borough of Fort Lee","supports":"Instructional construction-permit video and separate subcode resources; no blanket permitting or building-management rules asserted."}]
+  },
+  {
+    "location":"franklin-lakes",
+    "focus":"Protect septic-system access when planning other property improvements",
+    "description":"Plan Franklin Lakes property improvements around known septic equipment, clear specialist responsibilities and Borough Health resources.",
+    "answer":"For a Franklin Lakes property with a septic system, identify the system and its access needs before planning nearby landscape or renovation work. The Borough's septic guidance directs repair permitting to the Board of Health and identifies a local installer-licensing requirement. A general plumbing or landscaping category match does not establish that a professional is qualified to repair the septic system.",
+    "heading":"Keep the home's systems visible in the project plan",
+    "paragraphs":[
+      "Gather available septic plans and service records before discussing changes to the yard. Show the professionals where known equipment and access points are located, and identify anything uncertain for qualified assessment. Do not assume the arrangement at one Franklin Lakes property matches another or use a remembered location as the basis for excavation.",
+      "Franklin Lakes publishes septic resources through its Board of Health and sanitary-engineering information. Its FAQ distinguishes septic repairs from ordinary property maintenance and addresses qualified installers. Confirm current requirements with the Board for the actual work. A5's general service categories should not be taken as a representation of septic-specialist eligibility.",
+      "For adjacent projects, ask each professional to define the work they will perform and the system areas they will avoid. Coordinate equipment access, material storage and landscape restoration with the appropriate specialist where needed. Keep updated records after the work so future maintenance can reach the system without undoing newly completed improvements."
+    ],
+    "projects":[
+      {"title":"Plan landscaping around known equipment","body":"Provide available system records and identify access that must remain usable. Confirm the appropriate constraints before agreeing to planting or ground work.","service":"landscaping"},
+      {"title":"Separate household plumbing from septic work","body":"Describe indoor fixture symptoms and available findings. Ask the plumber to identify the limits of the visit and when a separate qualified septic specialist is needed.","service":"plumbing"},
+      {"title":"Coordinate tree work with system access","body":"Show the tree professional known equipment and intended access routes. Have uncertain underground constraints assessed before work methods are finalized.","service":"tree-services"}
+    ],
+    "question":"Does an A5 plumbing match establish Franklin Lakes septic-repair qualifications?",
+    "response":"No. Confirm septic-specific qualifications and the applicable Board of Health process directly. The Borough's septic resources address repair permitting and installer requirements separately from an ordinary plumbing request.",
+    "sources":[{"title":"Franklin Lakes Septic Systems","url":"https://www.franklinlakes.org/septic","publisher":"Borough of Franklin Lakes","supports":"Official septic-system resources and homeowner information."},{"title":"Franklin Lakes Septic FAQs","url":"https://www.franklinlakes.org/septicfaq","publisher":"Borough of Franklin Lakes","supports":"Board of Health repair permitting and local installer qualification distinction; no design formulas, sale obligations or maintenance intervals copied."}]
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "batch": "06",
+  "sha256": "d020d05d94e01b510a07010bd553abf22e36139e604f2865e187dbcc420280b7",
+  "checkedAt": "2026-10-08T16:51:52.934Z",
+  "count": 10,
+  "sitemapCount": 176,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/allendale",
+      "status": 200,
+      "title": "Allendale Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Allendale home cleanouts with Borough collection resources, a clear sorting and loading plan, and coordinated hauling, repairs and cleaning.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/alpine",
+      "status": 200,
+      "title": "Alpine Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Alpine property repair requests with clear system information and Borough contacts for construction, drainage and septic questions.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/bergenfield",
+      "status": 200,
+      "title": "Bergenfield Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Bergenfield paving and yard repairs with clear debris removal, DPW collection guidance and coordinated masonry, hauling and restoration scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/bogota",
+      "status": 200,
+      "title": "Bogota Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Bogota cleanouts with a categorized inventory, Borough waste resources and clear private hauling, repair and cleaning responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/carlstadt",
+      "status": 200,
+      "title": "Carlstadt Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Carlstadt home updates with Borough construction resources, coordinated trade scopes and clear inspection and completion records through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/cliffside-park",
+      "status": 200,
+      "title": "Cliffside Park Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Cliffside Park home cleanouts with recycling-center guidance, sorted materials and clear hauling and room-restoration scopes through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/closter",
+      "status": 200,
+      "title": "Closter Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Closter exterior repairs with local design guidelines, material documentation and clear scopes for roofing, masonry and porch or trim work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/cresskill",
+      "status": 200,
+      "title": "Cresskill Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Cresskill equipment updates with Building Department completion guidance, coordinated inspections and clear electrical, plumbing and heating scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/demarest",
+      "status": 200,
+      "title": "Demarest Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Demarest outdoor work with Shade Tree Commission resources, retained-tree protection and coordinated landscape, tree and paving scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/dumont",
+      "status": 200,
+      "title": "Dumont Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Dumont seasonal yard work with current DPW collection resources, separate debris streams and coordinated gutter, landscape and hauling scopes.",
+      "errors": []
+    }
+  ]
+}
