@@ -1,0 +1,80 @@
+{
+  "batch": "08",
+  "sha256": "b51447998c5137542c9b7752083db09f2b17eeaef0f3f441cfcd3b54cb5158a7",
+  "checkedAt": "2026-10-08T17:10:40.179Z",
+  "count": 10,
+  "sitemapCount": 196,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/garfield",
+      "status": 200,
+      "title": "Garfield Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare a Garfield patio project with a clear footprint, survey information, coordinated landscape edges and local application guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/glen-rock",
+      "status": 200,
+      "title": "Glen Rock Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Glen Rock tree and landscape requests with clear ownership questions, Borough shade-tree resources and practical project preparation.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hackensack",
+      "status": 200,
+      "title": "Hackensack Home Services | Bergen County | A5 Home Services",
+      "description": "Organize Hackensack property repairs with the original findings, clear trade responsibilities and City building and property-maintenance resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/harrington-park",
+      "status": 200,
+      "title": "Harrington Park Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Harrington Park repairs with the Borough's inspection sequence, clear contractor handoffs and a practical finish-work schedule.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hasbrouck-heights",
+      "status": 200,
+      "title": "Hasbrouck Heights Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Hasbrouck Heights repair projects with available permit records, clear existing conditions and coordinated technical and cosmetic work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/haworth",
+      "status": 200,
+      "title": "Haworth Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Haworth driveway and adjoining landscape work with a defined footprint, local routing information and clear contractor responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hillsdale",
+      "status": 200,
+      "title": "Hillsdale Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Hillsdale outdoor improvement requests with a clear proposed location, property information and Borough zoning resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/ho-ho-kus",
+      "status": 200,
+      "title": "Ho-Ho-Kus Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Ho-Ho-Kus water and plumbing requests with clear observations, available records and the Borough's water-meter contact route.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/leonia",
+      "status": 200,
+      "title": "Leonia Home Services | Bergen County | A5 Home Services",
+      "description": "Organize Leonia turnover repairs with distinct occupancy and alarm-compliance checks, a clear punch list and coordinated contractor follow-up.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/little-ferry",
+      "status": 200,
+      "title": "Little Ferry Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Little Ferry home improvement requests with accurate property information, a defined scope and local zoning and floodplain resources.",
+      "errors": []
+    }
+  ]
+}

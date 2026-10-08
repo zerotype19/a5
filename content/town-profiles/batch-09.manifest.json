@@ -1,0 +1,1310 @@
+{
+  "updates": [
+    {
+      "id": "318e9384-dd15-4366-8964-a16dbddec81e",
+      "slug": "lodi",
+      "page_type": "LOCATION",
+      "title": "Home services in Lodi, Bergen County",
+      "meta_title": "Lodi Home Services | Bergen County",
+      "meta_description": "Plan a Lodi renovation with clear debris handling, dumpster placement, site access and Borough construction resources before work begins.",
+      "h1": "Home services in Lodi.",
+      "primary_service_id": null,
+      "primary_location_id": "lodi",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Lodi, Bergen County?",
+      "direct_answer": "A Lodi renovation quote should explain where removed materials go, not just what will be installed. The Borough's Building Department publishes separate dumpster, road-opening and soil-movement applications. Describe the proposed staging and removal plan to the department so the appropriate requirements can be checked before a delivery or excavation is arranged.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan the space around the work",
+          "paragraphs": [
+            "Draw a simple layout showing the work area, entrance, driveway and proposed material storage. Identify the route workers will use and which parts of the home must remain accessible. A clear access plan helps a contractor price protection, loading and cleanup instead of leaving these responsibilities unresolved until demolition starts.",
+            "Lodi's construction resources distinguish the building work from other site activities by listing separate application types. Their presence does not mean every repair needs every application. Give the office the actual scope and proposed placement, and ask which process applies before assuming that a contractor's construction paperwork also covers a container or street disturbance.",
+            "Have the proposal identify who orders the container, checks placement requirements and removes each type of debris. Keep usable household items separate from construction material so the removal quote is accurate. If the project changes, revisit the staging plan before the next delivery rather than allowing access restrictions to accumulate."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Lodi project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the interior repair boundaries",
+              "body": "Show the affected rooms and surfaces. Ask the drywall professional to include protection, material handling and removal in the repair proposal.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Prepare for masonry removal",
+              "body": "Photograph existing paving or brickwork and identify access. Separate demolition, new work and disposal responsibilities in the scope.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Arrange the right removal service",
+              "body": "List household items and construction debris separately. Confirm what the hauler accepts, loading access and who handles any placement questions.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I check Lodi's project-container and site-work resources?",
+              "answer": "The Borough Building Department page links dumpster, road-opening and soil-movement applications. Describe the actual project and placement to the office to confirm which requirements apply."
+            },
+            {
+              "question": "How does A5 help with my Lodi request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Lodi is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Lodi project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:22.534+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "aa1119df-2d6b-4b6b-8ef7-a76dc7599cc0",
+      "slug": "lyndhurst",
+      "page_type": "LOCATION",
+      "title": "Home services in Lyndhurst, Bergen County",
+      "meta_title": "Lyndhurst Home Services | Bergen County",
+      "meta_description": "Prepare a Lyndhurst plumbing or drainage request with clear observations, the appropriate Public Works contact and a defined private repair scope.",
+      "h1": "Home services in Lyndhurst.",
+      "primary_service_id": null,
+      "primary_location_id": "lyndhurst",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Lyndhurst, Bergen County?",
+      "direct_answer": "For a Lyndhurst water-related problem, describe where the symptom appears before deciding which repair to request. The Township's Public Works department includes water, sewer, road and shade-tree functions and provides a route for water or sewer reports. A public-system question and a private plumbing or yard problem can require different next steps; confirm responsibility rather than inferring it from the nearest drain.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the symptom before choosing the repair",
+          "paragraphs": [
+            "Record whether the issue is at a fixture, near the water service, in the yard or along the street. Note when it appears and whether it coincides with rainfall or normal household use. Ground-level photos and a short timeline are more useful than a confident guess about a buried connection or the owner of a pipe.",
+            "Lyndhurst's Public Works page describes separate sanitary and stormwater infrastructure and gives residents a reporting route for water and sewer concerns. Use the current municipal contact instructions when public infrastructure may be involved. The department description does not establish responsibility for every connection at a particular property or guarantee a response time.",
+            "For private work, ask the professional what they will assess, what access they need and what findings would change the scope. Keep plumbing diagnosis separate from landscape restoration. Agree on who restores disturbed finishes or planting after the underlying work, and retain the findings so later contractors understand what has already been checked."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Lyndhurst project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Prepare a plumbing assessment",
+              "body": "Identify the affected fixtures and timing. Share any municipal findings and ask the plumber to define the private diagnosis and repair scope.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Document a yard-water pattern",
+              "body": "Provide photos taken from a safe location and describe when water appears. Ask the landscaper what requires further assessment before changing surfaces or planting.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Check roof runoff observations",
+              "body": "Describe visible overflow or damaged gutter sections from the ground. Keep gutter work distinct from an unresolved underground or public-system issue.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Lyndhurst department handles public water and sewer inquiries?",
+              "answer": "Public Works includes the Township's water and sewer functions and publishes the current reporting instructions. Use that route to clarify a public-system concern while keeping any private repair scope explicit."
+            },
+            {
+              "question": "How does A5 help with my Lyndhurst request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Lyndhurst is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Lyndhurst project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:22.781+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "91e3e1f0-7841-4b65-8e2f-8c06826f1769",
+      "slug": "mahwah",
+      "page_type": "LOCATION",
+      "title": "Home services in Mahwah, Bergen County",
+      "meta_title": "Mahwah Home Services | Bergen County",
+      "meta_description": "Prepare Mahwah tree and landscape projects using Township tree-removal and vendor-registration resources, clear access plans and separate repair scopes.",
+      "h1": "Home services in Mahwah.",
+      "primary_service_id": null,
+      "primary_location_id": "mahwah",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mahwah, Bergen County?",
+      "direct_answer": "For a Mahwah tree project, start with the Township's tree-removal guidance and tree-service vendor-registration resources. Planning, Zoning and Property Maintenance publishes both, along with a current registered-vendor resource. Check the proposed work and professional's applicable registration directly; an A5 service match alone does not establish municipal registration or permission to remove a tree.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Coordinate the tree decision before the yard redesign",
+          "paragraphs": [
+            "Photograph the tree from the ground and show its relationship to buildings, pavement and the intended work area. Describe whether you want an assessment, pruning or possible removal. Let the appropriate professional assess the tree and clarify ownership before treating removal as the only option or asking another contractor to work around an unresolved decision.",
+            "Mahwah groups tree-removal, zoning and soil-movement resources within its Planning, Zoning and Property Maintenance department. Use the current tree guidance for the actual proposal and check any connected site work separately. The registered-vendor resource is a municipal reference, not an A5 ranking or a promise of availability, insurance or project suitability.",
+            "Ask the proposal to distinguish tree work, stump handling, material removal and later restoration. Mark features that must be protected and discuss equipment access. Schedule replacement planting or adjacent paving after the agreed tree work so each professional knows what condition the site will be in when their part begins."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mahwah project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Arrange a tree assessment",
+              "body": "Share the tree location and intended outcome. Check applicable Township requirements and the professional's relevant registration before agreeing to work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Plan the landscape after tree work",
+              "body": "Identify retained planting and the area to restore. Ask for a planting and access plan based on the agreed tree-work scope.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate adjoining hardscape repairs",
+              "body": "Show the path or patio affected by the project. Resolve nearby tree decisions before committing to a new masonry surface.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does an A5 tree-service match confirm Mahwah registration?",
+              "answer": "No. Mahwah publishes its own tree-service vendor-registration and tree-removal resources. Check the applicable municipal requirements and the professional's status directly before the work."
+            },
+            {
+              "question": "How does A5 help with my Mahwah request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mahwah is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mahwah project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:22.902+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "88478641-ed3a-4ed4-893f-41e5bd0cb14b",
+      "slug": "maywood",
+      "page_type": "LOCATION",
+      "title": "Home services in Maywood, Bergen County",
+      "meta_title": "Maywood Home Services | Bergen County",
+      "meta_description": "Plan Maywood heating replacements with equipment details, venting questions, chimney-verification resources and coordinated professional responsibilities.",
+      "h1": "Home services in Maywood.",
+      "primary_service_id": null,
+      "primary_location_id": "maywood",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Maywood, Bergen County?",
+      "direct_answer": "When planning fuel-fired heating equipment work in Maywood, include the venting and documentation questions in the initial request. The Borough's Building Department provides a chimney-verification resource for fuel-fired appliances. Ask the qualified professional and department how that requirement applies to the proposed equipment instead of treating the project as a simple swap of one box for another.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the complete heating replacement scope",
+          "paragraphs": [
+            "Provide the existing equipment make, model and fuel type if known, along with accessible photos and prior service findings. Explain the problem you want resolved and whether the proposal changes the equipment or its location. Do not open equipment or inspect a vent yourself to complete a quote request; the professional should identify the assessment needed.",
+            "Maywood's Building Department links chimney verification alongside trade application resources and its online permit service. Use the current department guidance to establish the documentation for the actual installation. A general heating-service category does not confirm that every professional handles the same fuel, venting system or associated chimney work.",
+            "Ask each proposal to identify equipment, related venting work, electrical or plumbing coordination and removal of the old unit. Confirm who handles required paperwork and inspections. If finish repairs are needed afterward, define those separately so completion of the installation is not confused with restoration of the surrounding room."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Maywood project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Scope the heating work",
+              "body": "Share equipment information and the service findings. Ask the HVAC professional to explain the installation, venting assessment and applicable documentation.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Clarify associated plumbing tasks",
+              "body": "Identify any plumbing work described in the equipment proposal. Confirm trade responsibility rather than assuming it is included in every heating quote.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan electrical coordination",
+              "body": "Share the proposed equipment details with the electrician where electrical work is involved. Coordinate responsibilities with the installing professional.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where does Maywood publish chimney-verification information?",
+              "answer": "The Borough Building Department page links its chimney-verification resource for fuel-fired appliances. Confirm the current requirements with the department and qualified installer for the proposed work."
+            },
+            {
+              "question": "How does A5 help with my Maywood request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Maywood is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Maywood project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.019+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "8f88cb60-a747-4ffa-8638-997b700c6a95",
+      "slug": "midland-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Midland Park, Bergen County",
+      "meta_title": "Midland Park Home Services | Bergen County",
+      "meta_description": "Organize Midland Park home-sale repairs around the Borough's resale and smoke-certificate processes, clear findings and coordinated finishing work.",
+      "h1": "Home services in Midland Park.",
+      "primary_service_id": null,
+      "primary_location_id": "midland-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Midland Park, Bergen County?",
+      "direct_answer": "For a Midland Park home sale, keep the resale certificate and smoke-detector compliance process on separate lines of your checklist. The Borough's Selling Your House guide identifies both applications and separate Zoning and Fire Prevention inspectors. Read the current instructions before setting the repair schedule, then share any actual findings with the right professional.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn sale preparation into an ordered repair list",
+          "paragraphs": [
+            "Create one list of repairs with room locations, photos and the original wording of any inspection finding. Separate cosmetic preparation from work intended to resolve an official finding. This gives professionals enough context to quote the requested result and helps you avoid treating a general cleanup as a substitute for a technical repair.",
+            "Midland Park's guide describes two applications and says the relevant inspectors arrange their inspections after submission. Check the current submission and scheduling instructions directly rather than relying on a previous transaction. Completion of one inspection should not be used as evidence that the other certificate or every outstanding item has been resolved.",
+            "Arrange underlying repairs first, then touch-ups and cleaning. Keep a record of who completed each task and any follow-up required by the inspector. For electrical findings, use the appropriate qualified professional; do not stretch a handyman's small-repair scope to cover undefined wiring work simply because the closing date is approaching."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Midland Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Complete a specific punch list",
+              "body": "List doors, hardware and trim by room. Ask which tasks fit the handyman's scope and keep technical inspection findings clearly identified.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Resolve an electrical finding",
+              "body": "Provide the written finding and accessible equipment information. Ask the electrician to explain the repair and any required follow-up.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Schedule the final clean",
+              "body": "Set the cleaning scope after repair work is complete. Identify rooms, surfaces and access so the service fits the handover plan.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which inspection roles does Midland Park identify for a home sale?",
+              "answer": "The Borough's Selling Your House guide identifies Zoning and Fire Prevention inspectors for the separate resale and smoke-detector certificate processes. Check both current applications and track their completion separately."
+            },
+            {
+              "question": "How does A5 help with my Midland Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Midland Park is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Midland Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.126+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "c14a8512-c382-48a5-8e37-61ffb364ebf8",
+      "slug": "montvale",
+      "page_type": "LOCATION",
+      "title": "Home services in Montvale, Bergen County",
+      "meta_title": "Montvale Home Services | Bergen County",
+      "meta_description": "Keep Montvale repair projects organized through required final inspections, completion records and the Borough's home-sale preparation guidance.",
+      "h1": "Home services in Montvale.",
+      "primary_service_id": null,
+      "primary_location_id": "montvale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Montvale, Bergen County?",
+      "direct_answer": "For a Montvale project with a permit, plan the required inspections through final closeout. The Borough's Building and Construction guidance places responsibility for scheduling required inspections with the homeowner and tells sellers to resolve open trade permits before applying for the resale certificate. Agree on coordination with the contractor, then verify the recorded completion rather than assuming a finished surface closes the permit.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give the project a documented finish line",
+          "paragraphs": [
+            "Start a project folder with the approved scope, permit information and contractor contacts. Note which inspections apply and who will request each one. If the scope changes, ask the Construction Office how to handle the change before later work hides an area that still needs review.",
+            "Montvale's current guidance connects permit closeout with its new-tenant and resale process. That makes the paperwork useful long after the contractor leaves. Check the actual property record and applicable steps with the Borough; this guide does not mean every maintenance task requires a permit or that an invoice proves official closeout.",
+            "Before scheduling final painting or moving stored items back into place, confirm what access is still needed. Save the completion documents alongside equipment and warranty information. When preparing to sell later, the same folder helps distinguish work that was finished and recorded from questions that still need the Borough's attention."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Montvale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Track electrical completion",
+              "body": "Keep the agreed electrical scope and applicable inspection details together. Clarify coordination and save the final records for the work performed.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Document the plumbing repair",
+              "body": "Share existing findings and the planned repair. Ask the plumber what completion information and inspection coordination belong in the project file.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Sequence finish restoration",
+              "body": "Identify surfaces affected by the work. Confirm that required access and inspections are resolved before scheduling the final paint finish.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who should make sure required Montvale inspections are scheduled?",
+              "answer": "The Borough's Building and Construction page states that the homeowner is responsible for scheduling required inspections when a permit is issued. Agree on practical coordination with the contractor and verify completion with the office."
+            },
+            {
+              "question": "How does A5 help with my Montvale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Montvale is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Montvale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.253+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d81d18e0-841c-468e-8f21-c1212ec34fe1",
+      "slug": "moonachie",
+      "page_type": "LOCATION",
+      "title": "Home services in Moonachie, Bergen County",
+      "meta_title": "Moonachie Home Services | Bergen County",
+      "meta_description": "Plan Moonachie appliance repairs and replacements with model details, connection responsibilities and the Borough's special curbside removal guidance.",
+      "h1": "Home services in Moonachie.",
+      "primary_service_id": null,
+      "primary_location_id": "moonachie",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Moonachie, Bergen County?",
+      "direct_answer": "A Moonachie appliance request should include both the repair question and, if replacement is chosen, the old unit's removal. The Borough's Garbage and Recycling page gives refrigerators and air conditioners a special curbside-permit process. Confirm the current municipal instructions or the installer's removal service before assuming the old appliance can go out with ordinary trash.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make removal part of the replacement decision",
+          "paragraphs": [
+            "Share the appliance make, model and observed symptoms with the technician. Note whether the issue is intermittent and what prior service has been done. Ask for a diagnosis and the proposed repair before comparing that option with replacement; a symptom alone does not establish which component failed.",
+            "Moonachie's disposal guidance distinguishes refrigerators and air conditioners from routine garbage collection. Check its current preparation and collection instructions if using the Borough route. Private installer pickup is a separate arrangement, so ask whether the quote includes carrying the unit out, transport and appropriate handling rather than relying on the phrase delivery included.",
+            "For replacement, measure the accessible route and describe stairs or tight turns without moving heavy equipment yourself. Confirm who handles the required connections and whether another qualified trade is needed. Keep the removal date aligned with installation so the old unit does not obstruct access or leave an unfinished task after the new appliance arrives."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Moonachie project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Request an appliance diagnosis",
+              "body": "Provide model details, symptoms and service history. Ask the technician to explain the repair scope before you commit to replacement.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            },
+            {
+              "title": "Clarify connection work",
+              "body": "Identify any water or drain connection work associated with the replacement. Confirm which tasks the installer includes and which need a plumber.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Arrange suitable removal",
+              "body": "Identify the appliance and access route. Confirm acceptance and handling with the remover or follow the Borough's current special collection instructions.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can a Moonachie refrigerator or air conditioner be treated as ordinary curbside trash?",
+              "answer": "The Borough's Garbage and Recycling guidance lists a special curbside-permit process for these appliances. Confirm current preparation and collection instructions before putting a unit out."
+            },
+            {
+              "question": "How does A5 help with my Moonachie request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Moonachie is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Moonachie project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.369+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3c180ad7-fedf-4062-8b2f-0d22f708dc74",
+      "slug": "new-milford",
+      "page_type": "LOCATION",
+      "title": "Home services in New Milford, Bergen County",
+      "meta_title": "New Milford Home Services | Bergen County",
+      "meta_description": "Plan a New Milford clear-out with separate bulky items, electronics and project debris, using current Borough recycling and disposal resources.",
+      "h1": "Home services in New Milford.",
+      "primary_service_id": null,
+      "primary_location_id": "new-milford",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in New Milford, Bergen County?",
+      "direct_answer": "For a New Milford clear-out, sort the items before choosing a pickup or drop-off route. The Borough's Public Works page says trash and bulky items are not accepted at the Recycling Center, while identifying separate accepted recycling categories. Check the current item guidance and arrange suitable hauling for anything outside the municipal route you intend to use.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Build an item list before booking the clear-out",
+          "paragraphs": [
+            "Photograph the items to remove and group furniture, electronics, metal and material from repair work separately. Note stairs, parking and the distance to the loading area. A precise list helps a remover quote the actual job and reduces surprises when something needs a different disposal route.",
+            "New Milford's Public Works resource distinguishes curbside trash and bulk collection from Recycling Center acceptance. It also provides the current calendar and a Recycle Coach lookup. Use the item-specific instructions instead of assuming that an item described as recyclable can be left in any bin or brought to the center as mixed waste.",
+            "Keep belongings to retain clearly marked before the crew arrives. If repairs are planned afterward, clear the needed access area first and schedule cleaning after removal. Tell the hauler about unknown containers or materials in advance and ask whether specialist handling is needed; a general junk-removal request should not conceal a different kind of job."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your New Milford project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Quote the household clear-out",
+              "body": "Share the grouped item list and loading route. Confirm which materials the remover accepts and what is included in the price.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Repair the newly accessible area",
+              "body": "After unwanted items are removed, list specific shelf, door or hardware repairs. Keep the handyman scope separate from the hauling work.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Clean after removal",
+              "body": "Identify the rooms and surfaces exposed by the clear-out. Agree on an ordinary cleaning scope after items and repair debris are gone.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does New Milford's Recycling Center accept ordinary trash and bulky furniture?",
+              "answer": "The Borough Public Works page says trash and bulk items are not accepted at the Recycling Center. Check its current curbside and item-specific guidance before choosing a disposal route."
+            },
+            {
+              "question": "How does A5 help with my New Milford request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "New Milford is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your New Milford project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.474+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b9e8790e-978f-46be-85c6-febc2c6b9716",
+      "slug": "north-arlington",
+      "page_type": "LOCATION",
+      "title": "Home services in North Arlington, Bergen County",
+      "meta_title": "North Arlington Home Services | Bergen County",
+      "meta_description": "Plan North Arlington bathroom repairs with a clear plumbing, electrical and finish-work scope and the Borough's separate subcode inspection resources.",
+      "h1": "Home services in North Arlington.",
+      "primary_service_id": null,
+      "primary_location_id": "north-arlington",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in North Arlington, Bergen County?",
+      "direct_answer": "For a North Arlington bathroom project, define the plumbing, electrical and finish work before comparing tile quotes. The Borough's Construction Department identifies separate building, plumbing and electrical inspection roles and asks residents to verify unlisted work. Describe the actual repair or renovation to the office so the required steps can be planned around the trades involved.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define what changes behind the finished surface",
+          "paragraphs": [
+            "Explain whether the project repairs a damaged area, replaces fixtures in place or changes the layout. Share photos and any professional findings about leaks or damaged materials. A tile quote based only on room size can miss the underlying repair, access or preparation that determines the real scope.",
+            "North Arlington's Construction Department provides distinct subcode inspection information. Confirm current requirements and coordination for the specific proposal instead of copying an inspection schedule from an old estimate. This does not mean every cosmetic task follows the same permit process or that one trade's completed work settles another trade's inspection.",
+            "Ask the proposal to list demolition, plumbing or electrical changes, surface preparation, tile installation and cleanup. Identify who coordinates the handoffs and who restores anything outside the bathroom. Avoid setting the final finish date until the underlying scope and any required inspection sequence are understood."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your North Arlington project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify the plumbing changes",
+              "body": "Identify fixtures, visible symptoms and any proposed layout change. Ask the plumber to distinguish diagnosis, repair and installation responsibilities.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Define electrical work separately",
+              "body": "List the lighting, fan or other electrical changes under consideration. Have the electrician assess the actual scope rather than folding it into a finish quote.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Compare complete tile proposals",
+              "body": "Share the agreed repair boundaries and underlying findings. Ask each tile professional to state preparation, installation and cleanup inclusions.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where should North Arlington bathroom-project inspection questions start?",
+              "answer": "The Borough Construction Department publishes building, electrical and plumbing subcode inspection information. Give the office the actual project scope and confirm the current requirements and sequence."
+            },
+            {
+              "question": "How does A5 help with my North Arlington request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "North Arlington is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your North Arlington project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.584+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6d7c843a-5ad6-4c95-8683-ceb95b32a51e",
+      "slug": "northvale",
+      "page_type": "LOCATION",
+      "title": "Home services in Northvale, Bergen County",
+      "meta_title": "Northvale Home Services | Bergen County",
+      "meta_description": "Plan Northvale landscaping and tree work with explicit debris removal, protected access and current Borough Public Works guidance for yard materials.",
+      "h1": "Home services in Northvale.",
+      "primary_service_id": null,
+      "primary_location_id": "northvale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Northvale, Bergen County?",
+      "direct_answer": "For Northvale landscaping or tree work, make debris removal an explicit part of the quote. The Borough's Public Works page says landscapers and tree companies may not leave their debris at the curb for pickup. Check the current rules for the actual job and distinguish contractor-generated material from any household yard cleanup you plan to handle yourself.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Agree on the condition the crew will leave behind",
+          "paragraphs": [
+            "Show the professional the work area and identify branches, old planting, soil or other material expected to be removed. Ask whether the proposal includes loading, transport and disposal, and whether any stump or larger material is excluded. Cleanup should describe the result you expect rather than rely on an undefined promise to leave the site tidy.",
+            "Northvale's Public Works guidance separates seasonal resident collection instructions from its restriction on contractor debris at the curb. Use the current municipal guidance when planning your own cleanup, particularly because collection arrangements vary by material and season. Do not assume a resident pickup route covers material generated by a paid crew.",
+            "Discuss how workers will reach the site and protect retained planting or adjacent paving. If tree work and landscaping are separate jobs, agree which crew handles each pile and when the next professional can begin. Photograph the agreed work boundaries so final restoration can be checked against a clear scope."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Northvale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Quote landscape work with removal",
+              "body": "List the planting and bed changes and expected waste. Ask for material removal and final restoration to be clearly included or excluded.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Clarify tree-work cleanup",
+              "body": "Describe the tree concern and access. Have the professional specify branch, log and stump handling alongside the agreed tree work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Arrange separate debris hauling",
+              "body": "Identify the material a previous scope leaves behind. Confirm the hauler's acceptance and loading requirements before booking removal.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should a Northvale contractor leave landscape debris for Borough curbside collection?",
+              "answer": "The Public Works page says landscapers and tree companies may not leave debris at the curb for pickup. Include removal in the contract and confirm current Borough guidance for the actual material."
+            },
+            {
+              "question": "How does A5 help with my Northvale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Northvale is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Northvale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:15:21.356Z",
+      "published_at": "2026-10-08T01:22:23.692+00:00",
+      "last_reviewed_at": "2026-10-08T17:15:21.356Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "d5800ad1-b5df-492f-868e-d59bb6dd4e33",
+      "title": "Lodi Building Department",
+      "url": "https://www.lodi-nj.org/p/building-department",
+      "publisher": "Borough of Lodi",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "1a5c5225-5648-4eae-84c8-bedfe9526c5f",
+      "title": "Lyndhurst Public Works",
+      "url": "https://www.lyndhurstnj.org/Departments/Public-Works/",
+      "publisher": "Township of Lyndhurst",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "ee8e919f-1fff-4249-8f9d-76da90aa29d4",
+      "title": "Mahwah Planning, Zoning and Property Maintenance",
+      "url": "https://www.mahwahtwp.org/195/Planning-Zoning-Property-Maintenance",
+      "publisher": "Township of Mahwah",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "4c3ca3e7-f46e-433c-8485-f3a38e05f8f0",
+      "title": "Maywood Building Department",
+      "url": "https://www.maywoodnj.com/?SEC=82CCEA50-FBAF-464D-9347-1E7D1052EA69",
+      "publisher": "Borough of Maywood",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "8eb9812e-37bf-4db4-89ea-d6fcd993fa05",
+      "title": "Midland Park Selling Your House",
+      "url": "https://www.midlandparknj.gov/1559/Selling-Your-House",
+      "publisher": "Borough of Midland Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "a89a26b4-f9c1-4e6d-82b9-024cbb9f4640",
+      "title": "Montvale Building and Construction",
+      "url": "https://www.montvalenj.gov/departments/building-and-construction/",
+      "publisher": "Borough of Montvale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "48ea1209-8661-426a-8585-b3fbfc6b2322",
+      "title": "Moonachie Garbage and Recycling",
+      "url": "https://www.moonachie.us/275/Garbage-Recycling",
+      "publisher": "Borough of Moonachie",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "7df05448-565e-4444-84e8-d4ad281fb8be",
+      "title": "New Milford Public Works and Recycling",
+      "url": "https://www.newmilfordnj.gov/page/department-public-works",
+      "publisher": "Borough of New Milford",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "4d7d9d9b-ce1a-411d-8c5c-6aeb2d0d07ff",
+      "title": "North Arlington Construction Department",
+      "url": "https://www.northarlington.org/departments/construction-department",
+      "publisher": "Borough of North Arlington",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    },
+    {
+      "id": "01ad968e-bff1-48a2-8ab1-5bb5b2b48fdc",
+      "title": "Northvale Public Works",
+      "url": "https://www.boroughofnorthvale.com/dpw",
+      "publisher": "Borough of Northvale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:15:21.356Z",
+      "reviewed_at": "2026-10-08T17:15:21.356Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "318e9384-dd15-4366-8964-a16dbddec81e",
+      "source_id": "d5800ad1-b5df-492f-868e-d59bb6dd4e33",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "aa1119df-2d6b-4b6b-8ef7-a76dc7599cc0",
+      "source_id": "1a5c5225-5648-4eae-84c8-bedfe9526c5f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "91e3e1f0-7841-4b65-8e2f-8c06826f1769",
+      "source_id": "ee8e919f-1fff-4249-8f9d-76da90aa29d4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "88478641-ed3a-4ed4-893f-41e5bd0cb14b",
+      "source_id": "4c3ca3e7-f46e-433c-8485-f3a38e05f8f0",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "8f88cb60-a747-4ffa-8638-997b700c6a95",
+      "source_id": "8eb9812e-37bf-4db4-89ea-d6fcd993fa05",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "c14a8512-c382-48a5-8e37-61ffb364ebf8",
+      "source_id": "a89a26b4-f9c1-4e6d-82b9-024cbb9f4640",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d81d18e0-841c-468e-8f21-c1212ec34fe1",
+      "source_id": "48ea1209-8661-426a-8585-b3fbfc6b2322",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3c180ad7-fedf-4062-8b2f-0d22f708dc74",
+      "source_id": "7df05448-565e-4444-84e8-d4ad281fb8be",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b9e8790e-978f-46be-85c6-febc2c6b9716",
+      "source_id": "4d7d9d9b-ce1a-411d-8c5c-6aeb2d0d07ff",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6d7c843a-5ad6-4c95-8683-ceb95b32a51e",
+      "source_id": "01ad968e-bff1-48a2-8ab1-5bb5b2b48fdc",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "318e9384-dd15-4366-8964-a16dbddec81e",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "aa1119df-2d6b-4b6b-8ef7-a76dc7599cc0",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "91e3e1f0-7841-4b65-8e2f-8c06826f1769",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "88478641-ed3a-4ed4-893f-41e5bd0cb14b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "8f88cb60-a747-4ffa-8638-997b700c6a95",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "c14a8512-c382-48a5-8e37-61ffb364ebf8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "d81d18e0-841c-468e-8f21-c1212ec34fe1",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "3c180ad7-fedf-4062-8b2f-0d22f708dc74",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "b9e8790e-978f-46be-85c6-febc2c6b9716",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "6d7c843a-5ad6-4c95-8683-ceb95b32a51e",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

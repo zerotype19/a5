@@ -1,0 +1,145 @@
+{
+  "sha256": "4a76d081fdc6d5d5d19a33fce5b44b9cf1441b8fd8679639e6a5a37a7772fb96",
+  "pages": [
+    {
+      "id": "318e9384-dd15-4366-8964-a16dbddec81e",
+      "path": "/home-services/lodi",
+      "newlyIndexable": true,
+      "purpose": "Include debris placement and site access in the renovation scope",
+      "sourceClaims": [
+        {
+          "title": "Lodi Building Department",
+          "url": "https://www.lodi-nj.org/p/building-department",
+          "publisher": "Borough of Lodi",
+          "supports": "Separate dumpster, road-opening and soil-movement application resources; no universal permit rule or fee asserted."
+        }
+      ]
+    },
+    {
+      "id": "aa1119df-2d6b-4b6b-8ef7-a76dc7599cc0",
+      "path": "/home-services/lyndhurst",
+      "newlyIndexable": true,
+      "purpose": "Separate public infrastructure reports from private water-related repairs",
+      "sourceClaims": [
+        {
+          "title": "Lyndhurst Public Works",
+          "url": "https://www.lyndhurstnj.org/Departments/Public-Works/",
+          "publisher": "Township of Lyndhurst",
+          "supports": "Public Works functions, separate sanitary/stormwater infrastructure and water/sewer reporting route; no asset counts, response guarantees or parcel responsibility inferred."
+        }
+      ]
+    },
+    {
+      "id": "91e3e1f0-7841-4b65-8e2f-8c06826f1769",
+      "path": "/home-services/mahwah",
+      "newlyIndexable": true,
+      "purpose": "Check local tree-work resources before coordinating yard changes",
+      "sourceClaims": [
+        {
+          "title": "Mahwah Planning, Zoning and Property Maintenance",
+          "url": "https://www.mahwahtwp.org/195/Planning-Zoning-Property-Maintenance",
+          "publisher": "Township of Mahwah",
+          "supports": "Tree-removal guidance, tree-service vendor registration and 2026 registered-vendor resource; no specific vendor qualification or tree exemption claimed."
+        }
+      ]
+    },
+    {
+      "id": "88478641-ed3a-4ed4-893f-41e5bd0cb14b",
+      "path": "/home-services/maywood",
+      "newlyIndexable": true,
+      "purpose": "Include venting documentation in fuel-fired equipment replacement planning",
+      "sourceClaims": [
+        {
+          "title": "Maywood Building Department",
+          "url": "https://www.maywoodnj.com/?SEC=82CCEA50-FBAF-464D-9347-1E7D1052EA69",
+          "publisher": "Borough of Maywood",
+          "supports": "Chimney-verification resource for fuel-fired appliances and construction application resources; no DIY venting advice or universal equipment specification."
+        }
+      ]
+    },
+    {
+      "id": "8f88cb60-a747-4ffa-8638-997b700c6a95",
+      "path": "/home-services/midland-park",
+      "newlyIndexable": true,
+      "purpose": "Keep resale repairs aligned with two separate inspection tracks",
+      "sourceClaims": [
+        {
+          "title": "Midland Park Selling Your House",
+          "url": "https://www.midlandparknj.gov/1559/Selling-Your-House",
+          "publisher": "Borough of Midland Park",
+          "supports": "Separate resale/smoke applications and Zoning/Fire Prevention inspection roles; no fees or submission deadlines copied."
+        }
+      ]
+    },
+    {
+      "id": "c14a8512-c382-48a5-8e37-61ffb364ebf8",
+      "path": "/home-services/montvale",
+      "newlyIndexable": true,
+      "purpose": "Close permitted repair work before it becomes a resale loose end",
+      "sourceClaims": [
+        {
+          "title": "Montvale Building and Construction",
+          "url": "https://www.montvalenj.gov/departments/building-and-construction/",
+          "publisher": "Borough of Montvale",
+          "supports": "Homeowner inspection-scheduling responsibility and open-permit closeout before resale application; verified in live browser after HTTP 403. Broad permit list not reproduced."
+        }
+      ]
+    },
+    {
+      "id": "d81d18e0-841c-468e-8f21-c1212ec34fe1",
+      "path": "/home-services/moonachie",
+      "newlyIndexable": true,
+      "purpose": "Decide appliance repair or replacement with removal included",
+      "sourceClaims": [
+        {
+          "title": "Moonachie Garbage and Recycling",
+          "url": "https://www.moonachie.us/275/Garbage-Recycling",
+          "publisher": "Borough of Moonachie",
+          "supports": "Special refrigerator/air-conditioner curbside permit process; no fees, pickup schedule or refrigerant handling instructions copied."
+        }
+      ]
+    },
+    {
+      "id": "3c180ad7-fedf-4062-8b2f-0d22f708dc74",
+      "path": "/home-services/new-milford",
+      "newlyIndexable": true,
+      "purpose": "Sort a household clear-out before choosing collection or hauling",
+      "sourceClaims": [
+        {
+          "title": "New Milford Public Works and Recycling",
+          "url": "https://www.newmilfordnj.gov/page/department-public-works",
+          "publisher": "Borough of New Milford",
+          "supports": "Recycling Center excludes trash/bulk, with separate accepted categories and Recycle Coach; read in live browser because page is client-rendered. No limits, fees or schedules copied."
+        }
+      ]
+    },
+    {
+      "id": "b9e8790e-978f-46be-85c6-febc2c6b9716",
+      "path": "/home-services/north-arlington",
+      "newlyIndexable": true,
+      "purpose": "Coordinate the trades in a bathroom repair rather than quoting only the tile",
+      "sourceClaims": [
+        {
+          "title": "North Arlington Construction Department",
+          "url": "https://www.northarlington.org/departments/construction-department",
+          "publisher": "Borough of North Arlington",
+          "supports": "Separate building/electrical/plumbing inspection roles and verification contact; old fees, rent rules and broad permit list excluded."
+        }
+      ]
+    },
+    {
+      "id": "6d7c843a-5ad6-4c95-8683-ceb95b32a51e",
+      "path": "/home-services/northvale",
+      "newlyIndexable": true,
+      "purpose": "Include contractor-generated yard debris in the landscape quote",
+      "sourceClaims": [
+        {
+          "title": "Northvale Public Works",
+          "url": "https://www.boroughofnorthvale.com/dpw",
+          "publisher": "Borough of Northvale",
+          "supports": "Contractor landscape/tree debris restriction and distinction from seasonal resident collection; conflicting dated schedules and fees not copied."
+        }
+      ]
+    }
+  ]
+}
