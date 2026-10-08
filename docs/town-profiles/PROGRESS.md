@@ -149,3 +149,11 @@ Andover Borough, Andover Township, Branchville, Byram, Frankford, Franklin Borou
 ## Batch 18: ready for publication
 
 Hardyston, Hopatcong, Lafayette, Montague, Ogdensburg, Sandyston, Stanhope, Stillwater, Sussex Borough and Vernon. Brand positioning ideas approved all ten. Hopatcong verified in live browser; all source claims remain narrow, including Montague worksheet existence and Vernon chimney guidance. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 18: published and verified
+
+2026-10-08: PR #67 merged (7807e69). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 296 URLs. One hundred eighty completed; 22 remain.
+
+## Batch 19: ready for publication
+
+Walpack, Wantage, Allamuchy, Alpha, Belvidere, Blairstown, Franklin Township (Warren), Frelinghuysen, Greenwich Township (Warren) and Hardwick finish Sussex and begin Warren. Brand positioning ideas approved all ten. Official sources distinguish named historic properties, advisory preservation guidance, current shared services and separate inspection contacts. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.

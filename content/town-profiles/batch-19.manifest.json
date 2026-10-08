@@ -1,0 +1,1324 @@
+{
+  "updates": [
+    {
+      "id": "df7c5575-809b-4b75-8ae5-eaa85088c9f6",
+      "slug": "walpack",
+      "page_type": "LOCATION",
+      "title": "Home services in Walpack, Sussex County",
+      "meta_title": "Walpack Home Services | Sussex County",
+      "meta_description": "Prepare Walpack home repairs with property-specific records, photographs and historic-context questions before replacing older exterior features.",
+      "h1": "Home services in Walpack.",
+      "primary_service_id": null,
+      "primary_location_id": "walpack",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Walpack, Sussex County?",
+      "direct_answer": "The National Park Service identifies the Walpack Center Historic District and several named local historic properties. That context makes property-specific research useful before changing an older feature, but it does not establish the status of every Walpack home. Identify the actual property, ownership and applicable review route before committing to replacement work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Understand the particular building before choosing a repair",
+          "paragraphs": [
+            "Collect available property records and photograph the affected feature from safe ground. Describe what is failing and what you hope to retain: a trim profile, window opening, masonry joint or roof detail. Separate condition from appearance so the professional can discuss repair options instead of assuming every old component should be replaced.",
+            "The National Park Service's local historic-place list includes Walpack Center and individually named properties. Use it as historical context, not a substitute for confirming boundaries, ownership or restrictions for your address. Walpack's municipal directory identifies a construction contact for local questions. If another owner or public agency controls the property, establish the appropriate authorization directly before arranging work.",
+            "Ask the proposal to describe the existing material, suggested treatment and any sample or specialist assessment needed. Ordinary painting, masonry or handyman coverage does not establish preservation expertise. Resolve the project's scope and applicable permissions before removing original material, then keep photographs and the final work description with the building's records for future maintenance."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Walpack project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Document exterior finish condition",
+              "body": "Show peeling, staining and the feature's detail. Ask about material assessment and preparation before choosing a paint treatment.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Assess an older masonry repair",
+              "body": "Provide close and wider photos from a safe position. Confirm experience with the existing material and the proposed repair approach.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Describe a limited trim repair",
+              "body": "Identify the exact piece and what should be retained. Confirm whether the work fits the professional's skills or needs preservation expertise.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is every Walpack property part of the historic district?",
+              "answer": "The cited National Park Service list identifies a specific district and named properties; it does not establish every property's status. Confirm the actual address, boundaries and applicable review with the responsible authority."
+            },
+            {
+              "question": "How does A5 help with my Walpack request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Walpack is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Walpack project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:38.501+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "040e2e43-c69b-4977-8ae0-3b9007ec08db",
+      "slug": "wantage",
+      "page_type": "LOCATION",
+      "title": "Home services in Wantage, Sussex County",
+      "meta_title": "Wantage Home Services | Sussex County",
+      "meta_description": "Prepare Wantage home projects using the Township's own construction instructions and shared-service guidance while keeping the property record local.",
+      "h1": "Home services in Wantage.",
+      "primary_service_id": null,
+      "primary_location_id": "wantage",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Wantage, Sussex County?",
+      "direct_answer": "Wantage's Building Department describes shared services with Hardyston but specifically says operational business is conducted in Wantage. Follow Wantage's current instructions for a Wantage property rather than assuming shared staffing means visiting another town for every step. Confirm the submission or inspection route before making a trip.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Check where the project step actually happens",
+          "paragraphs": [
+            "Keep the work municipality, address and permit reference together when contacting the office. Explain whether you are asking about a new application, an existing record or a planned inspection. This helps separate the property's administrative needs from the general contact information of a shared-service department.",
+            "Wantage's construction page describes its local operational arrangements and links the shared online portal. It also provides guidance for obtaining project-specific permit information. Use the current Township page to confirm how your task should be handled; avoid relying on an old office visit, another municipality's instructions or the location shown on a contractor's earlier paperwork.",
+            "Agree with the independent professional who prepares the application, obtains the relevant status information and coordinates access. Keep requested and confirmed steps distinct in the work schedule. If a permit or inspection question remains unresolved, identify it in the project checklist rather than scheduling dependent finish work around an assumption. A5 helps connect the request with a professional; it does not manage the municipal process."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Wantage project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Organize an equipment project",
+              "body": "Provide the HVAC equipment details and known permit history. Ask who will handle the applicable submission and follow-up.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Prepare a plumbing alteration",
+              "body": "Describe the fixture, piping and layout changes together. Confirm the scope before selecting the municipal forms.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan electrical coordination",
+              "body": "Identify the proposed equipment or circuit work. Agree on documentation and inspection responsibilities directly with the electrician.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Wantage's shared construction service mean all business happens in Hardyston?",
+              "answer": "Wantage's page explicitly distinguishes shared staffing from its local operational arrangements. Check the current Wantage instructions and confirm the route for the particular task before visiting or submitting documents."
+            },
+            {
+              "question": "How does A5 help with my Wantage request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Wantage is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Wantage project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:38.607+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "61ef57ea-fcba-444d-8890-caada8c88618",
+      "slug": "allamuchy",
+      "page_type": "LOCATION",
+      "title": "Home services in Allamuchy, Warren County",
+      "meta_title": "Allamuchy Home Services | Warren County",
+      "meta_description": "Prepare Allamuchy home projects with the correct construction or smoke-certification contact and a clear repair list for each task.",
+      "h1": "Home services in Allamuchy.",
+      "primary_service_id": null,
+      "primary_location_id": "allamuchy",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Allamuchy, Warren County?",
+      "direct_answer": "Allamuchy's Construction page identifies state DCA construction services and separately directs smoke and carbon monoxide inspection questions to the Mount Olive Fire Official. Clarify which inspection you need before arranging work. A trade installation check and a property-transfer safety certification should not be treated as interchangeable tasks.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give each inspection purpose its own place on the checklist",
+          "paragraphs": [
+            "Write down why you are seeking the inspection: a project underway, a completed installation or a property transaction. Gather the relevant existing correspondence and permit information. If someone has simply asked for a certificate, confirm what document they mean instead of assuming any recent visit or contractor invoice will satisfy the request.",
+            "Allamuchy's official construction resource separates its DCA building-inspection route from the listed smoke and carbon monoxide contact. Follow the current local links and ask the appropriate office which process applies to the property. The existence of these different routes does not mean every household repair needs both, and A5 cannot issue either form of approval.",
+            "Use any actual correction list to define the work for an independent professional. Identify items by room, equipment or observed condition and distinguish them from optional cosmetic improvements. Plan cleaning and painting after work that may affect those surfaces. Keep the official result and contractor's completion information separately so it is clear which part of the process is finished."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Allamuchy project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify electrical corrections",
+              "body": "Provide the actual inspection wording and device locations. Ask an electrician to assess the work and its documentation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Prepare a limited repair list",
+              "body": "Separate small maintenance tasks from trade or safety-system work. Confirm the handyman's scope for each item.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Schedule the final cleanup",
+              "body": "List the rooms and remaining repairs. Arrange cleaning once dusty work is complete and required access is no longer needed.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Allamuchy use one contact for every type of inspection?",
+              "answer": "Its construction page lists DCA construction services and separately points to the Mount Olive Fire Official for smoke and carbon monoxide inspections. Confirm the current route for the specific inspection you need."
+            },
+            {
+              "question": "How does A5 help with my Allamuchy request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Allamuchy is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Allamuchy project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:40.863+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0cb1bcfe-92cf-4347-8863-1b8376ec3011",
+      "slug": "alpha",
+      "page_type": "LOCATION",
+      "title": "Home services in Alpha, Warren County",
+      "meta_title": "Alpha Home Services | Warren County",
+      "meta_description": "Prepare Alpha repairs with the right construction, zoning or housing question and a concise project packet before arranging an appointment.",
+      "h1": "Home services in Alpha.",
+      "primary_service_id": null,
+      "primary_location_id": "alpha",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Alpha, Warren County?",
+      "direct_answer": "Alpha's Construction and Zoning page lists appointment-based construction and trade contacts alongside zoning and housing inspection resources. Prepare the project question before arranging a meeting: proposed placement, trade work and property certification may need different attention. Bring the relevant property information and a clear description of the actual change.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the appointment useful before you arrive",
+          "paragraphs": [
+            "Start with one short description of the problem and proposed result. Add photos, available property records and any product information that explains the work. Identify the uncertainty you want resolved, such as placement, documentation or the next inspection stage, rather than asking the office to reconstruct the project from a long list of unrelated repairs.",
+            "Alpha's official page separates construction and subcode contacts from zoning and housing resources, and describes appointments for those offices. Use its current instructions to arrange the appropriate discussion. Confirm which documents are useful for your question; a conversation, application or contractor estimate is not itself proof that the project has been approved.",
+            "After the discussion, ask the professional to align the proposal with the resolved scope. Keep any conditions, requested documents and follow-up tasks together. If the work changes during quoting, clarify whether the earlier guidance still applies before scheduling installation. A5 can forward a clear service request, while the homeowner, independent professional and Borough each handle their respective parts."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Alpha project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Explain an electrical change",
+              "body": "Provide the intended device or equipment and location. Ask the electrician to define the trade work before seeking project-specific guidance.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Describe a fixture move",
+              "body": "Show the current and proposed fixture locations. Separate a plumbing relocation from ordinary fixture maintenance.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Prepare a small outdoor repair",
+              "body": "Photograph the feature and note any proposed size or location change. Confirm whether the task fits the handyman's actual scope.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "How should I prepare for an Alpha construction or zoning appointment?",
+              "answer": "Bring the correct property details, a concise work description and relevant photos or records. Alpha lists separate construction and zoning/housing contacts, so confirm the right appointment for the question you need answered."
+            },
+            {
+              "question": "How does A5 help with my Alpha request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Alpha is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Alpha project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:40.982+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f1105c91-8120-43f3-8377-c8a481e19738",
+      "slug": "belvidere",
+      "page_type": "LOCATION",
+      "title": "Home services in Belvidere, Warren County",
+      "meta_title": "Belvidere Home Services | Warren County",
+      "meta_description": "Prepare Belvidere exterior repairs with the Town's historic district map and preservation application resources before changing visible features.",
+      "h1": "Home services in Belvidere.",
+      "primary_service_id": null,
+      "primary_location_id": "belvidere",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Belvidere, Warren County?",
+      "direct_answer": "Belvidere's Historic Preservation Advisory Commission page provides a historic district map and a Certificate of Appropriateness application. Check the property's status and proposed exterior work with the Town before ordering replacements. The age or appearance of a house alone does not establish which review applies, and A5 does not make preservation determinations.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve the preservation question while repair options are still open",
+          "paragraphs": [
+            "Photograph the affected feature and the wider exterior so the proposed change can be understood in context. Describe whether you want to repair existing material, match a missing detail or change the appearance. Collect available earlier approvals and product information before deciding on a replacement that may differ from what is there now.",
+            "The Town's commission page links its district map, preservation ordinance and application. Use those official resources to start a property-specific discussion with the Town. Do not infer district boundaries from a street name or assume a neighboring property's decision applies to yours. Confirm the relevant process before treating a contractor's proposed material as an approved choice.",
+            "Ask the independent professional to compare repair and replacement options and explain experience with the existing material. If a sample, specialist assessment or further documentation is needed, make that a defined step before removal. Keep preservation questions separate from ordinary construction and trade work. Retain the agreed product and detail information with the completed project record."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Belvidere project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Compare exterior finish options",
+              "body": "Show existing detail and finish damage. Confirm preparation and material choices after the property's review questions are resolved.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Assess historic masonry condition",
+              "body": "Provide photos of joints, units and the wider feature. Confirm experience with compatible repairs rather than assuming a generic replacement approach.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Describe a roof-detail repair",
+              "body": "Identify the visible feature and known leak symptoms. Ask about repair options and any preservation coordination before replacement materials are ordered.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I start checking a Belvidere historic exterior project?",
+              "answer": "The Town's Historic Preservation Advisory Commission page links a district map and Certificate of Appropriateness application. Confirm the property's status and specific project process with the Town before committing to changes."
+            },
+            {
+              "question": "How does A5 help with my Belvidere request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Belvidere is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Belvidere project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:41.093+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "40929269-ddd4-4749-83c8-c873a89a55c9",
+      "slug": "blairstown",
+      "page_type": "LOCATION",
+      "title": "Home services in Blairstown, Warren County",
+      "meta_title": "Blairstown Home Services | Warren County",
+      "meta_description": "Prepare Blairstown older-home repairs with local preservation resources, existing-feature photos and a clear distinction between advice and approvals.",
+      "h1": "Home services in Blairstown.",
+      "primary_service_id": null,
+      "primary_location_id": "blairstown",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Blairstown, Warren County?",
+      "direct_answer": "Blairstown describes its Historic Preservation Committee as advisory, educational and informational. Its local history resources can help frame questions about an older feature, while the applicable construction and zoning authorities handle project requirements. Do not treat a historical discussion or tour reference as permission to alter a building.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the building's history to ask better repair questions",
+          "paragraphs": [
+            "Take photos showing both the damaged area and the surrounding detail. Note what appears original and what is known to have been changed, without presenting guesses as established history. A professional can use that background to discuss the condition and possible repair approach, but a reliable assessment still needs the actual building and material.",
+            "Blairstown's preservation committee page explains its advisory and educational role and describes local historic-district resources. Use that information to understand context and ask where further records may be available. Keep historical research separate from confirming the status of the particular property and the approvals required for the proposed work.",
+            "For the quote, distinguish repair, replacement and optional changes in appearance. Ask about relevant experience, material compatibility and how a sample or limited assessment would inform the next decision. A5's service categories do not certify preservation expertise. Agree on the scope and applicable reviews before removing an existing feature, and keep a record of the details chosen for future maintenance."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Blairstown project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess an older trim feature",
+              "body": "Show the profile and damaged section. Ask whether a limited repair is appropriate and whether specialist carpentry knowledge is needed.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Plan a finish treatment",
+              "body": "Describe the surface and known earlier coatings. Ask the painter to explain assessment and preparation before selecting the treatment.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Compare masonry repair methods",
+              "body": "Photograph the material and damage without disturbing it. Confirm experience with compatible repair methods for the existing feature.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Blairstown's preservation committee approve my construction work?",
+              "answer": "The Township describes the committee's role as advisory, educational and informational. Confirm actual construction, zoning and property-specific review requirements with the appropriate authorities; historical advice is not an approval."
+            },
+            {
+              "question": "How does A5 help with my Blairstown request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Blairstown is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Blairstown project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:41.195+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3fde422f-8a8b-49a6-8cc6-e5421ee77b35",
+      "slug": "franklin-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Franklin Township, Warren County",
+      "meta_title": "Franklin Township Home Services | Warren County",
+      "meta_description": "Prepare Franklin Township, Warren County repairs with the current Washington Township construction-service route and existing project records.",
+      "h1": "Home services in Franklin Township.",
+      "primary_service_id": null,
+      "primary_location_id": "franklin-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Franklin Township, Warren County?",
+      "direct_answer": "Franklin Township's current Building and Construction page directs services to Washington Township in Warren County. Use that current resource when starting or resuming a project rather than relying on older DCA instructions. Keep Franklin Township as the work municipality and ask how any earlier permit record should be handled.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Reconnect an older project with the current office",
+          "paragraphs": [
+            "Gather the old permit number, property address, plans and any inspection correspondence before asking about unfinished work. Describe what was completed and what remains open. If the paperwork names a previous office or official, retain it as history rather than assuming the old contact or process still controls the next step.",
+            "Franklin's official page identifies Washington Township, Warren County as the provider of building and construction services. Follow its current contact route to clarify a new application or existing record. This is an administrative arrangement, not a change to the property's municipality; it also does not mean every other local approval or property question moves to the same office.",
+            "Ask the independent professional to separate assessment of existing work from the new repair or improvement. Record who will resolve missing documentation and coordinate applicable checks. Schedule finish restoration after those questions are clear. A5 helps make the introduction, while the responsible offices and professional determine the project's documentation and actual work requirements."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Franklin Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Resume a plumbing project",
+              "body": "Share earlier plans and permit correspondence with the current condition. Ask the plumber to identify what needs assessment before completing the scope.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Clarify unfinished electrical work",
+              "body": "Explain the work history and retain the old reference number. Have an electrician assess the installation and needed follow-up.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Restore surfaces after resolution",
+              "body": "Show the open walls or ceilings and explain why work stopped. Plan drywall restoration after the underlying project is ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I rely on old DCA contact instructions for a Franklin Township project?",
+              "answer": "Start with Franklin Township's current Building and Construction page, which directs services to Washington Township in Warren County. Keep earlier records and ask the current office how to handle the specific project."
+            },
+            {
+              "question": "How does A5 help with my Franklin Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Franklin Township is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Franklin Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:41.3+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d9e87321-5072-4191-8ec4-a51e3adbe0f6",
+      "slug": "frelinghuysen",
+      "page_type": "LOCATION",
+      "title": "Home services in Frelinghuysen, Warren County",
+      "meta_title": "Frelinghuysen Home Services | Warren County",
+      "meta_description": "Prepare Frelinghuysen projects with the right scope and property records, using the Township's new-construction sequence without applying it blindly to repairs.",
+      "h1": "Home services in Frelinghuysen.",
+      "primary_service_id": null,
+      "primary_location_id": "frelinghuysen",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Frelinghuysen, Warren County?",
+      "direct_answer": "Frelinghuysen's Construction Department publishes a procedure for new construction covering zoning, health, site and inspection coordination. Use that as a planning resource for work of that scope, then ask what applies to your actual repair or alteration. A new-building checklist should not be copied wholesale onto a small maintenance request.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Scale the preparation to what is actually changing",
+          "paragraphs": [
+            "Write down whether the job maintains an existing feature, changes a system or creates new space. Collect the relevant property and equipment records, and identify unknown conditions early. A clear scope helps the professional and office distinguish a limited repair from work that needs plans, site coordination or a broader review sequence.",
+            "Frelinghuysen's published construction procedure addresses new building work and identifies several separate review and inspection stages. Consult the department about the parts relevant to your proposal instead of assuming every step is either mandatory or irrelevant. Where site, well or septic questions arise, confirm the responsible specialist and authority; ordinary service coverage does not establish that expertise.",
+            "Ask the proposal to identify the boundaries of each trade's work and the points where the next step depends on a review or assessment. Keep property identification and access information consistent for everyone visiting the site. Retain the final scope and applicable records so future maintenance can distinguish the original project from later changes."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Frelinghuysen project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the landscape portion",
+              "body": "Describe whether the job is routine planting or part of a larger site change. Separate maintenance from work requiring design or additional review.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Describe the plumbing change",
+              "body": "Identify fixtures and known system information. Confirm any specialized well or septic involvement directly rather than assuming it fits ordinary plumbing.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Clarify masonry scope",
+              "body": "Show the existing feature and proposed change. Ask whether the work is a surface repair or involves structural or site questions needing further assessment.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Frelinghuysen's new-construction procedure apply to every small repair?",
+              "answer": "The page is presented as a new-construction procedure. Describe your actual work to the department and professional so the relevant requirements are identified instead of applying the whole checklist by assumption."
+            },
+            {
+              "question": "How does A5 help with my Frelinghuysen request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Frelinghuysen is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Frelinghuysen project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:41.402+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "146f19af-6881-4c3e-8b5d-bdafdadc4459",
+      "slug": "greenwich-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Greenwich Township, Warren County",
+      "meta_title": "Greenwich Township Home Services | Warren County",
+      "meta_description": "Prepare Greenwich Township, Warren County repairs with current project plans, clear inspection access and a coordinated trade-to-finish sequence.",
+      "h1": "Home services in Greenwich Township.",
+      "primary_service_id": null,
+      "primary_location_id": "greenwich-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Greenwich Township, Warren County?",
+      "direct_answer": "Greenwich Township's construction guidance says a complete copy of released plans should be kept at the job site for inspections. Agree where the current set will be available and who will coordinate access. Keep draft sketches, product brochures and later proposed changes distinct from the reviewed project documents.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make sure everyone is working from the same version",
+          "paragraphs": [
+            "Collect the relevant plans and permit reference before the work starts. Ask the professional to identify the current approved version and explain how any proposed change will be handled. A homeowner's marked-up copy can communicate an idea, but it should not quietly replace the documents governing the work being inspected.",
+            "Greenwich Township in Warren County publishes inspection guidance covering site access, work readiness and the released plan set. Follow the current official process and confirm arrangements with the responsible office. The Township's Stewartsville address should not lead you to use instructions for another Greenwich municipality elsewhere in New Jersey.",
+            "Agree who keeps the documents available, requests the applicable checks and shares the results with other trades. Avoid closing an opening or installing a finish while the underlying work still needs review. At completion, retain the final records and resolved changes together so future repairs do not begin with conflicting versions of the installation."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Greenwich Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate electrical plans",
+              "body": "Provide the current project documents and desired change. Ask the electrician to resolve any difference before installation proceeds.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Keep plumbing changes documented",
+              "body": "Explain fixture or piping changes against the agreed plan. Confirm the appropriate review and work sequence directly.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Time finish restoration",
+              "body": "Identify surfaces affected by the trades and any pending checks. Schedule drywall restoration when the underlying work is ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What plans should be available for a Greenwich Township inspection?",
+              "answer": "The Township's published guidance calls for a complete copy of released plans at the job site. Confirm the current set and access arrangements with the responsible professional and office."
+            },
+            {
+              "question": "How does A5 help with my Greenwich Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Greenwich Township is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Greenwich Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:41.513+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "72e4e733-63cc-49f4-8993-a725fa494243",
+      "slug": "hardwick",
+      "page_type": "LOCATION",
+      "title": "Home services in Hardwick, Warren County",
+      "meta_title": "Hardwick Home Services | Warren County",
+      "meta_description": "Prepare Hardwick home improvements with the correct DCA construction route and separate local zoning or driveway questions before scheduling work.",
+      "h1": "Home services in Hardwick.",
+      "primary_service_id": null,
+      "primary_location_id": "hardwick",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hardwick, Warren County?",
+      "direct_answer": "Hardwick's directory directs building services to New Jersey DCA through the listed Blairstown contact route, while separately identifying local zoning and driveway-inspection contacts. Decide which part of the proposal each question concerns. Shared construction administration does not mean driveway placement or other local site questions are automatically resolved.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate the building work from the site around it",
+          "paragraphs": [
+            "Describe the indoor or structural work and the outdoor access changes separately. Show where materials and vehicles would enter, whether an existing driveway is affected and what property information is available. If boundaries or underground conditions are uncertain, identify that uncertainty before asking a contractor to price a final layout.",
+            "Hardwick's official directory distinguishes its DCA building-service route from local zoning and engineering or driveway contacts. Use those current resources to ask who handles the particular proposal. The directory establishes where to start a question, not a blanket rule that every repair needs each office or that A5 can determine the required approvals.",
+            "Ask the quote to separate routine maintenance, site preparation and any design or specialist assessment. Agree on the limits of excavation or surface changes before equipment arrives. Keep the work municipality as Hardwick when contacting a shared office, and retain any project-specific guidance with the final scope. The independent professional assesses and performs the work; A5 facilitates the introduction."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hardwick project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess an entrance surface",
+              "body": "Photograph the existing surface and describe movement or drainage symptoms. Ask the masonry professional to separate repair from a proposed layout change.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan work near vehicle access",
+              "body": "Show the planting or cleanup area and the driveway edge. Define work limits before altering grade or access.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Explain exterior electrical needs",
+              "body": "Identify the planned equipment location and access concerns. Have an electrician assess the installation and coordination requirements.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Hardwick's DCA construction contact handle every site question?",
+              "answer": "Hardwick separately lists zoning and driveway or engineering contacts. Use the directory to confirm who handles the actual question; a shared construction route does not establish approval for every part of a site proposal."
+            },
+            {
+              "question": "How does A5 help with my Hardwick request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hardwick is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hardwick project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:28:26.763Z",
+      "published_at": "2026-10-08T01:22:41.728+00:00",
+      "last_reviewed_at": "2026-10-08T18:28:26.763Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "f1661b6e-fa3c-4b38-8c19-541b0f44655f",
+      "title": "Delaware Water Gap National Register Properties",
+      "url": "https://www.nps.gov/dewa/learn/historyculture/places-national-register-properties.htm",
+      "publisher": "National Park Service",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "e4774ac0-a38e-48f1-8f45-5472f49a360a",
+      "title": "Walpack Township Directory",
+      "url": "https://walpacktownship.com/directory",
+      "publisher": "Walpack Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "315ffcf5-980e-4022-8c6e-20306d10d772",
+      "title": "Wantage Building Department and Construction Office",
+      "url": "https://wantagetwp.com/departments/building/",
+      "publisher": "Wantage Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "d1044df1-a1d4-4de4-883c-6e3bc4b0d707",
+      "title": "Allamuchy Construction Department",
+      "url": "https://allamuchynj.org/construction",
+      "publisher": "Allamuchy Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "c5b527eb-d57e-4c6b-819b-e183fccb31a7",
+      "title": "Alpha Construction and Zoning",
+      "url": "https://www.alphaboronj.org/offices/construction___zoning/index.php",
+      "publisher": "Borough of Alpha",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "08bec5bf-973c-4155-8347-bee607748f76",
+      "title": "Belvidere Historic Preservation Advisory Commission",
+      "url": "https://www.belviderenj.net/historic-preservation-commission",
+      "publisher": "Town of Belvidere",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "a8e2736d-d595-4606-84ca-bcc61adf3503",
+      "title": "Blairstown Historic Preservation Committee",
+      "url": "https://www.blairstowntownship.org/government/historic_preservation.php",
+      "publisher": "Blairstown Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "516dc38d-84ff-4a6f-898b-5f4bf1f54712",
+      "title": "Franklin Township Building and Construction",
+      "url": "https://www.franklintwpwarren.org/building-and-construction/",
+      "publisher": "Franklin Township, Warren County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "8407d6fb-339d-4d84-8903-6c15403a7b10",
+      "title": "Frelinghuysen Construction Department",
+      "url": "https://www.frelinghuysen-nj.us/construction-department",
+      "publisher": "Frelinghuysen Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "a15625e7-35f9-4fba-8c15-78190749c561",
+      "title": "Greenwich Township Construction Permits",
+      "url": "https://www.greenwichtownship.org/construction-permits/",
+      "publisher": "Greenwich Township, Warren County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    },
+    {
+      "id": "ada18593-1bbc-4615-8e20-4425683a4e2d",
+      "title": "Hardwick Township Directory",
+      "url": "https://www.hardwicktwp.com/township-directory/",
+      "publisher": "Hardwick Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:28:26.763Z",
+      "reviewed_at": "2026-10-08T18:28:26.763Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "df7c5575-809b-4b75-8ae5-eaa85088c9f6",
+      "source_id": "f1661b6e-fa3c-4b38-8c19-541b0f44655f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "df7c5575-809b-4b75-8ae5-eaa85088c9f6",
+      "source_id": "e4774ac0-a38e-48f1-8f45-5472f49a360a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "040e2e43-c69b-4977-8ae0-3b9007ec08db",
+      "source_id": "315ffcf5-980e-4022-8c6e-20306d10d772",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "61ef57ea-fcba-444d-8890-caada8c88618",
+      "source_id": "d1044df1-a1d4-4de4-883c-6e3bc4b0d707",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0cb1bcfe-92cf-4347-8863-1b8376ec3011",
+      "source_id": "c5b527eb-d57e-4c6b-819b-e183fccb31a7",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f1105c91-8120-43f3-8377-c8a481e19738",
+      "source_id": "08bec5bf-973c-4155-8347-bee607748f76",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "40929269-ddd4-4749-83c8-c873a89a55c9",
+      "source_id": "a8e2736d-d595-4606-84ca-bcc61adf3503",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3fde422f-8a8b-49a6-8cc6-e5421ee77b35",
+      "source_id": "516dc38d-84ff-4a6f-898b-5f4bf1f54712",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d9e87321-5072-4191-8ec4-a51e3adbe0f6",
+      "source_id": "8407d6fb-339d-4d84-8903-6c15403a7b10",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "146f19af-6881-4c3e-8b5d-bdafdadc4459",
+      "source_id": "a15625e7-35f9-4fba-8c15-78190749c561",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "72e4e733-63cc-49f4-8993-a725fa494243",
+      "source_id": "ada18593-1bbc-4615-8e20-4425683a4e2d",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "df7c5575-809b-4b75-8ae5-eaa85088c9f6",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "040e2e43-c69b-4977-8ae0-3b9007ec08db",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "61ef57ea-fcba-444d-8890-caada8c88618",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "0cb1bcfe-92cf-4347-8863-1b8376ec3011",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "f1105c91-8120-43f3-8377-c8a481e19738",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "40929269-ddd4-4749-83c8-c873a89a55c9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "3fde422f-8a8b-49a6-8cc6-e5421ee77b35",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "d9e87321-5072-4191-8ec4-a51e3adbe0f6",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "146f19af-6881-4c3e-8b5d-bdafdadc4459",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "72e4e733-63cc-49f4-8993-a725fa494243",
+      "relationship_type": "RELATED"
+    }
+  ]
+}
