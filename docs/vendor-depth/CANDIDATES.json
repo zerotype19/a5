@@ -1290,5 +1290,1355 @@
     ],
     "observed_date": "2026-10-08",
     "notes": "Explicit all-New-Jersey lawn services; alternate published address info@njlawn.com."
+  },
+  {
+    "business_name": "Garden State Junk Removal",
+    "website": "https://gardenstatejunkremovals.com/",
+    "email": "Joe@Gardenstatejunkremovals.com",
+    "phone": "908-902-1076",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://gardenstatejunkremovals.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Statewide residential junk removal; all eight counties explicitly named."
+  },
+  {
+    "business_name": "Clean Bee NJ",
+    "website": "https://cleanbeenj.com/",
+    "email": "hello@cleanbeenj.com",
+    "phone": "732-400-5018",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://cleanbeenj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide house cleaning, recurring and one-time."
+  },
+  {
+    "business_name": "Light House Cleaning",
+    "website": "https://www.lighthousecleaningnj.com/",
+    "email": "sales@lighthousecleaningnj.com",
+    "phone": "201-679-9790",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.lighthousecleaningnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential and commercial cleaning."
+  },
+  {
+    "business_name": "Klean It Now",
+    "website": "https://kleanitnow.net/",
+    "email": "nbaptist@kleanit.co.site",
+    "phone": "862-441-2510",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://kleanitnow.net/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey residential regular, deep and move cleaning."
+  },
+  {
+    "business_name": "Expert Pest Control",
+    "website": "https://www.expertpestcontrol.com/",
+    "email": "expertpestcontrol@verizon.net",
+    "phone": "609-387-1116",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.expertpestcontrol.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey service, household insects and rodents."
+  },
+  {
+    "business_name": "All Platinum Pest Control",
+    "website": "https://allplatinumpestcontrol.com/",
+    "email": "bugs@allplatinumpestcontrol.com",
+    "phone": "718-710-9982",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://allplatinumpestcontrol.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all New Jersey residents and businesses; one business record for all offices."
+  },
+  {
+    "business_name": "Golden Hammer Roofing & Chimney NJ",
+    "website": "https://goldenhammernjco.com/",
+    "email": "goldenhammernjllc@gmail.com",
+    "phone": "201-364-2084",
+    "services": [
+      "roofing",
+      "gutters"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://goldenhammernjco.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide roofing and gutters; credential claims unverified."
+  },
+  {
+    "business_name": "Pro Trends Construction",
+    "website": "https://www.protrendsroofing.com/index.html",
+    "email": "Protrendsconstruction@gmail.com",
+    "phone": "201-949-8688",
+    "services": [
+      "roofing",
+      "gutters"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.protrendsroofing.com/index.html"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential roofing and gutters."
+  },
+  {
+    "business_name": "M. Redard Inc. & Gutter King",
+    "website": "https://www.mredard.com/contact",
+    "email": "mike@mredard.com",
+    "phone": "201-664-3020",
+    "services": [
+      "gutters"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.mredard.com/contact"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "One shared business/contact record for paired brands; explicit statewide gutters."
+  },
+  {
+    "business_name": "Lojas Home Improvement Plus LLC",
+    "website": "https://www.lojashomeimprovementllc.com/gallery",
+    "email": "lojashomeimprovement@gmail.com",
+    "phone": "973-415-4173",
+    "services": [
+      "roofing",
+      "gutters"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.lojashomeimprovementllc.com/gallery"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Business advertises statewide roofing repairs/replacement and gutters. Multiple office phones published; use listed cell."
+  },
+  {
+    "business_name": "JC PRO HVAC LLC",
+    "website": "https://www.jcprohvacllc.com/",
+    "email": "jctnprohvac@gmail.com",
+    "phone": "908-963-4231",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.jcprohvacllc.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "All cities and counties explicitly covered; residential heating/cooling."
+  },
+  {
+    "business_name": "ABCastellos Heating & Cooling LLC",
+    "website": "https://www.abcastelloshvac.com/about",
+    "email": "abcastellos@gmail.com",
+    "phone": "973-570-2312",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren",
+      "passaic",
+      "union"
+    ],
+    "source_urls": [
+      "https://www.abcastelloshvac.com/about"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Five registry counties explicitly named plus Somerset. No Bergen/Essex/Hudson inference."
+  },
+  {
+    "business_name": "Go Pro Heating & Cooling",
+    "website": "https://www.gopro-hvac.com/contact",
+    "email": "goproHVACNJ@gmail.com",
+    "phone": "973-938-2217",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "bergen",
+      "morris",
+      "passaic",
+      "essex",
+      "sussex",
+      "hudson",
+      "union"
+    ],
+    "source_urls": [
+      "https://www.gopro-hvac.com/contact"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Seven registry counties explicitly named. No Warren inference."
+  },
+  {
+    "business_name": "All American Tree Service LLC",
+    "website": "https://www.aatreeexperts.mobi/",
+    "email": "info@aatreeexperts.net",
+    "phone": "973-443-9233",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.aatreeexperts.mobi/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide tree care, pruning, removal and stump work; no household pest-control mapping."
+  },
+  {
+    "business_name": "Express Tree Services NJ",
+    "website": "https://www.expresstreeservicesnj.com/",
+    "email": "expresstreeservicesnj@gmail.com",
+    "phone": "973-727-3015",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.expresstreeservicesnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit full-state residential tree services."
+  },
+  {
+    "business_name": "Dutchman Appliance Repair",
+    "website": "https://dutchmanappliancerepair.com/",
+    "email": "dutchmanappliancerepair@gmail.com",
+    "phone": "862-325-6381",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "sussex",
+      "morris",
+      "warren"
+    ],
+    "source_urls": [
+      "https://dutchmanappliancerepair.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Three registry counties named for household appliance repairs."
+  },
+  {
+    "business_name": "01 Appliance Repair Service",
+    "website": "https://01appliancerepairs.com/contact-appliance-repair-new-jersey/",
+    "email": "nj@01appliancerepairs.com",
+    "phone": "908-585-0505",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://01appliancerepairs.com/contact-appliance-repair-new-jersey/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey household appliance repair."
+  },
+  {
+    "business_name": "C & T Appliance Repair Service",
+    "website": "https://www.candtappliance.com/",
+    "email": "candtappliance@comcast.net",
+    "phone": "866-390-0138",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.candtappliance.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "All eight registry counties explicitly named. Appliance scope only; no inferred central HVAC."
+  },
+  {
+    "business_name": "Elite Appliance Repair",
+    "website": "https://eliteappliancerepairnj.com/",
+    "email": "eliteappliancerepair.nj@gmail.com",
+    "phone": "862-284-7318",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://eliteappliancerepairnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published thirteen-county coverage includes all eight registry counties."
+  },
+  {
+    "business_name": "Lunas S&A General Cleaning Service LLC",
+    "website": "https://lunassageneralcleaningservice.com/residential-cleaning/",
+    "email": "lunascleaningservicellc@gmail.com",
+    "phone": "973-380-5668",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://lunassageneralcleaningservice.com/residential-cleaning/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential cleaning."
+  },
+  {
+    "business_name": "Zion Cleaning Services by Betzy LLC",
+    "website": "https://zioncleaningservicesbybetzyllc.com/locations/north-bergen-nj",
+    "email": "Nanylizspa@gmail.com",
+    "phone": "201-284-9513",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://zioncleaningservicesbybetzyllc.com/locations/north-bergen-nj"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey regular and deep residential cleaning."
+  },
+  {
+    "business_name": "Junk Busters NJ",
+    "website": "https://jersey-clear-it.com/",
+    "email": "info@junkbustersnj.com",
+    "phone": "201-790-1640",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://jersey-clear-it.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide household junk removal and cleanouts; alternate domain retained as one identity."
+  },
+  {
+    "business_name": "All Star Hauling",
+    "website": "https://junkremoval111.com/locations/new-jersey/",
+    "email": "Info@allhaulingservices.com",
+    "phone": "866-994-1769",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://junkremoval111.com/locations/new-jersey/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide household junk hauling. Published minimum job price requires owner fit check; no customer price guarantee."
+  },
+  {
+    "business_name": "Affordable Pest Solutions LLC",
+    "website": "https://affordablepestnj.com/contact/",
+    "email": "info@affordablepestnj.com",
+    "phone": "973-229-9547",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://affordablepestnj.com/contact/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Three counties explicitly advertised."
+  },
+  {
+    "business_name": "Howey Pest Solutions LLC",
+    "website": "https://www.howeypestsolutions.com/",
+    "email": "howeypestsolutions@gmail.com",
+    "phone": "862-354-4503",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.howeypestsolutions.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Entire Morris Sussex Warren advertised. Parts of Passaic excluded from blanket mapping."
+  },
+  {
+    "business_name": "All Seasons Pest Control LLC",
+    "website": "https://myallseasonspestcontrol.com/",
+    "email": "myallseasonspestcontrol@gmail.com",
+    "phone": "908-850-8206",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "morris",
+      "warren"
+    ],
+    "source_urls": [
+      "https://myallseasonspestcontrol.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Morris Warren Hunterdon advertised; only two registry counties mapped."
+  },
+  {
+    "business_name": "Smart Tree Solutions LLC",
+    "website": "https://smarttreesolutionsllc.com/",
+    "email": "info@smarttreesolutionsllc.com",
+    "phone": "862-461-6477",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://smarttreesolutionsllc.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "Amazing Tree Services",
+    "website": "https://atreeservicenj.com/",
+    "email": "AmazingTree12@gmail.com",
+    "phone": "973-343-6868",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://atreeservicenj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "V&N General Cleaning Services",
+    "website": "https://vngeneralcleaningservices.com/residential/deep-cleaning",
+    "email": "info@vngeneralcleaningservices.com",
+    "phone": "848-248-1870",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://vngeneralcleaningservices.com/residential/deep-cleaning"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "MC Air LLC",
+    "website": "https://mcairllc.com/service-area.html",
+    "email": "info@mcairllc.com",
+    "phone": "732-599-9407",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://mcairllc.com/service-area.html"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "Alpine Air",
+    "website": "https://alpineairhvac.com/contact-us/",
+    "email": "info@alpineairhvac.com",
+    "phone": "732-800-0180",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://alpineairhvac.com/contact-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "HVAC Professionals LLC",
+    "website": "https://hvacprofessionalsllc.net/",
+    "email": "info@hvacprofessionalsllc.net",
+    "phone": "609-384-4227",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://hvacprofessionalsllc.net/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "New Jersey HVAC",
+    "website": "https://www.newjerseyhvac.net/expert-heating-and-cooling-solutions-across-new-jersey/",
+    "email": "admin@newjerseyhvac.net",
+    "phone": "201-374-2366",
+    "services": [
+      "hvac"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.newjerseyhvac.net/expert-heating-and-cooling-solutions-across-new-jersey/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "New Jersey Cleaning Company",
+    "website": "https://newjerseycleaningcompany.com/about",
+    "email": "clean@newjerseycleaningcompany.com",
+    "phone": "973-355-7762",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://newjerseycleaningcompany.com/about"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "Shiny Cleaning Agency",
+    "website": "https://shinycleaningagency.com/contact",
+    "email": "contact@shinycleaningagency.com",
+    "phone": "201-790-6009",
+    "services": [
+      "house-cleaning"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://shinycleaningagency.com/contact"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "973 Junk Removal LLC",
+    "website": "https://973junkremoval.com/",
+    "email": "973junkremoval@gmail.com",
+    "phone": "973-620-7749",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://973junkremoval.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "Garden State Junkers",
+    "website": "https://www.gardenstatejunkers.com/",
+    "email": "info@gardenstatejunkers.com",
+    "phone": "732-314-1660",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.gardenstatejunkers.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "Viking Pest Control",
+    "website": "https://www.vikingpest.com/service-area/",
+    "email": "FreeQuote@vikingpest.com",
+    "phone": "908-639-2847",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.vikingpest.com/service-area/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Published statewide or all eight named county coverage for residential service. Public business email observed on own site. Discovery is not credential verification."
+  },
+  {
+    "business_name": "Eco Green Landscaping and Tree Services",
+    "website": "https://www.ecogreentreeservice.com/",
+    "email": "Ecogreenlandscapingservices@hotmail.com",
+    "phone": "609-516-6554",
+    "services": [
+      "tree-services",
+      "landscaping"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.ecogreentreeservice.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Own site explicitly advertises statewide residential service and business email. First Rate roofing/chimney alternate domains are one business."
+  },
+  {
+    "business_name": "J&L Budget Tree Service LLC",
+    "website": "https://jlbudgettreeservice.com/services/tree-removal/",
+    "email": "jlbudgettreeservices@gmail.com",
+    "phone": "908-922-3179",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://jlbudgettreeservice.com/services/tree-removal/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Own site explicitly advertises statewide residential service and business email. First Rate roofing/chimney alternate domains are one business."
+  },
+  {
+    "business_name": "Petes Roofing and Son LLC",
+    "website": "https://www.petesroofingandson.com/",
+    "email": "petesroofingandson19@yahoo.com",
+    "phone": "856-854-6417",
+    "services": [
+      "roofing",
+      "gutters"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.petesroofingandson.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Own site explicitly advertises statewide residential service and business email. First Rate roofing/chimney alternate domains are one business."
+  },
+  {
+    "business_name": "First Rate Roofing & Chimney",
+    "website": "https://firstratechimneynj.com/",
+    "email": "info@firstratechimneynj.com",
+    "phone": "800-941-8147",
+    "services": [
+      "roofing",
+      "gutters"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://firstratechimneynj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Own site explicitly advertises statewide residential service and business email. First Rate roofing/chimney alternate domains are one business."
+  },
+  {
+    "business_name": "Next Day Service LLC",
+    "website": "https://www.nextdayservicellc.com/contact-us",
+    "email": "Service@nextdayservicellc.com",
+    "phone": "609-915-1011",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.nextdayservicellc.com/contact-us"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "Field Tech Electronics",
+    "website": "https://www.fieldtechelectronics.com/",
+    "email": "fieldtechelectronics@gmail.com",
+    "phone": "267-679-9003",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.fieldtechelectronics.com/",
+      "https://www.fieldtechelectronics.com/service-areas"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "HomeTech Fix LLC",
+    "website": "https://hometecfix.com/service.php?id=136",
+    "email": "info@homtecfix.com",
+    "phone": "551-307-7788",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://hometecfix.com/service.php?id=136"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "Ti Constant Appliance Repair",
+    "website": "https://ticonstant.com/",
+    "email": "support@ticonstant.com",
+    "phone": "908-633-2216",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "hudson",
+      "morris",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://ticonstant.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "Accurate Pest Control",
+    "website": "https://www.accuratepestmanagement.com/",
+    "email": "info@accuratepestmanagement.com",
+    "phone": "973-398-8798",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.accuratepestmanagement.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "Pest iD",
+    "website": "https://www.pestid.net/",
+    "email": "info@pestid.net",
+    "phone": "609-286-2250",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.pestid.net/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "LiftMyJunk",
+    "website": "https://liftmyjunk.com/service-areas",
+    "email": "hello@liftmyjunk.com",
+    "phone": "908-699-1374",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://liftmyjunk.com/service-areas"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "Alfa Tree Service LLC",
+    "website": "https://alfatreeservicellc.com/tree-services/",
+    "email": "alfatreeservice7@gmail.com",
+    "phone": "973-580-2077",
+    "services": [
+      "tree-services"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://alfatreeservicellc.com/tree-services/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Public business contact and explicit statewide or listed county residential coverage. Ti Constant excludes Essex and Passaic from mapping because absent in advertised county list. Pest iD placeholder email@domain.com rejected. HomeTech has differing homepage contact spelling; use repeated service-page business address as published."
+  },
+  {
+    "business_name": "Majestic Pest Control",
+    "website": "https://majesticpestcontrol.com/locations/new-jersey",
+    "email": "Services@majesticpestcontrol.com",
+    "phone": "866-901-8834",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://majesticpestcontrol.com/locations/new-jersey"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential service. Business email from own site, except Balance of Nature public municipal business profile; identity matches phone and business address."
+  },
+  {
+    "business_name": "Balance of Nature Inc.",
+    "website": "https://www.balanceofnaturenj.com/",
+    "email": "jerry@balanceofnature.net",
+    "phone": "609-294-1729",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.balanceofnaturenj.com/",
+      "https://tuckertonborough.com/business/balance-of-nature-inc/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential service. Business email from own site, except Balance of Nature public municipal business profile; identity matches phone and business address."
+  },
+  {
+    "business_name": "Re-Move-All",
+    "website": "https://www.re-move-all.com/",
+    "email": "info@re-move-all.com",
+    "phone": "908-458-6683",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.re-move-all.com/",
+      "https://www.re-move-all.com/services/junk-removal"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential service. Business email from own site, except Balance of Nature public municipal business profile; identity matches phone and business address."
+  },
+  {
+    "business_name": "Barten Bros.",
+    "website": "https://bartenbros.com/",
+    "email": "info@bartenbros.com",
+    "phone": "732-903-2471",
+    "services": [
+      "junk-removal"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://bartenbros.com/",
+      "https://bartenbros.com/service-areas/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide residential service. Business email from own site, except Balance of Nature public municipal business profile; identity matches phone and business address."
+  },
+  {
+    "business_name": "Marin Exterminating Inc.",
+    "website": "https://marinexterminators.com/",
+    "email": "marinexterminator@yahoo.com",
+    "phone": "908-289-1919",
+    "services": [
+      "pest-control"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://marinexterminators.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Own site explicitly advertises all New Jersey household pest control; public business contact in rendered content and LocalBusiness schema."
+  },
+  {
+    "business_name": "Affordable Services Liebherr Repair",
+    "website": "https://njtec.com/service-area/",
+    "email": "info@njtec.com",
+    "phone": "732-961-6544",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://njtec.com/service-area/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "LIEBHERR REFRIGERATION SPECIALIST ONLY: refrigerators, freezers, wine coolers and ice makers. Statewide requests accepted; owner must match brand and appliance before assigning."
+  },
+  {
+    "business_name": "Boost Appliance Service / Boost Group LLC",
+    "website": "https://boostapplianceservice.com/",
+    "email": "appliance@boostgroupusa.com",
+    "phone": "551-282-9561",
+    "services": [
+      "appliance-repair"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union"
+    ],
+    "source_urls": [
+      "https://boostapplianceservice.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Independent out-of-warranty appliance repairs. Eleven explicitly named counties include seven registry counties; Warren excluded despite older search snippets."
   }
 ]

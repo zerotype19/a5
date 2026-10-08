@@ -1,0 +1,164 @@
+[
+  {
+    "business_name": "Trent Plumbing Heating & Cooling",
+    "email": "njtrent13@gmail.com",
+    "add_services": [
+      "hvac"
+    ],
+    "source_urls": [
+      "https://www.trentplumbingnj.com/about"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Residential heating and cooling explicitly advertised statewide."
+  },
+  {
+    "business_name": "First Call Contracting",
+    "email": "info@firstcallcontractingnj.com",
+    "add_services": [
+      "hvac",
+      "roofing",
+      "gutters"
+    ],
+    "source_urls": [
+      "https://firstcallcontractingnj.com/handyman-and-small-jobs-nj"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Dedicated heating/cooling, roof repair/replacement and gutter divisions advertised statewide."
+  },
+  {
+    "business_name": "PTL Home Renovations",
+    "email": "Ptlhomerenovations@gmail.com",
+    "add_services": [
+      "hvac"
+    ],
+    "source_urls": [
+      "https://www.ptlhomerenovations.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Heating scope: steam/hot-water boiler installation, maintenance and repair; no cooling inferred."
+  },
+  {
+    "business_name": "A&E Exteriors LLC",
+    "email": "aeexteriorsnj@gmail.com",
+    "add_services": [
+      "roofing",
+      "gutters"
+    ],
+    "source_urls": [
+      "https://www.aeexteriorsnj.com/services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing and gutters explicitly advertised across all 21 counties."
+  },
+  {
+    "business_name": "Courtyard Home Improvements",
+    "email": "courtyardsolutions.co@gmail.com",
+    "add_services": [
+      "roofing"
+    ],
+    "source_urls": [
+      "https://courtyardhomeimprovement.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing explicitly advertised statewide."
+  },
+  {
+    "business_name": "Perfect Measure Construction LLC",
+    "email": "measureperfect@gmail.com",
+    "add_services": [
+      "roofing"
+    ],
+    "source_urls": [
+      "https://perfectmeasureconstruction.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing explicitly advertised statewide."
+  },
+  {
+    "business_name": "Woodbine Exteriors",
+    "email": "Woodbine.contractors@gmail.com",
+    "add_services": [
+      "roofing"
+    ],
+    "source_urls": [
+      "https://woodbineexteriors.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing explicitly advertised statewide."
+  },
+  {
+    "business_name": "MJC Construction & Repairs LLC",
+    "email": "caguanamanuel18687@gmail.com",
+    "add_services": [
+      "roofing",
+      "gutters"
+    ],
+    "source_urls": [
+      "https://mjcconstructionsllc.com/kitchen-bathroom-remodeling/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing and gutters explicitly advertised statewide."
+  },
+  {
+    "business_name": "Nailed It Brothers",
+    "email": "info@naileditbrothers.com",
+    "add_services": [
+      "roofing"
+    ],
+    "source_urls": [
+      "https://naileditbrothers.com/contact/",
+      "https://naileditbrothers.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing explicitly advertised statewide."
+  },
+  {
+    "business_name": "East Coast Residential LLC",
+    "email": "eastcoastresidential@gmail.com",
+    "add_services": [
+      "roofing",
+      "gutters"
+    ],
+    "source_urls": [
+      "https://www.eastcoastresidentialnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing and gutters explicitly advertised; retain existing Union-only territory."
+  },
+  {
+    "business_name": "24/7 Home Pro",
+    "email": "Info@247HomePro.com",
+    "add_services": [
+      "house-cleaning"
+    ],
+    "source_urls": [
+      "https://www.247homepro.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "House cleaning advertised; retain existing six-county territory."
+  },
+  {
+    "business_name": "All Day and Night Services",
+    "email": "Alldayandnight.services@gmail.com",
+    "add_services": [
+      "hvac"
+    ],
+    "source_urls": [
+      "https://alldayandnightservices.com/contact/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Heating and cooling advertised; retain existing four-county territory."
+  },
+  {
+    "business_name": "MOJC General Contractor LLC",
+    "email": "mojchandyman@gmail.com",
+    "add_services": [
+      "tree-services"
+    ],
+    "source_urls": [
+      "https://www.mojcbuilds.com/service-tree-service.html"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Dedicated tree page explicitly advertises removal, pruning and stump work throughout New Jersey. Preserve existing statewide territory."
+  }
+]
