@@ -34,7 +34,7 @@ export function Button({
   }
 
   return (
-    <Link className={classes} href={href} data-cta={dataCta}>
+    <Link className={classes} href={href} prefetch={href.startsWith("/request-service") ? false : undefined} data-cta={dataCta}>
       {children}
     </Link>
   );

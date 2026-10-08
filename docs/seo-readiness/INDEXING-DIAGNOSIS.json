@@ -1,11 +1,12 @@
 {
-  "checkedAt": "2026-10-08T14:42:15.460Z",
-  "sitemapCount": 108,
+  "checkedAt": "2026-10-08T15:08:27.572Z",
+  "sitemapCount": 116,
   "errors": [],
   "examples": [
     {
       "path": "/",
       "status": 200,
+      "metadataInHead": true,
       "title": "A5 Home Services | Northern New Jersey Home Services Network",
       "description": "A5 is a Northern New Jersey home services network connecting homeowners with independent professionals for repairs, maintenance and improvements",
       "canonical": "https://www.a5homeservices.com",
@@ -15,7 +16,7 @@
       "words": 716,
       "inSitemap": true,
       "depth": 0,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -23,8 +24,9 @@
     {
       "path": "/home-services/madison",
       "status": 200,
+      "metadataInHead": true,
       "title": "Home services in Madison, NJ | A5 Home Services",
-      "description": "Repairs in Madison, including brick and mortar. Describe what you see and we",
+      "description": "Repairs in Madison, including brick and mortar. Describe what you see and we&#x27;ll help line up someone local.",
       "canonical": "https://www.a5homeservices.com/home-services/madison",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -40,8 +42,9 @@
     {
       "path": "/home-services/morris-township",
       "status": 200,
+      "metadataInHead": true,
       "title": "Home services in Morris Township, NJ | A5 Home Services",
-      "description": "Repairs in Morris Township. A Morristown mailing address can still be the township. Tell us what",
+      "description": "Repairs in Morris Township. A Morristown mailing address can still be the township. Tell us what&#x27;s wrong.",
       "canonical": "https://www.a5homeservices.com/home-services/morris-township",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -57,8 +60,9 @@
     {
       "path": "/home-services/morristown",
       "status": 200,
+      "metadataInHead": true,
       "title": "Home services in Morristown, NJ | A5 Home Services",
-      "description": "Repairs in the Town of Morristown. Tell us what failed and we",
+      "description": "Repairs in the Town of Morristown. Tell us what failed and we&#x27;ll help line up someone local.",
       "canonical": "https://www.a5homeservices.com/home-services/morristown",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -74,13 +78,14 @@
     {
       "path": "/madison/masonry",
       "status": 200,
+      "metadataInHead": true,
       "title": "Masonry services in Madison, NJ | A5 Home Services",
       "description": "Plan masonry repairs in Madison for brick steps, mortar and walks. Compare repair scopes, prepare useful photos and request local help through A5.",
       "canonical": "https://www.a5homeservices.com/madison/masonry",
       "canonicalMatches": true,
       "robots": "index, follow",
       "h1s": 1,
-      "words": 707,
+      "words": 959,
       "inSitemap": true,
       "depth": 3,
       "inbound": 3,
@@ -91,6 +96,7 @@
     {
       "path": "/request-service",
       "status": 200,
+      "metadataInHead": true,
       "title": "Request Service | A5 Home Services",
       "description": "Tell A5 what your home needs. Share your project and optional photos to start a local service request.",
       "canonical": "https://www.a5homeservices.com/request-service",
@@ -100,7 +106,7 @@
       "words": 119,
       "inSitemap": false,
       "depth": 1,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Expected noindex intake; leave out of sitemap."
@@ -108,6 +114,7 @@
     {
       "path": "/services/drywall/water-damaged-ceiling",
       "status": 200,
+      "metadataInHead": true,
       "title": "Water stain or sagging ceiling: what to fix first | A5 Home Services",
       "description": "A ceiling stain, bubble, or soft spot after a leak: find the source, what to photograph, patch versus replace, and how plumbing, drywall, and paint fit together.",
       "canonical": "https://www.a5homeservices.com/services/drywall/water-damaged-ceiling",
@@ -125,6 +132,7 @@
     {
       "path": "/services/electrical",
       "status": 200,
+      "metadataInHead": true,
       "title": "Electrical help: lights, outlets, switches, and fans | A5 Home Services",
       "description": "Is it one device or the whole circuit? Safety stop signs, what you can check without opening anything, what to photograph, and who does electrical work in NJ.",
       "canonical": "https://www.a5homeservices.com/services/electrical",
@@ -134,7 +142,7 @@
       "words": 989,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -142,8 +150,9 @@
     {
       "path": "/services/electrical/dead-outlet",
       "status": 200,
+      "metadataInHead": true,
       "title": "Outlet not working: GFCIs, breakers, and next steps | A5 Home Services",
-      "description": "An outlet that",
+      "description": "An outlet that&#x27;s dead or works on and off: how to check GFCIs and breakers safely, what to photograph, and when a qualified electrician needs to look at it.",
       "canonical": "https://www.a5homeservices.com/services/electrical/dead-outlet",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -159,8 +168,9 @@
     {
       "path": "/services/electrical/failed-light-fixture",
       "status": 200,
+      "metadataInHead": true,
       "title": "Light fixture not working or flickering: what to check | A5 Home Services",
-      "description": "A light that won",
+      "description": "A light that won&#x27;t turn on or flickers: safe checks you can make, whether it&#x27;s the bulb, fixture, or circuit, what to photograph, and who should fix it.",
       "canonical": "https://www.a5homeservices.com/services/electrical/failed-light-fixture",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -176,6 +186,7 @@
     {
       "path": "/services/landscaping/yard-surface-grading",
       "status": 200,
+      "metadataInHead": true,
       "title": "Water pooling in the yard or by the foundation: grading | A5 Home Services",
       "description": "Water that sits in the lawn or against the house after rain: common causes, what to photograph, and when surface grading fixes it versus a bigger drainage question.",
       "canonical": "https://www.a5homeservices.com/services/landscaping/yard-surface-grading",
@@ -193,6 +204,7 @@
     {
       "path": "/services/masonry",
       "status": 200,
+      "metadataInHead": true,
       "title": "Masonry repair: cracked steps, mortar, and pavers | A5 Home Services",
       "description": "Is it the brick, the mortar, or the ground underneath? How to read cracked steps, loose mortar, and sunken pavers, and when repair beats rebuilding — northern NJ.",
       "canonical": "https://www.a5homeservices.com/services/masonry",
@@ -202,7 +214,7 @@
       "words": 1021,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -210,6 +222,7 @@
     {
       "path": "/services/masonry/loose-mortar",
       "status": 200,
+      "metadataInHead": true,
       "title": "Mortar falling out of brick joints: when to repoint | A5 Home Services",
       "description": "Sandy, cracked, or missing mortar between bricks: what causes it, what to photograph, and when repointing is enough versus when the bricks or wall need more work.",
       "canonical": "https://www.a5homeservices.com/services/masonry/loose-mortar",
@@ -227,6 +240,7 @@
     {
       "path": "/services/masonry/sunken-pavers",
       "status": 200,
+      "metadataInHead": true,
       "title": "Sunken or rocking pavers on a walk or patio: fixes | A5 Home Services",
       "description": "Why patio and walkway pavers sink, rock, or heave, what to photograph, and when lifting and resetting works versus when the base needs to be rebuilt.",
       "canonical": "https://www.a5homeservices.com/services/masonry/sunken-pavers",
@@ -244,6 +258,7 @@
     {
       "path": "/services/painting",
       "status": 200,
+      "metadataInHead": true,
       "title": "House painting: peeling paint, prep, and repainting | A5 Home Services",
       "description": "Why paint peels, blisters, or chalks, when a touch-up works and when a full repaint is needed, and what older-home prep involves — for northern NJ homeowners.",
       "canonical": "https://www.a5homeservices.com/services/painting",
@@ -253,7 +268,7 @@
       "words": 986,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -261,8 +276,9 @@
     {
       "path": "/services/tile",
       "status": 200,
+      "metadataInHead": true,
       "title": "Tile repair: cracked tile, loose backsplash, and grout | A5 Home Services",
-      "description": "Can a few cracked tiles be replaced without redoing the floor? How matching, grout, and what",
+      "description": "Can a few cracked tiles be replaced without redoing the floor? How matching, grout, and what&#x27;s behind the tile decide a repair — and what to photograph first.",
       "canonical": "https://www.a5homeservices.com/services/tile",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -270,7 +286,7 @@
       "words": 882,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Discovered - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
@@ -278,6 +294,7 @@
     {
       "path": "/services/painting/peeling-exterior-paint",
       "status": 200,
+      "metadataInHead": true,
       "title": "Peeling exterior paint: causes, prep, and repainting | A5 Home Services",
       "description": "Why house paint peels, blisters, or chalks, what to photograph, spot repair versus full repaint, and what homes built before 1978 need to know about lead.",
       "canonical": "https://www.a5homeservices.com/services/painting/peeling-exterior-paint",
@@ -295,6 +312,7 @@
     {
       "path": "/services/tile/crumbling-grout",
       "status": 200,
+      "metadataInHead": true,
       "title": "Crumbling or cracked grout: regrout or retile? | A5 Home Services",
       "description": "Grout that cracks, crumbles, or washes out of floors and showers: what causes it, what to photograph, and when regrouting is enough versus when tile needs attention.",
       "canonical": "https://www.a5homeservices.com/services/tile/crumbling-grout",
@@ -312,6 +330,7 @@
     {
       "path": "/services/plumbing/running-toilet",
       "status": 200,
+      "metadataInHead": true,
       "title": "Toilet keeps running or refilling: causes and repairs | A5 Home Services",
       "description": "A toilet that runs, hisses, or refills on its own usually has a worn flapper or fill valve. What to check, what to photograph, and when replacement makes sense.",
       "canonical": "https://www.a5homeservices.com/services/plumbing/running-toilet",
@@ -329,8 +348,9 @@
     {
       "path": "/home-services/florham-park",
       "status": 200,
+      "metadataInHead": true,
       "title": "Home services in Florham Park, NJ | A5 Home Services",
-      "description": "Repairs in Florham Park. Tell us what failed and we",
+      "description": "Repairs in Florham Park. Tell us what failed and we&#x27;ll help line up someone local.",
       "canonical": "https://www.a5homeservices.com/home-services/florham-park",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -346,8 +366,9 @@
     {
       "path": "/home-services/east-hanover",
       "status": 200,
+      "metadataInHead": true,
       "title": "Home services in East Hanover, NJ | A5 Home Services",
-      "description": "Repairs in East Hanover. Describe what the house or the yard is doing and we",
+      "description": "Repairs in East Hanover. Describe what the house or the yard is doing and we&#x27;ll help line up someone local.",
       "canonical": "https://www.a5homeservices.com/home-services/east-hanover",
       "canonicalMatches": true,
       "robots": "index, follow",
@@ -363,6 +384,7 @@
     {
       "path": "/services/landscaping",
       "status": 200,
+      "metadataInHead": true,
       "title": "Landscaping: cleanup, planting beds, and yard grading | A5 Home Services",
       "description": "Cleanup, new beds, or water sitting in the yard? How to tell which landscape job you have, a northern NJ seasonal calendar, and what to photograph first.",
       "canonical": "https://www.a5homeservices.com/services/landscaping",
@@ -372,7 +394,7 @@
       "words": 982,
       "inSitemap": true,
       "depth": 1,
-      "inbound": 108,
+      "inbound": 116,
       "googleSummary": "Crawled - currently not indexed",
       "summaryDate": "2026-10-03 (examples detected/crawled Oct 5)",
       "action": "Live technical checks below; retain indexing eligibility, strengthen useful content/links where relevant. Summary alone does not establish a defect."
