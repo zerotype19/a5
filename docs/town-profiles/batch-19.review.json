@@ -1,0 +1,151 @@
+{
+  "sha256": "c7163cea190a33ad4c8fd3684f747be865c3289b8e1e17eedc9a278c5f87f10b",
+  "pages": [
+    {
+      "id": "df7c5575-809b-4b75-8ae5-eaa85088c9f6",
+      "path": "/home-services/walpack",
+      "newlyIndexable": true,
+      "purpose": "Check the exact property and historic context before altering older features",
+      "sourceClaims": [
+        {
+          "title": "Delaware Water Gap National Register Properties",
+          "url": "https://www.nps.gov/dewa/learn/historyculture/places-national-register-properties.htm",
+          "publisher": "National Park Service",
+          "supports": "Named Walpack Center district and historic properties only; no universal designation or local approval rule inferred."
+        },
+        {
+          "title": "Walpack Township Directory",
+          "url": "https://walpacktownship.com/directory",
+          "publisher": "Walpack Township",
+          "supports": "Municipal construction contact exists; no regulatory claim based on directory."
+        }
+      ]
+    },
+    {
+      "id": "040e2e43-c69b-4977-8ae0-3b9007ec08db",
+      "path": "/home-services/wantage",
+      "newlyIndexable": true,
+      "purpose": "Follow Wantage's local operational route within shared construction services",
+      "sourceClaims": [
+        {
+          "title": "Wantage Building Department and Construction Office",
+          "url": "https://wantagetwp.com/departments/building/",
+          "publisher": "Wantage Township",
+          "supports": "Shared agreement and explicit local operational distinction. No hours, payment details or universal permit claim copied."
+        }
+      ]
+    },
+    {
+      "id": "61ef57ea-fcba-444d-8890-caada8c88618",
+      "path": "/home-services/allamuchy",
+      "newlyIndexable": true,
+      "purpose": "Separate construction inspections from smoke and carbon monoxide certification contacts",
+      "sourceClaims": [
+        {
+          "title": "Allamuchy Construction Department",
+          "url": "https://allamuchynj.org/construction",
+          "publisher": "Allamuchy Township",
+          "supports": "DCA construction services and separate Mount Olive fire official direction for smoke/CO inspections. No frequency, deadline or universal transaction rule."
+        }
+      ]
+    },
+    {
+      "id": "0cb1bcfe-92cf-4347-8863-1b8376ec3011",
+      "path": "/home-services/alpha",
+      "newlyIndexable": true,
+      "purpose": "Prepare a focused appointment for the right construction or zoning question",
+      "sourceClaims": [
+        {
+          "title": "Alpha Construction and Zoning",
+          "url": "https://www.alphaboronj.org/offices/construction___zoning/index.php",
+          "publisher": "Borough of Alpha",
+          "supports": "Live browser verified appointment-based construction/subcode and zoning/housing contacts, plus application resources. No unread form requirements asserted."
+        }
+      ]
+    },
+    {
+      "id": "f1105c91-8120-43f3-8377-c8a481e19738",
+      "path": "/home-services/belvidere",
+      "newlyIndexable": true,
+      "purpose": "Check the historic district map and application before exterior replacement",
+      "sourceClaims": [
+        {
+          "title": "Belvidere Historic Preservation Advisory Commission",
+          "url": "https://www.belviderenj.net/historic-preservation-commission",
+          "publisher": "Town of Belvidere",
+          "supports": "Live browser verified district map, ordinance and Certificate of Appropriateness application links. No unread map boundaries or universal review requirement asserted."
+        }
+      ]
+    },
+    {
+      "id": "40929269-ddd4-4749-83c8-c873a89a55c9",
+      "path": "/home-services/blairstown",
+      "newlyIndexable": true,
+      "purpose": "Use local historic knowledge to inform repair without confusing advice with approval",
+      "sourceClaims": [
+        {
+          "title": "Blairstown Historic Preservation Committee",
+          "url": "https://www.blairstowntownship.org/government/historic_preservation.php",
+          "publisher": "Blairstown Township",
+          "supports": "Live browser verified explicit advisory/educational/informational role and local historic resources. No approval authority inferred."
+        }
+      ]
+    },
+    {
+      "id": "3fde422f-8a8b-49a6-8cc6-e5421ee77b35",
+      "path": "/home-services/franklin-township",
+      "newlyIndexable": true,
+      "purpose": "Use the current Warren County construction-service route after the office change",
+      "sourceClaims": [
+        {
+          "title": "Franklin Township Building and Construction",
+          "url": "https://www.franklintwpwarren.org/building-and-construction/",
+          "publisher": "Franklin Township, Warren County",
+          "supports": "Current department page explicitly identifies Washington Township services effective September 2025. No claim derived solely from historical minutes."
+        }
+      ]
+    },
+    {
+      "id": "d9e87321-5072-4191-8ec4-a51e3adbe0f6",
+      "path": "/home-services/frelinghuysen",
+      "newlyIndexable": true,
+      "purpose": "Distinguish a new-construction checklist from a small repair scope",
+      "sourceClaims": [
+        {
+          "title": "Frelinghuysen Construction Department",
+          "url": "https://www.frelinghuysen-nj.us/construction-department",
+          "publisher": "Frelinghuysen Township",
+          "supports": "Procedure explicitly framed as new construction with multiple review and inspection stages. No blanket exemption, dimensions or deadline repeated."
+        }
+      ]
+    },
+    {
+      "id": "146f19af-6881-4c3e-8b5d-bdafdadc4459",
+      "path": "/home-services/greenwich-township",
+      "newlyIndexable": true,
+      "purpose": "Keep the released project plans accessible during inspections",
+      "sourceClaims": [
+        {
+          "title": "Greenwich Township Construction Permits",
+          "url": "https://www.greenwichtownship.org/construction-permits/",
+          "publisher": "Greenwich Township, Warren County",
+          "supports": "Released plans kept at jobsite and inspection coordination. No old phone-request timing, fixed inspection deadline or age rule copied."
+        }
+      ]
+    },
+    {
+      "id": "72e4e733-63cc-49f4-8993-a725fa494243",
+      "path": "/home-services/hardwick",
+      "newlyIndexable": true,
+      "purpose": "Distinguish state construction administration from local driveway and zoning questions",
+      "sourceClaims": [
+        {
+          "title": "Hardwick Township Directory",
+          "url": "https://www.hardwicktwp.com/township-directory/",
+          "publisher": "Hardwick Township",
+          "supports": "Current DCA/Blairstown route and distinct zoning/driveway contacts only; no regulatory requirements inferred from directory."
+        }
+      ]
+    }
+  ]
+}
