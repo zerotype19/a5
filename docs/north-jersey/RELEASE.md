@@ -1,6 +1,6 @@
 # North Jersey regional directory release
 
-Implementation and editorial review complete; publication/deployment receipts will be recorded below after release.
+Published and deployed. PR #29 merged as `216d398a88f0b716c86c4a9fef9f48878ad8300b`; Cloudflare Worker version `1bae77b4-f4cd-42b6-bb64-77e12a217d7e`.
 
 ## Scope
 
@@ -30,4 +30,12 @@ The existing submitted sitemap updates in place. Publication does not demonstrat
 
 ## Live release
 
-Pending publication and deployment verification.
+- Published eight county records at 2026-10-08T00:04:43.328Z. Supabase now has 70 published content records, 43 sources, 96 source links, 591 content relationships and 227 location records. The 62 pre-existing content rows were compared with the backup and remain unchanged.
+- The publication added eight sources, 146 reciprocal relationships and 218 municipality rows. Sources and new content received actual staging/publication timestamps. The live sitemap contains 75 unique URLs.
+- At 2026-10-08T00:05:35.581Z, all 75 sitemap URLs returned 200, one H1, correct canonicals, indexable robots and no emojis/text arrows. All eight county answers, municipality counts, official source links, collection/administrative-area schema and county CTAs were present.
+- The directory exposes exactly 226 distinct municipality request links, matching the registry. All eight county-context request forms and eight ambiguous-town request cases displayed the expected county and individual-availability notice.
+- Live browser review at 390px confirmed regional search returns the three Washington Townships plus Washington Borough; the Bergen Township link opened the correct request context with no overflow. No synthetic lead or vendor edit was submitted to production.
+- `/authority-preview` and an unknown county route both returned 404. The existing sitemap URL remains the Search Console submission target; no immediate indexing or ranking result is claimed.
+- GitHub CI run 37705662600 passed. Runtime bindings retained the launch pipeline, operations alerts, lead outcomes, alert address and five-minute cron. No D1 migration, provider activation or coverage change occurred.
+
+Private evidence is stored under `.wrangler/north-jersey`: release-before.json, release-receipt.json, after.json, live-verification.json, seed-rehearsal.log and deploy.log. The exact content hash is `f96dca94212f7f32d7b94c2e3d54d054ec0861c95553575b29c1c6f9956d62ab`. Credentials are not committed.
