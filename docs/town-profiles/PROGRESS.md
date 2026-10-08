@@ -53,3 +53,11 @@ Millburn, Newark, North Caldwell, Nutley, Orange, Roseland, South Orange, Verona
 ## Batch 06: ready for publication
 
 Allendale, Alpine, Bergenfield, Bogota, Carlstadt, Cliffside Park, Closter, Cresskill, Demarest and Dumont begin Bergen. Brand positioning ideas approved all ten. Source checks distinguish Closter design guidance from property approval, Alpine septic expertise from general plumbing, and permitted project inspections from universal requirements. Coverage retains ten or more active emailed mapped vendors for all 160 combinations. Tests, lint, typecheck and Next build passed.
+
+## Batch 06: published and verified
+
+2026-10-08: PR #55 merged (91a147d). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 176 URLs. Sixty completed; 142 remain.
+
+## Batch 07: ready for publication
+
+East Rutherford, Edgewater, Elmwood Park, Emerson, Englewood, Englewood Cliffs, Fair Lawn, Fairview, Fort Lee and Franklin Lakes. Brand positioning ideas approved all ten. Official sources distinguish transaction-related occupancy from repairs, public road authority from private ownership, and septic expertise from general plumbing. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
