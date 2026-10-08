@@ -39,6 +39,8 @@ Service and town mappings are stored separately. Their intersection identifies a
 
 ## 3. Source, confirm and load vendors
 
+Follow the [public-source discovery and enrichment runbook](VENDOR-SOURCING-RUNBOOK.md) for directory discovery, bounded website extraction, provenance, deduplication and reviewed CSV preparation. Scraping is a sourcing step, not a readiness decision.
+
 Work existing relationships first: request explicit service-area extensions and current capacity, then fill gaps with new businesses. A publicly advertised service area can support a candidate record but does not establish willingness to receive A5 leads.
 
 For each candidate, gather:
