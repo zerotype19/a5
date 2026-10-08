@@ -42,3 +42,7 @@ County exclusions are preserved: Ti Constant lacks Essex and Passaic in its publ
 ## Receipts and recovery
 
 Private before-images, batch CSVs, write intents and completed receipts are under .wrangler/vendor-depth/. The service release receipt is service-release-receipt.json; vendor batches are release-<manifest-hash>-receipt.json and service enrichment uses enrich-<manifest-hash>-receipt.json. Do not blindly repeat partial writes. Read-only dry runs should report zero new vendors and zero missing service mappings after this release. STATUS.json and COVERAGE.csv are reproducible with scripts/audit-vendor-depth.ts.
+
+## Review closeout
+
+The owner-designated “Brand positioning ideas” conversation accepted the minimum-eight milestone and 16-service expansion on October 8, 2026, with no further product or engineering corrections. Final read-only dry runs found zero new businesses and zero missing service mappings. A second production coverage audit reproduced 193 businesses, 168 email-assignable and zero pairs below eight. Wave-two verification passed 290 tests, lint, Next build and typecheck after regenerating Next route types (Vinext's generated route types initially conflicted with Next's validator). The ten-vendor target remains separately recorded rather than claimed complete.
