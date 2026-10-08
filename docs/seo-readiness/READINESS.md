@@ -1,6 +1,18 @@
 # SEO readiness — October 8, 2026
 
-## Scope and status
+## Current town-profile milestone
+
+The owner-authorized follow-up completed all 202 remaining municipality profiles in 21 sequential batches (20 batches of ten and a final two). Together with the previous 24 municipality profiles, all 226 registry municipalities now have individually authored, indexable town pages. The legacy combined Chatham hub remains in addition to the 226 municipality records.
+
+Production content totals: 312 published/indexable records, including 227 LOCATION records; zero remaining noindex town profiles. The sitemap now contains 318 URLs. Each new profile preserves its municipality ID, URL, all 16 service cards and contextual intake links, and adds original local guidance, official sources, distinct metadata and county navigation. Brand positioning ideas reviewed every batch and the final planning-heading alignment.
+
+The recorded coverage check spans 3,616 service/town combinations, with at least ten active, email-bearing mapped vendors in each. This describes assignment eligibility only, not specialist qualifications, availability, successful email delivery or completed work. Vendor records, service mappings and geographic mappings were not changed by the editorial program.
+
+Final database and public verification evidence is maintained in `../town-profiles/COMPLETION.json` and `../town-profiles/FINAL-LIVE.json`; `INDEXING-DIAGNOSIS.json` contains the public sitemap crawl. Prior deployment and Google observations below are historical evidence, not a claim that Google has indexed all newly eligible pages. All profiles passed their batch production checks and the final 202-page heading/content verification with zero errors. The complete public crawl passed 319 routes (318 sitemap URLs plus intake), with no unreachable sitemap pages. All 18 browser/Googlebot metadata checks and 323 local tests passed; lint, typecheck, Next build and CI passed. Final database reconciliation reports zero errors.
+
+The Google evidence and lab-performance observations below retain their original observation dates. Search-engine indexing, rankings and lead volume remain measured outcomes. This content-only program made no runtime, dependency, schema or lead-routing changes.
+
+## Original SEO release scope (historical)
 
 This release improves six existing service/town pages and promotes eight individually reviewed town guides. It does not make every municipality profile ready for indexing. After the guarded manifest is applied, 202 town profiles deliberately remain noindex. The site continues to offer all 16 services across its 226-municipality registry. No vendor records or lead-routing rules change.
 
@@ -38,7 +50,7 @@ Admin Acquisition now reports all unarchived requests created in the last 30 day
 
 301 tests, lint, typecheck, Next build and Vinext Worker build pass. Temporary content preview removed before builds. Local mobile checks at 320 and 390 pixels and desktop show no horizontal overflow. `scripts/check-seo-metadata.mjs` verifies HTTP head placement/uniqueness and UA parity. `scripts/audit-seo-readiness.mjs` checks the complete public sitemap and internal reachability. Private deployment receipts and detailed runtime evidence stay under ignored .wrangler/seo-readiness.
 
-Further work is evidence-driven: repeat the editorial process for the remaining 202 noindex profiles, use actual search queries and persisted lead quality to choose future content, and add genuine permissioned project evidence and customer reviews when available. Do not fabricate local offices, completed projects, testimonials or ratings. Google's crawl/indexing decisions and real-user performance need subsequent observations; this release does not promise rankings or lead volume.
+The 202-profile editorial follow-up is now complete as described above. Further work is evidence-driven: use actual search queries and persisted lead quality to choose future content, and add genuine permissioned project evidence and customer reviews when available. Do not fabricate local offices, completed projects, testimonials or ratings. Google's crawl/indexing decisions and real-user performance need subsequent observations; this release does not promise rankings or lead volume.
 
 ## Production release and follow-up
 

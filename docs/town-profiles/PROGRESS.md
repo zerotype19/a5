@@ -181,3 +181,13 @@ Washington Township (Warren) and White Township complete the immutable 202-profi
 ## Final editorial alignment
 
 Mobile review found inherited request-instructions headings above the new local planning answers. Brand positioning ideas approved the exact 202-record correction to “What should I know before planning a home project in [existing municipality, county]?” Only primary_question and the routine updated_at timestamp change; prior batch manifests remain immutable. Exact correction manifest, review digest, guarded release and final all-profile checks provide separate evidence. Full tests, lint, typecheck and build passed. Belvidere mobile at 390px: readable article and no horizontal overflow; earlier Boonton, Glen Ridge and Closter samples also passed.
+
+## Final production reconciliation
+
+2026-10-08: PR #71 merged (b4c5a79). All 202 planning headings were corrected with exact before-value and updated_at guards. The final database audit confirms 202 authored bodies and heading corrections, all authored sources/relationships, unchanged original non-authorized fields, and unchanged vendors/vendor_services/vendor_locations. Source timestamps are compared as instants because PostgreSQL returns +00:00 where authored ISO strings use Z.
+
+Verified totals: 312 published/indexable content records; 227 indexable LOCATION records (226 municipalities plus the retained combined Chatham hub); zero noindex town profiles. All 3,616 service/town combinations retain at least ten active, emailed mapped vendors. This is assignment eligibility, not specialty, availability or delivery assurance.
+
+The complete sitemap crawl checked 318 sitemap URLs plus the deliberately noindex intake route: 319 HTTP/metadata/canonical/H1 checks, zero errors, zero unreachable sitemap pages. All 18 browser/Googlebot metadata checks pass. Final local suite: 323 tests, zero failures; lint, typecheck and Next build passed, as did CI. The heading correction's first immediate post-purge pass saw stale KV-rendered headings; subsequent verification checks the canonical URLs after cache propagation. No runtime deployment, schema/dependency changes, vendor edits, outreach or synthetic leads were needed.
+
+Final canonical-URL verification after cache propagation: 202/202 profiles pass corrected headings, authored direct answers, unique titles/descriptions, H1, canonical, indexability and sitemap checks; zero errors. White Township also passed rendered mobile review at 320px with no horizontal overflow and the corrected planning question. Viewport overrides were reset. This closes the owner-authorized 202-profile queue; the next observations concern real indexing, search traffic and qualified leads, not unfinished town drafts.

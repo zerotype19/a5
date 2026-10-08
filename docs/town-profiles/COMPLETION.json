@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-08T18:50:58.268Z",
+  "programProfiles": 202,
+  "verifiedProfiles": 202,
+  "alignedHeadings": 202,
+  "publishedContent": 312,
+  "indexableContent": 312,
+  "locationRecords": 227,
+  "indexableLocations": 227,
+  "remainingNoindexLocations": 0,
+  "municipalities": 226,
+  "serviceTownCombinations": 3616,
+  "minimumActiveEmailedMappedVendors": 10,
+  "coverageMeaning": "Recorded active/email/service/town eligibility only; not specialty, availability, mailbox delivery or fulfillment.",
+  "unchanged": {
+    "vendors": true,
+    "vendor_services": true,
+    "vendor_locations": true
+  },
+  "errors": []
+}
