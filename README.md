@@ -56,3 +56,7 @@ See [the North Jersey release](docs/north-jersey/RELEASE.md), [operations eviden
 The [municipal expansion operating guide](docs/municipal-expansion/OPERATING-GUIDE.md) documents the 23 newly imported candidates, 17 existing contact enrichments and daily work queue at `/admin/queue`. Kevin owns follow-up as requests arrive. The [free-lead workflow update](docs/free-lead-rollout/BRIEF.md) supersedes earlier confirmation gates: 25 missing-email vendors are inactive, while public business emails support forwarding. Advertised territory guides selection without guaranteeing service.
 
 Use the [location expansion playbook](docs/expansion/LOCATION-EXPANSION-PLAYBOOK.md) for every new area. The [current vendor readiness audit](docs/expansion/NORTH-JERSEY-READINESS.md) retains the historical sourcing baseline; its older capacity gates are superseded by the free-lead clarification.
+
+## Vendor self-signup
+
+`/vendors/join` collects business details, required project email, canonical services, and operating towns (county/region bulk selection with individual exclusions). `/admin/vendors/signups` and the vendor work queue support review, duplicate matching, creation or linking. Apply the additive migration and enable `ENABLE_VENDOR_SIGNUP` to accept submissions. See [release notes](docs/vendor-signup/RELEASE.md).

@@ -13,7 +13,7 @@ export default async function VendorsPage({ searchParams }: { searchParams: Prom
   const vendors = all.filter(vendor => (!status || vendor.status === status) && (params.accepting !== "1" || vendor.acceptingLeads) && (!q || [vendor.businessName, vendor.contactName ?? "", coverageLabels(vendor).services, coverageLabels(vendor).locations].some(value => value.toLowerCase().includes(q.toLowerCase()))));
   return (
     <>
-      <AdminPageHeader title="Vendors" description="Find a vendor by advertised service area and keep business contact details current." actions={<><Link className={styles.secondaryButton} href="/admin/vendors/import">Import CSV</Link><Link className={styles.primaryButton} href="/admin/vendors/new">Create vendor</Link></>} />
+      <AdminPageHeader title="Vendors" description="Find a vendor by advertised service area and keep business contact details current." actions={<><Link className={styles.secondaryButton} href="/admin/vendors/signups">Signups</Link><Link className={styles.secondaryButton} href="/admin/vendors/import">Import CSV</Link><Link className={styles.primaryButton} href="/admin/vendors/new">Create vendor</Link></>} />
       <form key={`${q}-${status}-${params.accepting}`} className={styles.filters} method="get" aria-label="Filter vendors">
         <label>Find a provider<input type="search" name="q" defaultValue={q} maxLength={100} placeholder="Business, contact, service or town" /></label>
         <label>Status<select name="status" defaultValue={status}><option value="">All statuses</option>{VENDOR_STATUSES.map(value => <option key={value} value={value}>{formatStatus(value)}</option>)}</select></label>

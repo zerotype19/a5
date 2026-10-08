@@ -29,6 +29,7 @@ export function Footer() {
         <li><Link href="/#how-it-works">How it works</Link></li>
         <li><Link href="/guides">Homeowner guides</Link></li>
         <li><Link href="/request-service">Request service</Link></li>
+        <li><Link href="/vendors/join">Join as a vendor</Link></li>
       </ul></nav>
     </div>
     <div className={styles.bottom}>

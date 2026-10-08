@@ -4,14 +4,14 @@ import {describe,it} from 'node:test';
 import {buildWavePlan,type WaveSnapshot} from '../content/expansion-wave-2/plan.ts';
 import {LOCATIONS} from '../config/locations.ts';
 import {buildServiceSchema} from '../src/lib/authority/schema.ts';
-import {buildSitemapEntries} from '../src/lib/authority/sitemap.ts';
+import {buildSitemapEntries,CORE_SITEMAP_ROUTES} from '../src/lib/authority/sitemap.ts';
 import {intakeContext,requestHref} from '../src/lib/intake/context.ts';
 const baseline=()=>JSON.parse(readFileSync(new URL('../content/expansion-wave-2/baseline.fixture.json',import.meta.url),'utf8')) as WaveSnapshot;
 describe('Expansion wave 2 publication',()=>{
  it('adds precisely 3 towns, 6 selected local pages and 4 problems alongside 22 revisions',()=>{
   const p=buildWavePlan(baseline());assert.equal(p.updates.length,22);assert.equal(p.inserts.length,13);assert.equal(p.all.length,62);
   for(const [type,count] of [['LOCATION',3],['SERVICE_LOCATION',6],['PROBLEM',4]] as const)assert.equal(p.inserts.filter(p=>p.page_type===type).length,count);
-  assert.equal(buildSitemapEntries(p.all.map(p=>({...p,status:'PUBLISHED',indexable:true}))).length,67);
+  assert.equal(buildSitemapEntries(p.all.map(p=>({...p,status:'PUBLISHED',indexable:true}))).length,62+CORE_SITEMAP_ROUTES.length);
   assert.ok(p.inserts.every(p=>p.status==='DRAFT'&&!p.indexable));
  });
  it('rejects stale edits, duplicate routes, and missing problem/service associations',()=>{

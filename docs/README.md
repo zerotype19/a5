@@ -25,3 +25,5 @@ Use the [location expansion playbook](expansion/LOCATION-EXPANSION-PLAYBOOK.md) 
 The [vendor sourcing runbook](expansion/VENDOR-SOURCING-RUNBOOK.md) covers public-site extraction and enrichment; its [initial source ledger](expansion/VENDOR-SOURCE-PILOT.json) demonstrates provenance and scope review without claiming confirmed vendor capacity.
 
 Current owner clarification and local-content expansion: [free-lead rollout](free-lead-rollout/BRIEF.md). No capacity/onboarding gate; missing-email vendors are inactive and remain in email research.
+
+- [Vendor signup](vendor-signup/BRIEF.md) — public form, geographic selection and admin review; [release notes](vendor-signup/RELEASE.md).

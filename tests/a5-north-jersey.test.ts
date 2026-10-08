@@ -41,8 +41,8 @@ describe('North Jersey regional expansion',()=>{
  });
  it('keeps draft, nonindexable and unrelated CORE records out of the sitemap',()=>{
   const plan=emptyPlan();const draft=plan.pages[0];assert.equal(buildSitemapEntries(plan.pages).length,CORE_SITEMAP_ROUTES.length);
-  const published=plan.pages.map(p=>({...p,status:'PUBLISHED' as const,indexable:true}));assert.equal(buildSitemapEntries(published).length,13);
-  assert.equal(buildSitemapEntries([{...draft,status:'PUBLISHED',indexable:false},{...draft,slug:'private-other',status:'PUBLISHED',indexable:true}]).length,5);
+  const published=plan.pages.map(p=>({...p,status:'PUBLISHED' as const,indexable:true}));assert.equal(buildSitemapEntries(published).length,8+CORE_SITEMAP_ROUTES.length);
+  assert.equal(buildSitemapEntries([{...draft,status:'PUBLISHED',indexable:false},{...draft,slug:'private-other',status:'PUBLISHED',indexable:true}]).length,CORE_SITEMAP_ROUTES.length);
  });
  it('seeds request geography without altering provider coverage or existing locations',()=>{
   const sql=readFileSync(new URL('../supabase/migrations/20261008000000_a5_north_jersey_locations.sql',import.meta.url),'utf8');
