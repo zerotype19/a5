@@ -1,0 +1,117 @@
+{
+  "source": "Generated using built-in image generation with original hero and Handyman images as style references",
+  "assets": [
+    {
+      "id": "hvac",
+      "path": "public/images/hvac.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 258570
+    },
+    {
+      "id": "hvac",
+      "path": "public/images/hvac-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 72514
+    },
+    {
+      "id": "roofing",
+      "path": "public/images/roofing.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 288196
+    },
+    {
+      "id": "roofing",
+      "path": "public/images/roofing-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 77218
+    },
+    {
+      "id": "house-cleaning",
+      "path": "public/images/house-cleaning.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 135280
+    },
+    {
+      "id": "house-cleaning",
+      "path": "public/images/house-cleaning-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 38672
+    },
+    {
+      "id": "gutters",
+      "path": "public/images/gutters.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 141046
+    },
+    {
+      "id": "gutters",
+      "path": "public/images/gutters-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 45414
+    },
+    {
+      "id": "pest-control",
+      "path": "public/images/pest-control.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 172708
+    },
+    {
+      "id": "pest-control",
+      "path": "public/images/pest-control-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 42640
+    },
+    {
+      "id": "junk-removal",
+      "path": "public/images/junk-removal.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 183600
+    },
+    {
+      "id": "junk-removal",
+      "path": "public/images/junk-removal-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 53116
+    },
+    {
+      "id": "tree-services",
+      "path": "public/images/tree-services.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 364740
+    },
+    {
+      "id": "tree-services",
+      "path": "public/images/tree-services-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 99198
+    },
+    {
+      "id": "appliance-repair",
+      "path": "public/images/appliance-repair.webp",
+      "width": 1440,
+      "height": 960,
+      "bytes": 170912
+    },
+    {
+      "id": "appliance-repair",
+      "path": "public/images/appliance-repair-small.webp",
+      "width": 640,
+      "height": 427,
+      "bytes": 42670
+    }
+  ]
+}

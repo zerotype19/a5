@@ -10,7 +10,7 @@
     ],
     "preparation": "Include the equipment type, approximate age, symptoms and any displayed error code.",
     "boundary": "An introduction is not an emergency appointment. Contact emergency services or your utility for an immediate hazard.",
-    "alt": "Illustration representing heating & cooling for the home"
+    "alt": "Outdoor heat pump beside cream siding and garden planting"
   },
   "roofing": {
     "headline": "A clearer plan for the roof over your head.",
@@ -23,7 +23,7 @@
     ],
     "preparation": "Share the roof type if known, when the issue appeared and photos taken from ground level.",
     "boundary": "Do not climb onto the roof to document a request. A5 does not provide emergency dispatch.",
-    "alt": "Illustration representing roofing for the home"
+    "alt": "Charcoal shingle roof with a cream dormer and copper flashing"
   },
   "house-cleaning": {
     "headline": "Make room for a home that feels cared for.",
@@ -36,7 +36,7 @@
     ],
     "preparation": "Tell us the home size, number of bathrooms, preferred frequency and areas needing extra attention.",
     "boundary": "Specialist remediation, hazardous materials and pest cleanup require separate assessment.",
-    "alt": "Illustration representing house cleaning for the home"
+    "alt": "Clean kitchen with cream cabinets, oak details and a cleaning caddy"
   },
   "gutters": {
     "headline": "Help rainwater find its way off your home.",
@@ -49,7 +49,7 @@
     ],
     "preparation": "Describe the number of stories, visible overflow and any hard-to-reach sections.",
     "boundary": "Take photos from the ground. Roof access and ladder work belong with an appropriately equipped provider.",
-    "alt": "Illustration representing gutter services for the home"
+    "alt": "White rain gutter and downspout along a home’s roof edge"
   },
   "pest-control": {
     "headline": "Get a plan for the pests you are seeing.",
@@ -62,7 +62,7 @@
     ],
     "preparation": "Share what you have seen, the rooms or outdoor areas involved, and when the activity began.",
     "boundary": "The provider identifies the pest and recommends treatment. Do not handle unknown pests or disturb a nest to collect photos.",
-    "alt": "Illustration representing pest control for the home"
+    "alt": "Sealed home entry with a window screen and discreet pest monitoring box"
   },
   "junk-removal": {
     "headline": "Clear the space you want back.",
@@ -75,7 +75,7 @@
     ],
     "preparation": "List the items, approximate quantity, stairs and parking or loading restrictions.",
     "boundary": "Accepted materials vary by provider. Identify chemicals, paint, batteries and other unusual items before arranging pickup.",
-    "alt": "Illustration representing junk removal for the home"
+    "alt": "Garage with boxes and a wooden chair ready for removal"
   },
   "tree-services": {
     "headline": "Thoughtful help for the trees around your home.",
@@ -88,7 +88,7 @@
     ],
     "preparation": "Describe the tree location, access and nearby buildings or utilities. Photos from a safe distance are useful.",
     "boundary": "Keep clear of hanging limbs and downed lines. Immediate hazards require the appropriate emergency service or utility.",
-    "alt": "Illustration representing tree services for the home"
+    "alt": "Mature maple tree with pruned branches gathered in the yard"
   },
   "appliance-repair": {
     "headline": "Get the next step for an appliance that has stopped working.",
@@ -101,6 +101,6 @@
     ],
     "preparation": "Include the brand, model number if accessible, error code and what happens when you try to use it.",
     "boundary": "Brand and appliance coverage vary. Do not disassemble equipment to prepare a request.",
-    "alt": "Illustration representing appliance repair for the home"
+    "alt": "Front-loading washing machine in a bright cream and oak laundry room"
   }
 }
