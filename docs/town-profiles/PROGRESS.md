@@ -37,3 +37,11 @@ Mount Olive, Mountain Lakes, Netcong, Pequannock, Riverdale, Rockaway Borough, R
 ## Batch 04: ready for publication
 
 Wharton completes Morris; Belleville, Caldwell, Cedar Grove, East Orange, Essex Fells, Fairfield, Glen Ridge, Irvington and Maplewood begin Essex. Editorial review approved all ten; its Maplewood wording refinement was incorporated. Official resources support narrow local claims, with exact property responsibility and approvals left to the relevant office. All 160 service/town combinations retain at least ten mapped active emailed vendors. Tests, lint, typecheck and Next build passed. No runtime changes.
+
+## Batch 04: published and verified
+
+2026-10-08: PR #53 merged (0fdf461). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 156 URLs. Forty completed; 162 remain. Glen Ridge's article was inspected at 390px with readable wrapping and no horizontal overflow; temporary viewport reset.
+
+## Batch 05: ready for publication
+
+Millburn, Newark, North Caldwell, Nutley, Orange, Roseland, South Orange, Verona, West Caldwell and West Orange complete the remaining Essex profiles. Editorial review approved all ten. Official sources support narrow local distinctions; South Orange separates contamination remediation from ordinary cleaning and West Orange uses current Forestry guidance. Coverage retains at least ten active emailed mapped vendors for all 160 combinations. Tests, lint, typecheck and Next build passed.

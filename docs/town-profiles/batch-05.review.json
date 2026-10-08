@@ -1,0 +1,145 @@
+{
+  "sha256": "755b8d3b64e3bec0eae08891112735ecdaad3af81bec196e1c64f2479e135e74",
+  "pages": [
+    {
+      "id": "9f31f828-8499-42e4-8270-02b5ace44a0d",
+      "path": "/home-services/millburn",
+      "newlyIndexable": true,
+      "purpose": "Separate recurring water symptoms from finish repairs before improving a basement",
+      "sourceClaims": [
+        {
+          "title": "Millburn Flood Preparedness",
+          "url": "https://twp.millburn.nj.us/693/Flood-Preparedness",
+          "publisher": "Township of Millburn",
+          "supports": "Maintenance and drainage-preparation guidance, including effects of landscape changes; no parcel risk, engineering prescription or insurance advice inferred."
+        }
+      ]
+    },
+    {
+      "id": "a0eb38e4-c46e-42fd-85ba-04ea1910ba41",
+      "path": "/home-services/newark",
+      "newlyIndexable": true,
+      "purpose": "Separate renovation debris from ordinary household bulk before a room refresh",
+      "sourceClaims": [
+        {
+          "title": "Newark Official Collection FAQs",
+          "url": "https://www.newarknj.gov/m/faq",
+          "publisher": "City of Newark",
+          "supports": "Construction debris exclusion from household bulk collection; no item limits or schedules copied."
+        }
+      ]
+    },
+    {
+      "id": "fbeb6ce3-fb43-4596-8f85-545043d0ce5d",
+      "path": "/home-services/north-caldwell",
+      "newlyIndexable": true,
+      "purpose": "Coordinate tree decisions with a broader landscape and stormwater plan",
+      "sourceClaims": [
+        {
+          "title": "North Caldwell Stormwater Management",
+          "url": "https://northcaldwell.org/1221/Stormwater-Management",
+          "publisher": "Borough of North Caldwell",
+          "supports": "Official paired stormwater and tree-removal/replacement resources; no thresholds, exceptions or property approvals asserted."
+        }
+      ]
+    },
+    {
+      "id": "2d1304cc-80ad-4dd4-844e-ff5534414069",
+      "path": "/home-services/nutley",
+      "newlyIndexable": true,
+      "purpose": "Prepare a plumbing investigation from water usage records instead of guessing at the cause",
+      "sourceClaims": [
+        {
+          "title": "Nutley Water Billing: High Bill and Leak Checks",
+          "url": "https://www.nutleynj.org/departments/watersewer/waterbilling-high-bill-check-for-leaks",
+          "publisher": "Township of Nutley",
+          "supports": "Billing-period review, meter-based leak notices and professional investigation guidance; no guaranteed cause, savings or technical repair instructions copied."
+        }
+      ]
+    },
+    {
+      "id": "7350d322-3c54-4444-8184-42c426afa5e8",
+      "path": "/home-services/orange",
+      "newlyIndexable": true,
+      "purpose": "Separate repair, property-use change and municipal follow-up in a multi-room improvement plan",
+      "sourceClaims": [
+        {
+          "title": "Orange Planning and Economic Development",
+          "url": "https://www.orangenj.gov/189/Planning-Economic-Development",
+          "publisher": "City of Orange Township",
+          "supports": "Distinct zoning, construction and property-maintenance responsibilities; avoids the page's apparent Commercial/Construction Code terminology typo."
+        }
+      ]
+    },
+    {
+      "id": "f7621721-83e9-4721-8f86-249ab9569c38",
+      "path": "/home-services/roseland",
+      "newlyIndexable": true,
+      "purpose": "Separate bathroom renovation debris from municipal bulk and metal collections",
+      "sourceClaims": [
+        {
+          "title": "Roseland Specialty Waste",
+          "url": "https://www.roselandnj.org/278/Specialty-Waste",
+          "publisher": "Borough of Roseland",
+          "supports": "Distinct bulk/metal categories and construction-material exclusions; no dates, contractor identity or fees copied."
+        }
+      ]
+    },
+    {
+      "id": "4861b774-5d1c-419e-8b77-48a114f585ae",
+      "path": "/home-services/south-orange",
+      "newlyIndexable": true,
+      "purpose": "Use the Village sewer response route and preserve findings before private follow-on work",
+      "sourceClaims": [
+        {
+          "title": "South Orange Sewer Division",
+          "url": "https://www.southorange.org/491/Sewer",
+          "publisher": "South Orange Village",
+          "supports": "Village backup-reporting process and distinction between public response and private plumbing; no emergency-response or repair guarantee."
+        }
+      ]
+    },
+    {
+      "id": "9bde6f3b-1dfb-4272-8fbe-d692e5a33f5a",
+      "path": "/home-services/verona",
+      "newlyIndexable": true,
+      "purpose": "Check zoning and construction as separate steps before creating a backyard work or storage space",
+      "sourceClaims": [
+        {
+          "title": "Verona Zoning Application Process",
+          "url": "https://www.veronanj.org/media/Engineering/Zoning%20Forms/ZC-01%20Township%20of%20Verona%20Zoning%20Application%20Process%20Explained.pdf",
+          "publisher": "Township of Verona",
+          "supports": "Separate zoning and construction steps and listed accessory-space project categories; no deadlines, blanket exemptions or named staff copied."
+        }
+      ]
+    },
+    {
+      "id": "1dff91ba-c87e-41d3-8cf7-e9f09ab2dbce",
+      "path": "/home-services/west-caldwell",
+      "newlyIndexable": true,
+      "purpose": "Build a basement refresh around required access and written inspection scheduling",
+      "sourceClaims": [
+        {
+          "title": "West Caldwell Construction Department",
+          "url": "https://www.westcaldwell.com/Departments/construction-department",
+          "publisher": "Township of West Caldwell",
+          "supports": "Basement safety example and written inspection-request process; no turnaround guarantees or legal exemptions copied."
+        }
+      ]
+    },
+    {
+      "id": "b65e7a4f-a5f5-48fe-8170-81a9e173d0be",
+      "path": "/home-services/west-orange",
+      "newlyIndexable": true,
+      "purpose": "Connect tree assessment, municipal review and care for the replacement landscape",
+      "sourceClaims": [
+        {
+          "title": "West Orange Forestry Division",
+          "url": "https://westorange.org/2107/Forestry-Division",
+          "publisher": "Township of West Orange",
+          "supports": "Private-tree application resources, public/private distinction and tree-care/planting resources; avoids conflicting blanket permit language in older FAQs."
+        }
+      ]
+    }
+  ]
+}
