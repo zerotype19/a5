@@ -12,8 +12,8 @@ export function Footer() {
     <div className={styles.inner}>
       <div className={styles.brandCol}>
         <Brand inverse />
-        <p className={styles.blurb}>Home services, made easier.</p>
-        <p className={styles.description}>One place to request the home services you need, with preferred vendors across {SITE.serviceAreaSummary}.</p>
+        <p className={styles.blurb}>A simpler way to get things fixed.</p>
+        <p className={styles.description}>A home services network connecting homeowners with independent local professionals across {SITE.serviceAreaSummary}.</p>
         <a className={styles.phone} href={phoneTelHref(SITE.phone)} data-cta="footer-phone">{SITE.phone}</a>
         <a className={styles.email} href={`mailto:${SITE.email}`} data-cta="footer-email">{SITE.email}</a>
       </div>
@@ -33,7 +33,7 @@ export function Footer() {
       </ul></nav>
     </div>
     <div className={styles.bottom}>
-      <p className={styles.role}>A5 reviews and forwards service requests. Vendors discuss the work, estimates and scheduling directly with you.</p>
+      <p className={styles.role}>A5 makes the introduction. Independent professionals handle the estimates, scheduling and work directly with you.</p>
       <div className={styles.legalRow}><p>© {new Date().getFullYear()} {SITE.legalName}</p><nav aria-label="Legal"><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link></nav></div>
       <Analytics />
     </div>

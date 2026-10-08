@@ -1,0 +1,22 @@
+{
+  "sha256": "2a521414f9136881c87e98004b9831e770871860b780f6c942ec3b44e92d74c9",
+  "pages": 288,
+  "indexable": 78,
+  "fields": [
+    "title",
+    "h1",
+    "meta_description",
+    "direct_answer",
+    "sections"
+  ],
+  "preserved": [
+    "IDs",
+    "slugs",
+    "page types",
+    "publication status",
+    "indexability",
+    "service/location/problem relationships",
+    "source links"
+  ],
+  "review": "Exact before/after text in content/network/copy-updates.json; no production changes applied."
+}

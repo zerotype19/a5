@@ -34,7 +34,7 @@ export default function PrivacyPage() {
       <h2 className={styles.sectionTitle}>How we use it</h2>
       <p className={styles.body}>
         A5 uses this information to respond to your project request and to
-        coordinate an appropriate local service provider. Contact details are
+        offer an introduction to an independent local service professional. Contact details are
         used to reach you about that request. Photos are used to understand the
         project. Submitting a request is not a marketing signup.
       </p>
@@ -46,12 +46,14 @@ export default function PrivacyPage() {
 
       <h2 className={styles.sectionTitle}>Who else may see it</h2>
       <p className={styles.body}>
-        A5 may share the details needed to fulfill your request with a service
-        provider who is being asked to look at that project. A5 operations can
+        Before acceptance, a professional sees only the service, town and broad timing. After accepting the introduction, that professional can see your full description, contact details and photos. A5 operations can
         see the request in a private admin tool. We do not publish your
         contact details or photos on the public site.
       </p>
 
+      <h2 className={styles.sectionTitle}>Request check-ins and private feedback</h2>
+      <p className={styles.body}>With your request permission, A5 may email a secure check-in link to ask whether contact happened and how the project went. These are separate questions. You can stop check-in emails for that request using the link. Providers receive their own progress-update links. Feedback is private to A5 operations; it is not posted publicly or shown to the other party. Homeowner reports of completed work can include a private rating. A5 uses valid feedback to inform manual provider selection and follow up on unsuccessful connections. No response is treated as unknown. Contact A5 to correct a report or dispute its accuracy.</p>
+      <p className={styles.body}>If an offer expires or is declined, A5 may offer the request to another professional. After acceptance, we confirm with you before another introduction. Revoking access stops future access through that link; information already viewed or saved cannot be recalled. Transactional emails are delivered using Resend.</p>
       <h2 className={styles.sectionTitle}>Where it is stored</h2>
       <p className={styles.body}>
         The site is hosted on Cloudflare. Project requests and account data for
@@ -75,8 +77,7 @@ export default function PrivacyPage() {
 
       <h2 className={styles.sectionTitle}>How long we keep it</h2>
       <p className={styles.body}>
-        A5 keeps a request for as long as needed to respond, coordinate the
-        work, and keep an ordinary record of that request. You can ask us to
+        A5 keeps a request for as long as needed to respond, make the introduction, follow up on the connection, and keep an ordinary record of that request. You can ask us to
         review or delete information you submitted by contacting A5. We may
         retain what we still need for a pending request or for a legal
         obligation.

@@ -24,6 +24,7 @@ export function buildOrganizationSchema(): JsonLd {
     "@id": `${SITE.url.replace(/\/$/, "")}#organization`,
     name: SITE.name,
     legalName: SITE.legalName,
+    description: "A home services network connecting homeowners with independent local professionals.",
     url: SITE.url,
     email: SITE.email,
     telephone: SITE.phone,
@@ -60,8 +61,8 @@ export function buildServiceSchema(input: {
     "@context": "https://schema.org",
     "@type": "Service",
     "@id": `${buildCanonicalUrl(input.path)}#service`,
-    name: location?.requestReviewRequired ? `${service.name} request coordination in ${location.name}, NJ` : location ? `${service.name} in ${location.name}, NJ` : service.name,
-    serviceType: location?.requestReviewRequired ? `${service.name} request coordination; provider availability checked individually` : service.name,
+    name: location ? `${service.name} introductions in ${location.name}, NJ` : `${service.name} professional introductions`,
+    serviceType: `${service.name} professional introductions`,
     provider: {
       "@type": "Organization",
       name: SITE.name,

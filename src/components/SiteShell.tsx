@@ -23,7 +23,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
   }
 
   return (
-    <div className={`${styles.shell} ${/^\/(request-service|vendors|opportunity)(\/|$)/.test(pathname ?? "") ? "" : styles.withMobileActions}`}>
+    <div className={`${styles.shell} ${/^\/(request-service|vendors|check-in|opportunity)(\/|$)/.test(pathname ?? "") ? "" : styles.withMobileActions}`}>
       <a className={styles.skipLink} href="#main-content">Skip to content</a>
       <Header />
       <div id="main-content" className={styles.content}>{children}</div>

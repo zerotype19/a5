@@ -7,9 +7,11 @@ import styles from './Marketing.module.css';
 export function Analytics(){
  const pathname=usePathname();const [consent,setConsent]=useState<string|null>(null);
  const id=process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID??'';
- const enabled=/^G-[A-Z0-9]+$/.test(id)&&!/^\/(admin|opportunity)(\/|$)/.test(pathname??'');
+ const enabled=/^G-[A-Z0-9]+$/.test(id)&&!/^\/(admin|check-in|opportunity)(\/|$)/.test(pathname??'');
  useEffect(()=>{try{const value=localStorage.getItem('a5.analytics');queueMicrotask(()=>setConsent(value));}catch{}},[]);
- useEffect(()=>{if(!enabled||consent!=='accepted')return;
+ useEffect(()=>{
+  (window as unknown as Record<string,unknown>)[`ga-disable-${id}`]=!enabled||consent!=='accepted';
+  if(!enabled||consent!=='accepted')return;
   window.dataLayer=window.dataLayer??[];
   // GA4 expects an Arguments object in the dataLayer.
   // eslint-disable-next-line prefer-rest-params

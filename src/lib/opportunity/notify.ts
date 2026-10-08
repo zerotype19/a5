@@ -1,3 +1,4 @@
+import {acceptanceHours} from '../network/policy.ts';
 /**
  * A5-009 delivery attempt. Assignment state is already committed.
  * A provider failure records FAILED and does not change the assignment.
@@ -76,11 +77,12 @@ export async function deliverVendorNotification(
   if (photos.error) return { ok: false, code: "photo_lookup_failed" };
 
   const token = createOpportunityToken();
-  const prepared = await db.rpc("admin_prepare_vendor_notification", {
+  const prepared = await db.rpc(process.env.ENABLE_NETWORK_FOLLOWUP === "true" ? "network_prepare_vendor_notification" : "admin_prepare_vendor_notification", {
     p_assignment_id: assignmentId,
     p_token_hash: token.hash,
     p_expires_at: token.expiresAt.toISOString(),
     p_actor_user_id: actorUserId,
+    ...(process.env.ENABLE_NETWORK_FOLLOWUP === "true" ? {p_acceptance_hours: acceptanceHours()} : {}),
   });
   const preparedRow = firstRow(prepared.data);
   if (prepared.error || !preparedRow?.ok) {
@@ -103,6 +105,7 @@ export async function deliverVendorNotification(
     timingLabel: timingDisplay(lead.data.urgency as string | null),
     photoCount: photos.count ?? 0,
     opportunityUrl: opportunityPageUrl(token.raw),
+    acceptanceHours: process.env.ENABLE_NETWORK_FOLLOWUP === "true" ? acceptanceHours() : 72,
   });
   const sent = await sendResendEmail({
     to: recipient,

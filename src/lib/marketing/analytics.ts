@@ -2,7 +2,7 @@ export const ANALYTICS_EVENTS=['request_started','request_step_completed','reque
 export type AnalyticsEvent=typeof ANALYTICS_EVENTS[number];
 declare global {interface Window {dataLayer?:unknown[];gtag?:(...args:unknown[])=>void;}}
 export function trackEvent(name:AnalyticsEvent,step?:'project'|'details'|'contact') {
- if(typeof window==='undefined'||!window.gtag)return;
+ if(typeof window==='undefined'||!window.gtag||/^\/(admin|opportunity|check-in)(\/|$)/.test(location.pathname))return;
  try{if(localStorage.getItem('a5.analytics')!=='accepted')return;}catch{return;}
  window.gtag('event',name,{...(step?{step}:{}),transport_type:'beacon',page_location:location.origin+location.pathname,page_referrer:''});
 }

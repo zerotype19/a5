@@ -19,6 +19,7 @@ import {
 import { StepContact } from "./steps/StepContact";
 import { StepDetails } from "./steps/StepDetails";
 import { StepLocation } from "./steps/StepLocation";
+import { NETWORK_CONSENT_VERSION } from "@/lib/network/policy";
 import { StepReview } from "./steps/StepReview";
 import { StepService } from "./steps/StepService";
 import { StepTiming } from "./steps/StepTiming";
@@ -207,7 +208,8 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
     };
   }
 
-  async function handleSubmit() {
+  async function handleSubmit(acknowledged: boolean) {
+    if (!acknowledged) return;
     if (phase === "sending" || phase === "success") return;
     const groups = [["service", "location"], ["details", "timing"], ["contact"]] as const;
     for (const group of groups) {
@@ -249,6 +251,8 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
           email: state.email,
           preferredContact: state.preferredContact,
           turnstileToken,
+          networkConsentVersion: NETWORK_CONSENT_VERSION,
+          networkAcknowledged: acknowledged,
           firstLandingPage: readFirstLandingPage(),
           attribution: readAttribution(),
         }),
@@ -369,7 +373,7 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
           Request a home service.
         </h1>
         <p className={styles.lede}>
-          Share a few details about the work. A5 will review your request and coordinate next steps.
+          Share a few details about the work. A5 will review your request and offer an introduction to a relevant professional in the network.
         </p>
         <p className={styles.phoneAlt}>
           Prefer to talk?{" "}
@@ -453,8 +457,8 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
             state={state}
             photoCount={photos.length}
             onEdit={goTo}
-            onSubmit={() => {
-              void handleSubmit();
+            onSubmit={(acknowledged) => {
+              void handleSubmit(acknowledged);
             }}
             sending={phase === "sending"}
             turnstileSiteKey={turnstileSiteKey}

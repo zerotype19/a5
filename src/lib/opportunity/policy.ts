@@ -51,6 +51,7 @@ export function opportunityAccess(input: {
   expiresAt: string | null;
   now: string;
   assignmentStatus: string | null;
+  acceptanceDueAt?: string | null;
 }): OpportunityAccess {
   if (!input.found || input.revoked || !input.expiresAt) return "unavailable";
   const expires = Date.parse(input.expiresAt);
@@ -60,6 +61,9 @@ export function opportunityAccess(input: {
   }
   if (input.assignmentStatus === "ACCEPTED") return "accepted";
   if (input.assignmentStatus === "PASSED") return "passed";
-  if (input.assignmentStatus === "ASSIGNED") return "open";
+  if (input.assignmentStatus === "ASSIGNED") {
+    if (input.acceptanceDueAt && (!Number.isFinite(Date.parse(input.acceptanceDueAt)) || Date.parse(input.acceptanceDueAt) <= now)) return "unavailable";
+    return "open";
+  }
   return "unavailable";
 }

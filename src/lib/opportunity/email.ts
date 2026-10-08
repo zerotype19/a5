@@ -33,8 +33,8 @@ export function timingDisplay(value: string | null | undefined): string {
 
 function photoLine(count: number): string {
   if (count <= 0) return "No project photos were attached.";
-  if (count === 1) return "1 project photo is on the secure page.";
-  return `${count} project photos are on the secure page.`;
+  if (count === 1) return "1 project photo will be available after acceptance.";
+  return `${count} project photos will be available after acceptance.`;
 }
 
 function escapeHtml(value: string): string {
@@ -51,7 +51,9 @@ export function buildVendorOpportunityEmail(input: {
   timingLabel: string;
   photoCount: number;
   opportunityUrl: string;
+  acceptanceHours?: number;
 }): { subject: string; text: string; html: string } {
+  const deadline = `Please accept or pass within ${input.acceptanceHours ?? 72} hours of this email. Acceptance means you intend to contact the homeowner; it does not confirm availability or book the work. The private link expires after 72 hours.`;
   const photos = photoLine(input.photoCount);
   const subject = "New project opportunity — A5 Home Services";
   const text = [
@@ -65,10 +67,10 @@ export function buildVendorOpportunityEmail(input: {
     "",
     photos,
     "",
-    "Review the project details securely, then accept or pass:",
+    "Review the service, town and timing, then accept or pass. Acceptance unlocks the full request and contact details:",
     input.opportunityUrl,
     "",
-    "This link expires in 72 hours. It only opens this project.",
+    deadline,
   ].join("\n");
 
   const html = `<!DOCTYPE html>
@@ -80,9 +82,9 @@ export function buildVendorOpportunityEmail(input: {
 <p>Location<br>${escapeHtml(input.locationLabel)}</p>
 <p>Timing<br>${escapeHtml(input.timingLabel)}</p>
 <p>${escapeHtml(photos)}</p>
-<p>Review the project details securely:</p>
+<p>Review the service, town and timing through the A5 home services network. Accept to unlock the full request and homeowner contact:</p>
 <p><a href="${escapeHtml(input.opportunityUrl)}">View project</a></p>
-<p>This link expires in 72 hours. It only opens this project.</p>
+<p>${escapeHtml(deadline)}</p>
 </body>
 </html>`;
 

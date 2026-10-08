@@ -1,3 +1,4 @@
+import { NETWORK_CONSENT_VERSION } from "../network/policy.ts";
 import { getSupabaseAdmin } from "../supabase/admin.ts";
 import { verifyTurnstileToken } from "../turnstile/verify.ts";
 import type { SubmitProjectResult } from "./submit-types.ts";
@@ -53,6 +54,10 @@ export async function submitProjectRequest(
     };
   }
 
+  if (process.env.ENABLE_NETWORK_FOLLOWUP === "true" && (!raw || typeof raw !== "object" || !("networkAcknowledged" in raw) || raw.networkAcknowledged !== true || !("networkConsentVersion" in raw) || raw.networkConsentVersion !== NETWORK_CONSENT_VERSION)) {
+    return {success:false,error:"validation",stepHint:"review",issues:[{field:"networkAcknowledged",code:"network_permission_required",message:"Please review and acknowledge how A5 handles your request."}]};
+  }
+
   const token =
     typeof raw === "object" &&
     raw !== null &&
@@ -91,8 +96,9 @@ async function persistSubmission(
   value: ValidatedSubmission,
 ): Promise<string> {
   const admin = getSupabaseAdmin();
+  const network = process.env.ENABLE_NETWORK_FOLLOWUP === "true";
   const launch = process.env.ENABLE_LAUNCH_PIPELINE === "true";
-  const { data, error } = await admin.rpc(launch ? "submit_project_request_with_acquisition" : "submit_project_request", {
+  const { data, error } = await admin.rpc(network ? "submit_network_request" : launch ? "submit_project_request_with_acquisition" : "submit_project_request", {
     p_submission_key: submissionKey,
     p_full_name: value.fullName,
     p_phone: value.phone,
@@ -104,11 +110,12 @@ async function persistSubmission(
     p_project_description: value.projectDescription,
     p_urgency: value.urgency,
     p_first_landing_page: value.firstLandingPage,
-    ...(launch ? {p_acquisition: value.attribution} : {}),
+    ...(network ? {p_network_consent_version: NETWORK_CONSENT_VERSION} : {}),
+    ...(launch || network ? {p_acquisition: value.attribution} : {}),
   });
 
   if (error) {
-    throw new Error(error.message || "rpc_failed");
+    throw new Error(error.code || "rpc_failed");
   }
 
   const row = normalizeRpcResult(data);

@@ -68,3 +68,7 @@ Existing Resend and Supabase secrets are reused. The local preview uses only pub
 
 ## Vendor self-signup
 `ENABLE_VENDOR_SIGNUP=true` enables public submissions and admin signup reads. Default off. Apply `20261008030000_vendor_signup.sql` first. Existing Turnstile and Supabase credentials are reused; no new secrets.
+
+## Connection network
+
+`ENABLE_NETWORK_FOLLOWUP` defaults false. Apply `20261008050000_network_outcomes.sql` after existing migrations before enabling. It enables acceptance deadlines, manual recovery, permission-recorded transactional check-ins and private feedback. `A5_ACCEPTANCE_HOURS` is an integer 1–72, default 24. Existing offers retain their existing capability expiry. No new secrets or providers. Do not backfill historical consent. No background mail jobs are added.

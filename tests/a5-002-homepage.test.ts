@@ -21,10 +21,10 @@ describe("A5-002 public homepage", () => {
   it("renders homepage module with clear home-service positioning", () => {
     assert.match(
       homepage,
-      /services easier\./,
+      /to get things fixed\./,
     );
     assert.match(homepage, /SITE\.phone/);
-    assert.match(homepage, /We make home/);
+    assert.match(homepage, /A simpler way/);
     assert.match(header, /Request service/);
     assert.doesNotMatch(header, /Admin/);
   });
