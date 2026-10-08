@@ -1,0 +1,239 @@
+{
+  "purpose": "Initial public-source extraction sample, not confirmed supply or import-ready coverage",
+  "candidates": [
+    {
+      "business_name": "Neighbor First Home Services",
+      "website": "https://neighborfirsthomeservices.com/",
+      "phone": "201-650-7340",
+      "email": "bryanreiss@neighborfirsthomeservices.com",
+      "services_advertised": [
+        "handyman"
+      ],
+      "counties_advertised": [
+        "bergen"
+      ],
+      "municipality_ids_for_review": [],
+      "source_urls": [
+        "https://neighborfirsthomeservices.com/contact/",
+        "https://neighborfirsthomeservices.com/"
+      ],
+      "notes": "County-level territory; municipal mapping still needs review. Insurance/registration statements are vendor claims, not independently verified.",
+      "observed_date": "2026-10-08",
+      "review_state": "NEEDS_REVIEW",
+      "a5_capacity_confirmed": false,
+      "imported": false,
+      "duplicate_review": {
+        "checked_at": "2026-10-08T00:55:17.272Z",
+        "signals": [
+          "normalized_name",
+          "official_domain",
+          "phone"
+        ],
+        "matching_existing_business_names": [],
+        "result": "NO_EXACT_SIGNAL_MATCH"
+      }
+    },
+    {
+      "business_name": "M & S Premier Home Services",
+      "website": "https://www.mspremierhomeservices.com/",
+      "phone": "201-312-7595",
+      "email": "sales@mspremierhomeservices.com",
+      "services_advertised": [
+        "handyman"
+      ],
+      "counties_advertised": [
+        "bergen"
+      ],
+      "municipality_ids_for_review": [
+        "glen-rock",
+        "ridgewood",
+        "paramus",
+        "fair-lawn",
+        "wyckoff",
+        "waldwick",
+        "hawthorne",
+        "franklin-lakes",
+        "ho-ho-kus",
+        "mahwah",
+        "ramsey",
+        "midland-park",
+        "allendale",
+        "westwood",
+        "park-ridge"
+      ],
+      "source_urls": [
+        "https://www.mspremierhomeservices.com/contact"
+      ],
+      "notes": "Page also lists info@mspremierhomeservices.com; confirm intended recipient. Explicit Hawthorne town listing is in Passaic County despite broad Bergen copy. Do not lose this distinction.",
+      "observed_date": "2026-10-08",
+      "review_state": "NEEDS_REVIEW",
+      "a5_capacity_confirmed": false,
+      "imported": false,
+      "duplicate_review": {
+        "checked_at": "2026-10-08T00:55:17.274Z",
+        "signals": [
+          "normalized_name",
+          "official_domain",
+          "phone"
+        ],
+        "matching_existing_business_names": [],
+        "result": "NO_EXACT_SIGNAL_MATCH"
+      }
+    },
+    {
+      "business_name": "Handyman on the Hudson",
+      "website": "https://www.handymanonthehudson.com/",
+      "phone": "201-978-8790",
+      "email": "brian@handymanonthehudson.com",
+      "services_advertised": [
+        "handyman",
+        "drywall"
+      ],
+      "counties_advertised": [
+        "hudson"
+      ],
+      "municipality_ids_for_review": [
+        "hoboken",
+        "jersey-city"
+      ],
+      "source_urls": [
+        "https://www.handymanonthehudson.com/services"
+      ],
+      "notes": "General repairs and drywall explicitly described. Additional plumbing/electrical work is advertised, but scope and applicable credentials need review before treating this as full trade coverage.",
+      "observed_date": "2026-10-08",
+      "review_state": "NEEDS_REVIEW",
+      "a5_capacity_confirmed": false,
+      "imported": false,
+      "duplicate_review": {
+        "checked_at": "2026-10-08T00:55:17.274Z",
+        "signals": [
+          "normalized_name",
+          "official_domain",
+          "phone"
+        ],
+        "matching_existing_business_names": [],
+        "result": "NO_EXACT_SIGNAL_MATCH"
+      }
+    },
+    {
+      "business_name": "Tropic Pro Services",
+      "website": "https://tropicproservice.com/",
+      "phone": "862-201-1648",
+      "email": "customerservice@tropicproservice.com",
+      "services_advertised": [
+        "handyman",
+        "painting"
+      ],
+      "counties_advertised": [
+        "essex",
+        "passaic",
+        "union",
+        "bergen",
+        "morris",
+        "hudson"
+      ],
+      "municipality_ids_for_review": [
+        "maplewood",
+        "linden",
+        "nutley",
+        "ramsey",
+        "newark",
+        "jersey-city",
+        "morristown",
+        "clifton",
+        "wayne",
+        "westwood",
+        "paramus",
+        "fort-lee",
+        "franklin-lakes",
+        "parsippany-troy-hills",
+        "livingston"
+      ],
+      "source_urls": [
+        "https://tropicproservice.com/"
+      ],
+      "notes": "Ambiguous Caldwells/Union and misspelled locality strings were not automatically mapped. Self-described hours, reviews and insured status are not A5 confirmations.",
+      "observed_date": "2026-10-08",
+      "review_state": "NEEDS_REVIEW",
+      "a5_capacity_confirmed": false,
+      "imported": false,
+      "duplicate_review": {
+        "checked_at": "2026-10-08T00:55:17.274Z",
+        "signals": [
+          "normalized_name",
+          "official_domain",
+          "phone"
+        ],
+        "matching_existing_business_names": [],
+        "result": "NO_EXACT_SIGNAL_MATCH"
+      }
+    },
+    {
+      "business_name": "Mohawk Handyman Services",
+      "website": "https://mohawkhandymanservices.com/",
+      "phone": "201-841-9370",
+      "email": "info@mohawkhandymanservices.com",
+      "services_advertised": [
+        "handyman"
+      ],
+      "counties_advertised": [
+        "sussex",
+        "morris"
+      ],
+      "municipality_ids_for_review": [
+        "sparta"
+      ],
+      "source_urls": [
+        "https://mohawkhandymanservices.com/"
+      ],
+      "notes": "Sparta and county reach advertised. Email appears in indexed source text; open-page extraction masks it, so recheck intended recipient before import. Credential claims unverified.",
+      "observed_date": "2026-10-08",
+      "review_state": "NEEDS_REVIEW",
+      "a5_capacity_confirmed": false,
+      "imported": false,
+      "duplicate_review": {
+        "checked_at": "2026-10-08T00:55:17.274Z",
+        "signals": [
+          "normalized_name",
+          "official_domain",
+          "phone"
+        ],
+        "matching_existing_business_names": [],
+        "result": "NO_EXACT_SIGNAL_MATCH"
+      }
+    },
+    {
+      "business_name": "Geo's Handyman",
+      "website": "https://geoshandyman.com/",
+      "phone": "551-426-6503",
+      "email": "Geoshandymanservice.llc@gmail.com",
+      "services_advertised": [
+        "handyman"
+      ],
+      "counties_advertised": [
+        "warren",
+        "sussex",
+        "morris"
+      ],
+      "municipality_ids_for_review": [],
+      "source_urls": [
+        "https://geoshandyman.com/contact/"
+      ],
+      "notes": "Contact page limits Morris to western Morris; do not map the whole county. Hunterdon is advertised but outside the present eight-county scope. Example form city is not service-area evidence.",
+      "observed_date": "2026-10-08",
+      "review_state": "NEEDS_REVIEW",
+      "a5_capacity_confirmed": false,
+      "imported": false,
+      "duplicate_review": {
+        "checked_at": "2026-10-08T00:55:17.275Z",
+        "signals": [
+          "normalized_name",
+          "official_domain",
+          "phone"
+        ],
+        "matching_existing_business_names": [],
+        "result": "NO_EXACT_SIGNAL_MATCH"
+      }
+    }
+  ]
+}

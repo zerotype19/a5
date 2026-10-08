@@ -17,3 +17,9 @@ Canonical public site: [https://www.a5homeservices.com/](https://www.a5homeservi
 The public foundation and approved authority expansion are released. Start with [the completion audit](launch/PLAN-COMPLETION-AUDIT-2026-10-07.md), [current production release evidence](operations/RELEASE-2026-10-07.md), and [the operations completion task](operations/TASK.md). Historical Day 0 and task documents describe their original milestones, not current production readiness. Paid pilot spending remains deferred. The three-town content expansion is published; see [wave 2 release evidence](expansion-wave-2/RELEASE.md).
 
 The [existing-page editorial review](editorial/REVIEW-STATUS.md) records the 22 published revisions and the scope of their evidence review.
+
+## Geographic expansion
+
+Use the [location expansion playbook](expansion/LOCATION-EXPANSION-PLAYBOOK.md) and [brief template](expansion/EXPANSION-BRIEF-TEMPLATE.md) for every new area. The [North Jersey readiness audit](expansion/NORTH-JERSEY-READINESS.md) and [coverage matrix](expansion/NORTH-JERSEY-COVERAGE-MATRIX.csv) track the supply work still required. The eight-county directory is live; regional fulfillment remains incomplete. See [the North Jersey release](north-jersey/RELEASE.md) for website evidence.
+
+The [vendor sourcing runbook](expansion/VENDOR-SOURCING-RUNBOOK.md) covers public-site extraction and enrichment; its [initial source ledger](expansion/VENDOR-SOURCE-PILOT.json) demonstrates provenance and scope review without claiming confirmed vendor capacity.

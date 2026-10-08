@@ -47,8 +47,10 @@ Apply migrations to your Supabase project before testing live flows — producti
 
 ## Current production state
 
-The public foundation, responsive templates and authority directory are deployed. Supabase holds 62 published content records: 8 service hubs, 9 town hubs, 18 service/town pages, 18 problem pages and 9 guides. The sitemap contains 67 URLs. The latest wave adds Livingston, Summit and Hanover Township with individual provider-availability review; these are request areas, not verified standing vendor coverage.
+The public foundation, responsive templates and authority directory are deployed. Supabase holds 70 published content records: 8 service hubs, 9 town hubs, 18 service/town pages, 18 problem pages, 9 guides and 8 county pages. The sitemap contains 75 URLs. The searchable directory covers 226 municipalities across Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union and Warren. These are request areas with individual provider-availability review; regional vendor readiness remains incomplete.
 
 Intake supports private photos, idempotent submission and acquisition attribution. Operations supports qualification, manual vendor assignment, email Accept/Pass and audited lead outcomes. Scheduled internal new-lead alerts are live at hello@a5homeservices.com, with inbox receipt confirmed. GA4 is configured with consent controls.
 
-See [the expansion release](docs/expansion-wave-2/RELEASE.md), [operations evidence](docs/operations/RELEASE-2026-10-07.md), and [the completion audit](docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md). Paid pilot spending remains deferred. Verified provider capacity, genuine project/team evidence and the full operational rehearsal remain separate operating tasks.
+See [the North Jersey release](docs/north-jersey/RELEASE.md), [operations evidence](docs/operations/RELEASE-2026-10-07.md), and [the completion audit](docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md). Paid pilot spending remains deferred. Verified provider capacity, genuine project/team evidence and the full operational rehearsal remain separate operating tasks.
+
+Use the [location expansion playbook](docs/expansion/LOCATION-EXPANSION-PLAYBOOK.md) for every new area. The [current vendor readiness audit](docs/expansion/NORTH-JERSEY-READINESS.md) distinguishes loaded/selectable vendors from confirmed fulfillment capacity and tracks outstanding coverage work.
