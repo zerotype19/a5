@@ -10,6 +10,8 @@ import { VENDOR_STATUSES, type VendorStatus } from "../db/schema.ts";
 import { resolveAdminAccess } from "./authorize.ts";
 import { deliverVendorNotification } from "../opportunity/notify.ts";
 
+import {vendorContactState,hasVendorEmail} from "./vendor-contact.ts";
+
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 function isUuid(value: string): boolean {
@@ -104,8 +106,8 @@ export async function saveVendor(formData: FormData): Promise<void> {
     p_source: source || null,
     p_source_url: sourceUrl || null,
     p_discovery_notes: discoveryNotes || null,
-    p_status: status as VendorStatus,
-    p_accepting_leads: accepting,
+    p_status: vendorContactState(email,status as VendorStatus,accepting).status,
+    p_accepting_leads: vendorContactState(email,status as VendorStatus,accepting).acceptingLeads,
     p_registration_number: registration || null,
     p_license_number: license || null,
     p_insurance_verified: insurance,
@@ -129,7 +131,8 @@ export async function saveVendor(formData: FormData): Promise<void> {
   } else {
     revalidatePath("/admin/vendors");
     revalidatePath(`/admin/vendors/${savedId}`);
-    vendorPath(savedId, "notice", "Vendor saved.");
+    revalidatePath("/admin/queue");
+    vendorPath(savedId, "notice", email ? "Vendor saved." : "Vendor saved as inactive until a business email is added.");
   }
 }
 
@@ -145,6 +148,11 @@ export async function assignLeadToVendor(formData: FormData): Promise<void> {
   }
 
   const db = getSupabaseAdmin();
+  const contact = await db.from("vendors").select("email").eq("id", vendorId).maybeSingle();
+  if (contact.error || !contact.data || !hasVendorEmail(contact.data.email)) {
+    params.set("error", "Add a usable vendor email before assigning and forwarding this lead.");
+    redirect(`/admin/leads/${leadId}?${params.toString()}`);
+  }
   const { data, error } = await db.rpc("admin_assign_lead_to_vendor", {
     p_lead_id: leadId,
     p_vendor_id: vendorId,

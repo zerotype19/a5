@@ -31,7 +31,7 @@ describe("A5-008 vendor CSV import", () => {
       join(root, "src/lib/admin/vendor-import-action.ts"),
       "utf8",
     );
-    assert.match(action, /p_status: "DISCOVERED"/);
+    assert.match(action, /p_status: vendorContactState\(row.email,"DISCOVERED",false\).status/);
     assert.match(action, /p_accepting_leads: false/);
     assert.doesNotMatch(action, /p_status: "ACTIVE"/);
   });

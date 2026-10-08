@@ -379,7 +379,7 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
         </p>
       </div>
 
-      {availabilityReview ? <p className={styles.contextHint}>Provider availability in this area is checked individually. This request does not confirm a booking or provider match.</p> : null}
+      {availabilityReview ? <p className={styles.contextHint}>A5 reviews and forwards your request to a local vendor. The vendor discusses the work and scheduling with you; this request is not a booking.</p> : null}
       {contextLabel ? <p className={styles.contextHint}>Your starting point: {contextLabel}. You can change any details below.</p> : null}
       <IntakeProgress step={step} />
 

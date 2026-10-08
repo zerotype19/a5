@@ -1,6 +1,6 @@
 # Public-source vendor discovery and enrichment
 
-Use alongside the [location expansion playbook](LOCATION-EXPANSION-PLAYBOOK.md). Public-source extraction builds a prospect list; confirmation turns a prospect into usable fulfillment capacity. Keep research, import and activation as separate recorded steps.
+Use alongside the [location expansion playbook](LOCATION-EXPANSION-PLAYBOOK.md). Owner clarification October 8: public-source research supplies business contacts for free lead forwarding. Vendor pre-confirmation and capacity checks are not prerequisites. Keep provenance and actual delivery outcomes distinct.
 
 ## Order of work
 
@@ -8,7 +8,7 @@ Use alongside the [location expansion playbook](LOCATION-EXPANSION-PLAYBOOK.md).
 2. Research missing service/county combinations from the coverage matrix. Begin with multi-town providers, then fill specific municipal gaps; do not search every town independently and create duplicate businesses.
 3. Reconcile advertised geography to municipalities. Preserve scope limits such as “western Morris” rather than turning them into all of Morris County.
 4. Review and deduplicate candidates before producing the existing import format. New businesses enter DISCOVERED; existing businesses get an enrichment proposal, not another import row.
-5. Confirm willingness, current capacity, scope and the intended A5 recipient through authorized outreach before counting readiness.
+5. Use the public business email for manual lead forwarding. Mark missing-email vendors INACTIVE and continue email research; no advance confirmation is required.
 
 Initial breadth target for sourcing: two plausible candidates for each of the eight service categories in each county, allowing the same business to qualify in several cells when the source supports it. This is a research target, not 128 required unique companies or a guarantee of municipal coverage. Continue until every intended fulfillment pair has the primary/fallback evidence required by the main playbook.
 
@@ -55,13 +55,13 @@ After review, export exactly the existing columns:
 
 Use semicolons between registry IDs. Put the observation date, additional source URLs, advertised-scope limitations and “A5 availability unconfirmed” in discovery notes. Prevent spreadsheet formula execution when creating human-review exports. Validate the CSV with the existing parser and inspect every rejection before importing; do not silently drop rows or force unknown geography into a nearby town.
 
-An imported mapping records advertised candidate reach, not confirmed readiness. Import never turns on acceptance or verifies insurance. Once confirmation arrives, update the existing private vendor record and the coverage matrix with the evidence reference and date. Any live vendor-status changes and outreach must be within existing explicit authorization.
+An imported mapping records advertised service area. Rows with email enter DISCOVERED and may receive manually assigned free leads; rows without email enter INACTIVE. Add a located email and choose Active to resume. Keep insurance and other credential claims unverified unless actual evidence exists; they are not an advance forwarding gate.
 
 ## Batch acceptance and measurement
 
-Each batch has an ID/date, target gaps, source list, fetched/failed page counts, raw prospect count, duplicate/enrichment decisions, import-ready/rejected counts, missing-contact count and confirmation status. Reconcile inserted vendor IDs after import. Record errors without secrets or customer data.
+Each batch has an ID/date, target gaps, source list, fetched/failed page counts, raw prospect count, duplicate/enrichment decisions, import-ready/rejected counts, missing-contact count and missing-email status. Reconcile inserted vendor IDs after import. Record errors without secrets or customer data.
 
-Measure confirmed primary/fallback coverage gained, usable recipient contacts, delivered handoffs and actual acceptance—not only the number of scraped rows. The end condition is the main playbook's fulfillment gate, not a large spreadsheet.
+Measure service/town sourcing coverage, usable business emails, delivery failures and forwarded leads. Record subsequent vendor responses separately. The free-lead model does not require confirmed primary/backup capacity before expansion.
 
 ## First source-review sample
 

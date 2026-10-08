@@ -1,5 +1,6 @@
 "use server";
 
+import {vendorContactState} from "./vendor-contact.ts";
 import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { getSupabaseAdmin } from "../supabase/admin.ts";
@@ -60,7 +61,7 @@ export async function importVendorCandidates(
       p_source: row.source || null,
       p_source_url: row.sourceUrl || null,
       p_discovery_notes: row.discoveryNotes || null,
-      p_status: "DISCOVERED",
+      p_status: vendorContactState(row.email,"DISCOVERED",false).status,
       p_accepting_leads: false,
       p_registration_number: null,
       p_license_number: null,
@@ -85,5 +86,6 @@ export async function importVendorCandidates(
   }
 
   revalidatePath("/admin/vendors");
+  revalidatePath("/admin/queue");
   return { imported, rejected, fileError: null };
 }

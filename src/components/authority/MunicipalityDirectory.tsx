@@ -11,7 +11,7 @@ export function MunicipalityDirectory({countyId,publishedHubSlugs=[]}:{countyId?
  const matches=MUNICIPALITIES.filter(l=>(!countyId||l.countyId===countyId)&&matchesLocationSearch(l,query));
  return <section id="municipalities" className={styles.directory} aria-labelledby={`${id}-heading`}>
   <h2 id={`${id}-heading`}>{countyId?'Find your municipality':'Find your town in North Jersey'}</h2>
-  <p>Explore your municipality or start a request. A5 checks the location, project and provider availability before confirming next steps.</p>
+  <p>Explore your municipality or start a request. A5 reviews your project and forwards the request to a local vendor.</p>
   <label className={styles.search} htmlFor={`${id}-search`}>Search town or county<input id={`${id}-search`} type="search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="For example, Montclair or Bergen"/></label>
   <p className={styles.count} role="status">{matches.length} {matches.length===1?'municipality':'municipalities'}{query?' matching your search':''}</p>
   {matches.length===0&&<p>No matching municipality. Try the township or borough name, or <Link href="/request-service">send your ZIP code for review</Link>.</p>}

@@ -23,3 +23,5 @@ The [existing-page editorial review](editorial/REVIEW-STATUS.md) records the 22 
 Use the [location expansion playbook](expansion/LOCATION-EXPANSION-PLAYBOOK.md) and [brief template](expansion/EXPANSION-BRIEF-TEMPLATE.md) for every new area. The [North Jersey readiness audit](expansion/NORTH-JERSEY-READINESS.md) and [coverage matrix](expansion/NORTH-JERSEY-COVERAGE-MATRIX.csv) track the supply work still required. The eight-county directory is live; regional fulfillment remains incomplete. See [the North Jersey release](north-jersey/RELEASE.md) for website evidence.
 
 The [vendor sourcing runbook](expansion/VENDOR-SOURCING-RUNBOOK.md) covers public-site extraction and enrichment; its [initial source ledger](expansion/VENDOR-SOURCE-PILOT.json) demonstrates provenance and scope review without claiming confirmed vendor capacity.
+
+Current owner clarification and local-content expansion: [free-lead rollout](free-lead-rollout/BRIEF.md). No capacity/onboarding gate; missing-email vendors are inactive and remain in email research.

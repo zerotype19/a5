@@ -1,5 +1,7 @@
 # Full Northern New Jersey municipality expansion
 
+**October 8 owner clarification supersedes confirmation/capacity gates below:** A5 forwards free leads without prior vendor confirmation. Missing-email vendors are inactive until an address is located; the queue tracks email research and actual delivery issues. See [the current workflow](../free-lead-rollout/BRIEF.md) and ADR-009. Earlier measurements and assumptions are retained as historical evidence.
+
 Owner request October 7, 2026: run the expansion playbook, build customer-facing geography pages, capture vendors and enter them into the system. Continuing existing publication/deployment authorization. Scope: all 226 municipalities in the eight existing counties and the eight existing services; preserve the historical combined Chatham page and operational ID.
 
 Status: Supabase publication/import completed October 8, 2026 UTC; application deployed with final navigation follow-up verification in progress. Fulfillment remains unconfirmed. See OPERATING-GUIDE.md and RELEASE.md.

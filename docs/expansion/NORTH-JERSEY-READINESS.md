@@ -1,5 +1,7 @@
 # North Jersey expansion — fulfillment readiness
 
+**October 8 owner clarification supersedes confirmation/capacity gates below:** A5 forwards free leads without prior vendor confirmation. Missing-email vendors are inactive until an address is located; the queue tracks email research and actual delivery issues. See [the current workflow](../free-lead-rollout/BRIEF.md) and ADR-009. Earlier measurements and assumptions are retained as historical evidence.
+
 **Status: directory published; fulfillment incomplete.** The website release is complete for the eight-county directory. Vendor readiness across that geography is not complete.
 
 ## October 8 municipal expansion update

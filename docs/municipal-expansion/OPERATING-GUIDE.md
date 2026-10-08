@@ -1,5 +1,7 @@
 # Municipal expansion and daily queue
 
+**October 8 owner clarification supersedes confirmation/capacity gates below:** A5 forwards free leads without prior vendor confirmation. Missing-email vendors are inactive until an address is located; the queue tracks email research and actual delivery issues. See [the current workflow](../free-lead-rollout/BRIEF.md) and ADR-009. Earlier measurements and assumptions are retained as historical evidence.
+
 Kevin owns requests and vendor follow-up as they arrive. Alerts continue to hello@a5homeservices.com. Open `/admin/queue` from the Operations navigation or overview.
 
 1. Resolve delivery failures and expired vendor response links first. Inspect the latest attempt before retrying a pending email.
