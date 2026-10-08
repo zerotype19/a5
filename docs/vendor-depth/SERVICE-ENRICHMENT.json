@@ -160,5 +160,30 @@
     ],
     "observed_date": "2026-10-08",
     "notes": "Dedicated tree page explicitly advertises removal, pruning and stump work throughout New Jersey. Preserve existing statewide territory."
+  },
+  {
+    "business_name": "Pest iD",
+    "email": "info@pestid.net",
+    "add_services": [
+      "gutters"
+    ],
+    "source_urls": [
+      "https://www.pestid.net/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Official homepage advertises gutter cleaning under Special Services and Serving All of New Jersey. Gutter cleaning only; repairs and installation are not inferred. Preserve existing statewide coverage."
+  },
+  {
+    "business_name": "NJ Handyman Services",
+    "email": "info@njhandymanservices.com",
+    "add_services": [
+      "drywall",
+      "plumbing"
+    ],
+    "source_urls": [
+      "https://njhandymanservice.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Homepage explicitly advertises drywall installation/repair and plumbing/pipe repairs and all New Jersey territory. Credentials unverified; review regulated work fit before forwarding. Email domain has A records but no explicit MX; mailbox delivery is unconfirmed."
   }
 ]

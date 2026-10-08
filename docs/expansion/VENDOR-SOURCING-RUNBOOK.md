@@ -10,7 +10,7 @@ Use alongside the [location expansion playbook](LOCATION-EXPANSION-PLAYBOOK.md).
 4. Review and deduplicate candidates before producing the existing import format. New businesses enter DISCOVERED; existing businesses get an enrichment proposal, not another import row.
 5. Use the public business email for manual lead forwarding. Mark missing-email vendors INACTIVE and continue email research; no advance confirmation is required.
 
-Initial breadth target for sourcing: two plausible candidates for each of the eight service categories in each county, allowing the same business to qualify in several cells when the source supports it. This is a research target, not 128 required unique companies or a guarantee of municipal coverage. Continue until every intended fulfillment pair has the primary/fallback evidence required by the main playbook.
+Initial breadth target for sourcing: ten distinct email-assignable businesses for every approved service/municipality combination (currently 16 services × 226 towns), allowing the same business to qualify in several cells when the source supports it. Businesses may cover multiple combinations when evidence supports them; this does not guarantee job-specific suitability or delivery. Continue until every intended fulfillment pair has the primary/fallback evidence required by the main playbook.
 
 ## Discover sources, then extract from the business
 
@@ -26,7 +26,7 @@ No paid scraper or third-party enrichment service is assumed. If one becomes nec
 | --- | --- |
 | Business name / website | Official identity; retain branch/franchise distinctions |
 | Public phone / email | Business contact as published; do not infer personal details or fabricated addresses |
-| Services advertised | Map only supported work to the eight existing service IDs; general remodeling is not proof of every trade |
+| Services advertised | Map only supported work to the current approved service IDs; general remodeling is not proof of every trade |
 | Geography advertised | Preserve original county/town wording and qualifiers; keep separate from confirmed territory |
 | Source provenance | Exact field/source URLs and observation date |
 | Credential claims | Label vendor-stated; do not set insurance verification or credential approval from marketing copy |
@@ -55,7 +55,7 @@ After review, export exactly the existing columns:
 
 Use semicolons between registry IDs. Put the observation date, additional source URLs, advertised-scope limitations and “A5 availability unconfirmed” in discovery notes. Prevent spreadsheet formula execution when creating human-review exports. Validate the CSV with the existing parser and inspect every rejection before importing; do not silently drop rows or force unknown geography into a nearby town.
 
-An imported mapping records advertised service area. Rows with email enter DISCOVERED and may receive manually assigned free leads; rows without email enter INACTIVE. Add a located email and choose Active to resume. Keep insurance and other credential claims unverified unless actual evidence exists; they are not an advance forwarding gate.
+An imported mapping records advertised service area. Rows with email enter DISCOVERED and may receive manually assigned free leads; rows without email enter INACTIVE. A missing-email-only inactive record may return to DISCOVERED after source-backed recovery; manual forwarding does not require activation. Keep insurance and other credential claims unverified unless actual evidence exists; they are not an advance forwarding gate.
 
 ## Batch acceptance and measurement
 
@@ -66,3 +66,7 @@ Measure service/town sourcing coverage, usable business emails, delivery failure
 ## First source-review sample
 
 [The initial source ledger](VENDOR-SOURCE-PILOT.json) contains six public-site prospects with advertised reach spanning the eight target counties. It is a small sourcing-method sample, primarily handyman/painting work, not complete trade coverage. Production reconciliation on October 8 found all six candidates already imported. Source-specific caveats remain; import does not establish participation or availability. The production database has 83 real businesses, 58 usable emails, and at least two emailed mapped businesses in all 1,808 municipality/service pairs. Continue enrichment for 25 inactive missing-email records. See [current release evidence](../network/PRODUCTION-RELEASE.md).
+
+## October 8 depth reconciliation
+
+212 real businesses; 187 with published business email. All 3,616 service/municipality pairs have at least ten mapped emailed businesses. One of the original 25 missing addresses was recovered; 24 remain unresolved and one additional invalid-domain vendor was quarantined, leaving 25 real inactive records. The owner test fixture and legacy combined Chatham location are excluded. [Coverage evidence](../vendor-depth/STATUS.json) and [release/QA](../growth-wave-3/RELEASE.md) supersede historical sample counts.

@@ -1,0 +1,1749 @@
+{
+  "pages": [
+    {
+      "id": "eea114c4-e828-5ccf-ad3a-a8cafd4af375",
+      "slug": "prepare-for-heating-and-cooling-service",
+      "page_type": "GUIDE",
+      "title": "Prepare for a heating or cooling service visit",
+      "meta_title": "Prepare for a heating or cooling service visit | A5",
+      "meta_description": "Prepare for a heating or cooling service visit. Describe the equipment, affected rooms and symptoms. Practical guidance for your next service request through A5.",
+      "h1": "Prepare for a heating or cooling service visit",
+      "primary_service_id": "hvac",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "How should I prepare for an HVAC service visit?",
+      "direct_answer": "Identify the equipment, describe when the comfort problem occurs, and list the rooms affected. Ask the provider whether the visit is diagnostic, maintenance or an estimate, and confirm the fee and scope before scheduling.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Identify the equipment, describe when the comfort problem occurs, and list the rooms affected. Ask the provider whether the visit is diagnostic, maintenance or an estimate, and confirm the fee and scope before scheduling."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the system you actually have",
+          "paragraphs": [
+            "Tell the provider whether your home uses a furnace, boiler, heat pump, central air or ductless units. If you are unsure, share a photo of an accessible equipment label without opening a panel. Mention whether heating, cooling or both are affected; not every HVAC business works on every system."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make a short symptom log",
+          "paragraphs": [
+            "Record the rooms affected, thermostat setting, approximate indoor temperature and time of day. Note whether the problem started suddenly or has been recurring. Include recent service, renovations or control changes. Observations help the provider plan a visit; they do not establish which part needs replacing."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Agree on what the visit includes",
+          "paragraphs": [
+            "Ask about diagnostic charges, the units covered, access needs and how repairs are approved. For maintenance, request a written scope. For replacement, compare equipment, controls, installation work, removal and written warranty terms rather than equipment price alone."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan access in a Northern New Jersey home",
+          "paragraphs": [
+            "Include your municipality and county, parking restrictions and the location of equipment, such as a basement, attic or outdoor enclosure. Mention a condo or association approval process when relevant. A5 reviews the request for an independent provider; pricing and appointment times are agreed directly."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Describe the equipment, affected rooms and symptoms. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Heating & Cooling",
+              "href": "/services/hvac"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Need help with your heating or cooling?",
+          "description": "Describe the equipment, affected rooms and symptoms.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3ff9842d-9786-59e4-a122-7f9b2d01e6ab",
+      "slug": "uneven-room-temperatures",
+      "page_type": "PROBLEM",
+      "title": "Uneven temperatures from room to room",
+      "meta_title": "Uneven temperatures from room to room | A5",
+      "meta_description": "Uneven temperatures from room to room. Describe the equipment, affected rooms and symptoms. Practical guidance for your next service request through A5.",
+      "h1": "Uneven temperatures from room to room",
+      "primary_service_id": "hvac",
+      "primary_location_id": null,
+      "primary_problem_id": "uneven-room-temperatures",
+      "primary_question": "How should I request help with uneven temperatures from room to room?",
+      "direct_answer": "Uneven room temperatures can have several causes, including controls, air distribution or equipment performance. An HVAC provider should assess the pattern before recommending a repair or replacement.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Uneven room temperatures can have several causes, including controls, air distribution or equipment performance. An HVAC provider should assess the pattern before recommending a repair or replacement."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "What to tell the provider",
+          "paragraphs": [
+            "Explain whether the affected rooms are on the same floor, whether the issue occurs during heating or cooling, and whether it changes with time of day. Include any recent renovation or system work. A room-by-room description is more useful than a guess at the failed component."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "What an assessment should clarify",
+          "paragraphs": [
+            "Ask how the provider will distinguish an equipment problem from an air-distribution or control issue. Request an explanation of the proposed work, its limits and what improvement you should reasonably expect. A larger replacement unit is not automatically the answer to an uncomfortable room."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the request in the right category",
+          "paragraphs": [
+            "Select Heating & Cooling and state your equipment type. If the job involves a boiler, say so; a provider who only services refrigeration or cooling may not fit. For an immediate hazard, use emergency services or the utility rather than waiting for a network introduction."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Describe the equipment, affected rooms and symptoms. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Heating & Cooling",
+              "href": "/services/hvac"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Need help with your heating or cooling?",
+          "description": "Describe the equipment, affected rooms and symptoms.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f03d5e4b-98b6-5759-9275-e68ae537fd1a",
+      "slug": "compare-roof-repair-and-replacement-proposals",
+      "page_type": "GUIDE",
+      "title": "Compare roof repair and replacement proposals",
+      "meta_title": "Compare roof repair and replacement proposals | A5",
+      "meta_description": "Compare roof repair and replacement proposals. Tell us what you have noticed and where your home is located. Practical guidance for your next service request through A5.",
+      "h1": "Compare roof repair and replacement proposals",
+      "primary_service_id": "roofing",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I compare in roofing proposals?",
+      "direct_answer": "Compare the area being repaired, the evidence for the proposed work, materials, flashing details, removal and cleanup, exclusions and written terms. Ask how hidden damage and changes will be priced and approved.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Compare the area being repaired, the evidence for the proposed work, materials, flashing details, removal and cleanup, exclusions and written terms. Ask how hidden damage and changes will be priced and approved."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with the observed problem",
+          "paragraphs": [
+            "Describe when water appeared, which room is affected and whether earlier repairs were made. Share ground-level photos and indoor photos taken safely. Ask the roofer to explain the suspected water path; the location of a ceiling stain does not by itself prove where water entered."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate a repair from a replacement estimate",
+          "paragraphs": [
+            "A repair proposal should identify the specific area and included work. A replacement proposal should describe removal, the roofing system, flashing, penetrations and disposal. Ask which existing components will remain and why. Do not assume two prices cover the same scope."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make uncertain work visible",
+          "paragraphs": [
+            "Ask how the provider documents concealed damage, who approves a change and whether unit prices or allowances apply. Confirm site protection, cleanup, payment stages and written warranty terms. Request any permit responsibilities in writing and confirm local requirements with your municipality."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Coordinate the next trade",
+          "paragraphs": [
+            "If the roof problem has damaged a ceiling, address the source before arranging finish repairs. Keep roofing and drywall scopes separate so each provider knows what is ready. Tell A5 your town, access restrictions, roof type if known and whether the request is inspection, repair or replacement."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Tell us what you have noticed and where your home is located. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Roofing",
+              "href": "/services/roofing"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Need a roof assessment?",
+          "description": "Tell us what you have noticed and where your home is located.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a50f5624-f9d4-57ea-a19c-4431faac1879",
+      "slug": "roof-leak-after-rain",
+      "page_type": "PROBLEM",
+      "title": "A roof leak or ceiling stain after rain",
+      "meta_title": "A roof leak or ceiling stain after rain | A5",
+      "meta_description": "A roof leak or ceiling stain after rain. Tell us what you have noticed and where your home is located. Practical guidance for your next service request through A5.",
+      "h1": "A roof leak or ceiling stain after rain",
+      "primary_service_id": "roofing",
+      "primary_location_id": null,
+      "primary_problem_id": "roof-leak-after-rain",
+      "primary_question": "How should I request help with a roof leak or ceiling stain after rain?",
+      "direct_answer": "A stain that changes after rain needs assessment of the water source before interior repairs. A roofing provider can inspect the roof and related details; a photo alone cannot confirm the cause.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "A stain that changes after rain needs assessment of the water source before interior repairs. A roofing provider can inspect the roof and related details; a photo alone cannot confirm the cause."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Record the sequence",
+          "paragraphs": [
+            "Note when the mark first appeared, which weather conditions preceded it and whether it is growing. Include earlier roof work, skylights, additions or nearby plumbing. Describe observations without labeling the problem as a specific failed roof component."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Ask for the diagnosis and repair scope",
+          "paragraphs": [
+            "Request an explanation of the suspected entry point and the proposed repair. Ask what is excluded and what happens if additional damage is found. Keep photos and written scope for your own records; A5 does not assess insurance coverage or promise a claim outcome."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep people away from unsafe areas",
+          "paragraphs": [
+            "Do not climb onto the roof to document the request. If water is near electrical equipment or a ceiling appears unstable, keep clear and seek urgent qualified help. A5 is not emergency dispatch. Once the source is resolved, use a separate drywall request for the affected finish."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Tell us what you have noticed and where your home is located. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Roofing",
+              "href": "/services/roofing"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Need a roof assessment?",
+          "description": "Tell us what you have noticed and where your home is located.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "eacf1c6e-2792-52e4-85cb-fcf140d0248f",
+      "slug": "choose-recurring-deep-or-move-out-cleaning",
+      "page_type": "GUIDE",
+      "title": "Choose recurring, deep or move-out cleaning",
+      "meta_title": "Choose recurring, deep or move-out cleaning | A5",
+      "meta_description": "Choose recurring, deep or move-out cleaning. Share the rooms, cleaning priorities and timing you have in mind. Practical guidance for your next service request through A5.",
+      "h1": "Choose recurring, deep or move-out cleaning",
+      "primary_service_id": "house-cleaning",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "How do I choose the right type of house cleaning?",
+      "direct_answer": "Describe the home condition and the result you need, then compare a written room-by-room checklist. Recurring, deep and move-out cleaning labels vary by provider; interior appliances, cabinets, windows and heavy buildup may be separate items.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Describe the home condition and the result you need, then compare a written room-by-room checklist. Recurring, deep and move-out cleaning labels vary by provider; interior appliances, cabinets, windows and heavy buildup may be separate items."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the rooms as your checklist",
+          "paragraphs": [
+            "List the number of bedrooms and bathrooms, occupied rooms, floor types and priority areas. Explain whether the home is furnished and whether pets will be present. Note surfaces with special care instructions so the provider can decide what products and methods are suitable."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define the difference between visits",
+          "paragraphs": [
+            "For recurring service, agree on routine tasks and how often they are done. For a deep clean, identify the specific buildup or neglected areas. For a move-out clean, say whether cabinets and appliances will be empty and whether the home will be vacant. Avoid assuming the service name includes every task."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare inclusions before the price",
+          "paragraphs": [
+            "Ask about inside ovens and refrigerators, interior windows, laundry, dishes and supplies. Confirm whether the estimate is fixed or time-based, what can change it and how missed items are handled. State allergies or product preferences directly to the provider without sending sensitive medical details through the request."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Coordinate access and timing",
+          "paragraphs": [
+            "In a condo or apartment, check access, parking and building work hours. Schedule the cleaning around movers and other work so finished rooms are not immediately disturbed. A5 helps introduce a relevant independent provider; the cleaning checklist and appointment are agreed directly."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Share the rooms, cleaning priorities and timing you have in mind. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse House Cleaning",
+              "href": "/services/house-cleaning"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Find help with your home cleaning",
+          "description": "Share the rooms, cleaning priorities and timing you have in mind.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b9199231-8069-56ed-9ab9-d68a5d06f417",
+      "slug": "move-out-cleaning",
+      "page_type": "PROBLEM",
+      "title": "Plan a move-out cleaning",
+      "meta_title": "Plan a move-out cleaning | A5",
+      "meta_description": "Plan a move-out cleaning. Share the rooms, cleaning priorities and timing you have in mind. Practical guidance for your next service request through A5.",
+      "h1": "Plan a move-out cleaning",
+      "primary_service_id": "house-cleaning",
+      "primary_location_id": null,
+      "primary_problem_id": "move-out-cleaning",
+      "primary_question": "What should I include in a move-out cleaning request?",
+      "direct_answer": "For a move-out clean, agree on an explicit checklist, whether the home will be empty and which appliance or cabinet interiors are included. Arrange access after belongings are removed and before the required handover.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "For a move-out clean, agree on an explicit checklist, whether the home will be empty and which appliance or cabinet interiors are included. Arrange access after belongings are removed and before the required handover."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define what will be ready",
+          "paragraphs": [
+            "Tell the cleaner whether furniture, rubbish and personal items will be gone. A cleaning visit is not automatically a hauling or packing service. If bulky items remain, arrange junk removal separately and allow time between appointments."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Avoid a checklist mismatch",
+          "paragraphs": [
+            "Share any move-out checklist provided by your landlord or buyer, but confirm what the cleaner agrees to perform. Ask about appliance interiors, cabinets, baseboards and bathrooms. A cleaning service cannot guarantee the return of a deposit or acceptance by another party."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the final visit straightforward",
+          "paragraphs": [
+            "Confirm keys or access arrangements directly, available water and power, and who will review the completed work. Include your town, home size and handover date in the request. Do not place door codes or other access credentials in public photos."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Share the rooms, cleaning priorities and timing you have in mind. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse House Cleaning",
+              "href": "/services/house-cleaning"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Find help with your home cleaning",
+          "description": "Share the rooms, cleaning priorities and timing you have in mind.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "53d638a6-49ed-5aa8-b54d-566774a29de9",
+      "slug": "plan-gutter-cleaning-and-repairs",
+      "page_type": "GUIDE",
+      "title": "Plan gutter cleaning and repairs",
+      "meta_title": "Plan gutter cleaning and repairs | A5",
+      "meta_description": "Plan gutter cleaning and repairs. Describe the overflow or repair concern and your home\u2019s access. Practical guidance for your next service request through A5.",
+      "h1": "Plan gutter cleaning and repairs",
+      "primary_service_id": "gutters",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should a gutter service request include?",
+      "direct_answer": "Describe where overflow, leaking joints or loose sections occur, how many levels the home has and whether guards are installed. Ask whether the visit includes downspouts, debris removal, flow checks and a separate quote for repairs.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Describe where overflow, leaking joints or loose sections occur, how many levels the home has and whether guards are installed. Ask whether the visit includes downspouts, debris removal, flow checks and a separate quote for repairs."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate cleaning from repair",
+          "paragraphs": [
+            "Debris removal and a loose or leaking gutter are different scopes. Explain what you have seen from ground level, including overflow points and downspout discharge. Ask the provider to distinguish a blockage from a repair need before approving additional work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe access and equipment",
+          "paragraphs": [
+            "Mention home height, additions, conservatories, steep ground and limited side-yard access. Tell the provider about gutter guards and whether you know their type. Do not climb a ladder merely to collect photos or measurements for the request."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Agree on the handover",
+          "paragraphs": [
+            "Ask which gutter runs and downspouts are included, how debris is handled and whether the provider will describe any defects found. For a repair, request the affected lengths, components and finish in writing. A cleaning quote should not silently become an open-ended replacement job."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Think beyond the roof edge",
+          "paragraphs": [
+            "Gutters and downspouts help move roof water away from the home, but a yard-drainage problem may need a different assessment. Describe where discharged water goes and any recurring pooling. Use your exact municipality and county so A5 can review both the location and the requested service."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Describe the overflow or repair concern and your home\u2019s access. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Gutter Services",
+              "href": "/services/gutters"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Get help with your gutters",
+          "description": "Describe the overflow or repair concern and your home\u2019s access.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2d7e6eaf-f2be-5721-b8f1-001e62271b65",
+      "slug": "overflowing-gutters",
+      "page_type": "PROBLEM",
+      "title": "Gutters overflowing during rain",
+      "meta_title": "Gutters overflowing during rain | A5",
+      "meta_description": "Gutters overflowing during rain. Describe the overflow or repair concern and your home\u2019s access. Practical guidance for your next service request through A5.",
+      "h1": "Gutters overflowing during rain",
+      "primary_service_id": "gutters",
+      "primary_location_id": null,
+      "primary_problem_id": "overflowing-gutters",
+      "primary_question": "How should I request help with gutters overflowing during rain?",
+      "direct_answer": "Overflowing gutters may need cleaning, repair or an assessment of the drainage arrangement. Describe the location and rainfall pattern and ask a gutter provider to identify the cause before authorizing replacement.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Overflowing gutters may need cleaning, repair or an assessment of the drainage arrangement. Describe the location and rainfall pattern and ask a gutter provider to identify the cause before authorizing replacement."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Observe from a safe position",
+          "paragraphs": [
+            "Note whether overflow occurs along a long run, at a corner or beside a downspout. Mention any guards and whether water spills only during heavy rain. Ground-level observations are sufficient for an initial request; no ladder inspection is needed from you."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep related issues distinct",
+          "paragraphs": [
+            "Water spilling at the roof edge is different from a downspout discharging into a low spot. Ask whether the gutter visit includes checking downspouts and whether a separate landscape-drainage assessment is appropriate. No single photo can establish the full cause."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define the first visit",
+          "paragraphs": [
+            "Request cleaning or diagnosis as appropriate and ask how repair recommendations will be quoted. Share the number of stories, access constraints and any prior service. You and the independent provider agree the schedule, scope and price directly."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Describe the overflow or repair concern and your home\u2019s access. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Gutter Services",
+              "href": "/services/gutters"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Get help with your gutters",
+          "description": "Describe the overflow or repair concern and your home\u2019s access.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "9acce13b-b943-5b34-b357-41bf9f68f3f3",
+      "slug": "prepare-for-a-pest-control-assessment",
+      "page_type": "GUIDE",
+      "title": "Prepare for a pest-control assessment",
+      "meta_title": "Prepare for a pest-control assessment | A5",
+      "meta_description": "Prepare for a pest-control assessment. Tell us where you are seeing activity and how long it has been happening. Practical guidance for your next service request through A5.",
+      "h1": "Prepare for a pest-control assessment",
+      "primary_service_id": "pest-control",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I ask before a pest-control visit?",
+      "direct_answer": "Ask the provider to identify the pest, explain treatment and prevention options, describe preparation and re-entry instructions, and specify follow-up visits and exclusions. Describe what you have observed instead of selecting a treatment yourself.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Ask the provider to identify the pest, explain treatment and prevention options, describe preparation and re-entry instructions, and specify follow-up visits and exclusions. Describe what you have observed instead of selecting a treatment yourself."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the evidence",
+          "paragraphs": [
+            "Note where you see activity, when it occurs and how often. Share a photo taken safely if available. Explain whether the issue affects one room or several areas. The provider should identify the pest and assess the situation before recommending a treatment."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Ask about prevention as well as treatment",
+          "paragraphs": [
+            "EPA guidance recommends addressing food, water and shelter sources. Ask the provider which practical changes apply to your home and which work is included in the quote. A treatment plan and exclusion or repair work may be separate scopes."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get clear instructions",
+          "paragraphs": [
+            "Tell the provider about pets and occupied rooms and ask for written preparation and re-entry instructions applicable to the proposed treatment. Ask what product is proposed and retain its name and EPA registration number. Follow the provider and product instructions; do not improvise pesticide mixtures."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the ongoing commitment",
+          "paragraphs": [
+            "Ask whether this is a one-time visit or a recurring agreement, how follow-up is arranged and what is excluded. Confirm cancellation and renewal terms directly. Include your Northern New Jersey municipality and the type of property when requesting an introduction through A5."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Tell us where you are seeing activity and how long it has been happening. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Pest Control",
+              "href": "/services/pest-control"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Request a pest-control assessment",
+          "description": "Tell us where you are seeing activity and how long it has been happening.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3207690f-7afc-5774-81a4-34f784fc8c6a",
+      "slug": "recurring-indoor-pests",
+      "page_type": "PROBLEM",
+      "title": "Pests returning inside the home",
+      "meta_title": "Pests returning inside the home | A5",
+      "meta_description": "Pests returning inside the home. Tell us where you are seeing activity and how long it has been happening. Practical guidance for your next service request through A5.",
+      "h1": "Pests returning inside the home",
+      "primary_service_id": "pest-control",
+      "primary_location_id": null,
+      "primary_problem_id": "recurring-indoor-pests",
+      "primary_question": "How should I request help with pests returning inside the home?",
+      "direct_answer": "Recurring indoor pest activity calls for identification and a review of entry points, food, water and shelter as well as any treatment. Ask a pest professional to explain the plan and the conditions for follow-up.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Recurring indoor pest activity calls for identification and a review of entry points, food, water and shelter as well as any treatment. Ask a pest professional to explain the plan and the conditions for follow-up."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Show the pattern",
+          "paragraphs": [
+            "Explain whether the same area is affected repeatedly and what changed after any earlier visit. Include the approximate dates and the name of a previous product if known. Do not assume a returning insect is the same species or that more product is the answer."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Ask what will be addressed",
+          "paragraphs": [
+            "Separate inspection, treatment, exclusion and building repairs in the proposal. Ask how progress will be evaluated and when a return visit is appropriate. If a recurring plan is offered, confirm what triggers a charge and which pests are covered."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare without guessing",
+          "paragraphs": [
+            "Keep product labels and earlier service records for the provider. Ask for preparation instructions tailored to the visit, including pets and occupied rooms. A5 can review the request for a provider; it does not diagnose an infestation or promise an eradication result."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Tell us where you are seeing activity and how long it has been happening. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Pest Control",
+              "href": "/services/pest-control"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Request a pest-control assessment",
+          "description": "Tell us where you are seeing activity and how long it has been happening.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "slug": "prepare-for-a-home-cleanout",
+      "page_type": "GUIDE",
+      "title": "Prepare for a home cleanout in Northern New Jersey",
+      "meta_title": "Prepare for a home cleanout in Northern New Jersey | A5",
+      "meta_description": "Prepare for a home cleanout in Northern New Jersey. List the items, their location and any stairs or access restrictions. Practical guidance for your next service request through A5.",
+      "h1": "Prepare for a home cleanout in Northern New Jersey",
+      "primary_service_id": "junk-removal",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "How do I prepare for a junk-removal quote?",
+      "direct_answer": "Create an item list, identify stairs and access constraints, and separate ordinary household items from materials that need special handling. Confirm accepted items, loading, disposal, minimum charges and any extra fees before booking.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Create an item list, identify stairs and access constraints, and separate ordinary household items from materials that need special handling. Confirm accepted items, loading, disposal, minimum charges and any extra fees before booking."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Build the item list before the quote",
+          "paragraphs": [
+            "Group furniture, boxes, appliances and outdoor items and take clear photos. Mark items that must stay. Tell the provider which floor each item is on and whether disassembly is needed. A curbside pickup and a full basement cleanout can involve very different labor."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the access route",
+          "paragraphs": [
+            "Include stairs, elevators, parking, narrow doors and building rules. Confirm who obtains any required building permission and whether the appointment must fit a loading window. Do not move heavy objects just to obtain a quote; agree responsibility for moving and loading in advance."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate special materials",
+          "paragraphs": [
+            "Do not assume a general hauler accepts paint, chemicals, batteries, refrigerant appliances or electronics. In Morris County, MCMUA provides material-specific disposal guidance; Bergen County residents can check BCUA household hazardous-waste guidance. Confirm current eligibility, accepted items and arrangements with the official program."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the price basis clear",
+          "paragraphs": [
+            "Ask whether the quote depends on volume, weight, item count or labor. Confirm minimum charges, stairs, disassembly and disposal fees, and how changes are approved. If donation matters to you, ask what can actually be accepted and what documentation the provider supplies; do not assume every removed item is donated."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "List the items, their location and any stairs or access restrictions. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Junk Removal",
+              "href": "/services/junk-removal"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Plan your pickup through A5",
+          "description": "List the items, their location and any stairs or access restrictions.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "slug": "bulky-item-removal",
+      "page_type": "PROBLEM",
+      "title": "Removing bulky furniture and unwanted household items",
+      "meta_title": "Removing bulky furniture and unwanted household items | A5",
+      "meta_description": "Removing bulky furniture and unwanted household items. List the items, their location and any stairs or access restrictions. Practical guidance for your next service request through A5.",
+      "h1": "Removing bulky furniture and unwanted household items",
+      "primary_service_id": "junk-removal",
+      "primary_location_id": null,
+      "primary_problem_id": "bulky-item-removal",
+      "primary_question": "How should I request help with removing bulky furniture and unwanted household items?",
+      "direct_answer": "For bulky-item removal, send an item list and photos, describe the access route and confirm loading and disposal charges. Ask separately about appliances or materials that the hauler may not accept.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "For bulky-item removal, send an item list and photos, describe the access route and confirm loading and disposal charges. Ask separately about appliances or materials that the hauler may not accept."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Show what is going and staying",
+          "paragraphs": [
+            "Identify the number and type of items and their approximate dimensions. Make sure household members agree what is to be removed. Labels or a final walkthrough can prevent mistakes; the quote should identify any disassembly or interior carrying work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan the route out",
+          "paragraphs": [
+            "Tell the provider about stairs, elevators, tight doors and parking limitations. Ask who protects floors and common areas and whether building approval is needed. Confirm access directly before the appointment rather than assuming a truck can stop outside."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Choose the correct disposal path",
+          "paragraphs": [
+            "Keep chemicals and other special materials separate until the provider confirms acceptance. Check your municipality or county for current collection options when relevant. A5 reviews the request for an independent junk-removal provider; it does not promise donation, recycling or acceptance of every item."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "List the items, their location and any stairs or access restrictions. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Junk Removal",
+              "href": "/services/junk-removal"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Plan your pickup through A5",
+          "description": "List the items, their location and any stairs or access restrictions.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3a2d47e9-0ed5-54a8-a80c-d9600d037326",
+      "slug": "plan-tree-work-and-compare-proposals",
+      "page_type": "GUIDE",
+      "title": "Plan tree work and compare proposals in New Jersey",
+      "meta_title": "Plan tree work and compare proposals in New Jersey | A5",
+      "meta_description": "Plan tree work and compare proposals in New Jersey. Describe the tree, your concern and the nearby structures. Practical guidance for your next service request through A5.",
+      "h1": "Plan tree work and compare proposals in New Jersey",
+      "primary_service_id": "tree-services",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I compare before choosing a tree-service provider?",
+      "direct_answer": "Compare the exact trees and work, access method, protection of nearby property, debris removal, stump treatment and written terms. Check the provider through New Jersey tree-care licensing resources and confirm municipal requirements before work begins.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Compare the exact trees and work, access method, protection of nearby property, debris removal, stump treatment and written terms. Check the provider through New Jersey tree-care licensing resources and confirm municipal requirements before work begins."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the goal rather than prescribe the cut",
+          "paragraphs": [
+            "Explain whether you need an assessment, clearance, pruning or removal and identify each tree clearly. Ground-level photos can show location and nearby structures. Ask the professional to explain the recommendation and alternatives, including whether a separate assessment is appropriate."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the work boundaries explicit",
+          "paragraphs": [
+            "Confirm which branches or trees are included and whether wood, brush, chips and stumps are removed. Ask about equipment access, lawn protection and restoration of disturbed areas. Stump grinding, removal of grindings and replanting are not necessarily part of the same quote."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Check credentials and local requirements",
+          "paragraphs": [
+            "New Jersey has Licensed Tree Expert and Licensed Tree Care Operator categories. Use the state board resources to check the business and relevant credentials; do not treat an A5 introduction as verification. Contact your municipality about requirements for your property and proposed work before scheduling removal."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan around nearby hazards",
+          "paragraphs": [
+            "Tell the provider about overhead wires, buildings, fences and limited access. Keep clear of damaged or hanging limbs and contact the utility about trees affecting its lines. A5 does not dispatch emergency tree crews or determine responsibility for a boundary tree."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Describe the tree, your concern and the nearby structures. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Tree Services",
+              "href": "/services/tree-services"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Find help with your tree work",
+          "description": "Describe the tree, your concern and the nearby structures.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "bee99362-f1c6-539d-bfec-e8cb215deb3f",
+      "slug": "overhanging-tree-branches",
+      "page_type": "PROBLEM",
+      "title": "Tree branches overhanging a roof or driveway",
+      "meta_title": "Tree branches overhanging a roof or driveway | A5",
+      "meta_description": "Tree branches overhanging a roof or driveway. Describe the tree, your concern and the nearby structures. Practical guidance for your next service request through A5.",
+      "h1": "Tree branches overhanging a roof or driveway",
+      "primary_service_id": "tree-services",
+      "primary_location_id": null,
+      "primary_problem_id": "overhanging-tree-branches",
+      "primary_question": "How should I request help with tree branches overhanging a roof or driveway?",
+      "direct_answer": "For branches over a roof or driveway, request an assessment that identifies the tree, the desired clearance and nearby structures or lines. Agree on the work and debris handling before any cutting begins.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "For branches over a roof or driveway, request an assessment that identifies the tree, the desired clearance and nearby structures or lines. Agree on the work and debris handling before any cutting begins."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Explain the concern clearly",
+          "paragraphs": [
+            "Say whether branches touch the building, interfere with access or appear damaged. Share photos from the ground and identify the affected tree. A provider should assess appropriate work rather than simply accept a request to remove every overhanging branch."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve boundaries before work",
+          "paragraphs": [
+            "If ownership or permission is uncertain, clarify it before scheduling. Confirm local requirements with the municipality and ask the provider to identify the scope in writing. A5 does not provide a legal determination about neighboring trees or responsibility for damage."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the job within the right specialty",
+          "paragraphs": [
+            "Tree work is different from routine landscape maintenance. Use Tree Services and mention wires, buildings and equipment access. Keep away from hanging limbs or electrical hazards and contact emergency services or the utility when urgent assistance is needed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Describe the tree, your concern and the nearby structures. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Tree Services",
+              "href": "/services/tree-services"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official resources"
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Find help with your tree work",
+          "description": "Describe the tree, your concern and the nearby structures.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "091f1125-3960-56cc-ab94-5cd77ae2d45c",
+      "slug": "prepare-for-an-appliance-repair-visit",
+      "page_type": "GUIDE",
+      "title": "Prepare for an appliance-repair visit",
+      "meta_title": "Prepare for an appliance-repair visit | A5",
+      "meta_description": "Prepare for an appliance-repair visit. Include the appliance type, brand, model and symptoms. Practical guidance for your next service request through A5.",
+      "h1": "Prepare for an appliance-repair visit",
+      "primary_service_id": "appliance-repair",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What information helps an appliance-repair provider?",
+      "direct_answer": "Provide the appliance type, brand, model number, displayed error code and a short description of the fault. Confirm that the provider services that brand and appliance, and ask about diagnostic fees, parts, return visits and written repair terms.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Provide the appliance type, brand, model number, displayed error code and a short description of the fault. Confirm that the provider services that brand and appliance, and ask about diagnostic fees, parts, return visits and written repair terms."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Identify the appliance precisely",
+          "paragraphs": [
+            "Photograph an accessible model label and write down the brand and appliance type. Model and serial numbers are different; the model usually helps the provider identify the product family. Do not move a heavy appliance or remove a panel solely to obtain a label."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe what happens in order",
+          "paragraphs": [
+            "Explain what you select, what the appliance does and when it stops or displays a code. Mention whether the problem is intermittent and whether earlier repairs were made. An error code is useful context but does not by itself establish the failed part."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Check fit before an appointment",
+          "paragraphs": [
+            "Ask whether the provider works on the particular brand, appliance and configuration, including built-in or stacked units. Check manufacturer warranty or service-plan arrangements directly before authorizing an independent repair. A category listing does not mean every provider repairs every brand."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the full repair process",
+          "paragraphs": [
+            "Confirm diagnostic charges, whether they apply toward a repair, parts availability, additional visits and written terms. Ask what happens if repair is not recommended. Mention parking, stairs and access in your town; agree disconnection, reconnection or moving responsibilities directly with the provider."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Include the appliance type, brand, model and symptoms. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Appliance Repair",
+              "href": "/services/appliance-repair"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Request help with your appliance",
+          "description": "Include the appliance type, brand, model and symptoms.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "039638c5-c9b0-58dd-8726-8538eae125d8",
+      "slug": "appliance-error-code",
+      "page_type": "PROBLEM",
+      "title": "An appliance displaying an error code",
+      "meta_title": "An appliance displaying an error code | A5",
+      "meta_description": "An appliance displaying an error code. Include the appliance type, brand, model and symptoms. Practical guidance for your next service request through A5.",
+      "h1": "An appliance displaying an error code",
+      "primary_service_id": "appliance-repair",
+      "primary_location_id": null,
+      "primary_problem_id": "appliance-error-code",
+      "primary_question": "How should I request help with an appliance displaying an error code?",
+      "direct_answer": "Record the exact error code, appliance brand and model, and describe when the code appears. Consult the manufacturer instructions and ask a suitable repair provider to diagnose the issue before ordering parts.",
+      "sections": [
+        {
+          "type": "INTRO",
+          "body": "Record the exact error code, appliance brand and model, and describe when the code appears. Consult the manufacturer instructions and ask a suitable repair provider to diagnose the issue before ordering parts."
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Preserve the useful details",
+          "paragraphs": [
+            "Take a photo of the display if safe and note the cycle or function in use. Explain whether the appliance still operates and whether the fault repeats. Avoid guessing a replacement component from a code found on a different model."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Choose a provider with the right scope",
+          "paragraphs": [
+            "State the brand and appliance in the request, not only Appliance Repair. Some providers specialize in refrigeration, particular brands or selected equipment. Ask about diagnostic charges and whether parts and a second visit would be quoted separately."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan a practical service visit",
+          "paragraphs": [
+            "Leave access instructions for direct coordination and mention built-in panels, stacked units or difficult access. Do not disassemble equipment for the request. If you notice an immediate electrical, gas or other hazard, keep clear and seek urgent qualified help instead of waiting for A5."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with A5",
+          "paragraphs": [
+            "Include the appliance type, brand, model and symptoms. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+          ],
+          "links": [
+            {
+              "label": "Browse Appliance Repair",
+              "href": "/services/appliance-repair"
+            },
+            {
+              "label": "Find your town",
+              "href": "/home-services"
+            }
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Keep planning"
+        },
+        {
+          "type": "CTA",
+          "title": "Request help with your appliance",
+          "description": "Include the appliance type, brand, model and symptoms.",
+          "primaryLabel": "Start your request"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-owner-authorized-growth-wave-3",
+      "reviewed_by": "A5 owner-authorized editorial review",
+      "last_reviewed_at": "2026-10-08T00:00:00Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "problems": [
+    {
+      "id": "uneven-room-temperatures",
+      "slug": "uneven-room-temperatures",
+      "name": "Uneven temperatures from room to room",
+      "description": "Uneven room temperatures can have several causes, including controls, air distribution or equipment performance. An HVAC provider should assess the pattern before recommending a repair or replacement."
+    },
+    {
+      "id": "roof-leak-after-rain",
+      "slug": "roof-leak-after-rain",
+      "name": "A roof leak or ceiling stain after rain",
+      "description": "A stain that changes after rain needs assessment of the water source before interior repairs. A roofing provider can inspect the roof and related details; a photo alone cannot confirm the cause."
+    },
+    {
+      "id": "move-out-cleaning",
+      "slug": "move-out-cleaning",
+      "name": "Plan a move-out cleaning",
+      "description": "For a move-out clean, agree on an explicit checklist, whether the home will be empty and which appliance or cabinet interiors are included. Arrange access after belongings are removed and before the required handover."
+    },
+    {
+      "id": "overflowing-gutters",
+      "slug": "overflowing-gutters",
+      "name": "Gutters overflowing during rain",
+      "description": "Overflowing gutters may need cleaning, repair or an assessment of the drainage arrangement. Describe the location and rainfall pattern and ask a gutter provider to identify the cause before authorizing replacement."
+    },
+    {
+      "id": "recurring-indoor-pests",
+      "slug": "recurring-indoor-pests",
+      "name": "Pests returning inside the home",
+      "description": "Recurring indoor pest activity calls for identification and a review of entry points, food, water and shelter as well as any treatment. Ask a pest professional to explain the plan and the conditions for follow-up."
+    },
+    {
+      "id": "bulky-item-removal",
+      "slug": "bulky-item-removal",
+      "name": "Removing bulky furniture and unwanted household items",
+      "description": "For bulky-item removal, send an item list and photos, describe the access route and confirm loading and disposal charges. Ask separately about appliances or materials that the hauler may not accept."
+    },
+    {
+      "id": "overhanging-tree-branches",
+      "slug": "overhanging-tree-branches",
+      "name": "Tree branches overhanging a roof or driveway",
+      "description": "For branches over a roof or driveway, request an assessment that identifies the tree, the desired clearance and nearby structures or lines. Agree on the work and debris handling before any cutting begins."
+    },
+    {
+      "id": "appliance-error-code",
+      "slug": "appliance-error-code",
+      "name": "An appliance displaying an error code",
+      "description": "Record the exact error code, appliance brand and model, and describe when the code appears. Consult the manufacturer instructions and ask a suitable repair provider to diagnose the issue before ordering parts."
+    }
+  ],
+  "problem_services": [
+    {
+      "problem_id": "uneven-room-temperatures",
+      "service_id": "hvac"
+    },
+    {
+      "problem_id": "roof-leak-after-rain",
+      "service_id": "roofing"
+    },
+    {
+      "problem_id": "move-out-cleaning",
+      "service_id": "house-cleaning"
+    },
+    {
+      "problem_id": "overflowing-gutters",
+      "service_id": "gutters"
+    },
+    {
+      "problem_id": "recurring-indoor-pests",
+      "service_id": "pest-control"
+    },
+    {
+      "problem_id": "bulky-item-removal",
+      "service_id": "junk-removal"
+    },
+    {
+      "problem_id": "overhanging-tree-branches",
+      "service_id": "tree-services"
+    },
+    {
+      "problem_id": "appliance-error-code",
+      "service_id": "appliance-repair"
+    }
+  ],
+  "sources": [
+    {
+      "id": "ca3ae3d3-6c70-5a1e-a1a1-a156d8d4c6c7",
+      "title": "EPA: Do\u2019s and Don\u2019ts of Pest Control",
+      "url": "https://www.epa.gov/safepestcontrol/dos-and-donts-pest-control",
+      "publisher": "US Environmental Protection Agency",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T00:00:00Z",
+      "reviewed_at": "2026-10-08T00:00:00Z"
+    },
+    {
+      "id": "fa0ca157-7a37-5130-8686-1f36db4ba474",
+      "title": "New Jersey tree-care licensing resources",
+      "url": "https://www.nj.gov/njbte/licensing/licensing/",
+      "publisher": "New Jersey Board of Tree Experts",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T00:00:00Z",
+      "reviewed_at": "2026-10-08T00:00:00Z"
+    },
+    {
+      "id": "9565ef88-5031-5821-aa58-a63b0e0ddc61",
+      "title": "Morris County household hazardous waste guidance",
+      "url": "https://mcmua.com/sw_hhw.asp",
+      "publisher": "Morris County Municipal Utilities Authority",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T00:00:00Z",
+      "reviewed_at": "2026-10-08T00:00:00Z"
+    },
+    {
+      "id": "4e5b20b4-4379-5495-94d0-940cd24b3051",
+      "title": "Bergen County household hazardous waste guidance",
+      "url": "https://bergenutilities.govoffice3.com/index.asp?SEC=B57513DC-5789-4617-8427-EB9D21DBD40A&Type=B_BASIC&pri=0",
+      "publisher": "Bergen County Utilities Authority",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T00:00:00Z",
+      "reviewed_at": "2026-10-08T00:00:00Z"
+    },
+    {
+      "id": "647453eb-7057-5b59-b843-3a1200ebc31c",
+      "title": "Foundation Drain, Gutters and Downspouts",
+      "url": "https://bsesc.energy.gov/energy-basics/foundation-drain-gutters-downspouts",
+      "publisher": "US Department of Energy",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T00:00:00Z",
+      "reviewed_at": "2026-10-08T00:00:00Z"
+    }
+  ],
+  "content_sources": [
+    {
+      "content_page_id": "9acce13b-b943-5b34-b357-41bf9f68f3f3",
+      "source_id": "ca3ae3d3-6c70-5a1e-a1a1-a156d8d4c6c7",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "3207690f-7afc-5774-81a4-34f784fc8c6a",
+      "source_id": "ca3ae3d3-6c70-5a1e-a1a1-a156d8d4c6c7",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "3a2d47e9-0ed5-54a8-a80c-d9600d037326",
+      "source_id": "fa0ca157-7a37-5130-8686-1f36db4ba474",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "bee99362-f1c6-539d-bfec-e8cb215deb3f",
+      "source_id": "fa0ca157-7a37-5130-8686-1f36db4ba474",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "source_id": "9565ef88-5031-5821-aa58-a63b0e0ddc61",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "source_id": "9565ef88-5031-5821-aa58-a63b0e0ddc61",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "source_id": "4e5b20b4-4379-5495-94d0-940cd24b3051",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "source_id": "4e5b20b4-4379-5495-94d0-940cd24b3051",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "53d638a6-49ed-5aa8-b54d-566774a29de9",
+      "source_id": "647453eb-7057-5b59-b843-3a1200ebc31c",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "2d7e6eaf-f2be-5721-b8f1-001e62271b65",
+      "source_id": "647453eb-7057-5b59-b843-3a1200ebc31c",
+      "relationship_type": "BACKGROUND"
+    }
+  ],
+  "content_relationships": [
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000001",
+      "to_page_id": "eea114c4-e828-5ccf-ad3a-a8cafd4af375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000001",
+      "to_page_id": "3ff9842d-9786-59e4-a122-7f9b2d01e6ab",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "eea114c4-e828-5ccf-ad3a-a8cafd4af375",
+      "to_page_id": "3ff9842d-9786-59e4-a122-7f9b2d01e6ab",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "3ff9842d-9786-59e4-a122-7f9b2d01e6ab",
+      "to_page_id": "eea114c4-e828-5ccf-ad3a-a8cafd4af375",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "3ff9842d-9786-59e4-a122-7f9b2d01e6ab",
+      "to_page_id": "81000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "eea114c4-e828-5ccf-ad3a-a8cafd4af375",
+      "to_page_id": "81000000-0000-4000-8000-000000000001",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000002",
+      "to_page_id": "f03d5e4b-98b6-5759-9275-e68ae537fd1a",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000002",
+      "to_page_id": "a50f5624-f9d4-57ea-a19c-4431faac1879",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "f03d5e4b-98b6-5759-9275-e68ae537fd1a",
+      "to_page_id": "a50f5624-f9d4-57ea-a19c-4431faac1879",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a50f5624-f9d4-57ea-a19c-4431faac1879",
+      "to_page_id": "f03d5e4b-98b6-5759-9275-e68ae537fd1a",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "a50f5624-f9d4-57ea-a19c-4431faac1879",
+      "to_page_id": "81000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "f03d5e4b-98b6-5759-9275-e68ae537fd1a",
+      "to_page_id": "81000000-0000-4000-8000-000000000002",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000003",
+      "to_page_id": "eacf1c6e-2792-52e4-85cb-fcf140d0248f",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000003",
+      "to_page_id": "b9199231-8069-56ed-9ab9-d68a5d06f417",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "eacf1c6e-2792-52e4-85cb-fcf140d0248f",
+      "to_page_id": "b9199231-8069-56ed-9ab9-d68a5d06f417",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "b9199231-8069-56ed-9ab9-d68a5d06f417",
+      "to_page_id": "eacf1c6e-2792-52e4-85cb-fcf140d0248f",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "b9199231-8069-56ed-9ab9-d68a5d06f417",
+      "to_page_id": "81000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "eacf1c6e-2792-52e4-85cb-fcf140d0248f",
+      "to_page_id": "81000000-0000-4000-8000-000000000003",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000004",
+      "to_page_id": "53d638a6-49ed-5aa8-b54d-566774a29de9",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000004",
+      "to_page_id": "2d7e6eaf-f2be-5721-b8f1-001e62271b65",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "53d638a6-49ed-5aa8-b54d-566774a29de9",
+      "to_page_id": "2d7e6eaf-f2be-5721-b8f1-001e62271b65",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "2d7e6eaf-f2be-5721-b8f1-001e62271b65",
+      "to_page_id": "53d638a6-49ed-5aa8-b54d-566774a29de9",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "2d7e6eaf-f2be-5721-b8f1-001e62271b65",
+      "to_page_id": "81000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "53d638a6-49ed-5aa8-b54d-566774a29de9",
+      "to_page_id": "81000000-0000-4000-8000-000000000004",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000005",
+      "to_page_id": "9acce13b-b943-5b34-b357-41bf9f68f3f3",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000005",
+      "to_page_id": "3207690f-7afc-5774-81a4-34f784fc8c6a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9acce13b-b943-5b34-b357-41bf9f68f3f3",
+      "to_page_id": "3207690f-7afc-5774-81a4-34f784fc8c6a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "3207690f-7afc-5774-81a4-34f784fc8c6a",
+      "to_page_id": "9acce13b-b943-5b34-b357-41bf9f68f3f3",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "3207690f-7afc-5774-81a4-34f784fc8c6a",
+      "to_page_id": "81000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "9acce13b-b943-5b34-b357-41bf9f68f3f3",
+      "to_page_id": "81000000-0000-4000-8000-000000000005",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000006",
+      "to_page_id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000006",
+      "to_page_id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "to_page_id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "to_page_id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "bf7cd5b1-09af-5f1d-8668-0197077daeae",
+      "to_page_id": "81000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "1ebe8eb4-3403-54e7-a03a-b56c56de5383",
+      "to_page_id": "81000000-0000-4000-8000-000000000006",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000007",
+      "to_page_id": "3a2d47e9-0ed5-54a8-a80c-d9600d037326",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000007",
+      "to_page_id": "bee99362-f1c6-539d-bfec-e8cb215deb3f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "3a2d47e9-0ed5-54a8-a80c-d9600d037326",
+      "to_page_id": "bee99362-f1c6-539d-bfec-e8cb215deb3f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "bee99362-f1c6-539d-bfec-e8cb215deb3f",
+      "to_page_id": "3a2d47e9-0ed5-54a8-a80c-d9600d037326",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "bee99362-f1c6-539d-bfec-e8cb215deb3f",
+      "to_page_id": "81000000-0000-4000-8000-000000000007",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "3a2d47e9-0ed5-54a8-a80c-d9600d037326",
+      "to_page_id": "81000000-0000-4000-8000-000000000007",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000008",
+      "to_page_id": "091f1125-3960-56cc-ab94-5cd77ae2d45c",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "81000000-0000-4000-8000-000000000008",
+      "to_page_id": "039638c5-c9b0-58dd-8726-8538eae125d8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "091f1125-3960-56cc-ab94-5cd77ae2d45c",
+      "to_page_id": "039638c5-c9b0-58dd-8726-8538eae125d8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "039638c5-c9b0-58dd-8726-8538eae125d8",
+      "to_page_id": "091f1125-3960-56cc-ab94-5cd77ae2d45c",
+      "relationship_type": "SUPPORTING_GUIDE"
+    },
+    {
+      "from_page_id": "039638c5-c9b0-58dd-8726-8538eae125d8",
+      "to_page_id": "81000000-0000-4000-8000-000000000008",
+      "relationship_type": "PARENT"
+    },
+    {
+      "from_page_id": "091f1125-3960-56cc-ab94-5cd77ae2d45c",
+      "to_page_id": "81000000-0000-4000-8000-000000000008",
+      "relationship_type": "PARENT"
+    }
+  ]
+}

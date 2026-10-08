@@ -29,7 +29,7 @@ export default function HomePage() {
    </div>
    <figure className={styles.heroVisual}><HomeImage name="hero" priority alt="Illustrative home entrance with a teal door, brick steps and garden planting"/><figcaption>Illustrative home image</figcaption></figure>
   </section>
-  <div className={styles.assurances}><span>Eight core home services</span><span>Independent local professionals</span><span>One place to get started</span></div>
+  <div className={styles.assurances}><span>Repairs, maintenance and improvements</span><span>Independent local professionals</span><span>One place to get started</span></div>
   <section id="services" className={styles.section} aria-labelledby="services-heading"><div className={styles.sectionHead}><div><p className={styles.eyebrow}>The services you need</p><h2 id="services-heading">Care for every part of your home.</h2></div><p>Explore our most requested categories,<br/>then tell us about your project.</p></div>
    <div className={styles.serviceGrid}>{SERVICES.map(s=><Link className={styles.serviceCard} href={`/services/${s.slug}`} key={s.id}><HomeImage name={s.id} alt={SERVICE_PRESENTATION[s.id].alt}/><div><span className={styles.cardTitle}>{s.name}<span aria-hidden="true"><ArrowIcon direction="up-right" /></span></span><p>{SERVICE_PRESENTATION[s.id].jobs.slice(0,3).join(' · ')}</p></div></Link>)}</div><p className={styles.caption}>Service images are illustrative, not photographs of A5 projects.</p>
    <Link className={styles.unsure} href="/request-service"><strong>Not sure who to call?</strong><span>Describe the project. We’ll help identify the right service.</span><span aria-hidden="true"><ArrowIcon direction="up-right" /></span></Link>

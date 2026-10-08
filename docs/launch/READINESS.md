@@ -2,7 +2,9 @@
 
 Status: owner accepted and explicitly requested production deployment on October 7, 2026. See RELEASE-2026-10-07.md for release evidence; the initial preparation and remaining business-readiness checklist below are retained for context.
 
-## Current reconciliation
+Current October 8 content, database and vendor-depth status: [release evidence](../growth-wave-3/RELEASE.md). The owner-approved free-lead model does not require capacity or pre-confirmation; the older readiness gates below are historical.
+
+## Historical October 7 reconciliation
 
 The launch migration and public release below are complete; subsequent foundation and authority releases are live at main `62b1826c5503198cf950cfbddc690bf8df8dd3e4`. ENABLE_LAUNCH_PIPELINE is true. The original preparation notes are historical. The current checklist is [PLAN-COMPLETION-AUDIT-2026-10-07.md](PLAN-COMPLETION-AUDIT-2026-10-07.md). The owner supplied the internal recipient and GA4 ID; delivery, account settings and production activation are not yet verified. The operations branch prepares a gated five-minute Cloudflare scheduler using existing secrets. Pilot and expansion decisions are deferred.
 

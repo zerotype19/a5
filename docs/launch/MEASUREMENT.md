@@ -12,7 +12,7 @@ Business truth remains in Postgres. GA4 measures consented behavior, not canonic
 | request_failed | API/network submission failure | No error details or user values |
 | call_clicked | Public tel link clicked | No phone number; this is not a completed call |
 
-Analytics disabled or declined means those visits do not appear. Turning consent on midway through the form may mean request_started was not observed; do not equate event totals to the database. No marketing consent is inferred from a service request.
+Analytics disabled or declined means those visits do not appear. When consent is accepted while the intake remains mounted, request_started is emitted once after analytics initialization; earlier interactions are not replayed. Do not equate event totals to the database. No marketing consent is inferred from a service request.
 
 First and last acquisition are browser-reported evidence with timestamps, landing path, external referring host and the available allowlist: utm_source, utm_medium, utm_campaign, utm_content, utm_term, gclid, msclkid. Session storage is fallible. The first touch is preserved; internal navigation does not replace the latest acquisition touch. Idempotent submission does not overwrite the lead's acquisition record. Raw URL query strings, referrer paths and arbitrary client keys are discarded. UTM creators must never include personal data. KNOWN means an observed supplied field, not independently verified source identity, deterministic keyword attribution or proof of causality.
 
@@ -34,3 +34,7 @@ SEO/GEO scorecard: eligible indexed pages, service/town impressions and clicks, 
 Owner-supplied GA4 stream: `G-ZLD8SRP78F`. Keep build-time activation pending verification of the stream's automatic-event settings and consent behavior. Chrome account access is verified. A5 property 558009939 / stream 16063200619 matches the supplied ID; Enhanced Measurement has been turned off. Build configuration is prepared, not deployed. Consent traffic checks and Search Console property verification remain pending. Pilot budget, initial services and expansion priorities are deferred by the owner.
 
 The new outcome workflow records when an operator marks contact, estimate or closure. These are recorded-at timestamps, not independent proof of the actual contact time; historical/backfilled status changes must not be used as exact response-time evidence. Estimated and actual amounts are provider project values. A5 income/contribution still requires an agreed definition and separate reconciliation.
+
+## October 8 reconciliation
+
+GA4 is deployed with the supplied ID; the older configuration notes above are historical. This release repairs initialization ordering for request_started without changing event definitions. Tests cover no consent, private-route exclusions, sanitized payloads, delayed readiness and one emission per mounted intake. Google account-level receipt, current indexing and a fresh real CAPTCHA-to-inbox conversion remain separate verification items. See [current evidence](../growth-wave-3/RELEASE.md).
