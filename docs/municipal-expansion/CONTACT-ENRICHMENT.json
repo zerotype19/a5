@@ -1,0 +1,128 @@
+{
+  "updates": [
+    {
+      "business_name": "JerseyBuild Contracting",
+      "email": "contact@jerseybuildcontracting.com",
+      "source_url": "https://jerseybuildcontracting.com/",
+      "observed_date": "2026-10-08",
+      "review_note": "Public business structured data. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "N&C Painting",
+      "email": "ncpaint12@gmail.com",
+      "source_url": "https://www.paintingnnc.com/about-us",
+      "observed_date": "2026-10-08",
+      "review_note": "Public mailto link. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Power Plumbing Inc",
+      "email": "jimpolcaro34@gmail.com",
+      "source_url": "https://www.powerplumbinginc.net/contact-3",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible business contact. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "JC Brothers Construction",
+      "email": "jcbrothersconstructionllc@gmail.com",
+      "source_url": "https://www.jcbrothersconstruction.com/contact_us",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible footer contact; alternate jcbrothersllc@gmail.com occurs in source markup, confirm intended recipient. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "H.B. Service Plumbing & Heating LLC",
+      "email": "hbserviceplumbing@gmail.com",
+      "source_url": "https://www.hbserviceplumbing.com/contact-us/",
+      "observed_date": "2026-10-08",
+      "review_note": "Public business structured data. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "CertaPro Painters of Mountainside",
+      "email": "fbruno@certapro.com",
+      "source_url": "https://certapro.com/mountainside/",
+      "observed_date": "2026-10-08",
+      "review_note": "Public branch-specific contact metadata; confirm intended recipient. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "O'Donovan & Sons Paving & Masonry",
+      "email": "odonovanpaving@gmail.com",
+      "source_url": "https://odpavingmasonry.com/contact-us/",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible contact page. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "CertaPro Painters of Morristown",
+      "email": "rwebber@certapro.com",
+      "source_url": "https://certapro.com/morristown/",
+      "observed_date": "2026-10-08",
+      "review_note": "Public branch-specific contact metadata; confirm intended recipient. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "VM Power Flooring",
+      "email": "info@vmpowerconstruction.com",
+      "source_url": "https://vmpowerflooring.com/about",
+      "observed_date": "2026-10-08",
+      "review_note": "Public contact; site identifies VM Power family of brands. Confirm branch and geographic fit. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Pavement Specialists Inc",
+      "email": "info@pavementspecialistsinc.com",
+      "source_url": "https://pavementspecialistsinc.com/contact-us/",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible contact page. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Sperry Electric",
+      "email": "admin@sperryelectricnj.com",
+      "source_url": "https://www.sperryelectricnj.com/contact",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible contact page. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Byrne Electrical Contracting",
+      "email": "pbelectric@optonline.net",
+      "source_url": "https://www.byrneelectricnj.com/contact",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible contact page. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "First Class Electric",
+      "email": "info@firstclasselectricnj.com",
+      "source_url": "https://www.firstclasselectricnj.com/contact",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible contact page. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "D.S.G.K. Drywall LLC",
+      "email": "dsgkdrywall@yahoo.com",
+      "source_url": "https://dsgkdrywall.com/about_us",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible about-page contact; mail@dsgkdrywall.com also occurs in source markup. Confirm intended recipient. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Atlas Electric",
+      "email": "atlas@atlaselectric.co",
+      "source_url": "https://www.atlaselectric.co/",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible footer contact; a mailto uses atlas@atlaslectric.co, apparently inconsistent. Confirm correct recipient before use. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Florez Landscaping and Tree Services",
+      "email": "florezlands.treeservices@gmail.com",
+      "source_url": "https://www.florezlandscaping.com/",
+      "observed_date": "2026-10-08",
+      "review_note": "Public business structured data. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    },
+    {
+      "business_name": "Farhat Construction & Design",
+      "email": "kfarhat@farhatconstruction.com",
+      "source_url": "https://farhatconstruction.com/index.php/contact-us/",
+      "observed_date": "2026-10-08",
+      "review_note": "Visible footer contact; contact page also shows Farhatconstruction1@gmail.com. Confirm intended recipient. Public source only; A5 recipient and delivery unconfirmed. Fill missing email only; preserve all other operating fields."
+    }
+  ],
+  "held_back": [
+    "Masterly Painting: unrelated cleaning-company email in source markup; not imported.",
+    "Example/form placeholder emails rejected.",
+    "Inaccessible or missing contact evidence remains blank."
+  ]
+}

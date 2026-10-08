@@ -1,0 +1,14 @@
+{
+  "batch": "a5-north-jersey-2026-10-08",
+  "sha256": "0439e1ab56f7a5fe43b5974a6b1d2f41d22e4ac81e146e4aaefd2a341b98675a",
+  "candidates": 23,
+  "newServiceMappings": 36,
+  "newLocationMappings": 2971,
+  "pairs": 1808,
+  "pairsWithTwoCandidates": 1808,
+  "pairsWithTwoEmailCandidates": 1808,
+  "confirmedPairs": 0,
+  "missingEmail": [
+    "Mohawk Handyman Services"
+  ]
+}

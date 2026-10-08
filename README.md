@@ -47,10 +47,12 @@ Apply migrations to your Supabase project before testing live flows — producti
 
 ## Current production state
 
-The public foundation, responsive templates and authority directory are deployed. Supabase holds 70 published content records: 8 service hubs, 9 town hubs, 18 service/town pages, 18 problem pages, 9 guides and 8 county pages. The sitemap contains 75 URLs. The searchable directory covers 226 municipalities across Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union and Warren. These are request areas with individual provider-availability review; regional vendor readiness remains incomplete.
+The public foundation, responsive templates and authority directory are deployed. Supabase holds 288 published content records: 8 service hubs, 227 location pages (including the historical combined Chatham guide), 18 service/town pages, 18 problem pages, 9 guides and 8 county pages. The 218 new municipal directory profiles are noindex/follow pending distinct local editorial evidence. The sitemap contains 75 URLs. The searchable directory covers 226 municipalities across Bergen, Essex, Hudson, Morris, Passaic, Sussex, Union and Warren. These are request areas with individual provider-availability review; regional vendor readiness remains incomplete.
 
 Intake supports private photos, idempotent submission and acquisition attribution. Operations supports qualification, manual vendor assignment, email Accept/Pass and audited lead outcomes. Scheduled internal new-lead alerts are live at hello@a5homeservices.com, with inbox receipt confirmed. GA4 is configured with consent controls.
 
 See [the North Jersey release](docs/north-jersey/RELEASE.md), [operations evidence](docs/operations/RELEASE-2026-10-07.md), and [the completion audit](docs/launch/PLAN-COMPLETION-AUDIT-2026-10-07.md). Paid pilot spending remains deferred. Verified provider capacity, genuine project/team evidence and the full operational rehearsal remain separate operating tasks.
+
+The [municipal expansion operating guide](docs/municipal-expansion/OPERATING-GUIDE.md) documents the 23 newly imported candidates, 17 existing contact enrichments and daily work queue at `/admin/queue`. Kevin owns follow-up as requests arrive. Candidate territory is advertised reach, not verified fulfillment.
 
 Use the [location expansion playbook](docs/expansion/LOCATION-EXPANSION-PLAYBOOK.md) for every new area. The [current vendor readiness audit](docs/expansion/NORTH-JERSEY-READINESS.md) distinguishes loaded/selectable vendors from confirmed fulfillment capacity and tracks outstanding coverage work.
