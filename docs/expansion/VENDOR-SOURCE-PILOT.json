@@ -19,9 +19,9 @@
       ],
       "notes": "County-level territory; municipal mapping still needs review. Insurance/registration statements are vendor claims, not independently verified.",
       "observed_date": "2026-10-08",
-      "review_state": "NEEDS_REVIEW",
+      "review_state": "RECONCILED_IN_PRODUCTION",
       "a5_capacity_confirmed": false,
-      "imported": false,
+      "imported": true,
       "duplicate_review": {
         "checked_at": "2026-10-08T00:55:17.272Z",
         "signals": [
@@ -31,6 +31,11 @@
         ],
         "matching_existing_business_names": [],
         "result": "NO_EXACT_SIGNAL_MATCH"
+      },
+      "production_reconciliation": {
+        "checked_at": "2026-10-08",
+        "vendor_id": "4ec33533-68c2-4683-97f6-72638090b2c5",
+        "status": "DISCOVERED"
       }
     },
     {
@@ -66,9 +71,9 @@
       ],
       "notes": "Page also lists info@mspremierhomeservices.com; confirm intended recipient. Explicit Hawthorne town listing is in Passaic County despite broad Bergen copy. Do not lose this distinction.",
       "observed_date": "2026-10-08",
-      "review_state": "NEEDS_REVIEW",
+      "review_state": "RECONCILED_IN_PRODUCTION",
       "a5_capacity_confirmed": false,
-      "imported": false,
+      "imported": true,
       "duplicate_review": {
         "checked_at": "2026-10-08T00:55:17.274Z",
         "signals": [
@@ -78,6 +83,11 @@
         ],
         "matching_existing_business_names": [],
         "result": "NO_EXACT_SIGNAL_MATCH"
+      },
+      "production_reconciliation": {
+        "checked_at": "2026-10-08",
+        "vendor_id": "edb2c74b-d953-45a7-9730-1cec4bdfd49c",
+        "status": "DISCOVERED"
       }
     },
     {
@@ -101,9 +111,9 @@
       ],
       "notes": "General repairs and drywall explicitly described. Additional plumbing/electrical work is advertised, but scope and applicable credentials need review before treating this as full trade coverage.",
       "observed_date": "2026-10-08",
-      "review_state": "NEEDS_REVIEW",
+      "review_state": "RECONCILED_IN_PRODUCTION",
       "a5_capacity_confirmed": false,
-      "imported": false,
+      "imported": true,
       "duplicate_review": {
         "checked_at": "2026-10-08T00:55:17.274Z",
         "signals": [
@@ -113,6 +123,11 @@
         ],
         "matching_existing_business_names": [],
         "result": "NO_EXACT_SIGNAL_MATCH"
+      },
+      "production_reconciliation": {
+        "checked_at": "2026-10-08",
+        "vendor_id": "85c32cac-323c-4ed8-ba73-186b3d970448",
+        "status": "DISCOVERED"
       }
     },
     {
@@ -154,9 +169,9 @@
       ],
       "notes": "Ambiguous Caldwells/Union and misspelled locality strings were not automatically mapped. Self-described hours, reviews and insured status are not A5 confirmations.",
       "observed_date": "2026-10-08",
-      "review_state": "NEEDS_REVIEW",
+      "review_state": "RECONCILED_IN_PRODUCTION",
       "a5_capacity_confirmed": false,
-      "imported": false,
+      "imported": true,
       "duplicate_review": {
         "checked_at": "2026-10-08T00:55:17.274Z",
         "signals": [
@@ -166,6 +181,11 @@
         ],
         "matching_existing_business_names": [],
         "result": "NO_EXACT_SIGNAL_MATCH"
+      },
+      "production_reconciliation": {
+        "checked_at": "2026-10-08",
+        "vendor_id": "b1f10a64-a317-4b7f-a9fd-c209dca61734",
+        "status": "DISCOVERED"
       }
     },
     {
@@ -188,9 +208,9 @@
       ],
       "notes": "Sparta and county reach advertised. Email appears in indexed source text; open-page extraction masks it, so recheck intended recipient before import. Credential claims unverified.",
       "observed_date": "2026-10-08",
-      "review_state": "NEEDS_REVIEW",
+      "review_state": "RECONCILED_IN_PRODUCTION",
       "a5_capacity_confirmed": false,
-      "imported": false,
+      "imported": true,
       "duplicate_review": {
         "checked_at": "2026-10-08T00:55:17.274Z",
         "signals": [
@@ -200,6 +220,11 @@
         ],
         "matching_existing_business_names": [],
         "result": "NO_EXACT_SIGNAL_MATCH"
+      },
+      "production_reconciliation": {
+        "checked_at": "2026-10-08",
+        "vendor_id": "a5184d65-1d19-4e2f-b037-d1152cac2651",
+        "status": "INACTIVE"
       }
     },
     {
@@ -221,9 +246,9 @@
       ],
       "notes": "Contact page limits Morris to western Morris; do not map the whole county. Hunterdon is advertised but outside the present eight-county scope. Example form city is not service-area evidence.",
       "observed_date": "2026-10-08",
-      "review_state": "NEEDS_REVIEW",
+      "review_state": "RECONCILED_IN_PRODUCTION",
       "a5_capacity_confirmed": false,
-      "imported": false,
+      "imported": true,
       "duplicate_review": {
         "checked_at": "2026-10-08T00:55:17.275Z",
         "signals": [
@@ -233,6 +258,11 @@
         ],
         "matching_existing_business_names": [],
         "result": "NO_EXACT_SIGNAL_MATCH"
+      },
+      "production_reconciliation": {
+        "checked_at": "2026-10-08",
+        "vendor_id": "da4f3d30-aa09-469e-9a9e-b5c2421aaeb3",
+        "status": "DISCOVERED"
       }
     }
   ]

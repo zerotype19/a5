@@ -4,7 +4,7 @@ Use alongside the [location expansion playbook](LOCATION-EXPANSION-PLAYBOOK.md).
 
 ## Order of work
 
-1. Enrich the existing 41 businesses without usable recorded email first. Use their own websites and contact pages. Do not guess email patterns or overwrite a previously confirmed contact with a different scraped value.
+1. Enrich the existing 25 businesses without usable recorded email first. Use their own websites and contact pages. Do not guess email patterns or overwrite a previously confirmed contact with a different scraped value.
 2. Research missing service/county combinations from the coverage matrix. Begin with multi-town providers, then fill specific municipal gaps; do not search every town independently and create duplicate businesses.
 3. Reconcile advertised geography to municipalities. Preserve scope limits such as “western Morris” rather than turning them into all of Morris County.
 4. Review and deduplicate candidates before producing the existing import format. New businesses enter DISCOVERED; existing businesses get an enrichment proposal, not another import row.
@@ -65,4 +65,4 @@ Measure service/town sourcing coverage, usable business emails, delivery failure
 
 ## First source-review sample
 
-[The initial source ledger](VENDOR-SOURCE-PILOT.json) contains six public-site prospects with advertised reach spanning the eight target counties. It is a small sourcing-method sample, primarily handyman/painting work, not complete trade coverage. It has not been imported, contacted, activated or counted as confirmed supply. Source-specific caveats are retained. Broader sourcing and enrichment remain open work.
+[The initial source ledger](VENDOR-SOURCE-PILOT.json) contains six public-site prospects with advertised reach spanning the eight target counties. It is a small sourcing-method sample, primarily handyman/painting work, not complete trade coverage. Production reconciliation on October 8 found all six candidates already imported. Source-specific caveats remain; import does not establish participation or availability. The production database has 83 real businesses, 58 usable emails, and at least two emailed mapped businesses in all 1,808 municipality/service pairs. Continue enrichment for 25 inactive missing-email records. See [current release evidence](../network/PRODUCTION-RELEASE.md).
