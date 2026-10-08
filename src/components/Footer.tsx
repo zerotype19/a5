@@ -1,3 +1,4 @@
+import { Analytics } from "./marketing/Analytics";
 import { Brand } from "./Brand";
 import Link from "next/link";
 import {COUNTIES, countyPath} from "@config/counties";
@@ -33,6 +34,7 @@ export function Footer() {
     <div className={styles.bottom}>
       <p className={styles.role}>A5 coordinates introductions. Providers discuss estimates and carry out the work. Availability is confirmed after review.</p>
       <div className={styles.legalRow}><p>© {new Date().getFullYear()} {SITE.legalName}</p><nav aria-label="Legal"><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link></nav></div>
+      <Analytics />
     </div>
   </footer>;
 }
