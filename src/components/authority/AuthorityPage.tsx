@@ -102,7 +102,7 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
           <div className={styles.articleLayout}>
             <aside className={styles.articleAside}>
               {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}
-              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and coordinate next steps.</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
+              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and offer an introduction to a relevant professional in the network.</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
             </aside>
             <div className={styles.articleBody}><AuthoritySections page={page} />{children}</div>
           </div>

@@ -1,3 +1,4 @@
+import { VendorEvidencePanel } from "@/components/network/VendorEvidencePanel";
 import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { AdminPageHeader } from "@/components/admin/AdminPageHeader";
@@ -31,6 +32,7 @@ export default async function VendorDetailPage({
         </p>
       ) : null}
       <VendorEditor vendor={vendor} error={query.error ?? null} />
+      <VendorEvidencePanel vendorId={vendor.id}/>
     </>
   );
 }

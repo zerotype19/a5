@@ -32,7 +32,13 @@ export async function middleware(request: NextRequest) {
     return updateAdminSession(request);
   }
 
-  return NextResponse.next();
+  const response = NextResponse.next();
+  if (/^\/(opportunity|check-in)(?:\/|$)/.test(request.nextUrl.pathname)) {
+    response.headers.set("Cache-Control", "private, no-store, max-age=0");
+    response.headers.set("Referrer-Policy", "no-referrer");
+    response.headers.set("X-Robots-Tag", "noindex, nofollow, noarchive");
+  }
+  return response;
 }
 
 export const config = {

@@ -60,3 +60,7 @@ Use the [location expansion playbook](docs/expansion/LOCATION-EXPANSION-PLAYBOOK
 ## Vendor self-signup
 
 `/vendors/join` collects business details, required project email, canonical services, and operating towns (county/region bulk selection with individual exclusions). `/admin/vendors/signups` and the vendor work queue support review, duplicate matching, creation or linking. Apply the additive migration and enable `ENABLE_VENDOR_SIGNUP` to accept submissions. See [release notes](docs/vendor-signup/RELEASE.md).
+
+## Connection network
+
+Network positioning and protected previews accompany an optional operator-controlled follow-up loop: acceptance deadlines, fallback, private homeowner/provider check-ins and evidence-based suggestions. See [release notes](docs/network/RELEASE.md) and the exact content manifest in `content/network/copy-updates.json`. `ENABLE_NETWORK_FOLLOWUP` defaults off until its additive Supabase migration is applied and the workflow is ready to enable.

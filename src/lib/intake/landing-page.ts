@@ -10,7 +10,7 @@ const SAFE_PATH =
   /^\/(?:[a-z0-9]+(?:-[a-z0-9]+)*)(?:\/[a-z0-9]+(?:-[a-z0-9]+)*)*$/;
 
 const EXCLUDED =
-  /^\/(?:request-service|admin|api|opportunity)(?:\/|$)/;
+  /^\/(?:request-service|admin|api|check-in|opportunity)(?:\/|$)/;
 
 const SESSION_KEY = "a5.first_landing_page";
 

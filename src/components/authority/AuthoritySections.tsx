@@ -189,7 +189,7 @@ function SectionBlock({
             title={section.title ?? "Request service"}
             description={
               section.description ??
-              "Tell A5 what your home needs. We will review and coordinate next steps."
+              "Tell A5 what your home needs. Our network connects homeowners with local service professionals."
             }
             primaryHref={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined,service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug})}
             primaryCta="authority-request-service"

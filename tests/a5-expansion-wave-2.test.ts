@@ -30,6 +30,6 @@ describe('Expansion wave 2 publication',()=>{
   assert.ok(p.sourceLinks.every(l=>p.sources.some(s=>s.id===l.source_id)));
  });
  it('keeps new town request context and conditional availability explicit',()=>{
-  for(const location of LOCATIONS.slice(6)){assert.equal(location.requestReviewRequired,true);const href=requestHref({service:'handyman',location:location.id});assert.ok(href.includes(`location=${location.id}`));assert.equal(intakeContext({location:location.id}).location?.id,location.id);const schema=buildServiceSchema({serviceId:'handyman',locationId:location.id,path:`/${location.id}/handyman`});assert.match(String(schema?.name),/request coordination/);assert.match(String(schema?.serviceType),/availability checked individually/);}
+  for(const location of LOCATIONS.slice(6)){assert.equal(location.requestReviewRequired,true);const href=requestHref({service:'handyman',location:location.id});assert.ok(href.includes(`location=${location.id}`));assert.equal(intakeContext({location:location.id}).location?.id,location.id);const schema=buildServiceSchema({serviceId:'handyman',locationId:location.id,path:`/${location.id}/handyman`});assert.match(String(schema?.name),/introductions/);assert.match(String(schema?.serviceType),/professional introductions/);}
  });
 });

@@ -8,6 +8,7 @@ export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: "Project opportunity",
+  referrer: "no-referrer",
   robots: {
     index: false,
     follow: false,
@@ -51,8 +52,8 @@ export default async function OpportunityPage({
         <>
           <h1>
             {fresh
-              ? "You accepted this project."
-              : "You've already accepted this project."}
+              ? "You accepted this introduction."
+              : "You've already accepted this introduction."}
           </h1>
           <p className={styles.note}>
             Save the homeowner contact below. This link expires 72 hours after the email was sent.
@@ -97,6 +98,7 @@ function Project({
 }: {
   token: string;
   project: {
+    acceptanceDueAt: string;
     serviceLabel: string;
     locationLabel: string;
     timingLabel: string;
@@ -120,6 +122,7 @@ function Project({
         <dt>Project</dt>
         <dd>{project.description}</dd>
       </dl>
+      {showActions && <p>Please accept or pass by {new Date(project.acceptanceDueAt).toLocaleString("en-US",{timeZone:"America/New_York",dateStyle:"medium",timeStyle:"short"})} Eastern time.</p>}
       {project.photos.length > 0 ? (
         <ul className={styles.photos}>
           {project.photos.map((photo) => (
@@ -131,13 +134,13 @@ function Project({
           ))}
         </ul>
       ) : (
-        <p>No project photos were attached.</p>
+        <p>{showActions ? "Any project photos become available after acceptance." : "No project photos were attached."}</p>
       )}
       {showActions ? (
         <div className={styles.actions}>
           <form action={acceptOpportunity}>
             <input type="hidden" name="token" value={token} />
-            <button type="submit">Accept project</button>
+            <button type="submit">Accept introduction</button>
           </form>
           <form action={passOpportunity}>
             <input type="hidden" name="token" value={token} />

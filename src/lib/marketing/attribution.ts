@@ -23,7 +23,7 @@ export function nextAttribution(stored:unknown,touch:Touch):Attribution {
  return {first:old?.first??touch,last:old&&!newAcquisition?old.last:touch};
 }
 export function rememberAttribution(href:string,referrer:string) {
- try{const u=new URL(href);if(/^\/(admin|api|opportunity)(\/|$)/.test(u.pathname))return;
+ try{const u=new URL(href);if(/^\/(admin|api|check-in|opportunity)(\/|$)/.test(u.pathname))return;
  const campaign:Touch['campaign']={};for(const k of CAMPAIGN_KEYS){const v=u.searchParams.get(k);if(v)campaign[k]=v;}
  let referrerHost:string|null=null;try{const ref=new URL(referrer);if(ref.hostname!==u.hostname)referrerHost=ref.hostname;}catch{}
  const touch=normalizeTouch({path:u.pathname,referrerHost,capturedAt:new Date().toISOString(),campaign});if(!touch)return;

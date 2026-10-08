@@ -50,7 +50,7 @@ describe("Authority expansion",()=>{
  it("uses truthful town-specific service schema without an invented office",()=>{
   const schema=buildServiceSchema({serviceId:"masonry",locationId:"madison",path:"/madison/masonry"});
   assert.deepEqual(schema?.areaServed,{"@type":"Place",name:"Madison, New Jersey"});
-  assert.equal(schema?.name,"Masonry in Madison, NJ");
+  assert.equal(schema?.name,"Masonry introductions in Madison, NJ");
   assert.ok(!JSON.stringify(schema).includes("streetAddress"));
  });
 });

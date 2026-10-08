@@ -1,5 +1,7 @@
 "use client";
 
+import { useState } from "react";
+import { NETWORK_DISCLOSURE } from "@/lib/network/policy";
 import { getServiceById } from "@config/services";
 import styles from "../intake.module.css";
 import { FormButton } from "../FormButton";
@@ -11,7 +13,7 @@ type Props = {
   state: ProjectIntakeState;
   photoCount?: number;
   onEdit: (step: IntakeStep) => void;
-  onSubmit: () => void;
+  onSubmit: (acknowledged: boolean) => void;
   sending: boolean;
   turnstileSiteKey: string | null;
   turnstileToken: string | null;
@@ -32,6 +34,7 @@ export function StepReview({
   onTurnstileToken,
   turnstileRequired,
 }: Props) {
+  const [acknowledged, setAcknowledged] = useState(false);
   const serviceLabel =
     state.serviceSelectionStatus === "NOT_SURE"
       ? "Not sure"
@@ -104,7 +107,7 @@ export function StepReview({
   ];
 
   const canSubmit =
-    !sending && (!turnstileRequired || Boolean(turnstileToken));
+    acknowledged && !sending && (!turnstileRequired || Boolean(turnstileToken));
 
   return (
     <div className={styles.panel}>
@@ -138,10 +141,8 @@ export function StepReview({
         ))}
       </div>
 
-      <p className={styles.privacy}>
-        We&apos;ll use this information to respond to your project request and
-        coordinate next steps.
-      </p>
+      <p className={styles.privacy}>{NETWORK_DISCLOSURE}</p>
+      <label className={styles.privacy}><input type="checkbox" checked={acknowledged} onChange={e=>setAcknowledged(e.target.checked)} disabled={sending}/> I understand and want A5 to make this introduction and email me about my request.</label>
 
       {turnstileSiteKey ? (
         <div className={styles.turnstileBlock}>
@@ -158,7 +159,7 @@ export function StepReview({
           type="button"
           variant="primary"
           disabled={!canSubmit}
-          onClick={onSubmit}
+          onClick={() => onSubmit(acknowledged)}
           dataCta={sending ? "intake-submit-sending" : "intake-submit"}
         >
           {sending ? "Sending…" : "Send Project Request"}

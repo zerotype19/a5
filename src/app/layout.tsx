@@ -17,9 +17,9 @@ const body = Manrope({
   display: "swap",
 });
 
-const title = `${SITE.name} | Northern New Jersey Home Services`;
+const title = `${SITE.name} | Northern New Jersey Home Services Network`;
 const description =
-  "Home repairs in northern New Jersey. Tell us what's wrong and we'll help line up a local provider.";
+  "A5 is a Northern New Jersey home services network connecting homeowners with independent professionals for repairs, maintenance and improvements";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),

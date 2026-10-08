@@ -22,7 +22,7 @@ async function respond(formData: FormData, action: "ACCEPT" | "PASS"): Promise<v
     redirect("/opportunity/unavailable");
   }
   const db = getSupabaseAdmin();
-  const { data, error } = await db.rpc("vendor_respond_to_assignment", {
+  const { data, error } = await db.rpc(process.env.ENABLE_NETWORK_FOLLOWUP === "true" ? "network_respond_to_assignment" : "vendor_respond_to_assignment", {
     p_token_hash: hashOpportunityToken(token),
     p_action: action,
   });

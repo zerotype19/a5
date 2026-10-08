@@ -143,7 +143,7 @@ export function StepContact({ state, errors, onPatch }: Props) {
 
       <p className={styles.privacy}>
         We&apos;ll use this information to respond to your project request and
-        coordinate next steps.
+        help make a local introduction.
       </p>
     </div>
   );

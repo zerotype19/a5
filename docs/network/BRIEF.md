@@ -1,0 +1,11 @@
+# A5 connection network and outcome loop
+
+Owner approved all five items from the preceding review: consistent network branding; safe pre-acceptance previews; acceptance deadlines and operator-controlled fallback; homeowner contact/outcome check-ins; reviews and evidence-based preferred-vendor suggestions. Owner explicitly requested ongoing feedback with the ChatGPT conversation “Brand positioning ideas” until it considers the work ready.
+
+Preserve free leads, manual assignment, one open assignment, no advance capacity/onboarding checks, canonical services/geography and inactive missing-email vendors. No new services are authorized by this task. Vendor signup PR #36 is the base.
+
+Implementation: additive Supabase migration and disabled-by-default ENABLE_NETWORK_FOLLOWUP flag; controlled transactional email check-ins triggered by operators from queue tasks; hashed, expiring, recipient-bound response links; append-only party reports, latest report per party/assignment for metrics; no report automatically changes financial/outcome status. Explicit homeowner-reported completion enables workmanship stars; vendor-only completion and no-response are not proof of fulfillment. Keep reviews private initially and exclude disputed evidence from priority suggestions pending operator resolution. Manual fallback revokes previous access and preserves history. An accepted-provider recovery requires recorded homeowner permission. Existing opportunity description/photos become accepted-only regardless of feature flag.
+
+Brand copy describes A5 as a home services connection network, clarifies independent providers handle scope/pricing/scheduling/work, and avoids guaranteed response/completion, verified/vetted/best/preferred claims without supporting evidence. Prepare audited updates for database content as well as repo pages. Do not silently rewrite historical/source material or SEO geography relationships.
+
+Validate concurrency, token privacy, deadlines/recovery races, report eligibility, review counts, failed-send recovery and no auto-rating/auto-routing. Review concrete copy/workflows and test evidence with the named ChatGPT conversation. Production release is separate from implementing and verifying the code/content changes; no outreach or real check-ins during testing.

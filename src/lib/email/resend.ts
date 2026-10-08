@@ -11,6 +11,7 @@ export async function sendResendEmail(input: {
   subject: string;
   text: string;
   html: string;
+  idempotencyKey?: string;
 }): Promise<{ ok: true } | { ok: false; error: string }> {
   const key = process.env.RESEND_API_KEY?.trim();
   if (!key) {
@@ -25,6 +26,7 @@ export async function sendResendEmail(input: {
       headers: {
         Authorization: `Bearer ${key}`,
         "Content-Type": "application/json",
+        ...(input.idempotencyKey ? {"Idempotency-Key": input.idempotencyKey} : {}),
       },
       body: JSON.stringify({
         from: VENDOR_EMAIL_FROM,

@@ -1,3 +1,5 @@
+import {NetworkPanel} from '@/components/network/NetworkPanel';
+import {VendorSuggestions} from '@/components/network/VendorSuggestions';
 import { ArrowIcon } from "@/components/ArrowIcon";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -101,7 +103,7 @@ export default async function AdminLeadDetailPage({
         </p>
       </header>
 
-      <nav className={styles.workflowNav} aria-label="Lead workflow"><a href="#review">1. Review</a><a href="#qualify">2. Qualify</a><a href="#assignment">3. Handoff</a><a href="#followup">4. Outcome</a><a href="#notes">Notes</a></nav>
+      <nav className={styles.workflowNav} aria-label="Lead workflow"><a href="#review">1. Review</a><a href="#qualify">2. Qualify</a><a href="#assignment">3. Handoff</a>{process.env.ENABLE_NETWORK_FOLLOWUP==='true'&&<a href="#network">4. Connection</a>}<a href="#followup">{process.env.ENABLE_NETWORK_FOLLOWUP==='true'?'5':'4'}. Outcome</a><a href="#notes">Notes</a></nav>
       <h2 id="review" className={styles.sectionTitle}>1. Review the request</h2>
       <div className={styles.detailGrid}>
         <section className={styles.panel} aria-labelledby="customer-heading">
@@ -183,6 +185,7 @@ export default async function AdminLeadDetailPage({
       )}
 
       <LeadOperationsPanels lead={lead}>
+      {lead.status === "QUALIFIED" && <VendorSuggestions vendors={eligibleVendors} serviceId={lead.serviceId} locationId={lead.locationId}/>}
         <LeadAssignmentPanel
         leadId={lead.id}
         status={lead.status}
@@ -191,6 +194,7 @@ export default async function AdminLeadDetailPage({
         eligible={eligibleVendors}
         assignments={assignments}
       />
+      <NetworkPanel leadId={lead.id}/>
       </LeadOperationsPanels>
     </>
   );
