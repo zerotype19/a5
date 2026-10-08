@@ -3,7 +3,6 @@
 import { useEffect, useRef } from "react";
 import { usePathname } from "next/navigation";
 import { rememberFirstLandingPath } from "@/lib/intake/landing-page";
-import { Analytics } from "./marketing/Analytics";
 import { MobileActions } from "./marketing/MobileActions";
 import { rememberAttribution } from "@/lib/marketing/attribution";
 import { Footer } from "./Footer";
@@ -29,7 +28,6 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
       <Header />
       <div id="main-content" className={styles.content}>{children}</div>
       <Footer />
-      <Analytics />
       <MobileActions />
     </div>
   );

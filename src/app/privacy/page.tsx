@@ -61,7 +61,7 @@ export default function PrivacyPage() {
         When optional analytics is enabled, you can choose whether to allow it.
         Analytics measures page visits, call clicks and request steps; names,
         contact details, photos and project descriptions are not sent to analytics.
-        You can change your choice using Analytics preferences. The site also
+        You can change your choice using Analytics preferences in the footer. The site also
         keeps limited first- and last-visit attribution in session storage,
         including the page path, referring site and campaign identifiers when
         available. This context may be stored

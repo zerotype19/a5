@@ -21,6 +21,15 @@ export function Analytics(){
  },[enabled,consent,id,pathname]);
  function choose(value:string){try{localStorage.setItem('a5.analytics',value);}catch{}setConsent(value);if(value==='declined'&&window.gtag){window.gtag('consent','update',{analytics_storage:'denied',ad_storage:'denied'});location.reload();}}
  if(!enabled)return null;
- if(consent)return <button className={styles.preferences} onClick={()=>setConsent(null)}>Analytics preferences</button>;
- return <aside className={styles.consent} aria-label="Optional analytics"><p>Help us improve A5? Optional analytics measures page visits and request steps. Your project details are not sent to analytics. <Link href="/privacy">Privacy</Link></p><div><button onClick={()=>choose('declined')}>No thanks</button><button onClick={()=>choose('accepted')}>Allow analytics</button></div></aside>;
+ return <details className={styles.preferences}>
+  <summary>Analytics preferences</summary>
+  <div className={styles.consent}>
+   <p>Optional analytics helps us understand page visits and request steps. Your project details are not sent to analytics. <Link href="/privacy">Privacy policy</Link></p>
+   <p role="status">Analytics is {consent==='accepted'?'on':'off'}.</p>
+   <div className={styles.choices}>
+    <button onClick={()=>choose('accepted')} disabled={consent==='accepted'}>Allow analytics</button>
+    <button onClick={()=>choose('declined')} disabled={consent==='declined'}>Keep analytics off</button>
+   </div>
+  </div>
+ </details>;
 }
