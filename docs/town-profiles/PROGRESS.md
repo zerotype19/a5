@@ -69,3 +69,11 @@ East Rutherford, Edgewater, Elmwood Park, Emerson, Englewood, Englewood Cliffs, 
 ## Batch 08: ready for publication
 
 Garfield, Glen Rock, Hackensack, Harrington Park, Hasbrouck Heights, Haworth, Hillsdale, Ho-Ho-Kus, Leonia and Little Ferry. Brand positioning ideas approved all ten. Leonia's source was verified in the live browser after HTTP blocking; no credentials required. Official guidance supports specific local planning distinctions, without parcel flood claims or broad permit exemptions. Tests, lint, typecheck and Next build passed. All 160 service/town combinations retain at least ten active emailed mapped vendors.
+
+## Batch 08: published and verified
+
+2026-10-08: PR #57 merged (66afebe). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 196 URLs. Eighty completed; 122 remain.
+
+## Batch 09: ready for publication
+
+Lodi, Lyndhurst, Mahwah, Maywood, Midland Park, Montvale, Moonachie, New Milford, North Arlington and Northvale. Brand positioning ideas approved all ten. Official sources support narrow local guidance; Montvale and New Milford were verified in the live browser. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed. No runtime changes.
