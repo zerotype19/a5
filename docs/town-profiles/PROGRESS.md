@@ -13,3 +13,11 @@ Validation: 303 tests passed, lint and typecheck passed, Next and Vinext builds 
 Coverage: all 160 service/town combinations have at least ten active emailed vendors with recorded matching coverage. This does not establish specialty, current availability or deliverability.
 
 The release tool defaults to dry-run, enforces exact queued IDs and reviewed digest, compares live updated_at, and records every write. Cache refresh is limited to regenerable HTML/RSC for the ten town paths and directory/county hubs. No runtime, schema, dependency, vendor or outreach changes.
+
+## Batch 01: published and verified
+
+2026-10-08: PR #50 merged (e0e8577); exact ten-record guarded release completed. Live verification: 10/10 HTTP 200, correct unique titles/descriptions, index/follow, canonicals, valid structured data, county inbound links and all 16 contextual intake links. Sitemap increased from 116 to 126 URLs. Boonton article and service cards were also inspected in a 390px browser viewport with no horizontal overflow. Ten completed; 192 remain.
+
+## Batch 02: ready for publication
+
+Jefferson Township, Kinnelon, Lincoln Park, Long Hill Township, Mendham Borough, Mendham Township, Mine Hill, Montville, Morris Plains and Mount Arlington. Current official municipal pages and Kinnelon's 2025 directory support narrow local distinctions; no fees, hours, universal permit rules or parcel flood claims copied. Brand positioning ideas editorial review approved all ten. All 160 service/town combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed. No runtime changes.

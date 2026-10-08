@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-10-08T16:11:07.167Z",
+  "meaning": "Recorded active/email/category/municipality eligibility only; not specialist coverage, availability, delivery or fulfillment.",
+  "matrix": [
+    {
+      "town": "jefferson-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "jefferson-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "jefferson-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "jefferson-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "jefferson-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "jefferson-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "jefferson-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "jefferson-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "jefferson-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "jefferson-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "jefferson-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "jefferson-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "jefferson-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "jefferson-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "jefferson-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "jefferson-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kinnelon",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "kinnelon",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "kinnelon",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "kinnelon",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "kinnelon",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "kinnelon",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "kinnelon",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "kinnelon",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kinnelon",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "kinnelon",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kinnelon",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "kinnelon",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kinnelon",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "kinnelon",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kinnelon",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "kinnelon",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lincoln-park",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "lincoln-park",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "lincoln-park",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lincoln-park",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "lincoln-park",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "lincoln-park",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "lincoln-park",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lincoln-park",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lincoln-park",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lincoln-park",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lincoln-park",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lincoln-park",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lincoln-park",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lincoln-park",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lincoln-park",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lincoln-park",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "long-hill-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "long-hill-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "long-hill-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "long-hill-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "long-hill-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "long-hill-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "long-hill-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "long-hill-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "long-hill-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "long-hill-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "long-hill-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "long-hill-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "long-hill-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "long-hill-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "long-hill-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "long-hill-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mendham-borough",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mendham-borough",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mendham-borough",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mendham-borough",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mendham-borough",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mendham-borough",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mendham-borough",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mendham-borough",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mendham-borough",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mendham-borough",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mendham-borough",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mendham-borough",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mendham-borough",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mendham-borough",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mendham-borough",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mendham-borough",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mendham-township",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mendham-township",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mendham-township",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mendham-township",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mendham-township",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mendham-township",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mendham-township",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mendham-township",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mendham-township",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mendham-township",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mendham-township",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mendham-township",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mendham-township",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mendham-township",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mendham-township",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mendham-township",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mine-hill",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mine-hill",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mine-hill",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mine-hill",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mine-hill",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mine-hill",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mine-hill",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mine-hill",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mine-hill",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mine-hill",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mine-hill",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mine-hill",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mine-hill",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mine-hill",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mine-hill",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mine-hill",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "montville",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "montville",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "montville",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "montville",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "montville",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "montville",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "montville",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "montville",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "montville",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montville",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "montville",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montville",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "montville",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "montville",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "montville",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montville",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "morris-plains",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "morris-plains",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "morris-plains",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "morris-plains",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "morris-plains",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "morris-plains",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "morris-plains",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "morris-plains",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "morris-plains",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "morris-plains",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "morris-plains",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "morris-plains",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "morris-plains",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "morris-plains",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "morris-plains",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "morris-plains",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mount-arlington",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mount-arlington",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mount-arlington",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mount-arlington",
+      "service": "painting",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "mount-arlington",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mount-arlington",
+      "service": "tile",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "mount-arlington",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mount-arlington",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mount-arlington",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mount-arlington",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "mount-arlington",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mount-arlington",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mount-arlington",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "mount-arlington",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "mount-arlington",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "mount-arlington",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 12
+    }
+  ]
+}
