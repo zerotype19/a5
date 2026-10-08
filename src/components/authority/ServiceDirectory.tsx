@@ -18,7 +18,7 @@ export async function ServiceDirectory({by, records}: {by: "service" | "town"; r
 function Services({pages}:{pages:ContentPageRecord[]}){
   const groups = SERVICES;
   return <main className={template.page}>
-    <PageIntro eyebrow="A5 home services" title="The right help for your home." description="Browse by service or town, explore common repairs, and send one request to A5. We review the details and help coordinate a preferred local vendor. Availability is confirmed after review." />
+    <PageIntro eyebrow="A5 home services" title="The right help for your home." description="Browse by service or town, explore common repairs, and send one request to A5. We review the details and forward your request to a local vendor, who discusses the work and scheduling directly with you." />
     <nav className={styles.switcher} aria-label="Browse home services"><Link aria-current="page" href="/services">By service</Link><Link href="/home-services">By town</Link><Link href="/guides">Planning guides</Link></nav>
     <div className={styles.grid}>{groups.map(group => {
       const hub = pages.find(p => p.page_type === "SERVICE" && p.primary_service_id === group.id);

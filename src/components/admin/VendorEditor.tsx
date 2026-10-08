@@ -18,7 +18,7 @@ export function VendorEditor({ vendor, error }: { vendor?: VendorCoverage | null
       <label className={styles.fieldLabel}>Email<input name="email" type="email" defaultValue={vendor?.email ?? ""} /></label>
       <label className={styles.fieldLabel}>Website<input name="website" defaultValue={vendor?.website ?? ""} /></label>
     </div></fieldset>
-    <fieldset className={styles.panel}><legend>2. Service coverage</legend><p className={styles.mutedCopy}>Record the work and towns this provider covers.</p><div className={styles.formGrid}>
+    <fieldset className={styles.panel}><legend>2. Service coverage</legend><p className={styles.mutedCopy}>Record advertised services and towns to help choose where to forward leads.</p><div className={styles.formGrid}>
       <fieldset><legend>Services</legend><div className={styles.checkboxGrid}>{SERVICES.map(service => <label key={service.id} className={styles.checkLabel}><input type="checkbox" name="serviceIds" value={service.id} defaultChecked={vendor?.serviceIds.includes(service.id) ?? false} />{service.name}</label>)}</div></fieldset>
       <VendorLocationPicker initialIds={vendor?.locationIds}/>
     </div></fieldset>
@@ -32,7 +32,7 @@ export function VendorEditor({ vendor, error }: { vendor?: VendorCoverage | null
       <label className={styles.fieldLabel}>Source URL<input name="sourceUrl" defaultValue={vendor?.sourceUrl ?? ""} /></label>
       <label className={styles.fieldLabel}>Discovery notes<textarea name="discoveryNotes" rows={3} defaultValue={vendor?.discoveryNotes ?? ""} /></label>
     </div></details></fieldset>
-    <fieldset className={styles.panel}><legend>4. Working relationship</legend><p className={styles.mutedCopy}>Confirm the current relationship and availability before changing these settings.</p><div className={styles.formGrid}>
+    <fieldset className={styles.panel}><legend>4. Working relationship</legend><p className={styles.mutedCopy}>These fields record relationship status. They do not block manual assignment or forwarding free leads; no prior availability check is required. Saving without an email marks the vendor inactive. After adding an email, choose Active to resume forwarding.</p><div className={styles.formGrid}>
       <label className={styles.fieldLabel}>Status<select name="status" defaultValue={vendor?.status ?? "DISCOVERED"}>{VENDOR_STATUSES.map(status => <option key={status} value={status}>{formatStatus(status)}</option>)}</select></label>
       <label className={styles.checkLabel}><input type="checkbox" name="acceptingLeads" defaultChecked={vendor?.acceptingLeads ?? false} />Accepting leads</label>
     </div></fieldset>

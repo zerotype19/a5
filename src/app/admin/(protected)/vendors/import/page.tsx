@@ -8,7 +8,7 @@ export default function VendorImportPage() {
   return (
     <>
       <Link className={styles.backLink} href="/admin/vendors"><ArrowIcon direction="left" /> All vendors</Link>
-      <AdminPageHeader title="Import vendor candidates" description="Upload your research, review the validation results, then import. New records start as discovered and are not activated." />
+      <AdminPageHeader title="Import vendor candidates" description="Upload your research, review the validation results, then import. Rows with email start as discovered; rows without email are inactive until an address is added." />
       <VendorImportForm />
     </>
   );

@@ -12,8 +12,8 @@ export function VendorImportForm() {
     <form className={styles.form} action={action}>
       <p className={styles.mutedCopy}>
         Columns: {VENDOR_IMPORT_COLUMNS.join(", ")}. Separate several services
-        or towns with semicolons. Every imported row is DISCOVERED and is not
-        accepting leads.
+        or towns with semicolons. Rows with email start as DISCOVERED. Rows without email are
+        INACTIVE until an address is added.
       </p>
       <label className={styles.fieldLabel}>
         CSV file
@@ -32,7 +32,7 @@ export function VendorImportForm() {
       {result && !result.fileError ? (
         <div>
           <p>
-            Imported {result.imported} as DISCOVERED. Rejected{" "}
+            Imported {result.imported} vendor records. Rejected{" "}
             {result.rejected.length}.
           </p>
           {result.rejected.length > 0 ? (

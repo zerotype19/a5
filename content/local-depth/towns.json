@@ -1,0 +1,152 @@
+[
+  {
+    "location":"ridgewood",
+    "focus":"Front walks, garden edges and street-tree coordination",
+    "description":"Plan Ridgewood home repairs, front-walk improvements and garden work with useful project details and Village resources. Send one request to a local vendor.",
+    "answer":"For a Ridgewood project, separate the work on your property from anything involving a curb, public sidewalk or street tree. A5 reviews your request and forwards it to a local vendor. Use the Village resources below to clarify the public-facing part of a project before agreeing on the final scope.",
+    "heading":"Plan the whole front approach, not just the damaged spot",
+    "paragraphs":["A loose step, uneven walk and crowded planting bed may look like one job, but they can involve different work. Describe the route from the curb to the door, identify the section you want changed, and say whether the problem is a small repair or part of a wider refresh. Include a wide view with the house entrance, then a closer view of the affected surface.","Ridgewood’s Engineering Forms page provides separate resources for curb and sidewalk work, tree permits, soil moving and stormwater work. The Village’s Parks and Shade Tree division handles Village-owned street trees. These are useful starting points when a landscaping or masonry request touches the street edge; ask the Village which office and process apply to your property."],
+    "projects":[
+      {"title":"Steps and walkways","body":"Photograph both ends of the repair area and any nearby tree. Tell the mason whether you want the existing appearance retained or a broader replacement priced. Ask the estimate to separate demolition, base work, surface materials and cleanup; a photo alone cannot establish why a surface moved.","service":"masonry"},
+      {"title":"Beds beside the front walk","body":"List the plants to keep, the areas you want cleared and how materials can reach the yard. If a tree or root area is involved, identify it in the request so the landscaping scope can be separated from any specialist tree work. Do not assume routine bed cleanup includes tree removal.","service":"landscaping"},
+      {"title":"Door, hardware and trim repairs","body":"For a smaller entrance refresh, list sticking doors, loose handles and damaged trim separately. Show the complete doorway and the individual item. That helps a vendor discuss a practical small-job scope rather than guessing that the entire entry needs replacement.","service":"handyman"}
+    ],
+    "question":"Who should I ask about a Ridgewood sidewalk or street tree?",
+    "response":"Use Village Engineering for the current curb/sidewalk and related application resources, and Parks and Shade Tree for Village-owned street-tree questions. Describe the exact location and proposed work. A5 forwards the service request; the Village determines which local requirements apply.",
+    "sources":[
+      {"title":"Ridgewood Engineering Forms","url":"https://www.ridgewoodnj.net/365/Engineering-Forms","publisher":"Village of Ridgewood","supports":"Separate curb/sidewalk, tree, soil-moving and stormwater application resources."},
+      {"title":"Ridgewood Parks and Shade Tree","url":"https://www.ridgewoodnj.net/183/Parks-Shade-Tree","publisher":"Village of Ridgewood","supports":"Village-owned street-tree care is handled by the municipal division."}
+    ]
+  },
+  {
+    "location":"montclair",
+    "focus":"Repair planning for exterior character and essential home systems",
+    "description":"Plan Montclair painting, trim and home repairs with local preservation and home-improvement resources. Share your project and connect with a local vendor.",
+    "answer":"Start a Montclair repair request by distinguishing the item that needs fixing from any change you want to make to its appearance. A5 forwards your project to a local vendor. For a locally designated historic property, consult the Township’s design resources early; for essential repairs, its home-improvement program may also be worth checking separately.",
+    "heading":"Keep repair decisions separate from design changes",
+    "paragraphs":["When paint is failing around a window or porch, a request for repainting can hide several decisions: how much surface needs preparation, whether damaged trim will be repaired, and whether the owner wants the same appearance afterward. Share those decisions separately. A vendor can then explain which parts of the estimate cover repair and which cover a different finish or material.","Montclair publishes design guidelines for locally landmarked properties and districts. They offer a local reference for maintenance and rehabilitation planning; they do not mean every older Montclair house has the same designation. Check the actual property rather than relying on its age or style.","The Township also publishes a Home Improvement Program for qualifying households and eligible repairs. If this may apply to you, ask the program directly about current eligibility and the process before assuming a privately arranged job will qualify. An A5 request is separate from a program application and does not establish funding eligibility."],
+    "projects":[
+      {"title":"Exterior paint and trim","body":"Send a full view of the elevation and close-ups of damaged trim or peeling areas. Say whether existing details should be retained and identify any previous repair. Ask for preparation, repair allowances and finish coats to be described separately.","service":"painting"},
+      {"title":"Walls after a leak repair","body":"Explain whether the source of moisture has already been assessed, and provide the approximate affected wall or ceiling area. Ask the vendor to separate the patch, surface preparation and repainting scope so the finished result is clear.","service":"drywall"},
+      {"title":"Essential fixture repairs","body":"Name the leaking or unreliable fixture and what you have noticed. If you are exploring Township repair assistance, make that clear before scheduling work, and follow the program’s own instructions about estimates and approval.","service":"plumbing"}
+    ],
+    "question":"Does an older Montclair home automatically need historic review?",
+    "response":"Do not infer designation from age alone. The Township’s historic design guidance addresses locally landmarked properties and districts. Check your property’s status with the Township and describe the proposed change before ordering materials.",
+    "sources":[
+      {"title":"Montclair Historic Design Guidelines","url":"https://www.montclairnjusa.org/Government/Departments/Planning-Community-Development/Historic-Preservation/Historic-Design-Guidelines","publisher":"Township of Montclair","supports":"Guidelines apply to locally landmarked properties and districts; maintenance and rehabilitation planning resources."},
+      {"title":"Montclair Home Improvement Program","url":"https://www.montclairnjusa.org/News-articles/News/Home-Improvement-Program-Workshops","publisher":"Township of Montclair","supports":"Income-qualified home repair program with eligible work; no funding or eligibility promise made here."}
+    ]
+  },
+  {
+    "location":"jersey-city",
+    "focus":"Facade work, shared access and the local review sequence",
+    "description":"Plan Jersey City facade, entry and interior repairs with shared-access details and official zoning and preservation resources. Request a local vendor introduction.",
+    "answer":"For a Jersey City project, state whether the work is inside your unit, on the building exterior or in a shared area. A5 reviews the request and forwards it to a local vendor. Resolve building authorization and any applicable City review alongside the estimate so the vendor can price the work you can actually proceed with.",
+    "heading":"Give the vendor a clear boundary for the job",
+    "paragraphs":["A front step, hallway or exterior wall may serve more than one household. Explain which part of the property you control and who can authorize work elsewhere. Include any building-manager contact process, access window or material-delivery restriction in your project description. These practical details help distinguish a small private repair from a building-wide project.","Jersey City’s Historic Preservation page provides district and landmark resources, and its Zoning page describes the Zoning Review Application process. Use these official resources to check the property and proposed work before treating an exterior change as an ordinary cosmetic job. If a property is historic, ask City staff how the preservation and construction review steps fit your project; this guide does not make that determination."],
+    "projects":[
+      {"title":"Front steps, masonry and facade details","body":"Show the complete entrance and a close-up of the affected masonry. Describe whether the repair will change the visible material, shape or color. Ask the contractor to distinguish repair from replacement and identify what supporting photos or drawings they need for an estimate.","service":"masonry"},
+      {"title":"Interior wall and ceiling work","body":"Identify the unit and room, the affected area and any completed leak repair. Say how workers will enter, where they can stage materials and whether neighboring or shared spaces need protection. Avoid putting access codes or private building instructions in a public review.","service":"drywall"},
+      {"title":"Entry lights and common-area fixtures","body":"State whether the fixture is in your unit or a shared area, and who has authority to approve changes. Photograph the existing fixture safely. Ask the vendor what building access and coordination are needed before the visit.","service":"electrical"}
+    ],
+    "question":"What should I check before changing the outside of a Jersey City building?",
+    "response":"Check the City’s property, zoning and historic-preservation resources and describe the specific proposed change to the appropriate office. For a shared building, also establish who can authorize the work. A vendor estimate and an A5 request do not substitute for those decisions.",
+    "sources":[
+      {"title":"Jersey City Historic Preservation","url":"https://www.jerseycitynj.gov/cityhall/housinganddevelopment/cityplanning/historicpreservation","publisher":"City of Jersey City","supports":"Historic district/landmark resources and preservation review; no district-count claim copied from the internally inconsistent page."},
+      {"title":"Jersey City Zoning","url":"https://www.jerseycitynj.gov/cityhall/housinganddevelopment/zoning","publisher":"City of Jersey City","supports":"Zoning Review Application as a step for relevant construction/rehabilitation work."}
+    ]
+  },
+  {
+    "location":"parsippany-troy-hills",
+    "focus":"Distinguishing a household plumbing project from a utility issue",
+    "description":"Plan Parsippany-Troy Hills plumbing and home repairs with clear fixture details and local Water Utility resources. Send your project to A5 for vendor forwarding.",
+    "answer":"For a Parsippany-Troy Hills plumbing request, say whether the problem affects one fixture, several fixtures or the water supply more broadly. A5 can forward a household service request to a local vendor. A suspected water-main issue belongs with the Township Water Utility; use its official contact instructions rather than waiting for an A5 referral.",
+    "heading":"Start with where the problem appears",
+    "paragraphs":["A dripping faucet is a different starting point from a change noticed at every tap. Record which fixtures are affected, when you first noticed the change and whether any recent work took place. Describe observations without trying to identify the failed component yourself. A clear account helps the vendor decide what to inspect and what information to request.","The Parsippany-Troy Hills Water Utility publishes contacts for reporting leaks or water-main breaks, along with service-line information, water-system notices and water-quality guidance. Check the current utility page if the issue may extend beyond an individual fixture. This page does not diagnose water quality or determine whether a pipe belongs to the homeowner or utility."],
+    "projects":[
+      {"title":"A faucet or toilet repair","body":"Provide the fixture type, a model label if easy to see, and a photo of the area around it. Tell the plumber whether you want a repair assessed or already have a replacement fixture. Ask whether supplying your own fixture changes the estimate or warranty discussion.","service":"plumbing"},
+      {"title":"A wall opened during plumbing work","body":"Once the plumbing scope is understood, describe the opening that needs closing and the surrounding finish. Ask whether the estimate includes backing, patching, preparation and painting, or whether separate trades will handle those steps.","service":"drywall"},
+      {"title":"A bathroom finish refresh","body":"Identify which items stay and which change: tile, grout, paint, trim and fixtures. Include the room’s approximate size and photos showing transitions between materials. Establish the order of work so finished surfaces are not completed before underlying repairs.","service":"tile"}
+    ],
+    "question":"Should I send a suspected water-main problem to A5?",
+    "response":"Use the Parsippany-Troy Hills Water Utility’s official reporting instructions for a suspected main leak or wider utility issue. A5 is a lead-forwarding service, not the utility or emergency dispatch. For a household fixture project, include the affected fixture and observations in your request.",
+    "sources":[
+      {"title":"Parsippany-Troy Hills Water Utility","url":"https://www.parsippany.net/Department/Index?menuId=h1G10m-zm44%3D","publisher":"Township of Parsippany-Troy Hills","supports":"Utility reporting contacts and service-line/water-system guidance; no rates, medical assurances or DIY repair instructions reproduced."}
+    ]
+  },
+  {
+    "location":"wayne",
+    "focus":"Water-related repairs and property-specific flood information",
+    "description":"Plan Wayne home repairs with clear water-damage details, project sequencing and official flood-information resources. Request a local vendor through A5.",
+    "answer":"For a Wayne repair after water intrusion, describe the event and separate the damaged finishes from the unresolved cause. A5 forwards the service request to a local vendor. Check the Township’s property-specific flood information when relevant before deciding the scope of reconstruction; not every property has the same conditions.",
+    "heading":"Define the repair after the cause has been considered",
+    "paragraphs":["Water marks, damaged drywall and an outdoor drainage concern should not be compressed into one request for a paint touch-up. Explain what happened, which rooms or surfaces were affected and whether anyone has assessed the cause. Include photographs taken safely and note any previous work or reports. Ask the provider which part of the problem their estimate addresses.","Wayne publishes an interactive mapping route and an Engineering contact for flood information. Its flood-protection page also directs owners to consult the Building Department about work on properties within flood areas. Use those resources for the actual property; neither a town name nor an A5 form can establish flood-zone status or the approvals for a repair."],
+    "projects":[
+      {"title":"Drywall and painting after a resolved leak","body":"Identify what was removed, what remains damaged and any assessment of the original leak. Ask the vendor how they will decide when the surface is ready for finishing and whether matching the adjoining texture and paint is included.","service":"drywall"},
+      {"title":"Walkways or yard areas affected by water","body":"Show the whole area, the direction you observed water moving and the surfaces you want repaired. Do not assume a landscaping estimate includes an engineered drainage solution. Ask whether further assessment is needed before changing grades or rebuilding a surface.","service":"landscaping"},
+      {"title":"Plumbing assessment before cosmetic work","body":"State whether the issue appeared during fixture use, heavy rain or an unknown event. Share any prior plumber’s findings. Keep repair of the cause and restoration of the room as separate estimate items so their sequence is explicit.","service":"plumbing"}
+    ],
+    "question":"Can this page tell me whether my Wayne home is in a flood area?",
+    "response":"No. Use Wayne’s official mapping and Engineering resources for the specific property, and ask the Building Department about the proposed work where flood-area review may apply. This page helps prepare a service request; it does not determine risk, insurance coverage or permit requirements.",
+    "sources":[
+      {"title":"Wayne Flood Protection Information","url":"https://waynetownship.com/flood-protection-information/","publisher":"Township of Wayne","supports":"Property-specific GIS and Engineering resources; Building Department consultation for work in flood areas. Insurance, thresholds and technical mitigation advice are intentionally omitted."}
+    ]
+  },
+  {
+    "location":"sparta",
+    "focus":"Plumbing requests with the right water and wastewater context",
+    "description":"Plan Sparta plumbing, bathroom and yard projects with the right utility, well or septic context and Township resources. Request a local vendor through A5.",
+    "answer":"For a Sparta plumbing or yard project, include what you know about the property’s water and wastewater systems. A5 forwards your request to a local vendor. The Township provides separate utility and well/septic resources, so identifying the system helps keep a fixture repair distinct from work that needs a different specialist.",
+    "heading":"Include the system behind the fixture",
+    "paragraphs":["If you know whether the home uses a private well or a utility connection, and septic or sewer, include that information. If you do not know, say so rather than guessing. Describe whether the request is a fixture replacement, an intermittent problem or a broader change. A general plumbing request does not establish that well or septic work is within a vendor’s scope.","Sparta’s Health Services page provides access to septic and well records and asks users to use old block and lot information for those searches. Its Water and Sewer Utility page provides utility information and a link to state private-well testing resources. These are useful references to assemble before a project; A5 does not test water or evaluate a septic system."],
+    "projects":[
+      {"title":"Fixture or bathroom plumbing","body":"Identify the fixture and describe the symptom or desired replacement. Add your known water/wastewater setup and any previous assessment. Ask the vendor whether the work is within their service scope before arranging a visit involving a well or septic component.","service":"plumbing"},
+      {"title":"Landscaping near a known system area","body":"Explain what is being planted, removed or resurfaced and identify any known well or septic features in the area. Gather existing records before discussing excavation or equipment access. Ask what additional locating or specialist input is needed for the proposed work.","service":"landscaping"},
+      {"title":"Tile and wall restoration","body":"When the underlying plumbing job is complete, list the surfaces that need restoring and the finish you want. Include photos of material transitions and ask who handles waterproofing details, patching and cleanup within the agreed scope.","service":"tile"}
+    ],
+    "question":"Where can I look for Sparta well or septic records?",
+    "response":"Start with Sparta’s Health Services page and its records resource. The Township notes that old block and lot information is used for these searches. Include existing records with your discussion with the appropriate specialist; do not assume a standard plumbing referral covers every system component.",
+    "sources":[
+      {"title":"Sparta Health Services — well and septic records","url":"https://spartanj.org/196/Health-Services","publisher":"Sparta Township","supports":"Records search and use of old block/lot information."},
+      {"title":"Sparta Water and Sewer Utility","url":"https://www.spartanj.org/209/Water-Sewer-Utility","publisher":"Sparta Township","supports":"Utility resources and link to state private-well testing information; no testing recommendations or rate claims added."}
+    ]
+  },
+  {
+    "location":"westfield",
+    "focus":"Preserving exterior details while defining a manageable repair scope",
+    "description":"Plan Westfield trim, painting and entry repairs with clear repair-versus-replacement choices and local historic-design resources. Send A5 your project.",
+    "answer":"For a Westfield exterior repair, identify the details you want to retain before comparing replacement options. A5 forwards the request to a local vendor. If the property is locally designated historic, use the Town’s design and application resources to clarify the proposed work; a house’s appearance alone does not establish its status.",
+    "heading":"Compare the finished result, not only the repair price",
+    "paragraphs":["Two estimates for a porch or trim repair may describe different outcomes. One may retain existing pieces; another may replace a wider section with a different material. Photograph the complete feature and list what matters to you: keeping the profile, matching adjacent paint, retaining hardware or changing the appearance. Ask each vendor to price the same stated scope where possible.","Westfield’s Historic Preservation Commission publishes design guidance and reviews work on designated properties. The Town’s Certificate of Appropriateness page describes separate application routes for major and certain minor work on locally designated properties. Ask the Town which route applies rather than deciding from the size or cost of a job alone."],
+    "projects":[
+      {"title":"Trim repair before painting","body":"Mark the visibly damaged pieces in a photo and describe whether you want the existing profile retained. Ask the estimate to distinguish repair, replacement, preparation and finishing. Record any material substitutions before work begins.","service":"painting"},
+      {"title":"Doors and porch details","body":"Describe the function that needs restoring, such as a latch that will not engage, as well as the appearance you want preserved. Include the full assembly and a close-up. Small hardware work and replacement of a complete door are different scopes.","service":"handyman"},
+      {"title":"Steps and adjacent masonry","body":"Photograph the entrance from the front and side, identify the loose or damaged section and show adjoining materials. Ask what the estimate includes for matching, removal and cleanup, and whether a repair can be assessed separately from a complete rebuild.","service":"masonry"}
+    ],
+    "question":"Does a small exterior change on a designated Westfield property have a simpler review route?",
+    "response":"Westfield publishes a minor-work/expedited application alongside its longer Certificate of Appropriateness form. The Town determines which process fits the proposed work. Use its current instructions and describe the material, appearance and scope rather than assuming every small job qualifies.",
+    "sources":[
+      {"title":"Westfield Historic Preservation Commission","url":"https://dpw.westfieldnj.gov/397/Historic-Preservation-Commission","publisher":"Town of Westfield","supports":"Design guidance and review of proposed work on designated properties."},
+      {"title":"Westfield Certificate of Appropriateness","url":"https://westfieldnj.gov/768/Certificate-of-Appropriateness","publisher":"Town of Westfield","supports":"Long and minor/expedited forms for locally designated properties, with municipal determination."}
+    ]
+  },
+  {
+    "location":"phillipsburg",
+    "focus":"Exterior repair scope, historic resources and worksite planning",
+    "description":"Plan Phillipsburg masonry, painting and home repairs with local historic resources and a clear worksite plan. Forward your request to a local vendor through A5.",
+    "answer":"For a Phillipsburg exterior project, describe both the repair and how the work will be carried out around the entrance, sidewalk and neighboring property. A5 forwards your request to a local vendor. The Town’s historic and building resources can help you identify the relevant review before the final work scope is agreed.",
+    "heading":"Make access and cleanup part of the estimate",
+    "paragraphs":["An exterior repair involves more than the finished wall or steps. Tell the vendor how materials can reach the work area, whether an entrance must remain usable and where debris can be handled. Ask the estimate to identify surface protection, removal, cleanup and any temporary access arrangements. Do not assume permission to use adjoining property is included in a contractor’s price.","Phillipsburg’s Historic Preservation page links district information, application materials and design guidance. Its Building Department page describes project-review resources and a Clean Worksite Certification for renovation, alteration and addition work. Use the current Town instructions to clarify your particular project; this page does not decide which approvals apply."],
+    "projects":[
+      {"title":"Masonry beside an entrance","body":"Include a wide photo showing the entrance and adjoining path, then close-ups of the damaged area. Explain how people normally enter the home. Ask the mason whether the scope is a localized repair or a wider rebuild and how access will be managed during the work.","service":"masonry"},
+      {"title":"Exterior paint and surface preparation","body":"Show the full wall or trim area and describe the finish you want to retain or change. Ask for preparation and damaged-material repairs to be distinguished from coating work. For a property with historic status, assemble the Town’s relevant guidance before settling on a different appearance.","service":"painting"},
+      {"title":"Interior finishing after a larger repair","body":"List the walls, trim or doors affected by the earlier work. State which rooms need to stay usable and where materials can be staged. Ask the vendor to define the finished appearance and cleanup so a small restoration job does not leave missing steps between trades.","service":"handyman"}
+    ],
+    "question":"What local information should I gather before a Phillipsburg exterior repair?",
+    "response":"Start with the Town’s building and historic-preservation resources, the property’s location and photos of the proposed work. Ask which application or worksite requirements apply. Agree on access, material handling and cleanup with the vendor as part of the project scope.",
+    "sources":[
+      {"title":"Phillipsburg Historic Preservation Commission","url":"https://phillipsburgnj.org/historic-preservation-commission-2/","publisher":"Town of Phillipsburg","supports":"District, application and design-guideline resources."},
+      {"title":"Phillipsburg Inspections and Building Department","url":"https://phillipsburgnj.org/our-town/departments/inspections/","publisher":"Town of Phillipsburg","supports":"Building review resources and Clean Worksite Certification; no broad permit conclusion copied."}
+    ]
+  }
+]

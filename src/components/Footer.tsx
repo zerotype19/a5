@@ -32,7 +32,7 @@ export function Footer() {
       </ul></nav>
     </div>
     <div className={styles.bottom}>
-      <p className={styles.role}>A5 coordinates introductions. Providers discuss estimates and carry out the work. Availability is confirmed after review.</p>
+      <p className={styles.role}>A5 reviews and forwards service requests. Vendors discuss the work, estimates and scheduling directly with you.</p>
       <div className={styles.legalRow}><p>© {new Date().getFullYear()} {SITE.legalName}</p><nav aria-label="Legal"><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link></nav></div>
       <Analytics />
     </div>

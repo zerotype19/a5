@@ -1,3 +1,4 @@
+import {hasVendorEmail} from "./vendor-contact.ts";
 import {readAllRows} from "./read-all.ts";
 import { getLocationById, type LocationId } from "../../../config/locations.ts";
 import { getServiceById, type ServiceId } from "../../../config/services.ts";
@@ -145,7 +146,7 @@ export async function loadEligibleVendors(
   leadId?: string,
 ): Promise<VendorCoverage[]> {
   void lead;
-  const vendors = await loadVendors();
+  const vendors = (await loadVendors()).filter(vendor => hasVendorEmail(vendor.email));
   if (!leadId) return vendors;
   const admin = getSupabaseAdmin();
   const passed = await admin

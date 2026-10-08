@@ -33,7 +33,7 @@ export function LeadAssignmentPanel({
       <h2 id="assignment-heading" className={styles.sectionTitle}>
         3. Assign & notify
       </h2>
-      <p className={styles.mutedCopy}>Choose a provider, then send the handoff email. A saved assignment remains in place if email fails; the provider must still accept.</p>
+      <p className={styles.mutedCopy}>Choose a vendor and forward the free lead. No prior vendor confirmation or availability check is required. Email failures remain actionable; Accept/Pass records the response after forwarding.</p>
       {status === "NEW" && <p className={styles.empty}>Qualify the request in step 2 to choose a provider.</p>}
       {current ? (
         <div className={styles.panel}>
@@ -86,7 +86,7 @@ export function LeadAssignmentPanel({
                 Assign vendor
                 <select name="vendorId" required defaultValue="">
                   <option value="" disabled>
-                    Choose any vendor
+                    Choose a vendor with email
                   </option>
                   {eligible.map((vendor) => {
                     const labels = coverageLabels(vendor);
@@ -102,7 +102,7 @@ export function LeadAssignmentPanel({
               <SubmitButton pendingLabel="Assigning…">Assign vendor</SubmitButton>
             </form>
           ) : (
-            <p className={styles.empty}>No vendors in the database.</p>
+            <p className={styles.empty}>No vendors with a usable email are available for this lead. Add a business email in Vendors; vendors who passed this lead remain excluded.</p>
           )
       ) : null}
       <details className={styles.secondaryDetails}><summary>Assignment history ({assignments.length})</summary>

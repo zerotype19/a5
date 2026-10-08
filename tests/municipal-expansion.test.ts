@@ -21,10 +21,17 @@ const now='2026-10-08T00:00:00Z';
 const lead=(id:string,status:QueueLead['status'],follow_up_at?:string):QueueLead=>({id,status,created_at:'2026-10-01T00:00:00Z',follow_up_at});
 const assigned=(id:string,notice:string|null):QueueAssignment=>({id:`a-${id}`,lead_id:id,status:'ASSIGNED',assigned_at:'2026-10-07T00:00:00Z',notification_status:notice,notification_sent_at:'2026-10-07T00:00:00Z'});
 test('work queue prioritizes failures and due work; closed leads never return',()=>{const rows=buildLeadWorkQueue([lead('new','NEW'),lead('failed','ASSIGNED'),lead('due','CONTACTED','2026-10-07T00:00:00Z'),lead('closed','WON'),lead('qualified','QUALIFIED')],[assigned('failed','FAILED')],[],now);assert.equal(rows[0].id,'failed');assert.equal(rows[1].id,'due');assert.ok(!rows.some(r=>r.id==='closed'));assert.equal(rows.find(r=>r.id==='qualified')?.action,'Assign a vendor');});
-test('sent email without a current capability needs renewal; future follow-up is not due',()=>{const rows=buildLeadWorkQueue([lead('expired','ASSIGNED'),lead('waiting','ASSIGNED'),lead('future','ESTIMATE','2026-11-01T00:00:00Z')],[assigned('expired','SENT'),assigned('waiting','SENT')],[{assignment_id:'a-expired',expires_at:'2026-10-07T00:00:00Z',revoked_at:null},{assignment_id:'a-waiting',expires_at:'2026-10-09T00:00:00Z',revoked_at:null}],now);assert.equal(rows.find(r=>r.id==='expired')?.action,'Renew vendor handoff');assert.equal(rows.find(r=>r.id==='waiting')?.action,'Awaiting vendor response');assert.equal(rows.find(r=>r.id==='future')?.action,'Scheduled follow-up');});
-test('vendor tasks do not mistake discovery for readiness',()=>{const rows=buildVendorWorkQueue([{id:'a',businessName:'Candidate',status:'DISCOVERED',email:'business@test.com',phone:null},{id:'b',businessName:'Missing contact',status:'ACTIVE',email:null,phone:'2015550100'},{id:'c',businessName:'Paused',status:'PAUSED',email:null,phone:null}]);assert.equal(rows.length,2);assert.equal(rows.find(r=>r.id==='vendor-a')?.action,'Confirm vendor readiness');});
-test('enriched public contact stays in confirmation queue until its pending note is resolved',()=>{
- const vendor={id:'pending',businessName:'Public contact',status:'ACTIVE',email:'contact@example.test',phone:null,discoveryNotes:'Contact confirmation pending. Public source only.'};
- assert.equal(buildVendorWorkQueue([vendor])[0]?.action,'Confirm vendor email');
- assert.equal(buildVendorWorkQueue([{...vendor,discoveryNotes:'Recipient confirmed by Kevin on October 8.'}]).length,0);
+test('forwarded leads stay recorded without making acceptance or link renewal a prerequisite',()=>{const rows=buildLeadWorkQueue([lead('expired','ASSIGNED'),lead('waiting','ASSIGNED'),lead('future','ESTIMATE','2026-11-01T00:00:00Z')],[assigned('expired','SENT'),assigned('waiting','SENT')],[{assignment_id:'a-expired',expires_at:'2026-10-07T00:00:00Z',revoked_at:null},{assignment_id:'a-waiting',expires_at:'2026-10-09T00:00:00Z',revoked_at:null}],now);assert.equal(rows.find(r=>r.id==='expired')?.action,'Forwarded · link expired');assert.equal(rows.find(r=>r.id==='waiting')?.action,'Forwarded to vendor');assert.equal(rows.find(r=>r.id==='future')?.action,'Scheduled follow-up');});
+test('free lead sourcing queues missing or invalid emails, not vendor confirmation',()=>{
+ const rows=buildVendorWorkQueue([
+  {id:'a',businessName:'Discovered',status:'DISCOVERED',email:'business@test.com',phone:null},
+  {id:'b',businessName:'Missing contact',status:'ACTIVE',email:null,phone:null},
+  {id:'inactive',businessName:'Inactive without email',status:'INACTIVE',email:null,phone:null},
+  {id:'c',businessName:'Paused',status:'PAUSED',email:null,phone:null},
+  {id:'d',businessName:'Bad email',status:'APPROVED',email:'broken',phone:null},
+  {id:'e',businessName:'Public contact',status:'ACTIVE',email:'public@example.test',phone:null,discoveryNotes:'Contact confirmation pending.'}
+ ]);
+ assert.deepEqual(rows.map(r=>r.id).sort(),['vendor-b','vendor-d','vendor-inactive']);
+ assert.equal(rows.find(r=>r.id==='vendor-b')?.action,'Find business email');
+ assert.equal(rows.find(r=>r.id==='vendor-d')?.action,'Correct email address');
 });
