@@ -8,9 +8,9 @@ export function AssignmentVendorSelect({vendors}:{vendors:(Pick<VendorCoverage,'
  const [selected,setSelected]=useState('');
  const vendor=vendors.find(v=>v.id===selected);
  return <>
-  <label className={styles.fieldLabel}>Assign vendor
+  <label className={styles.fieldLabel}>Assign vendor · {vendors.length} matching providers
    <select name="vendorId" required value={selected} onChange={e=>setSelected(e.target.value)} aria-describedby={vendor?'vendor-fit-notes':undefined}>
-    <option value="" disabled>Choose a vendor with email</option>
+    <option value="" disabled>Choose a matching vendor</option>
     {vendors.map(v=><option key={v.id} value={v.id}>{v.businessName} — {v.status}</option>)}
    </select>
   </label>

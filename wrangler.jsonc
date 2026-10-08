@@ -24,6 +24,7 @@
     "ENABLE_LEAD_OUTCOMES": "true",
     "ENABLE_VENDOR_SIGNUP": "true",
     "ENABLE_NETWORK_FOLLOWUP": "false",
+    "ENABLE_VENDOR_PROGRESS": "true",
     "A5_ACCEPTANCE_HOURS": "24",
     "OPERATIONS_ALERT_EMAIL": "hello@a5homeservices.com"
   }

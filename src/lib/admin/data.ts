@@ -88,7 +88,7 @@ export async function loadDashboard(): Promise<{
 
   const { data: statusRows, error: statusErr } = await admin
     .from("leads")
-    .select("status");
+    .select("status").is("archived_at",null);
 
   if (statusErr) {
     throw new Error(`admin_dashboard_counts:${statusErr.code ?? "error"}`);
@@ -119,7 +119,7 @@ export async function loadLeadList(options?: {
     .from("leads")
     .select(
       "id, created_at, status, service_id, service_selection_status, postal_code, location_id, urgency, customers(full_name)",
-    )
+    ).is("archived_at",null)
     .order("created_at", { ascending: false }).order("id", { ascending: false });
 
   if (options?.status) {
@@ -166,7 +166,7 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
     .from("leads")
     .select(
       "id, created_at, updated_at, status, project_description, urgency, service_id, service_selection_status, postal_code, location_id, first_landing_page, customers(id, full_name, phone, email, preferred_contact_method)",
-    )
+    ).is("archived_at",null)
     .eq("id", leadId)
     .maybeSingle();
 
@@ -177,7 +177,7 @@ export async function loadLeadDetail(leadId: string): Promise<LeadDetail | null>
 
   let outcome: LeadDetail["outcome"];
   if (process.env.ENABLE_LEAD_OUTCOMES === "true") {
-    const {data:details,error:outcomeError} = await admin.from("leads").select("estimated_project_value,actual_project_value,contacted_at,estimate_recorded_at,closed_at,loss_reason,follow_up_at,updated_at").eq("id",leadId).single();
+    const {data:details,error:outcomeError} = await admin.from("leads").select("estimated_project_value,actual_project_value,contacted_at,estimate_recorded_at,closed_at,loss_reason,follow_up_at,updated_at").is("archived_at",null).eq("id",leadId).single();
     if (outcomeError) throw new Error(`admin_lead_outcome:${outcomeError.code}`);
     // Keep the original version from the first read: a concurrent change will fail the save safely.
     outcome = {estimated:details.estimated_project_value,actual:details.actual_project_value,contactedAt:details.contacted_at,estimateAt:details.estimate_recorded_at,closedAt:details.closed_at,lossReason:details.loss_reason,followUpAt:details.follow_up_at};
@@ -343,7 +343,7 @@ export function rejectPublicPhotoCredential(input: {
 export async function loadDueFollowUps() {
   if (process.env.ENABLE_LEAD_OUTCOMES !== "true") return null;
   const {data,error,count} = await getSupabaseAdmin().from("leads")
-    .select("id,follow_up_at,status",{count:"exact"}).lte("follow_up_at",new Date().toISOString())
+    .select("id,follow_up_at,status",{count:"exact"}).is("archived_at",null).lte("follow_up_at",new Date().toISOString())
     .in("status",["QUALIFIED","ACCEPTED","CONTACTED","ESTIMATE"])
     .order("follow_up_at").order("id").limit(20);
   if(error) throw new Error(`admin_follow_ups:${error.code}`);

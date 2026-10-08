@@ -31,7 +31,7 @@ export function LeadAssignmentPanel({
       <h2 id="assignment-heading" className={styles.sectionTitle}>
         3. Assign & notify
       </h2>
-      <p className={styles.mutedCopy}>Choose a vendor and forward the free lead. No prior vendor confirmation or availability check is required. Email failures remain actionable; Accept/Pass records the response after forwarding.</p>
+      <p className={styles.mutedCopy}>Only active vendors with email and matching service and town coverage appear below. Choose one to forward the free lead. No prior vendor confirmation or availability check is required. Email failures remain actionable; Accept/Pass records the response after forwarding.</p>
       {status === "NEW" && <p className={styles.empty}>Qualify the request in step 2 to choose a provider.</p>}
       {current ? (
         <div className={styles.panel}>

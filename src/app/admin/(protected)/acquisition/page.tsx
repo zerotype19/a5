@@ -14,8 +14,8 @@ export default async function AcquisitionPage() {
   // eslint-disable-next-line react-hooks/purity
   const since = new Date(Date.now() - 30 * 86400000).toISOString();
   const [acq, queue] = await Promise.all([
-    db.from("lead_acquisition").select("first_touch,leads(status,service_id)").gte("created_at", since).limit(1000),
-    db.from("lead_notification_outbox").select("status,created_at").neq("status", "SENT").limit(1000),
+    db.from("lead_acquisition").select("first_touch,leads!inner(status,service_id)").is("leads.archived_at", null).gte("created_at", since).limit(1000),
+    db.from("lead_notification_outbox").select("status,created_at,leads!inner(id)").is("leads.archived_at", null).eq("kind", "operations_new_lead").neq("status", "SENT").limit(1000),
   ]);
   if (acq.error || queue.error) return <>{header}<p className={styles.flashError} role="alert">Reporting is temporarily unavailable. No counts are shown because the data could not be loaded.</p><Link href="/admin/leads">Return to leads</Link></>;
   const groups = new Map<string, { leads: number; won: number }>();

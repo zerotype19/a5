@@ -26,16 +26,17 @@ describe("Lead outcomes",()=>{
 describe("Operations alert delivery",()=>{
  const env={ENABLE_OPERATIONS_ALERTS:"true",NEXT_PUBLIC_SUPABASE_URL:"https://example.supabase.co",SUPABASE_SERVICE_ROLE_KEY:"test-only",RESEND_API_KEY:"test-only",OPERATIONS_ALERT_EMAIL:"hello@example.invalid"};
  const job={id:"00000000-0000-4000-8000-000000000001",lead_id:"00000000-0000-4000-8000-000000000002",public_reference:"A5-TEST"};
+ const lead={service_id:"electrical",location_id:"florham-park",postal_code:"07932",archived_at:null,customers:{email:"homeowner@example.invalid"}};
  const response=(value:unknown,status=200)=>new Response(JSON.stringify(value),{status,headers:{"Content-Type":"application/json"}});
  it("never claims or sends while disabled or misconfigured",async()=>{
   let calls=0;const request=(async()=>{calls++;throw Error("Unexpected request");}) as typeof fetch;
   assert.equal((await processOperationsAlerts({},request)).enabled,false);
   await assert.rejects(()=>processOperationsAlerts({...env,OPERATIONS_ALERT_EMAIL:""},request));assert.equal(calls,0);
  });
- it("uses a stable idempotency key and only sends the admin reference/link",async()=>{
+ it("uses a stable idempotency key and includes service and town",async()=>{
   let patch:Record<string,unknown>={};
   const request=(async(url,init)=>{
-   if(String(url).endsWith("claim_lead_notifications"))return response([job]);
+   if(String(url).includes("/rest/v1/leads?"))return response([lead]);if(String(url).endsWith("claim_lead_notifications"))return response([job]);
    if(String(url).includes("api.resend.com")){
     assert.equal(new Headers(init?.headers).get("Idempotency-Key"),`a5-operations-${job.id}`);
     const payload=JSON.parse(String(init?.body));assert.deepEqual(payload.to,[env.OPERATIONS_ALERT_EMAIL]);assert.match(payload.text,/admin\/leads\//);assert.doesNotMatch(payload.text,/customerName|project_description|phone|photos/);return response({id:"email-test"});
@@ -46,11 +47,16 @@ describe("Operations alert delivery",()=>{
  });
  it("records ambiguous delivery as failed and does not retry automatically",async()=>{
   let sends=0;let patch:Record<string,unknown>={};
-  const request=(async(url,init)=>{if(String(url).endsWith("claim_lead_notifications"))return response([job]);if(String(url).includes("api.resend.com")){sends++;throw Error("timeout");}patch=JSON.parse(String(init?.body));return response([{id:job.id}]);}) as typeof fetch;
+  const request=(async(url,init)=>{if(String(url).includes("/rest/v1/leads?"))return response([lead]);if(String(url).endsWith("claim_lead_notifications"))return response([job]);if(String(url).includes("api.resend.com")){sends++;throw Error("timeout");}patch=JSON.parse(String(init?.body));return response([{id:job.id}]);}) as typeof fetch;
   assert.equal((await processOperationsAlerts(env,request)).failed,1);assert.equal(patch.last_error,"delivery_uncertain");assert.equal(sends,1);
  });
  it("fails loudly if a successful send cannot be recorded",async()=>{
-  const request=(async(url)=>String(url).endsWith("claim_lead_notifications")?response([job]):String(url).includes("api.resend.com")?response({id:"sent"}):response([])) as typeof fetch;
+  const request=(async(url)=>String(url).includes("/rest/v1/leads?")?response([lead]):String(url).endsWith("claim_lead_notifications")?response([job]):String(url).includes("api.resend.com")?response({id:"sent"}):response([])) as typeof fetch;
   await assert.rejects(()=>processOperationsAlerts(env,request),/Delivery state update failed/);
  });
+ it("sends a receipt only to the requesting homeowner without an admin link",async()=>{
+  let sends=0;const request=(async(url,init)=>{if(String(url).endsWith('claim_lead_notifications'))return response([{...job,kind:'homeowner_receipt'}]);if(String(url).includes('/rest/v1/leads?'))return response([lead]);if(String(url).includes('api.resend.com')){sends++;const payload=JSON.parse(String(init?.body));assert.deepEqual(payload.to,[lead.customers.email]);assert.match(payload.text,/electrical in Florham Park/);assert.doesNotMatch(payload.text,/admin\/|opportunity\//);return response({id:'receipt'});}return response([{id:job.id}]);}) as typeof fetch;
+  assert.equal((await processOperationsAlerts(env,request)).sent,1);assert.equal(sends,1);
+ });
+
 });

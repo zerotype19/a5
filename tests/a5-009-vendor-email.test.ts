@@ -149,7 +149,7 @@ describe("A5-009 email privacy", () => {
     assert.match(url, /\/opportunity\/abc$/);
     const message = emailFromLeadRow();
     for (const body of [message.text, message.html]) {
-      assert.match(body, /New project opportunity/);
+      assert.match(body, /free project lead for your business/);
       assert.match(body, /Handyman/);
       assert.match(body, /Florham Park, NJ/);
       assert.match(body, /As soon as possible/);
@@ -157,7 +157,7 @@ describe("A5-009 email privacy", () => {
       assert.match(body, /Review the service, town and timing/);
       assert.ok(body.includes(url));
     }
-    assert.match(message.html, />View project<\/a>/);
+    assert.match(message.html, />Review and accept your lead<\/a>/);
     assert.doesNotMatch(message.html, /<img /i);
   });
 

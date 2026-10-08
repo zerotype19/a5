@@ -1,6 +1,6 @@
 /**
  * Assignment choice (owner, 2026-09-30).
- * Any vendor may be assigned to any lead. Coverage is shown, not enforced.
+ * Owner update: active vendors must match the requested service and town.
  * A vendor who already PASSED that lead is excluded by the caller.
  */
 
@@ -18,9 +18,7 @@ export function isVendorEligible(
   vendor: EligibilityVendor,
   lead: { serviceId: string | null; locationId: string | null },
 ): boolean {
-  void vendor;
-  void lead;
-  return true;
+  return vendor.status === "ACTIVE" && !!lead.serviceId && !!lead.locationId && vendor.serviceIds.includes(lead.serviceId) && vendor.locationIds.includes(lead.locationId);
 }
 
 export function isOpenAssignmentStatus(

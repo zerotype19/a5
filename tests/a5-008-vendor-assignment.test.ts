@@ -25,7 +25,7 @@ const base = {
 };
 
 describe("A5-008 eligibility", () => {
-  it("allows any vendor for any lead", () => {
+  it("requires active status and matching service and geography", () => {
     assert.equal(
       isVendorEligible(base, { serviceId: "masonry", locationId: "madison" }),
       true,
@@ -35,11 +35,11 @@ describe("A5-008 eligibility", () => {
         { ...base, status: "DISCOVERED", acceptingLeads: false, serviceIds: ["drywall"] },
         { serviceId: "plumbing", locationId: "east-hanover" },
       ),
-      true,
+      false,
     );
     assert.equal(
       isVendorEligible(base, { serviceId: null, locationId: null }),
-      true,
+      false,
     );
   });
 });

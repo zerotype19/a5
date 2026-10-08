@@ -743,3 +743,8 @@
 .primaryButton:disabled, .secondaryButton:disabled, .dangerButton:disabled { opacity: .6; cursor: wait; }
 
 .pagination { display: flex; justify-content: flex-end; gap: .75rem; margin-top: 1rem; }
+
+.filters a.primaryButton { color:var(--color-surface); padding:.5rem .85rem; }
+.editor fieldset.panel { min-width:0; }
+.editor fieldset.panel > legend { float:left; width:100%; padding:0; margin-bottom:1.25rem; font-size:1rem; }
+.editor fieldset.panel > legend + * { clear:both; }
