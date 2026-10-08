@@ -11,9 +11,9 @@ import styles from "./ServiceDirectory.module.css";
 import template from "@/components/templates/templates.module.css";
 
 export async function ServiceDirectory({by, records}: {by: "service" | "town"; records?: ContentPageRecord[]}) {
-  const pages = (records ?? await fetchPublishedPages()).filter(p => p.indexable && p.status === "PUBLISHED");
+  const pages = (records ?? await fetchPublishedPages()).filter(p => p.status === "PUBLISHED");
   if(by === "town") return <AreaDirectory pages={pages}/>;
-  return <Services pages={pages}/>;
+  return <Services pages={pages.filter(p => p.indexable)}/>;
 }
 function Services({pages}:{pages:ContentPageRecord[]}){
   const groups = SERVICES;

@@ -2,6 +2,16 @@
 
 **Status: directory published; fulfillment incomplete.** The website release is complete for the eight-county directory. Vendor readiness across that geography is not complete.
 
+## October 8 municipal expansion update
+
+The full 226-municipality customer directory is published. The new source-reviewed batch adds 23 DISCOVERED candidates, 36 service mappings and 2,971 municipality mappings; 17 existing blank emails were enriched. There are now 83 business records plus one test fixture, with 58 business email fields populated and 25 still missing. Public-source email presence does not confirm deliverability or the correct recipient.
+
+All 1,808 service/municipality combinations now have at least two sourced prospects with an email, based on advertised regional reach. Confirmed primary/backup fulfillment remains unverified. No new vendors were activated or contacted. Kevin owns confirmation and requests as they arrive through the [work queue](https://www.a5homeservices.com/admin/queue), with alerts at hello@a5homeservices.com.
+
+See the [current matrix](../municipal-expansion/COVERAGE-MATRIX.csv), [source ledger](../municipal-expansion/VENDOR-CANDIDATES.json), [operating guide](../municipal-expansion/OPERATING-GUIDE.md) and [release evidence](../municipal-expansion/RELEASE.md). The earlier audit below is preserved as the pre-expansion baseline, not the current inventory.
+
+## Historical baseline before import
+
 Live Supabase audit: October 8, 2026 at 00:47 UTC (October 7 Eastern). This audit made no production changes and sent no messages. Counts exclude the identified “A5 Owner Email Test” fixture where stated.
 
 | Finding | Recorded state | Interpretation |

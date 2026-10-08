@@ -2,7 +2,7 @@
 
 Owner request October 7, 2026: run the expansion playbook, build customer-facing geography pages, capture vendors and enter them into the system. Continuing existing publication/deployment authorization. Scope: all 226 municipalities in the eight existing counties and the eight existing services; preserve the historical combined Chatham page and operational ID.
 
-Status: Supabase publication/import completed October 8, 2026 UTC; application release verification in progress. Fulfillment remains unconfirmed. See OPERATING-GUIDE.md and RELEASE.md.
+Status: Supabase publication/import completed October 8, 2026 UTC; application deployed with final navigation follow-up verification in progress. Fulfillment remains unconfirmed. See OPERATING-GUIDE.md and RELEASE.md.
 
 ## Delivery
 
