@@ -125,3 +125,11 @@ Roselle, Roselle Park, Scotch Plains, Springfield, Union Township, Winfield, Blo
 ## Batch 15: ready for publication
 
 North Haledon, Passaic, Paterson, Pompton Lakes, Prospect Park, Ringwood, Totowa, Wanaque, West Milford and Woodland Park finish Passaic. Brand positioning ideas approved all ten. North Haledon and Prospect Park resources verified in live browser; Paterson narrow claims checked against official indexed preservation document text. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 15: published and verified
+
+2026-10-08: PR #64 merged (39d6960). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 266 URLs. One hundred fifty completed; 52 remain.
+
+## Batch 16: ready for publication
+
+Bayonne, East Newark, Guttenberg, Harrison, Kearny, North Bergen, Secaucus, Union City, Weehawken and West New York finish Hudson. Brand positioning ideas approved all ten. Narrow official-source claims distinguish shared heating, street work, containers and basement use. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.

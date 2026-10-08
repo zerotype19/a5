@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-10-08T18:03:23.794Z",
+  "meaning": "Recorded active/email/category/municipality eligibility only; not specialist coverage, availability, delivery or fulfillment.",
+  "matrix": [
+    {
+      "town": "bayonne",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "bayonne",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "bayonne",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "bayonne",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "bayonne",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "bayonne",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "bayonne",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "bayonne",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "bayonne",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "east-newark",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "east-newark",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "east-newark",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "east-newark",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "east-newark",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "east-newark",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "east-newark",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "east-newark",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "east-newark",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "guttenberg",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "guttenberg",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "guttenberg",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "guttenberg",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "guttenberg",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "guttenberg",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "guttenberg",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "guttenberg",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "guttenberg",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harrison",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harrison",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harrison",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harrison",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harrison",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harrison",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "harrison",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "harrison",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "harrison",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "kearny",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kearny",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kearny",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kearny",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "kearny",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kearny",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "kearny",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "kearny",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "kearny",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "north-bergen",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "north-bergen",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "north-bergen",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "north-bergen",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "north-bergen",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "north-bergen",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "north-bergen",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "north-bergen",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "north-bergen",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "secaucus",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "secaucus",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "secaucus",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "secaucus",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "secaucus",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "secaucus",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "secaucus",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "secaucus",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "secaucus",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "union-city",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "union-city",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "union-city",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "union-city",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "union-city",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "union-city",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "union-city",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "union-city",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "union-city",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "weehawken",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "weehawken",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "weehawken",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "weehawken",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "weehawken",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "weehawken",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "weehawken",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "weehawken",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "weehawken",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "west-new-york",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "west-new-york",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "painting",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "west-new-york",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "west-new-york",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "west-new-york",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "west-new-york",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "west-new-york",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "west-new-york",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "west-new-york",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    }
+  ]
+}

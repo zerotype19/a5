@@ -1,0 +1,80 @@
+{
+  "batch": "15",
+  "sha256": "f881f718fce5c8835fd94c732dbcb5100924ea23bda1ac8dff7910dad69ab307",
+  "checkedAt": "2026-10-08T18:09:32.088Z",
+  "count": 10,
+  "sitemapCount": 266,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/north-haledon",
+      "status": 200,
+      "title": "North Haledon Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare North Haledon renovation requests with temporary storage, access and cleanup plans alongside the Borough's project application resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/passaic",
+      "status": 200,
+      "title": "Passaic Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Passaic home-repair handoffs with existing project records, unfinished scope and the City's change-of-contractor resource.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/paterson",
+      "status": 200,
+      "title": "Paterson Home Services | Passaic County | A5 Home Services",
+      "description": "Plan Paterson historic-home maintenance with condition photos, repair priorities and the City's preservation guidance before choosing replacement materials.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/pompton-lakes",
+      "status": 200,
+      "title": "Pompton Lakes Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Pompton Lakes repairs with available project history and the Borough's guidance for finding older permits missing from its online database.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/prospect-park",
+      "status": 200,
+      "title": "Prospect Park Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Prospect Park repair and turnover requests with the correct sale or rental context and the Borough's distinct certificate resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/ringwood",
+      "status": 200,
+      "title": "Ringwood Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Ringwood plumbing and yard requests with known septic-system information and the Borough's specialist maintenance and repair resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/totowa",
+      "status": 200,
+      "title": "Totowa Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Totowa fence-replacement requests with existing-line photos, local permit questions and a defined plan for adjoining yard work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/wanaque",
+      "status": 200,
+      "title": "Wanaque Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Wanaque tree and landscape requests with condition photos, local application questions and clear restoration responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/west-milford",
+      "status": 200,
+      "title": "West Milford Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare West Milford lake-community projects with property records, association questions and a clear scope before landscape or hardscape changes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/woodland-park",
+      "status": 200,
+      "title": "Woodland Park Home Services | Passaic County | A5 Home Services",
+      "description": "Prepare Woodland Park heating-equipment requests with fuel, electrical and venting details and questions about the applicable trade reviews.",
+      "errors": []
+    }
+  ]
+}

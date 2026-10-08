@@ -1,0 +1,145 @@
+{
+  "sha256": "85188f00c0850ec7bc4ecb07f6b2abbd052a94cc6f6f5c75b3e8263bec49c75b",
+  "pages": [
+    {
+      "id": "713a98ee-43db-40d7-8b1b-6d6765cb48fc",
+      "path": "/home-services/bayonne",
+      "newlyIndexable": true,
+      "purpose": "Keep after-hours emergency repair notification separate from routine scheduling",
+      "sourceClaims": [
+        {
+          "title": "Bayonne Building Department",
+          "url": "https://www.bayonnenj.org/Departments/building-department",
+          "publisher": "City of Bayonne",
+          "supports": "After-hours emergency construction notification paragraph and boiler/water-heater examples. No deadline, automatic exemption or emergency-response promise copied."
+        }
+      ]
+    },
+    {
+      "id": "af5956cc-b003-49ec-8329-0e23d0f3a141",
+      "path": "/home-services/east-newark",
+      "newlyIndexable": true,
+      "purpose": "Route a repair request to the correct municipality instead of the similarly named city",
+      "sourceClaims": [
+        {
+          "title": "East Newark Building and Construction",
+          "url": "https://www.boroughofeastnewark.com/Departments/building-and-construction",
+          "publisher": "Borough of East Newark",
+          "supports": "Borough department responsibility for zoning, maintenance and permits; local forms and East Newark address. No jurisdiction over neighboring Newark asserted."
+        }
+      ]
+    },
+    {
+      "id": "51ea9a9a-49ba-4469-8b45-177f9c9c9e41",
+      "path": "/home-services/guttenberg",
+      "newlyIndexable": true,
+      "purpose": "Identify who controls a shared heating system before commissioning work",
+      "sourceClaims": [
+        {
+          "title": "Guttenberg Building Department",
+          "url": "https://www.guttenbergnj.org/Departments/building-department",
+          "publisher": "Town of Guttenberg",
+          "supports": "Official indexed Residential Heating FAQ: Condo Units that Heat is Provided by Building—management/association responsible. No outdated fees, deadlines or blanket repair liability asserted."
+        }
+      ]
+    },
+    {
+      "id": "65deb8ab-ac87-49ef-8d31-383e406fe222",
+      "path": "/home-services/harrison",
+      "newlyIndexable": true,
+      "purpose": "Distinguish public-right-of-way concrete work from private paving",
+      "sourceClaims": [
+        {
+          "title": "Harrison Construction and Engineering",
+          "url": "https://www.townofharrisonnj.com/149/Construction-Engineering",
+          "publisher": "Town of Harrison, Hudson County",
+          "supports": "Municipal Engineers and Zoning Office sections distinguish right-of-way curb/sidewalk and private pavement responsibilities. No boundary or owner-liability determination."
+        }
+      ]
+    },
+    {
+      "id": "3b3695ee-4830-4229-818d-1ba1858840c5",
+      "path": "/home-services/kearny",
+      "newlyIndexable": true,
+      "purpose": "Allow time for sale-related inspections before promising a finish date",
+      "sourceClaims": [
+        {
+          "title": "Kearny Construction Code Enforcement",
+          "url": "https://www.kearnynj.org/construction-code-enforcement/",
+          "publisher": "Town of Kearny",
+          "supports": "Current inspection guidance advises time before closing and says last-minute inspections cannot be accommodated. No exact turnaround or approval guarantee."
+        }
+      ]
+    },
+    {
+      "id": "6d59ceea-45d2-4093-8c2f-faebdf2d1edb",
+      "path": "/home-services/north-bergen",
+      "newlyIndexable": true,
+      "purpose": "Confirm permit readiness before scheduling construction inspections",
+      "sourceClaims": [
+        {
+          "title": "North Bergen Commercial and Residential Permit Requests",
+          "url": "https://www.northbergen.org/departments/commercial-residential-permit-requests",
+          "publisher": "Township of North Bergen",
+          "supports": "Four trade application categories and permits-before-inspection scheduling statement. No universal permit requirement or exact timing asserted."
+        }
+      ]
+    },
+    {
+      "id": "c900aceb-af59-4bdf-88a5-9dfc88819c36",
+      "path": "/home-services/secaucus",
+      "newlyIndexable": true,
+      "purpose": "Separate a debris container from temporary household storage",
+      "sourceClaims": [
+        {
+          "title": "Secaucus Construction Department",
+          "url": "https://secaucusnj.gov/departments/construction",
+          "publisher": "Town of Secaucus",
+          "supports": "Separate Dumpster Permit and Portable Storage Container Application; dumpster and pod services listed. No unread placement or duration rules."
+        }
+      ]
+    },
+    {
+      "id": "7fd528c2-0539-4c53-8761-e4fe40425225",
+      "path": "/home-services/union-city",
+      "newlyIndexable": true,
+      "purpose": "Include chimney and fuel-conversion questions in heating replacement scope",
+      "sourceClaims": [
+        {
+          "title": "Union City Building Department",
+          "url": "https://www.ucnj.com/Departments/building-department",
+          "publisher": "City of Union City",
+          "supports": "Official form list includes Chimney Certification and Oil to Gas Heater Conversion Affidavit. No unread technical provisions or universal applicability asserted."
+        }
+      ]
+    },
+    {
+      "id": "80102c91-2480-46d4-8fc2-25d6be8be97e",
+      "path": "/home-services/weehawken",
+      "newlyIndexable": true,
+      "purpose": "Describe a maintenance concern clearly enough to reach the right inspection function",
+      "sourceClaims": [
+        {
+          "title": "Weehawken Building Department",
+          "url": "https://www.weehawken-nj.us/departments/building-department",
+          "publisher": "Township of Weehawken",
+          "supports": "Official indexed department description lists construction, health, housing and trade inspectors. No parcel condition, enforcement conclusion or repair authorization inferred."
+        }
+      ]
+    },
+    {
+      "id": "a3ccdd86-8b26-4809-8eb6-97a719a5b979",
+      "path": "/home-services/west-new-york",
+      "newlyIndexable": true,
+      "purpose": "Resolve proposed basement use before designing finishes",
+      "sourceClaims": [
+        {
+          "title": "West New York Building Department",
+          "url": "https://www.westnewyorknj.org/Departments/building-department/",
+          "publisher": "Town of West New York",
+          "supports": "FAQ basement rental response cites life-safety and possible change of use. No blanket prohibition, legal-use determination or approval promise."
+        }
+      ]
+    }
+  ]
+}
