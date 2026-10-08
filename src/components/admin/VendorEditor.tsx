@@ -32,7 +32,7 @@ export function VendorEditor({ vendor, error }: { vendor?: VendorCoverage | null
       <label className={styles.fieldLabel}>Source URL<input name="sourceUrl" defaultValue={vendor?.sourceUrl ?? ""} /></label>
       <label className={styles.fieldLabel}>Discovery notes<textarea name="discoveryNotes" rows={3} defaultValue={vendor?.discoveryNotes ?? ""} /></label>
     </div></details></fieldset>
-    <fieldset className={styles.panel}><legend>4. Working relationship</legend><p className={styles.mutedCopy}>These fields record relationship status. They do not block manual assignment or forwarding free leads; no prior availability check is required. Saving without an email marks the vendor inactive. After adding an email, choose Active to resume forwarding.</p><div className={styles.formGrid}>
+    <fieldset className={styles.panel}><legend>4. Working relationship</legend><p className={styles.mutedCopy}>Active means available for A5 to send leads; it does not mean the vendor has joined, confirmed participation or verified availability. Active vendors with matching service and town coverage can receive free leads. No prior availability check is required. Saving without an email marks the vendor inactive. After adding an email, choose Active to resume forwarding.</p><div className={styles.formGrid}>
       <label className={styles.fieldLabel}>Status<select name="status" defaultValue={vendor?.status ?? "DISCOVERED"}>{VENDOR_STATUSES.map(status => <option key={status} value={status}>{formatStatus(status)}</option>)}</select></label>
       <label className={styles.checkLabel}><input type="checkbox" name="acceptingLeads" defaultChecked={vendor?.acceptingLeads ?? false} />Accepting leads</label>
     </div></fieldset>

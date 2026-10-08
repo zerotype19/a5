@@ -13,6 +13,7 @@ import { opportunityAccess, type OpportunityAccess } from "./policy.ts";
 import { hashOpportunityToken, isOpportunityToken } from "./token.ts";
 
 export type OpportunityProject = {
+  vendorName: string;
   acceptanceDueAt: string;
   serviceLabel: string;
   locationLabel: string;
@@ -46,11 +47,11 @@ export async function loadOpportunity(token: string, client?: ReturnType<typeof 
 
   const assignmentResult = await db
     .from("lead_assignments")
-    .select(process.env.ENABLE_NETWORK_FOLLOWUP === "true" ? "id, lead_id, status, acceptance_due_at" : "id, lead_id, status")
+    .select(process.env.ENABLE_NETWORK_FOLLOWUP === "true" ? "id, lead_id, status, acceptance_due_at, vendors(business_name)" : "id, lead_id, status, vendors(business_name)")
     .eq("id", capability.data.assignment_id as string)
     .maybeSingle();
 
-  const assignment = { ...assignmentResult, data: assignmentResult.data as unknown as {status:string;lead_id:string;acceptance_due_at?:string|null}|null };
+  const assignment = { ...assignmentResult, data: assignmentResult.data as unknown as {status:string;lead_id:string;acceptance_due_at?:string|null;vendors?:{business_name:string}|{business_name:string}[]|null}|null };
   const access: OpportunityAccess = opportunityAccess({
     found: true,
     revoked: capability.data.revoked_at != null,
@@ -66,14 +67,16 @@ export async function loadOpportunity(token: string, client?: ReturnType<typeof 
   const leadId = assignment.data.lead_id as string;
   const lead = await db
     .from("leads")
-    .select("service_id, location_id, urgency")
+    .select("service_id, location_id, urgency, archived_at")
     .eq("id", leadId)
     .maybeSingle();
-  if (lead.error || !lead.data) return { access: "unavailable" };
+  if (lead.error || !lead.data || lead.data.archived_at) return { access: "unavailable" };
 
   const service = getServiceById(lead.data.service_id as ServiceId);
   const location = getLocationById(lead.data.location_id as LocationId);
+  const vendor=assignment.data.vendors;
   const project: OpportunityProject = {
+    vendorName:(Array.isArray(vendor)?vendor[0]:vendor)?.business_name??"service professional",
     acceptanceDueAt: assignment.data.acceptance_due_at ?? String(capability.data.expires_at),
     serviceLabel: service?.name ?? "Not specified",
     locationLabel: location ? `${location.name}, ${location.state}` : "Not specified",

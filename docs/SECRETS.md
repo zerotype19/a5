@@ -72,3 +72,5 @@ Existing Resend and Supabase secrets are reused. The local preview uses only pub
 ## Connection network
 
 `ENABLE_NETWORK_FOLLOWUP` defaults false. Apply `20261008050000_network_outcomes.sql` after existing migrations before enabling. It enables acceptance deadlines, manual recovery, permission-recorded transactional check-ins and private feedback. `A5_ACCEPTANCE_HOURS` is an integer 1–72, default 24. Existing offers retain their existing capability expiry. No new secrets or providers. Do not backfill historical consent. No background mail jobs are added.
+
+`ENABLE_VENDOR_PROGRESS` enables accepted-vendor progress reports through existing expiring opportunity links. Independent of `ENABLE_NETWORK_FOLLOWUP`; it does not enable check-in emails. Requires migration 20261008140000.

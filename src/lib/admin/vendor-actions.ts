@@ -10,6 +10,8 @@ import { VENDOR_STATUSES, type VendorStatus } from "../db/schema.ts";
 import { resolveAdminAccess } from "./authorize.ts";
 import { deliverVendorNotification } from "../opportunity/notify.ts";
 
+import {loadVendor} from "./vendors.ts";
+import {isVendorEligible} from "./eligibility.ts";
 import {vendorContactState,hasVendorEmail} from "./vendor-contact.ts";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -148,9 +150,9 @@ export async function assignLeadToVendor(formData: FormData): Promise<void> {
   }
 
   const db = getSupabaseAdmin();
-  const contact = await db.from("vendors").select("email").eq("id", vendorId).maybeSingle();
-  if (contact.error || !contact.data || !hasVendorEmail(contact.data.email)) {
-    params.set("error", "Add a usable vendor email before assigning and forwarding this lead.");
+  const [vendor,leadResult]=await Promise.all([loadVendor(vendorId),db.from('leads').select('service_id,location_id,archived_at').eq('id',leadId).single()]);
+  if(!vendor||!hasVendorEmail(vendor.email)||leadResult.error||leadResult.data.archived_at||!isVendorEligible(vendor,{serviceId:leadResult.data.service_id,locationId:leadResult.data.location_id})){
+    params.set('error','Choose an active vendor with email covering this service and town.');
     redirect(`/admin/leads/${leadId}?${params.toString()}`);
   }
   const { data, error } = await db.rpc("admin_assign_lead_to_vendor", {

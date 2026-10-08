@@ -22,13 +22,15 @@ try{
  for(const file of readdirSync(root).filter(f=>f.endsWith('.sql')).sort()){
   try{sql(readFileSync(new URL(file,root),'utf8'));}catch(e){console.error('Migration failed:',file,e.stderr?.toString());throw e;}
  }
+ sql(`alter table public.lead_notification_outbox enable trigger homeowner_receipt;`);
  sql(`insert into admin_users(user_id)values('${actor}');`);
 
  const submitKey=id();const request=(key,version='2026-10-08')=>`select * from submit_network_request('${key}','Homeowner','5555555555','home@example.invalid','email','SELECTED','handyman','07932','Test request','EXPLORING','/services/handyman',null,'${version}');`;
- denied(request(id(),'wrong'));const submitted=sql(request(submitKey));expect(request(submitKey),submitted);expect(`select network_consent_version from leads where submission_key='${submitKey}'`,'2026-10-08');expect(`select count(*) from lead_notification_outbox where lead_id=(select id from leads where submission_key='${submitKey}')`,'1');
+ denied(request(id(),'wrong'));const submitted=sql(request(submitKey));expect(request(submitKey),submitted);expect(`select network_consent_version from leads where submission_key='${submitKey}'`,'2026-10-08');expect(`select count(*) from lead_notification_outbox where lead_id=(select id from leads where submission_key='${submitKey}')`,'2');
  const customer=id(),vendor=id();
- sql(`insert into customers(id,full_name,email)values('${customer}','Homeowner fixture','home@example.invalid');insert into vendors(id,business_name,email)values('${vendor}','Provider fixture','vendor@example.invalid');`);
+ sql(`insert into customers(id,full_name,email)values('${customer}','Homeowner fixture','home@example.invalid');insert into vendors(id,business_name,email,status)values('${vendor}','Provider fixture','vendor@example.invalid','ACTIVE');`);
  const service=sql('select id from services limit 1'),town=sql('select id from locations limit 1');
+ sql(`insert into vendor_services(vendor_id,service_id)values('${vendor}','${service}');insert into vendor_locations(vendor_id,location_id)values('${vendor}','${town}');`);
  const fixture=(consent=true)=>{const lead=id(),assignment=id();sql(`insert into leads(id,customer_id,service_id,location_id,status,project_description,network_consent_version)values('${lead}','${customer}','${service}','${town}','ASSIGNED','Private description with home@example.invalid',${consent?"'2026-10-08'":'null'});insert into lead_assignments(id,lead_id,vendor_id,status,assigned_by)values('${assignment}','${lead}','${vendor}','ASSIGNED','${actor}');`);return{lead,assignment};};
  const offer=(a,h)=>`select * from network_prepare_vendor_notification('${a}','${h}',now()+interval '72 hours','${actor}',24);`;
  const respond=(h,action='ACCEPT')=>`select * from network_respond_to_assignment('${h}','${action}');`;
@@ -61,7 +63,7 @@ try{
  const inviteId=inviteRace.find(x=>x.startsWith('t||')).split('|')[2];expect(`select finish_network_checkin('${inviteId}','UNCERTAIN','provider_unreachable')`,'t');expect(prepare(race.assignment,'HOMEOWNER',hash()),'f|inspect_uncertain_delivery||');assert.ok(sql(prepare(race.assignment,'HOMEOWNER',hash(),true)).startsWith('t||'));expect(report(inviteHash),'f|unavailable');
 
  // Two different providers cannot be assigned simultaneously; declining reopens manual assignment.
- const providerB=id();sql(`insert into vendors(id,business_name,email)values('${providerB}','Other provider','other@example.invalid')`);
+ const providerB=id();sql(`insert into vendors(id,business_name,email,status)values('${providerB}','Other provider','other@example.invalid','ACTIVE');insert into vendor_services(vendor_id,service_id)values('${providerB}','${service}');insert into vendor_locations(vendor_id,location_id)values('${providerB}','${town}')`);
  const declined=fixture(),declineToken=hash();sql(offer(declined.assignment,declineToken));assert.ok(sql(respond(declineToken,'PASS')).startsWith('t||'));expect(respond(declineToken),'f|already_passed|'+declined.lead);
  const assign=(lead,vendorId)=>`select * from admin_assign_lead_to_vendor('${lead}','${vendorId}','${actor}');`;
  const assignments=await Promise.all([concurrent(assign(declined.lead,vendor)),concurrent(assign(declined.lead,providerB))]);assert.equal(assignments.filter(x=>x.startsWith('t|')).length,1);expect(`select count(*) from lead_assignments where lead_id='${declined.lead}' and status in ('ASSIGNED','ACCEPTED')`,'1');
@@ -72,5 +74,17 @@ try{
  const renewRace=fixture(),renewHash=hash();sql(offer(renewRace.assignment,renewHash));await Promise.all([concurrent(respond(renewHash)),concurrent(offer(renewRace.assignment,hash()))]);
  expect(`select count(*) from lead_status_events where lead_id='${main.lead}' and event_type='NetworkFallbackRequested' and note like '%homeowner permission%'`,'1');
  for(const role of ['anon','authenticated']){for(const table of ['network_reports','network_invitations','network_review_events'])denied(`set role ${role};select * from ${table}`);denied(`set role ${role};${report(provider)}`);denied(`set role ${role};${release(race.assignment,true)}`);}
+
+ const progress=fixture(),progressHash=hash();sql(offer(progress.assignment,progressHash));
+ const update=(status='CONTACTED',note='Test update')=>`select report_vendor_progress('${progressHash}','${status}','${note}')`;
+ expect(update(),'f');sql(respond(progressHash));expect(update(),'t');expect(update(),'t');expect(`select count(*) from vendor_progress_reports where assignment_id='${progress.assignment}'`,'1');
+ expect(update('COMPLETED'),'t');expect(`select status from leads where id='${progress.lead}'`,'ACCEPTED');expect(update('INVALID'),'f');
+ for(const role of ['anon','authenticated']){denied(`set role ${role};select * from vendor_progress_reports`);denied(`set role ${role};${update()}`);}
+ sql(`update assignment_capabilities set revoked_at=now() where token_hash='${progressHash}'`);expect(update(),'f');
+ sql(`update assignment_capabilities set revoked_at=null,expires_at=now()-interval '1 minute' where token_hash='${progressHash}'`);expect(update(),'f');
+ sql(`update assignment_capabilities set expires_at=now()+interval '1 hour' where token_hash='${progressHash}';update lead_assignments set status='CANCELLED' where id='${progress.assignment}'`);expect(update(),'f');
+ const noMatch=id();sql(`insert into vendors(id,business_name,email,status)values('${noMatch}','Wrong coverage','test@example.invalid','ACTIVE')`);
+ const matchLead=id();sql(`insert into leads(id,customer_id,service_id,location_id,status,project_description)values('${matchLead}','${customer}','${service}','${town}','QUALIFIED','Test')`);denied(assign(matchLead,noMatch));
+ console.log('PASS: new receipt outbox; service/town assignment gate; accepted-only vendor progress; duplicate-safe updates; no automatic completion; public role denial; revoked capability rejection.');
  console.log('PASS: all real migrations; operator/provider/homeowner workflow; acceptance gates/deadlines; recovery permission/revocation; immutable duplicate-safe reports; private stars eligibility; no lifecycle auto-completion; moderation audit; optout/legacy permission; concurrent accept/send; uncertain send recovery; public role denial.');
 }catch(e){console.error(e.stderr?.toString()??e);process.exitCode=1;}finally{try{execFileSync(join(bin,'pg_ctl'),['-D',join(dir,'data'),'stop','-m','immediate'],{stdio:'ignore'});}catch{}rmSync(dir,{recursive:true,force:true});}

@@ -1,3 +1,4 @@
+import {cache} from "react";
 import { createSupabaseServerClient } from "../supabase/server.ts";
 import { getSupabaseAdmin } from "../supabase/admin.ts";
 
@@ -12,7 +13,7 @@ export type AdminAuthResult =
  * VERIFY SESSION → VERIFY admin_users ACTIVE.
  * Does not load operational lead data.
  */
-export async function resolveAdminAccess(): Promise<AdminAuthResult> {
+export const resolveAdminAccess = cache(async function resolveAdminAccess(): Promise<AdminAuthResult> {
   let supabase;
   try {
     supabase = await createSupabaseServerClient();
@@ -59,7 +60,7 @@ export async function resolveAdminAccess(): Promise<AdminAuthResult> {
     userId: user.id,
     email: user.email ?? null,
   };
-}
+});
 
 /** Hard gate for server loaders — never returns operational data on failure. */
 export async function requireAdminAccess(): Promise<

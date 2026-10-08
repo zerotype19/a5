@@ -1,6 +1,7 @@
+import {PROGRESS_LABELS} from "@/lib/opportunity/progress";
 import type { Metadata } from "next";
 import { SITE } from "@config/site";
-import { acceptOpportunity, passOpportunity } from "@/lib/opportunity/actions";
+import { acceptOpportunity, passOpportunity, reportProgress } from "@/lib/opportunity/actions";
 import { loadOpportunity } from "@/lib/opportunity/load";
 import styles from "./page.module.css";
 
@@ -17,7 +18,7 @@ export const metadata: Metadata = {
 };
 
 type Params = Promise<{ token: string }>;
-type SearchParams = Promise<{ response?: string }>;
+type SearchParams = Promise<{ response?: string;progress?:string }>;
 
 export default async function OpportunityPage({
   params,
@@ -40,11 +41,12 @@ export default async function OpportunityPage({
       {view.access === "passed" ? (
         <h1>{fresh ? "You passed on this project." : "You've already passed on this project."}</h1>
       ) : null}
+      {(view.access === "open" || view.access === "accepted") && <p className={styles.greeting}>Hello {view.project.vendorName},</p>}
       {view.access === "open" ? (
         <Project
           token={token}
           project={view.project}
-          heading="Project opportunity"
+          heading="A new lead for your business"
           showActions
         />
       ) : null}
@@ -58,6 +60,11 @@ export default async function OpportunityPage({
           <p className={styles.note}>
             Save the homeowner contact below. This link expires 72 hours after the email was sent.
           </p>
+          {process.env.ENABLE_VENDOR_PROGRESS==='true'&&<section id="progress" className={styles.progress}>
+           <h2>What happened next?</h2><p>Keep A5 updated so we know whether the introduction helped. These are your reported updates; A5 will review any lead marked not a fit.</p>
+           {query.progress==='saved'&&<p role="status">Thank you—your update was saved.</p>}{query.progress==='error'&&<p role="alert">We could not save that update. Try again or contact A5.</p>}
+           <form action={reportProgress}><input type="hidden" name="token" value={token}/><label>Lead progress<select name="status" required><option value="">Choose an update</option>{Object.entries(PROGRESS_LABELS).map(([value,label])=><option key={value} value={value}>{label}</option>)}</select></label><label>Notes (optional)<textarea name="note" maxLength={1000} rows={3}/></label><button type="submit">Send update to A5</button></form>
+          </section>}
           <h2>Homeowner</h2>
           <dl className={styles.facts}>
             <dt>Name</dt>
@@ -65,9 +72,9 @@ export default async function OpportunityPage({
             <dt>Preferred contact</dt>
             <dd>{view.contact.preferredContact}</dd>
             <dt>Phone</dt>
-            <dd>{view.contact.phone}</dd>
+            <dd><a href={`tel:${view.contact.phone.replace(/[^+\d]/g, "")}`}>{view.contact.phone}</a></dd>
             <dt>Email</dt>
-            <dd>{view.contact.email}</dd>
+            <dd><a href={`mailto:${view.contact.email}`}>{view.contact.email}</a></dd>
           </dl>
           <Project token={token} project={view.project} heading="Project" showActions={false} />
         </>
@@ -112,6 +119,7 @@ function Project({
   return (
     <>
       <Title>{heading}</Title>
+      {showActions&&<p className={styles.introduction}>A5 Home Services is a network connecting homeowners with independent local professionals. We’re sending this free lead to your business. Accept it to view all customer contact details, the full project request and photos.</p>}
       <dl className={styles.facts}>
         <dt>Service</dt>
         <dd>{project.serviceLabel}</dd>
@@ -140,7 +148,7 @@ function Project({
         <div className={styles.actions}>
           <form action={acceptOpportunity}>
             <input type="hidden" name="token" value={token} />
-            <button type="submit">Accept introduction</button>
+            <button type="submit">Accept lead & view customer details</button>
           </form>
           <form action={passOpportunity}>
             <input type="hidden" name="token" value={token} />

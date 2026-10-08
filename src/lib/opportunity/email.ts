@@ -46,6 +46,7 @@ function escapeHtml(value: string): string {
 }
 
 export function buildVendorOpportunityEmail(input: {
+  vendorName?: string;
   serviceLabel: string;
   locationLabel: string;
   timingLabel: string;
@@ -55,11 +56,14 @@ export function buildVendorOpportunityEmail(input: {
 }): { subject: string; text: string; html: string } {
   const deadline = `Please accept or pass within ${input.acceptanceHours ?? 72} hours of this email. Acceptance means you intend to contact the homeowner; it does not confirm availability or book the work. The private link expires after 72 hours.`;
   const photos = photoLine(input.photoCount);
-  const subject = "New project opportunity — A5 Home Services";
+  const subject = `${input.serviceLabel} lead in ${input.locationLabel} — A5 Home Services`;
+  const greeting = `Hello ${input.vendorName || "there"},`;
+  const introduction = "A5 Home Services is a network connecting homeowners with independent local professionals. We have a free project lead for your business. Accept this lead to view all customer contact details, the full request and any photos.";
   const text = [
     "A5 Home Services",
     "",
-    "New project opportunity",
+    greeting,
+    introduction,
     "",
     `Service: ${input.serviceLabel}`,
     `Location: ${input.locationLabel}`,
@@ -77,13 +81,15 @@ export function buildVendorOpportunityEmail(input: {
 <html>
 <body>
 <p><strong>A5 Home Services</strong></p>
-<h1>New project opportunity</h1>
+<h1>A new lead for your business</h1>
+<p>${escapeHtml(greeting)}</p>
+<p>${escapeHtml(introduction)}</p>
 <p>Service<br>${escapeHtml(input.serviceLabel)}</p>
 <p>Location<br>${escapeHtml(input.locationLabel)}</p>
 <p>Timing<br>${escapeHtml(input.timingLabel)}</p>
 <p>${escapeHtml(photos)}</p>
 <p>Review the service, town and timing through the A5 home services network. Accept to unlock the full request and homeowner contact:</p>
-<p><a href="${escapeHtml(input.opportunityUrl)}">View project</a></p>
+<p><a href="${escapeHtml(input.opportunityUrl)}">Review and accept your lead</a></p>
 <p>${escapeHtml(deadline)}</p>
 </body>
 </html>`;

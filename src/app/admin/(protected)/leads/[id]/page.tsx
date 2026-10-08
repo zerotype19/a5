@@ -1,3 +1,5 @@
+import {loadLeadNotifications} from "@/lib/admin/notifications";
+import {loadVendorProgress,PROGRESS_LABELS} from "@/lib/opportunity/progress";
 import {NetworkPanel} from '@/components/network/NetworkPanel';
 import {VendorSuggestions} from '@/components/network/VendorSuggestions';
 import { ArrowIcon } from "@/components/ArrowIcon";
@@ -71,7 +73,7 @@ export default async function AdminLeadDetailPage({
   if (!lead) {
     notFound();
   }
-  const [eligibleVendors, assignments] = await Promise.all([
+  const [eligibleVendors, assignments, progress, notifications] = await Promise.all([
     loadEligibleVendors(
       {
         serviceId: lead.serviceId,
@@ -80,6 +82,8 @@ export default async function AdminLeadDetailPage({
       lead.id,
     ),
     loadLeadAssignments(id),
+    loadVendorProgress(id),
+    loadLeadNotifications(id),
   ]);
 
   return (
@@ -89,6 +93,8 @@ export default async function AdminLeadDetailPage({
         <ArrowIcon direction="left" /> All leads
       </Link>
 
+      {notifications.length>0&&<details className={styles.secondaryDetails}><summary>Request emails</summary><p className={styles.mutedCopy}>Queued emails are processed within approximately five minutes. Sent means the email provider accepted the message; inbox receipt is separate.</p>{notifications.map(n=><p key={n.id}>{n.kind==='homeowner_receipt'?'Homeowner confirmation':'Operator alert'}: <strong>{n.status}</strong>{n.sent_at?` · ${formatAdminDateTime(n.sent_at)}`:''}{n.last_error?` · ${n.last_error}`:''}</p>)}</details>}
+      {progress.length>0&&<section className={styles.panel}><h2>Vendor-reported progress</h2><p className={styles.mutedCopy}>Reports from the provider, not independently verified completion.</p>{progress.map(report=><div key={report.id}><h3>{PROGRESS_LABELS[report.status]}</h3><p>{report.lead_assignments?.vendors?.business_name} · {formatAdminDateTime(report.created_at)}</p><p>{report.note}</p></div>)}</section>}
       <header className={styles.leadHeader}>
         <h1 className={styles.title}>{lead.publicReference}</h1>
         <p className={styles.lede}>

@@ -39,7 +39,7 @@ export async function deliverVendorNotification(
   const loaded = await db
     .from("lead_assignments")
     .select(
-      "id, lead_id, status, notification_status, vendors(email, status, accepting_leads)",
+      "id, lead_id, status, notification_status, vendors(email, business_name, status, accepting_leads)",
     )
     .eq("id", assignmentId)
     .maybeSingle();
@@ -48,8 +48,8 @@ export async function deliverVendorNotification(
   }
 
   const vendorRaw = loaded.data.vendors as
-    | { email: string | null; status: string; accepting_leads: boolean }
-    | { email: string | null; status: string; accepting_leads: boolean }[]
+    | { business_name?:string; email: string | null; status: string; accepting_leads: boolean }
+    | { business_name?:string; email: string | null; status: string; accepting_leads: boolean }[]
     | null;
   const vendor = Array.isArray(vendorRaw) ? vendorRaw[0] : vendorRaw;
   const decision = canSendVendorNotification({
@@ -64,10 +64,10 @@ export async function deliverVendorNotification(
   const leadId = loaded.data.lead_id as string;
   const lead = await db
     .from("leads")
-    .select("service_id, location_id, urgency")
+    .select("service_id, location_id, urgency, archived_at")
     .eq("id", leadId)
     .maybeSingle();
-  if (lead.error || !lead.data) {
+  if (lead.error || !lead.data || lead.data.archived_at) {
     return { ok: false, code: "lead_not_found" };
   }
   const photos = await db
@@ -100,6 +100,7 @@ export async function deliverVendorNotification(
   const service = getServiceById(lead.data.service_id as ServiceId);
   const location = getLocationById(lead.data.location_id as LocationId);
   const message = buildVendorOpportunityEmail({
+    vendorName:vendor?.business_name,
     serviceLabel: service?.name ?? "Not specified",
     locationLabel: location ? `${location.name}, ${location.state}` : "Not specified",
     timingLabel: timingDisplay(lead.data.urgency as string | null),

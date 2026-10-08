@@ -20,7 +20,7 @@ test('admin pagination retains records beyond the API row limit and surfaces lat
 const now='2026-10-08T00:00:00Z';
 const lead=(id:string,status:QueueLead['status'],follow_up_at?:string):QueueLead=>({id,status,created_at:'2026-10-01T00:00:00Z',follow_up_at});
 const assigned=(id:string,notice:string|null):QueueAssignment=>({id:`a-${id}`,lead_id:id,status:'ASSIGNED',assigned_at:'2026-10-07T00:00:00Z',notification_status:notice,notification_sent_at:'2026-10-07T00:00:00Z'});
-test('work queue prioritizes failures and due work; closed leads never return',()=>{const rows=buildLeadWorkQueue([lead('new','NEW'),lead('failed','ASSIGNED'),lead('due','CONTACTED','2026-10-07T00:00:00Z'),lead('closed','WON'),lead('qualified','QUALIFIED')],[assigned('failed','FAILED')],[],now);assert.equal(rows[0].id,'failed');assert.equal(rows[1].id,'due');assert.ok(!rows.some(r=>r.id==='closed'));assert.equal(rows.find(r=>r.id==='qualified')?.action,'Assign a vendor');});
+test('work queue prioritizes review and assignment; closed leads never return',()=>{const rows=buildLeadWorkQueue([lead('new','NEW'),lead('failed','ASSIGNED'),lead('due','CONTACTED','2026-10-07T00:00:00Z'),lead('closed','WON'),lead('qualified','QUALIFIED')],[assigned('failed','FAILED')],[],now);assert.deepEqual(rows.slice(0,2).map(r=>r.id),['new','qualified']);assert.equal(rows[2].id,'failed');assert.ok(!rows.some(r=>r.id==='closed'));assert.equal(rows.find(r=>r.id==='qualified')?.action,'Assign a vendor');});
 test('forwarded leads stay recorded without making acceptance or link renewal a prerequisite',()=>{const rows=buildLeadWorkQueue([lead('expired','ASSIGNED'),lead('waiting','ASSIGNED'),lead('future','ESTIMATE','2026-11-01T00:00:00Z')],[assigned('expired','SENT'),assigned('waiting','SENT')],[{assignment_id:'a-expired',expires_at:'2026-10-07T00:00:00Z',revoked_at:null},{assignment_id:'a-waiting',expires_at:'2026-10-09T00:00:00Z',revoked_at:null}],now);assert.equal(rows.find(r=>r.id==='expired')?.action,'Forwarded · link expired');assert.equal(rows.find(r=>r.id==='waiting')?.action,'Forwarded to vendor');assert.equal(rows.find(r=>r.id==='future')?.action,'Scheduled follow-up');});
 test('free lead sourcing queues missing or invalid emails, not vendor confirmation',()=>{
  const rows=buildVendorWorkQueue([
@@ -35,3 +35,5 @@ test('free lead sourcing queues missing or invalid emails, not vendor confirmati
  assert.equal(rows.find(r=>r.id==='vendor-b')?.action,'Find business email');
  assert.equal(rows.find(r=>r.id==='vendor-d')?.action,'Correct email address');
 });
+
+test('queue shows the newest update first within the same priority',()=>{const rows=buildLeadWorkQueue([{...lead('older','NEW'),updated_at:'2026-10-07T00:00:00Z'},{...lead('latest','QUALIFIED'),updated_at:'2026-10-08T00:00:00Z'}],[],[],now);assert.equal(rows[0].id,'latest');});

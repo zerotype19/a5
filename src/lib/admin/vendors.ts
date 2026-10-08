@@ -8,7 +8,7 @@ import type {
   NotificationStatus,
   VendorStatus,
 } from "../db/schema.ts";
-import { withoutPassedVendors } from "./eligibility.ts";
+import { isVendorEligible, withoutPassedVendors } from "./eligibility.ts";
 
 export type VendorCoverage = {
   id: string;
@@ -118,9 +118,8 @@ function mapVendor(
 
 export async function loadVendors(): Promise<VendorCoverage[]> {
   const admin = getSupabaseAdmin();
-  const rows = await readAllRows((from,to)=>admin.from("vendors").select("id, business_name, contact_name, phone, email, website, source, source_url, discovery_notes, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes").order("business_name").order("id").range(from,to),"admin_vendors") as VendorRecord[];
-  const coverage = await coverageFor(rows.map((row) => row.id));
-  return rows.map((row) => mapVendor(row, coverage.services, coverage.locations));
+  const rows = await readAllRows((from,to)=>admin.from("vendors").select("*, vendor_services(service_id), vendor_locations(location_id)").is("archived_at",null).order("business_name").order("id").range(from,to),"admin_vendors") as (VendorRecord & {vendor_services:{service_id:string}[];vendor_locations:{location_id:string}[]})[];
+  return rows.map(row => mapVendor(row,new Map([[row.id,row.vendor_services.map(s=>s.service_id)]]),new Map([[row.id,row.vendor_locations.map(l=>l.location_id)]])));
 }
 
 export async function loadVendor(id: string): Promise<VendorCoverage | null> {
@@ -131,6 +130,7 @@ export async function loadVendor(id: string): Promise<VendorCoverage | null> {
       "id, business_name, contact_name, phone, email, website, source, source_url, discovery_notes, status, accepting_leads, registration_number, license_number, insurance_verified, credentials_notes",
     )
     .eq("id", id)
+    .is("archived_at",null)
     .maybeSingle();
   if (error) throw new Error(`admin_vendor:${error.code ?? "error"}`);
   if (!data) return null;
@@ -145,8 +145,7 @@ export async function loadEligibleVendors(
   },
   leadId?: string,
 ): Promise<VendorCoverage[]> {
-  void lead;
-  const vendors = (await loadVendors()).filter(vendor => hasVendorEmail(vendor.email));
+  const vendors = (await loadVendors()).filter(vendor => hasVendorEmail(vendor.email) && isVendorEligible(vendor,lead));
   if (!leadId) return vendors;
   const admin = getSupabaseAdmin();
   const passed = await admin
