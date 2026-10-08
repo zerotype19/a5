@@ -7,6 +7,8 @@ import styles from "./ContentDiscovery.module.css";
 
 export async function ContentDiscovery({page, pages}: {page: ContentPageRecord; pages?: ContentPageRecord[]}) {
   const groups = buildDiscoveryGroups(page, pages ?? await fetchPublishedPages());
+  const regional = !page.primary_location_id && page.page_type !== "CORE";
+  if (regional) groups.push({title:"Across Northern New Jersey",links:[{path:"/home-services#municipalities",title:"Find services in your town",description:null}]});
   if (!groups.length) return null;
   return <nav className={styles.discovery} aria-label="Related services, places and project advice">
     <div className={styles.intro}><p>Find the right next step</p><h2>Services, local help and practical advice.</h2></div>
