@@ -1,0 +1,80 @@
+{
+  "batch": "04",
+  "sha256": "266134431776f20f049ec57a762a3329216bd6beb623bc81d75425c6d64b27a8",
+  "checkedAt": "2026-10-08T16:35:51.039Z",
+  "count": 10,
+  "sitemapCount": 156,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/wharton",
+      "status": 200,
+      "title": "Wharton Home Services | Morris County | A5 Home Services",
+      "description": "Plan Wharton home repairs with clear trade responsibilities, inspection coordination and a practical project closeout list. Request help through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/belleville",
+      "status": 200,
+      "title": "Belleville Home Services | Essex County | A5 Home Services",
+      "description": "Plan Belleville front-yard projects with curb-tree guidance, clear property boundaries and coordinated landscaping, tree and walkway repair scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/caldwell",
+      "status": 200,
+      "title": "Caldwell Home Services | Essex County | A5 Home Services",
+      "description": "Prepare Caldwell walkway, driveway and fence projects with a measured scope, Borough review resources and coordinated repair planning through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/cedar-grove",
+      "status": 200,
+      "title": "Cedar Grove Home Services | Essex County | A5 Home Services",
+      "description": "Plan Cedar Grove tree work with a clear tree inventory, Township application resources and separate removal, stump and landscape restoration scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/east-orange",
+      "status": 200,
+      "title": "East Orange Home Services | Essex County | A5 Home Services",
+      "description": "Organize East Orange home maintenance with a photographed repair list, clear trade scopes and City property-maintenance resources. Request service with A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/essex-fells",
+      "status": 200,
+      "title": "Essex Fells Home Services | Essex County | A5 Home Services",
+      "description": "Plan Essex Fells gutter and yard maintenance with stormwater resources, a clear debris-removal scope and careful separation of public and private drainage.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/fairfield",
+      "status": 200,
+      "title": "Fairfield Home Services | Essex County | A5 Home Services",
+      "description": "Plan Fairfield, Essex County driveway and yard projects with Township engineering resources, drainage observations and clearly defined repair scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/glen-ridge",
+      "status": 200,
+      "title": "Glen Ridge Home Services | Essex County | A5 Home Services",
+      "description": "Plan Glen Ridge exterior repairs with historic-review resources, existing-material photos and clear scopes for doors, masonry, painting and trim.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/irvington",
+      "status": 200,
+      "title": "Irvington Home Services | Essex County | A5 Home Services",
+      "description": "Prepare Irvington drainage and exterior repair requests with clear location photos, Township Public Works resources and separate private repair scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/maplewood",
+      "status": 200,
+      "title": "Maplewood Home Services | Essex County | A5 Home Services",
+      "description": "Plan Maplewood yard cleanup with local leaf-blower guidance, clear debris handling and coordinated gutter and landscape work. Request help through A5.",
+      "errors": []
+    }
+  ]
+}
