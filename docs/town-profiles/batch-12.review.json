@@ -1,0 +1,157 @@
+{
+  "sha256": "19a61f2625cb673f68de7c0faed3e1dbda7f1b3cbe5435d06305e57c4fe1622f",
+  "pages": [
+    {
+      "id": "2c4e653b-e30b-4f55-8d52-c96d2a68f03d",
+      "path": "/home-services/upper-saddle-river",
+      "newlyIndexable": true,
+      "purpose": "Coordinate air sealing and insulation with an open-wall renovation",
+      "sourceClaims": [
+        {
+          "title": "Upper Saddle River Construction Welcome Packet",
+          "url": "https://www.usrtoday.org/257/Welcome-Packet-Information",
+          "publisher": "Borough of Upper Saddle River",
+          "supports": "Air-barrier/insulation checklist in project packet; technical values and old checklist standards not copied."
+        },
+        {
+          "title": "Air Barrier and Insulation Checklist linked by Upper Saddle River",
+          "url": "https://www.usrtoday.org/DocumentCenter/View/685",
+          "publisher": "Borough of Upper Saddle River",
+          "supports": "Distinct air barrier and insulation checklist components; no technical installation prescription or current-code equivalence claimed."
+        }
+      ]
+    },
+    {
+      "id": "5d6900c3-18bb-430c-8d72-5509e0ffd454",
+      "path": "/home-services/waldwick",
+      "newlyIndexable": true,
+      "purpose": "Treat tree removal and contractor registration as separate checks",
+      "sourceClaims": [
+        {
+          "title": "Waldwick Tree Removal and Replacement Process",
+          "url": "https://www.waldwicknj.gov/departments/Building/trees",
+          "publisher": "Borough of Waldwick",
+          "supports": "Separate tree permit/replacement planning and contractor registration/list; no size thresholds, fees or inferred vendor registration."
+        }
+      ]
+    },
+    {
+      "id": "a98fe07d-9cd7-4952-8993-c23255a018c8",
+      "path": "/home-services/wallington",
+      "newlyIndexable": true,
+      "purpose": "Check floodplain review separately from the building-permit question",
+      "sourceClaims": [
+        {
+          "title": "Wallington Flood Damage Prevention: Permits",
+          "url": "https://ecode360.com/48225683",
+          "publisher": "Borough of Wallington",
+          "supports": "Current municipal code Article IV verified in live browser, separate floodplain/building approval; no parcel classification, insurance or exemption advice."
+        }
+      ]
+    },
+    {
+      "id": "b6c1565c-5fd4-436d-8c7b-15524df5d154",
+      "path": "/home-services/washington-township-bergen",
+      "newlyIndexable": true,
+      "purpose": "Use the Bergen Township's online inspection-request route",
+      "sourceClaims": [
+        {
+          "title": "Township of Washington, Bergen County: Forms and Permits",
+          "url": "https://www.twpofwashington.us/page/forms-permits-licenses",
+          "publisher": "Township of Washington, Bergen County",
+          "supports": "Live browser verified online-only inspection requests and correct Bergen identity; no hours, fees or response-time guarantees."
+        }
+      ]
+    },
+    {
+      "id": "9298ea9f-19b4-41f6-84d7-fc59ad0ae7c9",
+      "path": "/home-services/westwood",
+      "newlyIndexable": true,
+      "purpose": "Include final inspections and certificate paperwork in project closeout",
+      "sourceClaims": [
+        {
+          "title": "Westwood Construction Inspections",
+          "url": "https://westwoodnj.gov/164/Inspections",
+          "publisher": "Borough of Westwood",
+          "supports": "Final subcode inspections and subsequent certificate application/documentation; no universal requirement, fines or schedule promises reproduced."
+        }
+      ]
+    },
+    {
+      "id": "f6fc8874-dac6-42d4-859a-b2c5c04897b2",
+      "path": "/home-services/wood-ridge",
+      "newlyIndexable": true,
+      "purpose": "Include zoning questions in a driveway or fence-related exterior plan",
+      "sourceClaims": [
+        {
+          "title": "Wood-Ridge Construction Department",
+          "url": "https://www.woodridgenj.gov/departments/construction-department",
+          "publisher": "Borough of Wood-Ridge",
+          "supports": "Fence/driveway zoning-permit resource and separate zoning application listed in official page; no 2020 pandemic guidance or numeric zoning rules used."
+        }
+      ]
+    },
+    {
+      "id": "f92c272d-92d5-4fec-8a16-13a1616c857a",
+      "path": "/home-services/woodcliff-lake",
+      "newlyIndexable": true,
+      "purpose": "Plan corner-lot planting and exterior changes with visibility in mind",
+      "sourceClaims": [
+        {
+          "title": "Woodcliff Lake Construction Guidance",
+          "url": "https://wclnj.com/departments/construction",
+          "publisher": "Borough of Woodcliff Lake",
+          "supports": "Corner-lot visibility guidance in construction FAQ; no numerical dimensions, blanket approvals or fence-service capability claims."
+        }
+      ]
+    },
+    {
+      "id": "ef4dbf09-b379-486c-8ca3-7d7d4a9ca360",
+      "path": "/home-services/wyckoff",
+      "newlyIndexable": true,
+      "purpose": "Read permit status precisely before scheduling the next trade",
+      "sourceClaims": [
+        {
+          "title": "Wyckoff Building, Zoning and Property Maintenance",
+          "url": "https://www.wyckoffnj.gov/building-zoning-property-maintenance",
+          "publisher": "Township of Wyckoff",
+          "supports": "Published permit-status distinctions and missing-record explanation; no approval inference or response-time guarantees."
+        }
+      ]
+    },
+    {
+      "id": "df1025a8-92ab-4006-8ae1-4c037a1285dc",
+      "path": "/home-services/berkeley-heights",
+      "newlyIndexable": true,
+      "purpose": "Coordinate retaining-wall design with grading and engineering review",
+      "sourceClaims": [
+        {
+          "title": "Berkeley Heights Permit Process",
+          "url": "https://berkeleyheights.gov/158/Permit-Process",
+          "publisher": "Township of Berkeley Heights",
+          "supports": "Engineering review of landscape/retaining walls and grading/neighbors rationale; no blanket every-project permit claim, fees or timelines copied."
+        }
+      ]
+    },
+    {
+      "id": "30ff0e8b-9bc6-41d3-818a-3b42f227c738",
+      "path": "/home-services/clark",
+      "newlyIndexable": true,
+      "purpose": "Coordinate excavation preparation with separate permit questions",
+      "sourceClaims": [
+        {
+          "title": "Clark Construction Permits",
+          "url": "https://www.ourclark.com/329/Permits",
+          "publisher": "Township of Clark",
+          "supports": "Before You Dig resource plus distinct right-of-way and other permit links; no blanket permit requirement."
+        },
+        {
+          "title": "Clark Before You Dig Notice",
+          "url": "https://www.ourclark.com/DocumentCenter/View/44/Before-You-Dig-PDF",
+          "publisher": "Township of Clark",
+          "supports": "Utility-location preparation for digging; older numeric notice periods not reproduced and no private-line coverage guarantee."
+        }
+      ]
+    }
+  ]
+}

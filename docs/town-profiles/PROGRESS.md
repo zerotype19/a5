@@ -93,3 +93,11 @@ Norwood, Oakland, Old Tappan, Oradell, Palisades Park, Park Ridge, Ramsey, Ridge
 ## Batch 11: ready for publication
 
 River Vale, Rochelle Park, Rockleigh, Rutherford, Saddle Brook, Saddle River, South Hackensack, Teaneck, Tenafly and Teterboro. Brand positioning ideas approved all ten. Official sources support narrow local guidance; Rutherford was verified in the live browser. Unread EV and historic-guideline provisions are not asserted. Tests, lint, typecheck and Next build passed. All 160 service/town combinations retain at least ten active emailed mapped vendors.
+
+## Batch 11: published and verified
+
+2026-10-08: PR #60 merged (8e26ef8). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 226 URLs. One hundred ten completed; 92 remain.
+
+## Batch 12: ready for publication
+
+Upper Saddle River, Waldwick, Wallington, Washington Township (Bergen), Westwood, Wood-Ridge, Woodcliff Lake, Wyckoff, Berkeley Heights and Clark finish Bergen and begin Union. Brand positioning ideas approved all ten. Wallington, Washington Township and Wood-Ridge sources verified in live browser. All 160 service/town combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
