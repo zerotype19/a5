@@ -12,6 +12,7 @@ import { buildCanonicalUrl, buildContentPathFromRecord } from "./urls.ts";
 
 /** Approved core public routes that belong in the sitemap. */
 export const CORE_SITEMAP_ROUTES = [
+  { path: "/vendors/join", changeFrequency: "monthly" as const, priority: 0.6 },
   { path: "/services", changeFrequency: "monthly" as const, priority: 0.9 },
   { path: "/home-services", changeFrequency: "monthly" as const, priority: 0.9 },
   { path: "/guides", changeFrequency: "monthly" as const, priority: 0.7 },

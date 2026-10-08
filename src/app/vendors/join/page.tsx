@@ -1,0 +1,9 @@
+import type {Metadata} from 'next';
+import {VendorSignupForm} from '@/components/vendor-signup/VendorSignupForm';
+import styles from '@/components/vendor-signup/signup.module.css';
+export const dynamic='force-dynamic';
+export const metadata:Metadata={title:'Join the A5 Vendor Network',description:'Offer home services in Northern New Jersey? Tell A5 what you do and which towns you serve. Join our vendor database for free project leads.',alternates:{canonical:'/vendors/join'}};
+export default function VendorJoinPage(){
+ const enabled=process.env.ENABLE_VENDOR_SIGNUP==='true';
+ return <main className={styles.page}><header className={styles.hero}><p className={styles.eyebrow}>For local service businesses</p><h1>You do the work.<br/>We help connect you.</h1><p>Join A5’s vendor network for home service requests across Northern New Jersey. Tell us what you do and where you work. Leads are currently free.</p></header><div className={styles.layout}>{enabled?<VendorSignupForm siteKey={process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY?.trim()||null}/>:<section className={styles.receipt}><h2>Get included in our vendor network</h2><p>Email <a href="mailto:hello@a5homeservices.com">hello@a5homeservices.com</a> with your business name, services and towns. Online signup is not available right now.</p></section>}<aside className={styles.aside}><h2>How it works</h2><ol><li><strong>Share your details.</strong> Choose your services and the towns you cover.</li><li><strong>A5 reviews your signup.</strong> We add your information or connect it to an existing vendor record.</li><li><strong>Receive project requests.</strong> A5 manually forwards leads. You discuss the job, estimate and schedule with the homeowner.</li></ol><p>No account required. No guaranteed lead volume. Signup does not represent an A5 credential or insurance verification.</p></aside></div></main>;
+}

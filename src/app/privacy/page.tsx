@@ -16,7 +16,7 @@ export default function PrivacyPage() {
       <h1 className={styles.legalTitle}>Privacy</h1>
       <p className={styles.body}>
         This page describes how {SITE.name} handles information submitted
-        through {SITE.domain}. It was last updated on October 7, 2026.
+        through {SITE.domain}. It was last updated on October 8, 2026.
       </p>
 
       <h2 className={styles.sectionTitle}>What you can send us</h2>
@@ -27,6 +27,9 @@ export default function PrivacyPage() {
         of the work, and optional photos. You can also call or email A5
         directly.
       </p>
+
+      <h2 className={styles.sectionTitle}>Vendor signups</h2>
+      <p className={styles.body}>Businesses can submit a name, contact person, email, optional phone and website, services, operating towns and optional project preferences. We store this information and the submitted permission to receive project emails in our private Supabase operations database. A5 uses it to maintain vendor records and manually forward relevant requests. Signup details are not a public directory listing or a marketing subscription. Contact A5 to correct your information or stop receiving requests.</p>
 
       <h2 className={styles.sectionTitle}>How we use it</h2>
       <p className={styles.body}>

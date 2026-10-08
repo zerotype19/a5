@@ -65,3 +65,6 @@ Deleting the exposed text alone is not sufficient.
 Existing Resend and Supabase secrets are reused. The local preview uses only public content read configuration; do not copy production service-role or Turnstile secret keys into preview assets.
 
 - ENABLE_LEAD_OUTCOMES: default false; enable only after applying `20261007200000_a5_lead_outcomes.sql`. Supports audited outcomes, monetary values and due follow-ups. Disable to roll back UI access without deleting history.
+
+## Vendor self-signup
+`ENABLE_VENDOR_SIGNUP=true` enables public submissions and admin signup reads. Default off. Apply `20261008030000_vendor_signup.sql` first. Existing Turnstile and Supabase credentials are reused; no new secrets.
