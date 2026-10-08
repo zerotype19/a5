@@ -1,0 +1,1329 @@
+{
+  "updates": [
+    {
+      "id": "96702a12-c46d-4517-8480-ef1ab97e9f45",
+      "slug": "boonton",
+      "page_type": "LOCATION",
+      "title": "Home services in Boonton, Morris County",
+      "meta_title": "Boonton Home Services | Morris County",
+      "meta_description": "Plan Boonton home repairs with a clear exterior-work brief, Town permit resources and practical masonry, door and painting guidance. Request help through A5.",
+      "h1": "Home services in Boonton.",
+      "primary_service_id": null,
+      "primary_location_id": "boonton",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Boonton, Morris County?",
+      "direct_answer": "For a Boonton exterior repair, photograph the whole entrance and identify whether the work restores an existing feature or changes its size or appearance. Use the Town of Boonton’s resources, rather than Boonton Township’s, and ask about historic-property review before settling the scope.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Repair the entrance without losing the bigger picture",
+          "paragraphs": [
+            "A sticking exterior door, worn trim and damaged steps may be one entrance project, but they need different assessments. Begin with a wide photo showing the door, landing, railing and walk. Add close-ups of the condition you want addressed. Identify which entrance the household can use while work is underway.",
+            "The Town’s zoning and permit guidance distinguishes work types and flags additional review for historic districts or registered historic sites. Ask the Town about the actual address and proposed change; a contractor’s estimate is not a historic-property determination. The Town also specifically tells portal users to select Boonton Town, not Boonton Township.",
+            "Separate restoration from alteration in each quote. Keeping a door opening, changing its dimensions and rebuilding the steps are different scopes. Agree on protection for adjoining brick and planting, disposal of removed material and whether painting is included after carpentry."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Boonton project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Doors and surrounding trim",
+              "body": "Describe where the door sticks and whether the frame appears damaged. Ask for adjustment, replacement and finish repair to be identified separately, rather than assuming new hardware will solve movement.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Steps and landing repairs",
+              "body": "Show loose material and the full stair run from a safe position. Ask what must be assessed before patching, and whether railings or adjoining paving are included in the proposal.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Exterior finish preparation",
+              "body": "Identify the surfaces and previous repairs. Ask the painter to distinguish preparation, spot repair and finish coats; settle any historic-property questions before buying materials.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Boonton office should I use for an exterior project?",
+              "answer": "Use the Town of Boonton Construction and Zoning resources for a property in Boonton Town. Boonton Township is a separate municipality. The Town’s guidance also calls out historic districts and registered sites, so confirm the address and scope before work begins."
+            },
+            {
+              "question": "How does A5 help with my Boonton request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Boonton is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Boonton project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:30.67+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f179e1eb-26a0-4632-8303-a8d8edf4c6f9",
+      "slug": "boonton-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Boonton Township, Morris County",
+      "meta_title": "Boonton Township Home Services | Morris County",
+      "meta_description": "Plan Boonton Township equipment and property repairs with the right construction, zoning and health contacts. Prepare a clear service request through A5.",
+      "h1": "Home services in Boonton Township.",
+      "primary_service_id": null,
+      "primary_location_id": "boonton-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Boonton Township, Morris County?",
+      "direct_answer": "For a Boonton Township equipment project, record what is being replaced, where it sits and whether piping, wiring or the outdoor footprint will change. The Township directs construction permits and inspections to Montville, while retaining local zoning and health matters. Confirm the scope with the appropriate offices.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep equipment work and property approvals connected",
+          "paragraphs": [
+            "Replacing heating equipment or moving an outdoor unit can involve more than the equipment itself. Photograph the label, surrounding clearance and access route without opening electrical or fuel components. Tell the professional whether the work is a replacement in the same position or a proposed relocation.",
+            "Boonton Township’s Construction Department page says building permits and inspection services are provided by Montville through shared services. It separately keeps zoning, septic/well and smoke-detector inspection matters with Boonton Township. Shared administration does not mean the property is in Montville or follows another town’s land-use rules.",
+            "Before agreeing to a start date, decide who handles each application and inspection. If the proposal extends into the yard, include a sketch of the intended unit location and nearby features. Keep any known well or septic locations in the project information so access and excavation can be discussed early."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Boonton Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Heating and cooling replacement",
+              "body": "List the current system, symptoms and rooms affected. Ask whether the quote includes controls, condensate handling, electrical coordination and removal of the old equipment.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Water-heater or piping work",
+              "body": "Show the appliance and accessible connections. Explain any planned change in position or fuel type; let the plumber determine the required scope rather than treating all replacements as identical.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Outdoor equipment surroundings",
+              "body": "If planting or a small paved area must be changed for access, identify what should remain. Schedule restoration after the equipment location and approval path are settled.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Boonton Township handle its own building inspections?",
+              "answer": "Its published Construction Department guidance directs building permits and inspections to Montville under shared services. Zoning and health-related septic and well matters remain with Boonton Township. Use the linked Township page to reach the correct office for the actual project."
+            },
+            {
+              "question": "How does A5 help with my Boonton Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Boonton Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Boonton Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:30.785+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1c89beaf-b558-475f-8ed3-ce459e98305c",
+      "slug": "butler",
+      "page_type": "LOCATION",
+      "title": "Home services in Butler, Morris County",
+      "meta_title": "Butler Home Services | Morris County",
+      "meta_description": "Plan a Butler cleanout without mixing furniture, electronics and renovation debris. Compare municipal disposal options and request private help through A5.",
+      "h1": "Home services in Butler.",
+      "primary_service_id": null,
+      "primary_location_id": "butler",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Butler, Morris County?",
+      "direct_answer": "For a Butler cleanout, sort furniture, metal items, electronics and building debris into separate lists. The Borough treats these categories differently and excludes concrete and brick/cinder blocks from its listed construction-material collection. Check current municipal instructions before arranging private hauling for the remainder.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Decide what is leaving before the repair crew arrives",
+          "paragraphs": [
+            "A garage or spare-room project can produce several kinds of waste on the same day. Make an inventory before moving anything outside: furniture, a broken appliance, stored electronics and material removed during repairs. Photograph larger items beside a doorway or stair for scale and explain whether they are upstairs, downstairs or already accessible.",
+            "Butler’s Garbage, Recycling & Clean Communities guidance separates heavy bulk, heavy metal, electronics and construction materials. It says electronics are not collected curbside and identifies exclusions for concrete and brick/cinder blocks. Use the current Borough instructions for quantities and collection arrangements instead of assuming every item belongs in a normal pickup.",
+            "Private removal can cover lifting and hauling beyond the municipal option, but agree on the exact load. Ask who disconnects an appliance, what materials the hauler will accept and whether carrying, disassembly and sweeping are included. Keep items intended for donation or retention clearly separate."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Butler project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Room or garage cleanout",
+              "body": "Provide an item list, photos and the number of stairs. Ask whether the quote covers one defined load or multiple trips and how any items added on the day will be priced.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Repair before replacing an appliance",
+              "body": "Record its make, model and symptoms first. A repair assessment and removal are separate services; do not arrange hauling until you have decided whether the appliance is staying.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            },
+            {
+              "title": "Finish the cleared room",
+              "body": "After contents are removed, list damaged trim, shelves or doors for repair. Allow dusty work to finish before booking the final cleaning.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can every part of a Butler cleanout go out as bulk waste?",
+              "answer": "No. Butler’s guidance separates furniture-type bulk from metal, electronics and construction materials, with specific exclusions. Check the linked Borough instructions for your inventory and arrange a suitable private disposal option for items outside that service."
+            },
+            {
+              "question": "How does A5 help with my Butler request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Butler is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Butler project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:30.905+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "075d24a3-0e82-409b-83c5-a063bfdcb0b9",
+      "slug": "chatham-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Chatham Borough, Morris County",
+      "meta_title": "Chatham Borough Home Services | Morris County",
+      "meta_description": "Plan Chatham Borough entrance and outdoor repairs with clear trade scopes and the correct Borough/Madison review path. Start a service request with A5.",
+      "h1": "Home services in Chatham Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "chatham-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Chatham Borough, Morris County?",
+      "direct_answer": "For a Chatham Borough entrance or outdoor project, show the full work area and describe any change to paving, equipment position or drainage. Borough zoning and engineering reviews remain local; Madison administers construction permits and subcode inspections for Borough properties. Confirm both parts of the process for your scope.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "One outdoor project can involve two review paths",
+          "paragraphs": [
+            "A front-step repair may expand into a new walk, a landing adjustment or lighting work. Write down what is staying and what is changing before collecting quotes. Show the route from the street to the door, nearby downspouts and any railings or fixtures attached to the affected area.",
+            "Chatham Borough’s construction page makes a useful distinction: the Borough performs zoning and engineering reviews, while Madison’s Building Department processes construction permits and schedules subcode inspections for Borough properties. This is not the same process as Chatham Township’s. Use the actual property municipality on the request and application.",
+            "Keep the trade estimate and local review questions aligned. If a proposal changes the paved area or moves equipment, ask the Borough which supporting information it needs. Ask the contractor to identify who coordinates inspections and who restores any area opened for wiring or drainage."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Chatham Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair or rebuild the entrance",
+              "body": "Describe loose treads, uneven paving or failing mortar separately. Ask the mason to explain the extent of removal, base preparation and how the repaired area will meet existing surfaces.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Add or repair exterior lighting",
+              "body": "Identify existing fixtures and the desired coverage area. Separate replacing a fixture from running new wiring, and agree who closes and finishes access openings.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Restore beds around the work",
+              "body": "Mark plants to retain and access needed by other trades. Final planting should follow the agreed paving and drainage layout so finished beds are not immediately disturbed.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Do I apply to Chatham Borough or Madison for construction work?",
+              "answer": "The Borough’s official page directs construction permit processing and subcode inspections to Madison, while zoning and engineering reviews remain with Chatham Borough. Confirm the required sequence for your project using that page. Chatham Township has a separate process."
+            },
+            {
+              "question": "How does A5 help with my Chatham Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Chatham Borough is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Chatham Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.013+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "1c96cdbf-6e6d-4990-8138-b62eca6d21aa",
+      "slug": "chatham-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Chatham Township, Morris County",
+      "meta_title": "Chatham Township Home Services | Morris County",
+      "meta_description": "Plan Chatham Township renovations with a clear trade sequence, inspection questions and finish-repair scope. Connect with independent professionals through A5.",
+      "h1": "Home services in Chatham Township.",
+      "primary_service_id": null,
+      "primary_location_id": "chatham-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Chatham Township, Morris County?",
+      "direct_answer": "For a Chatham Township renovation, separate work inside walls from the final drywall, tile and painting. Ask the Township Construction Department and your contractor what inspections apply and when work may be covered. The Township specifically reminds owners to arrange final inspections for open permits.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan the finish date around the work underneath",
+          "paragraphs": [
+            "A bathroom or laundry refresh can look like a finish-only job until piping, wiring or ventilation changes are proposed. List each change before ordering tile or arranging painting. Photograph the current layout and explain whether fixtures are remaining in place or moving.",
+            "Chatham Township’s Construction Department publishes permit guidance and warns that open permits need final-inspection follow-through. Treat the paperwork and inspection sequence as part of the project scope, not a task to discover after the last invoice. This page concerns Chatham Township, not the Borough’s shared construction arrangement with Madison.",
+            "Ask who coordinates each trade, who books applicable inspections and which work must remain visible until checked. Keep copies of the approved scope and any changes. Cosmetic completion alone does not tell you that the municipal record is closed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Chatham Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plumbing before the finish work",
+              "body": "Identify fixtures staying in place and those moving. Ask what access is required, who supplies fixtures and who is responsible for closing walls after the plumbing scope is complete.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Drywall after inspection stages",
+              "body": "Describe the openings and ceiling areas involved. Coordinate the patch date with the other trade and any required inspection, then agree whether the finish is paint-ready or includes painting.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Tile with a defined substrate scope",
+              "body": "Explain whether the job is a few damaged tiles or a larger replacement. Ask what preparation and underlying repair are included before comparing finish-material prices.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should I check before calling a Chatham Township renovation finished?",
+              "answer": "Review the contractor’s completion list and confirm the status of any applicable permits and final inspections with the Township. Its Construction Department specifically asks owners with open permits to schedule finals. A finished surface or an A5 introduction does not establish inspection approval."
+            },
+            {
+              "question": "How does A5 help with my Chatham Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Chatham Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Chatham Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.112+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a0d80d41-084f-418d-853e-7bb5a15c2e50",
+      "slug": "chester-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Chester Borough, Morris County",
+      "meta_title": "Chester Borough Home Services | Morris County",
+      "meta_description": "Prepare Chester Borough home repairs with separate interior and exterior scopes, historic-property questions and useful photos. Request a professional through A5.",
+      "h1": "Home services in Chester Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "chester-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Chester Borough, Morris County?",
+      "direct_answer": "For a Chester Borough refresh, separate interior maintenance from changes outside the house. The Borough asks owners to check whether a property is in its Historic Zone or has historical significance before exterior work. Confirm that question before choosing replacement details or finalizing an exterior quote.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the interior punch list separate from exterior decisions",
+          "paragraphs": [
+            "A move-in list often combines painting, door adjustments and exterior repairs. Divide it by work area so a professional can see which tasks are cosmetic and which alter an opening, structure or outside feature. Note original details you want retained and take a wide photo as well as close-ups.",
+            "Chester Borough’s Construction page asks owners to contact the office before exterior work to check Historic Zone or historical-significance status. It also distinguishes ordinary maintenance from other construction. Use that distinction to ask informed questions; do not treat a general online example as a ruling on your specific project.",
+            "For the exterior quote, identify the existing material, the proposed replacement and any change in size or appearance. For interior work, group repairs that can share protection and preparation. Agree whether the same professional handles the whole list or whether painting follows a separate repair visit."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Chester Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Interior doors and trim",
+              "body": "List sticking doors, loose trim and damaged hardware by room. State whether the original opening will remain, and ask for any proposed alteration to be explained before proceeding.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Painting after repairs",
+              "body": "Choose the rooms and surfaces, then identify patching and preparation separately. Confirm whether ceilings, trim and closet interiors are included rather than relying on a single room count.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Exterior steps and walks",
+              "body": "Provide overall photos and mark the damaged section. Before replacing visible details, resolve any property-specific review questions and ask how repaired material will meet the existing work.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I choose exterior replacement materials before checking with Chester Borough?",
+              "answer": "Check the property and proposed work with the Borough first. Its Construction page specifically flags Historic Zone and historically significant properties for possible additional review. A5 helps introduce a professional; the Borough determines the applicable local process."
+            },
+            {
+              "question": "How does A5 help with my Chester Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Chester Borough is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Chester Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.219+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3adf2fef-2067-4862-8340-aa948bc4a18f",
+      "slug": "chester-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Chester Township, Morris County",
+      "meta_title": "Chester Township Home Services | Morris County",
+      "meta_description": "Plan Chester Township tree and yard projects with clear removal, stump and restoration scopes and Township resources. Start a local service request through A5.",
+      "h1": "Home services in Chester Township.",
+      "primary_service_id": null,
+      "primary_location_id": "chester-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Chester Township, Morris County?",
+      "direct_answer": "For a Chester Township tree project, identify the tree, the condition you noticed and what you want done with the stump and disturbed ground. The Township’s tree-removal guidance directs owners to its ordinance and Planning & Zoning application process before removing trees. Confirm the current requirements for the actual site.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Decide the tree work before redesigning the yard",
+          "paragraphs": [
+            "A quote for taking down a tree does not necessarily include stump grinding, removing wood or repairing the lawn. Photograph the whole tree from a safe distance and describe nearby buildings, fences, wires and access restrictions. Do not climb, test a damaged limb or approach utility lines to get a better picture.",
+            "Chester Township publishes a tree-removal and replacement notice directing property owners to the ordinance and Planning & Zoning Office. That is a practical starting point for questions about the proposed work and any replacement obligation. A tree company’s assessment and municipal review answer different questions.",
+            "Make a sequence for the whole area: assessment and local requirements, approved tree work, stump decision, ground restoration, then planting or paving. Identify any plants or landscape features to protect and agree how access damage will be documented and repaired."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Chester Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Tree assessment and defined removal",
+              "body": "Describe whether you are seeking pruning, removal or an assessment of a concern. Ask who handles wood, branches and stump work, and how the property is protected during access.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Restore lawn and planting",
+              "body": "Show the future planting area and list the plants you want retained. Ask about preparation after stump work and whether the proposal includes soil, seeding, planting and cleanup.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Reset nearby paving",
+              "body": "If a walk is affected, photograph the full uneven area and nearby roots. Coordinate the masonry assessment with the tree plan rather than assuming surface leveling can be done independently.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where should Chester Township owners start with tree-removal questions?",
+              "answer": "Use the Township’s tree-removal notice and its linked ordinance/application, or contact Planning & Zoning for the specific tree and site. Confirm current requirements before authorizing removal; an A5 request does not grant permission or provide emergency tree response."
+            },
+            {
+              "question": "How does A5 help with my Chester Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Chester Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Chester Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.333+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3f41cc02-6ef5-41d7-8c85-69bf17ded518",
+      "slug": "denville",
+      "page_type": "LOCATION",
+      "title": "Home services in Denville, Morris County",
+      "meta_title": "Denville Home Services | Morris County",
+      "meta_description": "Plan Denville water-related home repairs with a clear incident history, separate trade scopes and official flood-risk resources. Request planned service through A5.",
+      "h1": "Home services in Denville.",
+      "primary_service_id": null,
+      "primary_location_id": "denville",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Denville, Morris County?",
+      "direct_answer": "For a Denville water-related repair, record where moisture appeared, when it happens and what has already been assessed. Separate correcting the source from replacing drywall or finishes. Denville’s flood-preparedness material identifies local waterways; use address-specific official resources rather than assuming every property has the same exposure.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Explain the water history before asking for a finish repair",
+          "paragraphs": [
+            "A stained ceiling after a plumbing leak and a basement affected during rain call for different first conversations. Describe the affected room, the timing and any previous repair. Add dated photos from a safe, dry location. A finish contractor needs to know whether the cause has been addressed before pricing restoration.",
+            "Denville’s municipal flood-preparedness newsletter discusses the Rockaway River, Den Brook and Meadow Brook. That local context does not establish a flood designation for an individual house. The NJDEP Flood Indicator Tool provides an address-based starting point; confirm project and property questions with the appropriate local professional or Township office.",
+            "Keep assessment, source correction and cosmetic repair as separate line items. Ask what evidence is needed before closing a wall, what materials are included and who coordinates any electrical or mechanical assessment. For active flooding, unsafe electrical conditions or an emergency, use emergency services or the utility; A5 handles planned service introductions."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Denville project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plumbing-source investigation",
+              "body": "Describe the fixture or pipe involved and when the leak occurs. Share any previous findings and ask what access will be needed; do not assume the visible stain identifies the source.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Gutters and exterior runoff observations",
+              "body": "Photograph accessible overflow marks and downspout outlets from the ground. Ask what the service covers and whether a wider drainage assessment is needed beyond cleaning a gutter.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Drywall and ceiling restoration",
+              "body": "Provide dimensions and photos after the underlying issue has been assessed. Ask the repair professional to identify preparation, replacement, finishing and painting responsibilities before work is scheduled.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a Denville address alone tell me whether my house is in a flood-risk area?",
+              "answer": "No. Use the actual property address in official mapping resources and ask the Township or an appropriate professional about the proposed work. The local newsletter gives community context, not a parcel determination, and A5 does not certify flood risk or offer emergency response."
+            },
+            {
+              "question": "How does A5 help with my Denville request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Denville is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Denville project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.452+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ebf82b02-966b-4bc8-8aac-452fd3c70773",
+      "slug": "dover",
+      "page_type": "LOCATION",
+      "title": "Home services in Dover, Morris County",
+      "meta_title": "Dover Home Services | Morris County",
+      "meta_description": "Organize Dover home repairs with clear trade responsibilities, inspection-stage questions and Town forms. Send a focused request to the A5 network.",
+      "h1": "Home services in Dover.",
+      "primary_service_id": null,
+      "primary_location_id": "dover",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Dover, Morris County?",
+      "direct_answer": "For a Dover repair involving several trades, identify each work area and separate rough work from the finished surface. The Town’s inspection form asks for the project address, permit number, subcode and inspection type. Use those details to coordinate applicable inspections with your contractor before closing up work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the handoff between trades visible",
+          "paragraphs": [
+            "A kitchen, bathroom or ceiling repair can stall when each trade assumes someone else is handling the next step. Describe the problem first, then list the expected sequence: assessment, access, repair, any inspection and finish restoration. Name the person who can provide access and decide on changes.",
+            "The Town of Dover’s current inspection request form distinguishes building, electrical, fire, plumbing and mechanical subcodes and asks which inspection stage is being requested. Keep the permit reference and the work description together where a permit applies. A request for one inspection is not a substitute for every required trade approval.",
+            "Before the first visit, ask who will arrange the relevant inspections and who will patch or paint after another trade opens a surface. Photograph existing finishes and agree how hidden damage or a changed scope will be explained and priced. Use Dover, New Jersey resources; other places named Dover have different processes."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Dover project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Electrical repairs with finish coordination",
+              "body": "Describe affected lights or outlets and whether the problem is intermittent. Ask what access is expected and who will restore the surface; leave diagnosis and electrical work to the appropriate professional.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plumbing access and restoration",
+              "body": "Identify the fixture, visible leak and access limitations. Ask whether the quote includes removing and reinstalling cabinets or fixtures, or only the plumbing repair itself.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Close and finish opened walls",
+              "body": "Provide the opening dimensions and the other trade’s completion status. Schedule drywall after any required inspection stage and agree on texture, primer and paint boundaries.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What information helps coordinate a Dover inspection?",
+              "answer": "The Town’s inspection form requests the project address, permit number, contact information, requested date, subcode and inspection type. Use the current official form and confirm the applicable stages with Construction and your contractor; do not assume the date requested is a confirmed appointment."
+            },
+            {
+              "question": "How does A5 help with my Dover request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Dover is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Dover project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.564+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0380f9ea-cc10-4b8a-8f41-11ab0d119849",
+      "slug": "harding",
+      "page_type": "LOCATION",
+      "title": "Home services in Harding, Morris County",
+      "meta_title": "Harding Home Services | Morris County",
+      "meta_description": "Plan Harding home and yard repairs with clear access routes, known well/septic locations and Township health resources. Request independent help through A5.",
+      "h1": "Home services in Harding.",
+      "primary_service_id": null,
+      "primary_location_id": "harding",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Harding, Morris County?",
+      "direct_answer": "For a Harding yard or home project, include any known well and septic locations in the access plan and distinguish general repair work from specialist system work. Harding’s Health Department administers local septic and well regulations and provides related guidance. Confirm the appropriate specialist and municipal process before disturbing those areas.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan equipment access around what is below ground",
+          "paragraphs": [
+            "Tree work, planting and exterior repairs can share a driveway or yard access route. Before comparing quotes, show the proposed staging area and any known buried-system locations from your property records. Explain gate widths, soft ground and features to protect rather than assuming equipment can cross every open part of the lawn.",
+            "Harding’s Health Department identifies septic and well regulation among its responsibilities and publishes homeowner septic guidance. It also describes a permit process for septic pump-outs handled by the septic contractor. General plumbing, landscaping and tree services should not be treated as proof that a provider offers septic or well specialties.",
+            "Keep the requested service precise. If the problem concerns a septic system or well, contact the appropriate specialist and Health Department rather than labeling it a routine yard cleanup. For other work nearby, ask how the route, staging and restoration plan will avoid disturbing known system areas."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Harding project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Tree work with a protected route",
+              "body": "Show the tree, access route and areas that should not be crossed. Ask about equipment positioning, debris handling and restoration before agreeing to the removal or pruning scope.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Planting and bed restoration",
+              "body": "Identify the planting area and any known underground-system constraints. Ask what preparation is proposed and settle system-related questions before digging or changing the ground surface.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Interior plumbing with a clear boundary",
+              "body": "Describe the fixture and symptoms, and tell the plumber whether the property uses a private system if known. Ask explicitly whether the concern is within their service scope or needs another specialist.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does choosing plumbing through A5 mean septic or well work is covered?",
+              "answer": "No. A general service category is not proof of a vendor’s specialty. Harding’s Health Department provides the local septic and well guidance; use a suitable specialist for system-specific work and confirm the scope directly before arranging a visit."
+            },
+            {
+              "question": "How does A5 help with my Harding request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Harding is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Harding project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:59:21.626Z",
+      "published_at": "2026-10-08T01:22:31.675+00:00",
+      "last_reviewed_at": "2026-10-08T15:59:21.626Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "29e3fa78-3a17-4126-8541-49606a6df4e6",
+      "title": "Town of Boonton Zoning & Permit Requirements",
+      "url": "https://boonton.org/648/Zoning-Permit-Requirements",
+      "publisher": "Town of Boonton",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "f7740979-192c-45b9-80be-b083e2f31a91",
+      "title": "Town of Boonton Construction Department",
+      "url": "https://www.boonton.org/153/Construction-Department",
+      "publisher": "Town of Boonton",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "2c5ccc4d-351f-4c54-87b4-b5c52a8da4d6",
+      "title": "Boonton Township Construction Department",
+      "url": "https://www.boontontownship.com/construction-department",
+      "publisher": "Township of Boonton",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "5d750cbd-1371-46fa-8f55-57ada6d4c67a",
+      "title": "Butler Garbage, Recycling & Clean Communities",
+      "url": "https://www.butlerborough.com/cn/webpage.cfm?Print=1&TID=19&TPID=2556",
+      "publisher": "Borough of Butler",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "e1603c75-05c9-4843-8278-690a12ea6504",
+      "title": "Chatham Township Construction Department",
+      "url": "https://chathamtownship.org/departments/land-development/construction/",
+      "publisher": "Township of Chatham",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "ec79710d-4d69-4580-8053-b722fbd03495",
+      "title": "Chester Borough Construction",
+      "url": "https://www.chesterborough.org/departments/construction",
+      "publisher": "Borough of Chester",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "8543994c-42fc-480c-8d07-86b0346445a7",
+      "title": "Chester Township Tree Removal Ordinance Notice",
+      "url": "https://chestertownship.org/index.php/blog/new-tree-removal-ordinance",
+      "publisher": "Township of Chester",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "98aa5386-a0b1-46a2-803a-29dd7f3b68a2",
+      "title": "Denville HUB Times: Community Flood Protection Information",
+      "url": "https://cms1files.revize.com/denville/docs/HubTimes/HubTimes2023_V3%20Final.pdf",
+      "publisher": "Township of Denville",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "6c2b735f-ace9-4aff-81a0-9fdf6be505e4",
+      "title": "New Jersey Flood Indicator Tool",
+      "url": "https://dep.nj.gov/climatechange/new-jerseys-flood-indicator-tool/",
+      "publisher": "New Jersey Department of Environmental Protection",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "8b05b68c-aaf1-4c10-8ea8-6263f495661e",
+      "title": "Town of Dover 2026 Inspection Request Form",
+      "url": "https://www.dover.nj.us/documents/Construction/2026%20INSPECTION%20REQUEST%20FORM.pdf",
+      "publisher": "Town of Dover, New Jersey",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    },
+    {
+      "id": "62051faf-9841-4d32-85a4-bd9bae0f980e",
+      "title": "Harding Township Health Department",
+      "url": "https://hardingnj.org/departments/health",
+      "publisher": "Township of Harding",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:59:21.626Z",
+      "reviewed_at": "2026-10-08T15:59:21.626Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "96702a12-c46d-4517-8480-ef1ab97e9f45",
+      "source_id": "29e3fa78-3a17-4126-8541-49606a6df4e6",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "96702a12-c46d-4517-8480-ef1ab97e9f45",
+      "source_id": "f7740979-192c-45b9-80be-b083e2f31a91",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f179e1eb-26a0-4632-8303-a8d8edf4c6f9",
+      "source_id": "2c5ccc4d-351f-4c54-87b4-b5c52a8da4d6",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1c89beaf-b558-475f-8ed3-ce459e98305c",
+      "source_id": "5d750cbd-1371-46fa-8f55-57ada6d4c67a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "075d24a3-0e82-409b-83c5-a063bfdcb0b9",
+      "source_id": "2d03e7a1-c974-403a-8a50-204dc8b9b196",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "1c96cdbf-6e6d-4990-8138-b62eca6d21aa",
+      "source_id": "e1603c75-05c9-4843-8278-690a12ea6504",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "a0d80d41-084f-418d-853e-7bb5a15c2e50",
+      "source_id": "ec79710d-4d69-4580-8053-b722fbd03495",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3adf2fef-2067-4862-8340-aa948bc4a18f",
+      "source_id": "8543994c-42fc-480c-8d07-86b0346445a7",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3f41cc02-6ef5-41d7-8c85-69bf17ded518",
+      "source_id": "98aa5386-a0b1-46a2-803a-29dd7f3b68a2",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3f41cc02-6ef5-41d7-8c85-69bf17ded518",
+      "source_id": "6c2b735f-ace9-4aff-81a0-9fdf6be505e4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ebf82b02-966b-4bc8-8aac-452fd3c70773",
+      "source_id": "8b05b68c-aaf1-4c10-8ea8-6263f495661e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0380f9ea-cc10-4b8a-8f41-11ab0d119849",
+      "source_id": "62051faf-9841-4d32-85a4-bd9bae0f980e",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "96702a12-c46d-4517-8480-ef1ab97e9f45",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "f179e1eb-26a0-4632-8303-a8d8edf4c6f9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "1c89beaf-b558-475f-8ed3-ce459e98305c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "075d24a3-0e82-409b-83c5-a063bfdcb0b9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "1c96cdbf-6e6d-4990-8138-b62eca6d21aa",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "a0d80d41-084f-418d-853e-7bb5a15c2e50",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "3adf2fef-2067-4862-8340-aa948bc4a18f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "3f41cc02-6ef5-41d7-8c85-69bf17ded518",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "ebf82b02-966b-4bc8-8aac-452fd3c70773",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "0380f9ea-cc10-4b8a-8f41-11ab0d119849",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

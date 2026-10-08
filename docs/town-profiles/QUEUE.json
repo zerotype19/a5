@@ -1,0 +1,2029 @@
+{
+  "createdAt": "2026-10-08T15:50:28.463Z",
+  "total": 202,
+  "batchSize": 10,
+  "towns": [
+    {
+      "id": "boonton",
+      "name": "Boonton",
+      "slug": "boonton",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "boonton-township",
+      "name": "Boonton Township",
+      "slug": "boonton-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "butler",
+      "name": "Butler",
+      "slug": "butler",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "chatham-borough",
+      "name": "Chatham Borough",
+      "slug": "chatham-borough",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "hubSlug": "chatham",
+      "batch": 1
+    },
+    {
+      "id": "chatham-township",
+      "name": "Chatham Township",
+      "slug": "chatham-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "hubSlug": "chatham",
+      "batch": 1
+    },
+    {
+      "id": "chester-borough",
+      "name": "Chester Borough",
+      "slug": "chester-borough",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "chester-township",
+      "name": "Chester Township",
+      "slug": "chester-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "denville",
+      "name": "Denville",
+      "slug": "denville",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "dover",
+      "name": "Dover",
+      "slug": "dover",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "harding",
+      "name": "Harding",
+      "slug": "harding",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 1
+    },
+    {
+      "id": "jefferson-township",
+      "name": "Jefferson Township",
+      "slug": "jefferson-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "kinnelon",
+      "name": "Kinnelon",
+      "slug": "kinnelon",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "lincoln-park",
+      "name": "Lincoln Park",
+      "slug": "lincoln-park",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "long-hill-township",
+      "name": "Long Hill Township",
+      "slug": "long-hill-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "mendham-borough",
+      "name": "Mendham Borough",
+      "slug": "mendham-borough",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "mendham-township",
+      "name": "Mendham Township",
+      "slug": "mendham-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "mine-hill",
+      "name": "Mine Hill",
+      "slug": "mine-hill",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "montville",
+      "name": "Montville",
+      "slug": "montville",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "morris-plains",
+      "name": "Morris Plains",
+      "slug": "morris-plains",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "mount-arlington",
+      "name": "Mount Arlington",
+      "slug": "mount-arlington",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 2
+    },
+    {
+      "id": "mount-olive",
+      "name": "Mount Olive",
+      "slug": "mount-olive",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "mountain-lakes",
+      "name": "Mountain Lakes",
+      "slug": "mountain-lakes",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "netcong",
+      "name": "Netcong",
+      "slug": "netcong",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "pequannock",
+      "name": "Pequannock",
+      "slug": "pequannock",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "riverdale",
+      "name": "Riverdale",
+      "slug": "riverdale",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "rockaway-borough",
+      "name": "Rockaway Borough",
+      "slug": "rockaway-borough",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "rockaway-township",
+      "name": "Rockaway Township",
+      "slug": "rockaway-township",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "roxbury",
+      "name": "Roxbury",
+      "slug": "roxbury",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "victory-gardens",
+      "name": "Victory Gardens",
+      "slug": "victory-gardens",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "washington-township-morris",
+      "name": "Washington Township",
+      "slug": "washington-township-morris",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 3
+    },
+    {
+      "id": "wharton",
+      "name": "Wharton",
+      "slug": "wharton",
+      "state": "NJ",
+      "countyId": "morris",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "belleville",
+      "name": "Belleville",
+      "slug": "belleville",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "caldwell",
+      "name": "Caldwell",
+      "slug": "caldwell",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "cedar-grove",
+      "name": "Cedar Grove",
+      "slug": "cedar-grove",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "east-orange",
+      "name": "East Orange",
+      "slug": "east-orange",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "essex-fells",
+      "name": "Essex Fells",
+      "slug": "essex-fells",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "fairfield",
+      "name": "Fairfield",
+      "slug": "fairfield",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "glen-ridge",
+      "name": "Glen Ridge",
+      "slug": "glen-ridge",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "irvington",
+      "name": "Irvington",
+      "slug": "irvington",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "maplewood",
+      "name": "Maplewood",
+      "slug": "maplewood",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 4
+    },
+    {
+      "id": "millburn",
+      "name": "Millburn",
+      "slug": "millburn",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "newark",
+      "name": "Newark",
+      "slug": "newark",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "north-caldwell",
+      "name": "North Caldwell",
+      "slug": "north-caldwell",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "nutley",
+      "name": "Nutley",
+      "slug": "nutley",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "slug": "orange",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "roseland",
+      "name": "Roseland",
+      "slug": "roseland",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "south-orange",
+      "name": "South Orange",
+      "slug": "south-orange",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "verona",
+      "name": "Verona",
+      "slug": "verona",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "west-caldwell",
+      "name": "West Caldwell",
+      "slug": "west-caldwell",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "west-orange",
+      "name": "West Orange",
+      "slug": "west-orange",
+      "state": "NJ",
+      "countyId": "essex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 5
+    },
+    {
+      "id": "allendale",
+      "name": "Allendale",
+      "slug": "allendale",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "alpine",
+      "name": "Alpine",
+      "slug": "alpine",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "bergenfield",
+      "name": "Bergenfield",
+      "slug": "bergenfield",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "bogota",
+      "name": "Bogota",
+      "slug": "bogota",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "carlstadt",
+      "name": "Carlstadt",
+      "slug": "carlstadt",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "cliffside-park",
+      "name": "Cliffside Park",
+      "slug": "cliffside-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "closter",
+      "name": "Closter",
+      "slug": "closter",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "cresskill",
+      "name": "Cresskill",
+      "slug": "cresskill",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "demarest",
+      "name": "Demarest",
+      "slug": "demarest",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "dumont",
+      "name": "Dumont",
+      "slug": "dumont",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 6
+    },
+    {
+      "id": "east-rutherford",
+      "name": "East Rutherford",
+      "slug": "east-rutherford",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "edgewater",
+      "name": "Edgewater",
+      "slug": "edgewater",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "elmwood-park",
+      "name": "Elmwood Park",
+      "slug": "elmwood-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "emerson",
+      "name": "Emerson",
+      "slug": "emerson",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "englewood",
+      "name": "Englewood",
+      "slug": "englewood",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "englewood-cliffs",
+      "name": "Englewood Cliffs",
+      "slug": "englewood-cliffs",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "fair-lawn",
+      "name": "Fair Lawn",
+      "slug": "fair-lawn",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "fairview",
+      "name": "Fairview",
+      "slug": "fairview",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "fort-lee",
+      "name": "Fort Lee",
+      "slug": "fort-lee",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "franklin-lakes",
+      "name": "Franklin Lakes",
+      "slug": "franklin-lakes",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 7
+    },
+    {
+      "id": "garfield",
+      "name": "Garfield",
+      "slug": "garfield",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "glen-rock",
+      "name": "Glen Rock",
+      "slug": "glen-rock",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "hackensack",
+      "name": "Hackensack",
+      "slug": "hackensack",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "harrington-park",
+      "name": "Harrington Park",
+      "slug": "harrington-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "hasbrouck-heights",
+      "name": "Hasbrouck Heights",
+      "slug": "hasbrouck-heights",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "haworth",
+      "name": "Haworth",
+      "slug": "haworth",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "hillsdale",
+      "name": "Hillsdale",
+      "slug": "hillsdale",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "ho-ho-kus",
+      "name": "Ho-Ho-Kus",
+      "slug": "ho-ho-kus",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "leonia",
+      "name": "Leonia",
+      "slug": "leonia",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "little-ferry",
+      "name": "Little Ferry",
+      "slug": "little-ferry",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 8
+    },
+    {
+      "id": "lodi",
+      "name": "Lodi",
+      "slug": "lodi",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "lyndhurst",
+      "name": "Lyndhurst",
+      "slug": "lyndhurst",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "mahwah",
+      "name": "Mahwah",
+      "slug": "mahwah",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "maywood",
+      "name": "Maywood",
+      "slug": "maywood",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "midland-park",
+      "name": "Midland Park",
+      "slug": "midland-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "montvale",
+      "name": "Montvale",
+      "slug": "montvale",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "moonachie",
+      "name": "Moonachie",
+      "slug": "moonachie",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "new-milford",
+      "name": "New Milford",
+      "slug": "new-milford",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "north-arlington",
+      "name": "North Arlington",
+      "slug": "north-arlington",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "northvale",
+      "name": "Northvale",
+      "slug": "northvale",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 9
+    },
+    {
+      "id": "norwood",
+      "name": "Norwood",
+      "slug": "norwood",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "oakland",
+      "name": "Oakland",
+      "slug": "oakland",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "old-tappan",
+      "name": "Old Tappan",
+      "slug": "old-tappan",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "oradell",
+      "name": "Oradell",
+      "slug": "oradell",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "palisades-park",
+      "name": "Palisades Park",
+      "slug": "palisades-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "park-ridge",
+      "name": "Park Ridge",
+      "slug": "park-ridge",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "ramsey",
+      "name": "Ramsey",
+      "slug": "ramsey",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "ridgefield",
+      "name": "Ridgefield",
+      "slug": "ridgefield",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "ridgefield-park",
+      "name": "Ridgefield Park",
+      "slug": "ridgefield-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "river-edge",
+      "name": "River Edge",
+      "slug": "river-edge",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 10
+    },
+    {
+      "id": "river-vale",
+      "name": "River Vale",
+      "slug": "river-vale",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "rochelle-park",
+      "name": "Rochelle Park",
+      "slug": "rochelle-park",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "rockleigh",
+      "name": "Rockleigh",
+      "slug": "rockleigh",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "rutherford",
+      "name": "Rutherford",
+      "slug": "rutherford",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "saddle-brook",
+      "name": "Saddle Brook",
+      "slug": "saddle-brook",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "saddle-river",
+      "name": "Saddle River",
+      "slug": "saddle-river",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "south-hackensack",
+      "name": "South Hackensack",
+      "slug": "south-hackensack",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "teaneck",
+      "name": "Teaneck",
+      "slug": "teaneck",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "tenafly",
+      "name": "Tenafly",
+      "slug": "tenafly",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "teterboro",
+      "name": "Teterboro",
+      "slug": "teterboro",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 11
+    },
+    {
+      "id": "upper-saddle-river",
+      "name": "Upper Saddle River",
+      "slug": "upper-saddle-river",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "waldwick",
+      "name": "Waldwick",
+      "slug": "waldwick",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "wallington",
+      "name": "Wallington",
+      "slug": "wallington",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "washington-township-bergen",
+      "name": "Washington Township",
+      "slug": "washington-township-bergen",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "westwood",
+      "name": "Westwood",
+      "slug": "westwood",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "wood-ridge",
+      "name": "Wood-Ridge",
+      "slug": "wood-ridge",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "woodcliff-lake",
+      "name": "Woodcliff Lake",
+      "slug": "woodcliff-lake",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "wyckoff",
+      "name": "Wyckoff",
+      "slug": "wyckoff",
+      "state": "NJ",
+      "countyId": "bergen",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "berkeley-heights",
+      "name": "Berkeley Heights",
+      "slug": "berkeley-heights",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "clark",
+      "name": "Clark",
+      "slug": "clark",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 12
+    },
+    {
+      "id": "elizabeth",
+      "name": "Elizabeth",
+      "slug": "elizabeth",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "fanwood",
+      "name": "Fanwood",
+      "slug": "fanwood",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "garwood",
+      "name": "Garwood",
+      "slug": "garwood",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "hillside",
+      "name": "Hillside",
+      "slug": "hillside",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "kenilworth",
+      "name": "Kenilworth",
+      "slug": "kenilworth",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "linden",
+      "name": "Linden",
+      "slug": "linden",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "mountainside",
+      "name": "Mountainside",
+      "slug": "mountainside",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "new-providence",
+      "name": "New Providence",
+      "slug": "new-providence",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "plainfield",
+      "name": "Plainfield",
+      "slug": "plainfield",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "rahway",
+      "name": "Rahway",
+      "slug": "rahway",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 13
+    },
+    {
+      "id": "roselle",
+      "name": "Roselle",
+      "slug": "roselle",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "roselle-park",
+      "name": "Roselle Park",
+      "slug": "roselle-park",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "scotch-plains",
+      "name": "Scotch Plains",
+      "slug": "scotch-plains",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "springfield",
+      "name": "Springfield",
+      "slug": "springfield",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "union-township",
+      "name": "Union Township",
+      "slug": "union-township",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "winfield",
+      "name": "Winfield",
+      "slug": "winfield",
+      "state": "NJ",
+      "countyId": "union",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "bloomingdale",
+      "name": "Bloomingdale",
+      "slug": "bloomingdale",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "haledon",
+      "name": "Haledon",
+      "slug": "haledon",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "hawthorne",
+      "name": "Hawthorne",
+      "slug": "hawthorne",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "little-falls",
+      "name": "Little Falls",
+      "slug": "little-falls",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 14
+    },
+    {
+      "id": "north-haledon",
+      "name": "North Haledon",
+      "slug": "north-haledon",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "passaic",
+      "name": "Passaic",
+      "slug": "passaic",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "paterson",
+      "name": "Paterson",
+      "slug": "paterson",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "pompton-lakes",
+      "name": "Pompton Lakes",
+      "slug": "pompton-lakes",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "prospect-park",
+      "name": "Prospect Park",
+      "slug": "prospect-park",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "ringwood",
+      "name": "Ringwood",
+      "slug": "ringwood",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "totowa",
+      "name": "Totowa",
+      "slug": "totowa",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "wanaque",
+      "name": "Wanaque",
+      "slug": "wanaque",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "west-milford",
+      "name": "West Milford",
+      "slug": "west-milford",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "woodland-park",
+      "name": "Woodland Park",
+      "slug": "woodland-park",
+      "state": "NJ",
+      "countyId": "passaic",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 15
+    },
+    {
+      "id": "bayonne",
+      "name": "Bayonne",
+      "slug": "bayonne",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "east-newark",
+      "name": "East Newark",
+      "slug": "east-newark",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "guttenberg",
+      "name": "Guttenberg",
+      "slug": "guttenberg",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "harrison",
+      "name": "Harrison",
+      "slug": "harrison",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "kearny",
+      "name": "Kearny",
+      "slug": "kearny",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "north-bergen",
+      "name": "North Bergen",
+      "slug": "north-bergen",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "secaucus",
+      "name": "Secaucus",
+      "slug": "secaucus",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "union-city",
+      "name": "Union City",
+      "slug": "union-city",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "weehawken",
+      "name": "Weehawken",
+      "slug": "weehawken",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "west-new-york",
+      "name": "West New York",
+      "slug": "west-new-york",
+      "state": "NJ",
+      "countyId": "hudson",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 16
+    },
+    {
+      "id": "andover-borough",
+      "name": "Andover Borough",
+      "slug": "andover-borough",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "andover-township",
+      "name": "Andover Township",
+      "slug": "andover-township",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "branchville",
+      "name": "Branchville",
+      "slug": "branchville",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "byram",
+      "name": "Byram",
+      "slug": "byram",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "frankford",
+      "name": "Frankford",
+      "slug": "frankford",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "franklin-borough",
+      "name": "Franklin Borough",
+      "slug": "franklin-borough",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "fredon",
+      "name": "Fredon",
+      "slug": "fredon",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "green-township",
+      "name": "Green Township",
+      "slug": "green-township",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "hamburg",
+      "name": "Hamburg",
+      "slug": "hamburg",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "hampton-township",
+      "name": "Hampton Township",
+      "slug": "hampton-township",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 17
+    },
+    {
+      "id": "hardyston",
+      "name": "Hardyston",
+      "slug": "hardyston",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "hopatcong",
+      "name": "Hopatcong",
+      "slug": "hopatcong",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "lafayette",
+      "name": "Lafayette",
+      "slug": "lafayette",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "montague",
+      "name": "Montague",
+      "slug": "montague",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "ogdensburg",
+      "name": "Ogdensburg",
+      "slug": "ogdensburg",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "sandyston",
+      "name": "Sandyston",
+      "slug": "sandyston",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "stanhope",
+      "name": "Stanhope",
+      "slug": "stanhope",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "stillwater",
+      "name": "Stillwater",
+      "slug": "stillwater",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "sussex",
+      "name": "Sussex",
+      "slug": "sussex",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "vernon",
+      "name": "Vernon",
+      "slug": "vernon",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 18
+    },
+    {
+      "id": "walpack",
+      "name": "Walpack",
+      "slug": "walpack",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "wantage",
+      "name": "Wantage",
+      "slug": "wantage",
+      "state": "NJ",
+      "countyId": "sussex",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "allamuchy",
+      "name": "Allamuchy",
+      "slug": "allamuchy",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "alpha",
+      "name": "Alpha",
+      "slug": "alpha",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "belvidere",
+      "name": "Belvidere",
+      "slug": "belvidere",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "blairstown",
+      "name": "Blairstown",
+      "slug": "blairstown",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "franklin-township",
+      "name": "Franklin Township",
+      "slug": "franklin-township",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "frelinghuysen",
+      "name": "Frelinghuysen",
+      "slug": "frelinghuysen",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "greenwich-township",
+      "name": "Greenwich Township",
+      "slug": "greenwich-township",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "hardwick",
+      "name": "Hardwick",
+      "slug": "hardwick",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 19
+    },
+    {
+      "id": "harmony",
+      "name": "Harmony",
+      "slug": "harmony",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "hope",
+      "name": "Hope",
+      "slug": "hope",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "independence",
+      "name": "Independence",
+      "slug": "independence",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "knowlton",
+      "name": "Knowlton",
+      "slug": "knowlton",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "liberty-township",
+      "name": "Liberty Township",
+      "slug": "liberty-township",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "lopatcong",
+      "name": "Lopatcong",
+      "slug": "lopatcong",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "mansfield-township",
+      "name": "Mansfield Township",
+      "slug": "mansfield-township",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "oxford",
+      "name": "Oxford",
+      "slug": "oxford",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "pohatcong",
+      "name": "Pohatcong",
+      "slug": "pohatcong",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "washington-borough",
+      "name": "Washington Borough",
+      "slug": "washington-borough",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 20
+    },
+    {
+      "id": "washington-township-warren",
+      "name": "Washington Township",
+      "slug": "washington-township-warren",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 21
+    },
+    {
+      "id": "white-township",
+      "name": "White Township",
+      "slug": "white-township",
+      "state": "NJ",
+      "countyId": "warren",
+      "requestReviewRequired": true,
+      "legacyArea": false,
+      "batch": 21
+    }
+  ]
+}

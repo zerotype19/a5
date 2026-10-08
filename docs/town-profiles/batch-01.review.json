@@ -1,0 +1,157 @@
+{
+  "sha256": "3c35e16259dd1e1e20f8737f216b450edb9eb97c53d1928f481628b6e3e9ab48",
+  "pages": [
+    {
+      "id": "96702a12-c46d-4517-8480-ef1ab97e9f45",
+      "path": "/home-services/boonton",
+      "newlyIndexable": true,
+      "purpose": "Plan exterior repairs in the Town of Boonton without confusing Township or historic-site review",
+      "sourceClaims": [
+        {
+          "title": "Town of Boonton Zoning & Permit Requirements",
+          "url": "https://boonton.org/648/Zoning-Permit-Requirements",
+          "publisher": "Town of Boonton",
+          "supports": "Official project guidance flags additional historic-district/site review; no specific permit exemption reproduced."
+        },
+        {
+          "title": "Town of Boonton Construction Department",
+          "url": "https://www.boonton.org/153/Construction-Department",
+          "publisher": "Town of Boonton",
+          "supports": "Construction resources and explicit SDL instruction to select Boonton Town, not Township."
+        }
+      ]
+    },
+    {
+      "id": "f179e1eb-26a0-4632-8303-a8d8edf4c6f9",
+      "path": "/home-services/boonton-township",
+      "newlyIndexable": true,
+      "purpose": "Coordinate equipment replacement across Montville construction and Township zoning/health",
+      "sourceClaims": [
+        {
+          "title": "Boonton Township Construction Department",
+          "url": "https://www.boontontownship.com/construction-department",
+          "publisher": "Township of Boonton",
+          "supports": "Montville shared construction services; zoning, septic/well and smoke-detector matters remain with Township."
+        }
+      ]
+    },
+    {
+      "id": "1c89beaf-b558-475f-8ed3-ce459e98305c",
+      "path": "/home-services/butler",
+      "newlyIndexable": true,
+      "purpose": "Separate furniture, metal, electronics and masonry debris before a Butler cleanout",
+      "sourceClaims": [
+        {
+          "title": "Butler Garbage, Recycling & Clean Communities",
+          "url": "https://www.butlerborough.com/cn/webpage.cfm?Print=1&TID=19&TPID=2556",
+          "publisher": "Borough of Butler",
+          "supports": "Separate waste categories, no curbside electronics, concrete/brick/cinder-block exclusion; no fixed pickup dates copied."
+        }
+      ]
+    },
+    {
+      "id": "075d24a3-0e82-409b-83c5-a063bfdcb0b9",
+      "path": "/home-services/chatham-borough",
+      "newlyIndexable": true,
+      "purpose": "Coordinate Borough site review with Madison construction for a Chatham entrance project",
+      "sourceClaims": [
+        {
+          "title": "Chatham Borough Zoning, Engineering & Construction",
+          "url": "https://www.chathamborough.org/departments/construction",
+          "publisher": "Borough of Chatham",
+          "supports": "Borough zoning/engineering and Madison construction administration; no office hours, fees or processing promises copied."
+        }
+      ]
+    },
+    {
+      "id": "1c96cdbf-6e6d-4990-8138-b62eca6d21aa",
+      "path": "/home-services/chatham-township",
+      "newlyIndexable": true,
+      "purpose": "Close out a Chatham Township multi-trade renovation before finishes hide work",
+      "sourceClaims": [
+        {
+          "title": "Chatham Township Construction Department",
+          "url": "https://chathamtownship.org/departments/land-development/construction/",
+          "publisher": "Township of Chatham",
+          "supports": "Township construction administration and explicit follow-up on open permits/final inspections; no blanket permit determination."
+        }
+      ]
+    },
+    {
+      "id": "a0d80d41-084f-418d-853e-7bb5a15c2e50",
+      "path": "/home-services/chester-borough",
+      "newlyIndexable": true,
+      "purpose": "Distinguish cosmetic interior work from exterior historic-property review in Chester Borough",
+      "sourceClaims": [
+        {
+          "title": "Chester Borough Construction",
+          "url": "https://www.chesterborough.org/departments/construction",
+          "publisher": "Borough of Chester",
+          "supports": "Office advises checking Historic Zone/historical-significance status before exterior work; maintenance distinctions referenced without reproducing exemption lists."
+        }
+      ]
+    },
+    {
+      "id": "3adf2fef-2067-4862-8340-aa948bc4a18f",
+      "path": "/home-services/chester-township",
+      "newlyIndexable": true,
+      "purpose": "Sequence tree assessment, removal and yard restoration under Township guidance",
+      "sourceClaims": [
+        {
+          "title": "Chester Township Tree Removal Ordinance Notice",
+          "url": "https://chestertownship.org/index.php/blog/new-tree-removal-ordinance",
+          "publisher": "Township of Chester",
+          "supports": "Official notice directs owners to tree-removal/replacement ordinance and Planning & Zoning application; no universal permit or exemption claim."
+        }
+      ]
+    },
+    {
+      "id": "3f41cc02-6ef5-41d7-8c85-69bf17ded518",
+      "path": "/home-services/denville",
+      "newlyIndexable": true,
+      "purpose": "Separate water-source assessment from finish replacement in Denville",
+      "sourceClaims": [
+        {
+          "title": "Denville HUB Times: Community Flood Protection Information",
+          "url": "https://cms1files.revize.com/denville/docs/HubTimes/HubTimes2023_V3%20Final.pdf",
+          "publisher": "Township of Denville",
+          "supports": "Local waterways named in municipal preparedness material; 2023 source used only for geographic context, not current insurance, permit thresholds or schedules."
+        },
+        {
+          "title": "New Jersey Flood Indicator Tool",
+          "url": "https://dep.nj.gov/climatechange/new-jerseys-flood-indicator-tool/",
+          "publisher": "New Jersey Department of Environmental Protection",
+          "supports": "Official address-based flood-risk information tool; not a professional parcel certification."
+        }
+      ]
+    },
+    {
+      "id": "ebf82b02-966b-4bc8-8aac-452fd3c70773",
+      "path": "/home-services/dover",
+      "newlyIndexable": true,
+      "purpose": "Keep a Dover multi-trade repair ready for the right inspection stage",
+      "sourceClaims": [
+        {
+          "title": "Town of Dover 2026 Inspection Request Form",
+          "url": "https://www.dover.nj.us/documents/Construction/2026%20INSPECTION%20REQUEST%20FORM.pdf",
+          "publisher": "Town of Dover, New Jersey",
+          "supports": "Current form fields and distinct subcodes/stages; no guaranteed appointment or processing time."
+        }
+      ]
+    },
+    {
+      "id": "0380f9ea-cc10-4b8a-8f41-11ab0d119849",
+      "path": "/home-services/harding",
+      "newlyIndexable": true,
+      "purpose": "Protect known septic and well areas while planning Harding yard access",
+      "sourceClaims": [
+        {
+          "title": "Harding Township Health Department",
+          "url": "https://hardingnj.org/departments/health",
+          "publisher": "Township of Harding",
+          "supports": "Local health responsibility for septic/well regulations, homeowner guidance and contractor pump-out permit process; no specialist vendor coverage promised."
+        }
+      ]
+    }
+  ]
+}

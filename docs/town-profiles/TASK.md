@@ -1,0 +1,9 @@
+# Remaining town profiles: owner-authorized batches
+
+The owner requested completing all 202 remaining municipality profiles, ten at a time until finished. This extends the previous eight-town pilot. Existing publication authorization persists. Each batch contains ten existing records (the final batch contains two); it is individually researched, reviewed, published and verified before the next release. No service/town/problem permutations, new service/geography entities, schema, dependencies, vendor activation, outreach or spending.
+
+QUEUE.json is the immutable initial scope, ordered Morris, Essex, Bergen, Union, Passaic, Hudson, Sussex and Warren, then municipality name. Preserve Borough/Township distinctions and the existing combined Chatham hub. Kevin owns incoming requests through hello@a5homeservices.com; there is no promised staffing schedule.
+
+Every authored profile needs a practical homeowner purpose, a checked official local source, distinct project preparation, relevant service links, accurate network positioning, metadata and county navigation. Shared structural elements do not replace original local editorial work. Do not assert permit exemptions, public-office processing times, specialist capability, availability, verified credentials, projects or reviews without evidence. A municipal directory or old agenda alone is insufficient for a new regulatory claim.
+
+For each batch save an exact manifest and digest, current before-image, source-claim review, paginated active/email service-town coverage matrix, per-write receipt and live route/sitemap verification. Keep all 16 service cards. Publish only the reviewed records with updated_at guards; retain other profiles' noindex until their turn. Vendor counts represent recorded matching eligibility, not specialty or capacity guarantees. No synthetic leads or outbound tests are needed for a content-only release.
