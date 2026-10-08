@@ -1,0 +1,157 @@
+{
+  "sha256": "b51447998c5137542c9b7752083db09f2b17eeaef0f3f441cfcd3b54cb5158a7",
+  "pages": [
+    {
+      "id": "77e21760-19ce-4b22-8f1c-4d9832d3a7dc",
+      "path": "/home-services/garfield",
+      "newlyIndexable": true,
+      "purpose": "Define a patio's footprint before comparing materials and quotes",
+      "sourceClaims": [
+        {
+          "title": "Garfield Patio Permit Guide",
+          "url": "https://www.garfieldnj.org/_Content/pdf/WHAT-IS-REQUIRED-FOR-A-PATIO-PERMIT.pdf",
+          "publisher": "City of Garfield",
+          "supports": "Patio location and dimensions on a survey, with scale preserved; no fees or approval timelines copied."
+        },
+        {
+          "title": "Garfield Building Department",
+          "url": "https://www.garfieldnj.org/Departments/building-department",
+          "publisher": "City of Garfield",
+          "supports": "Official department links the patio-specific guide and current application resources."
+        }
+      ]
+    },
+    {
+      "id": "587795cf-7152-4034-8d28-68e5d7bd17e9",
+      "path": "/home-services/glen-rock",
+      "newlyIndexable": true,
+      "purpose": "Separate public shade-tree assessment from private landscape work",
+      "sourceClaims": [
+        {
+          "title": "Glen Rock Shade Tree Advisory Committee",
+          "url": "https://www.glenrocknj.net/boards/tree",
+          "publisher": "Borough of Glen Rock",
+          "supports": "Public right-of-way shade-tree assessment and planting-site review process; no guaranteed action or copied schedules."
+        },
+        {
+          "title": "Glen Rock Private Tree Removal Update",
+          "url": "https://glenrocknj.net/government/news/612-glen-rock-updates-tree-ordinance-to-regulate-the-removal-of-trees-on-private-property",
+          "publisher": "Borough of Glen Rock",
+          "supports": "Separate private-property tree-removal guidance; no numeric thresholds or fees copied."
+        }
+      ]
+    },
+    {
+      "id": "a98e2f19-0bbe-44e9-8480-8464b5ee7491",
+      "path": "/home-services/hackensack",
+      "newlyIndexable": true,
+      "purpose": "Turn a property-maintenance finding into a clear repair request",
+      "sourceClaims": [
+        {
+          "title": "Hackensack Building, Housing and Land Use",
+          "url": "https://www.hackensack.org/building-housing-and-land-use/",
+          "publisher": "City of Hackensack",
+          "supports": "Distinct department divisions and construction/inspection resources; no promise that a private repair closes an official matter."
+        }
+      ]
+    },
+    {
+      "id": "999ec9a3-508d-404c-85e7-e2b10f1fdfa5",
+      "path": "/home-services/harrington-park",
+      "newlyIndexable": true,
+      "purpose": "Coordinate trade inspection order before scheduling final finishes",
+      "sourceClaims": [
+        {
+          "title": "Harrington Park Building and Zoning",
+          "url": "https://www.harringtonparknj.gov/departments/construction",
+          "publisher": "Borough of Harrington Park",
+          "supports": "Published inspection sequencing and request identifiers; no hours, fees or universal inspection requirement copied."
+        }
+      ]
+    },
+    {
+      "id": "4de1a71e-77da-4e33-8f08-28b52bd36797",
+      "path": "/home-services/hasbrouck-heights",
+      "newlyIndexable": true,
+      "purpose": "Check prior project records before repairing or extending earlier work",
+      "sourceClaims": [
+        {
+          "title": "Hasbrouck Heights Construction and Code Enforcement",
+          "url": "https://hasbrouck-heightsnj.org/pages/construction-code-enforcement",
+          "publisher": "Borough of Hasbrouck Heights",
+          "supports": "Clerk route for open/closed permit records; contradictory roofing examples, tree exemptions, fees and response timelines excluded."
+        }
+      ]
+    },
+    {
+      "id": "aac201df-0ee0-4969-81e3-ab44b28b5ddb",
+      "path": "/home-services/haworth",
+      "newlyIndexable": true,
+      "purpose": "Distinguish a driveway replacement from a footprint modification",
+      "sourceClaims": [
+        {
+          "title": "Haworth Building Department",
+          "url": "https://www.haworthnj.org/index.asp?SEC=70AB896F-A644-4BD0-B512-645DAC50E865&Type=B_BASIC",
+          "publisher": "Borough of Haworth",
+          "supports": "Direct replacement versus modification routing, survey and pavement coverage information; no fees or approval guarantee."
+        }
+      ]
+    },
+    {
+      "id": "bd2b9c20-d701-42d1-8979-acd870e942f1",
+      "path": "/home-services/hillsdale",
+      "newlyIndexable": true,
+      "purpose": "Check siting questions before moving outdoor equipment or adding hardscape",
+      "sourceClaims": [
+        {
+          "title": "Hillsdale Building, Construction and Zoning",
+          "url": "https://www.hillsdalenj.org/buildingconstructionzoning",
+          "publisher": "Borough of Hillsdale",
+          "supports": "Department links zoning map and schedule; no zone-specific limits, numeric setbacks or equipment approval inferred."
+        }
+      ]
+    },
+    {
+      "id": "2a7a027e-85c5-4b0e-8de2-1f10f0b1ad1a",
+      "path": "/home-services/ho-ho-kus",
+      "newlyIndexable": true,
+      "purpose": "Distinguish a water-meter question from a private fixture repair",
+      "sourceClaims": [
+        {
+          "title": "Ho-Ho-Kus Water/Sewer Departments",
+          "url": "https://www.hhkborough.com/1331/WaterSewer-Departments",
+          "publisher": "Borough of Ho-Ho-Kus",
+          "supports": "Water Office meter appointment route and Water Registrar billing role; no charges, water-quality claims or DIY meter instructions copied."
+        }
+      ]
+    },
+    {
+      "id": "82ea0ac8-1aa6-4705-8732-5bd873ffe963",
+      "path": "/home-services/leonia",
+      "newlyIndexable": true,
+      "purpose": "Track the separate resale or rental inspection requirements",
+      "sourceClaims": [
+        {
+          "title": "Leonia Building Department",
+          "url": "https://www.leonianj.gov/borough-government/borough-departments/building-department",
+          "publisher": "Borough of Leonia",
+          "supports": "Two distinct covered resale/rental inspection processes, verified in live browser after HTTP blocking; no fees, alarm specifications or lead-paint exemptions copied."
+        }
+      ]
+    },
+    {
+      "id": "ac118c5f-7564-438f-8078-e89b21e1b52a",
+      "path": "/home-services/little-ferry",
+      "newlyIndexable": true,
+      "purpose": "Resolve applicable zoning and floodplain questions before larger property work",
+      "sourceClaims": [
+        {
+          "title": "Little Ferry Building Department",
+          "url": "https://www.littleferrynj.org/content/121/137/default.aspx",
+          "publisher": "Borough of Little Ferry",
+          "supports": "Published combined zoning/floodplain resource and construction/inspection route; no property flood status, thresholds or form-specific technical claims inferred."
+        }
+      ]
+    }
+  ]
+}

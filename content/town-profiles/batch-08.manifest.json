@@ -1,0 +1,1338 @@
+{
+  "updates": [
+    {
+      "id": "77e21760-19ce-4b22-8f1c-4d9832d3a7dc",
+      "slug": "garfield",
+      "page_type": "LOCATION",
+      "title": "Home services in Garfield, Bergen County",
+      "meta_title": "Garfield Home Services | Bergen County",
+      "meta_description": "Prepare a Garfield patio project with a clear footprint, survey information, coordinated landscape edges and local application guidance.",
+      "h1": "Home services in Garfield.",
+      "primary_service_id": null,
+      "primary_location_id": "garfield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Garfield, Bergen County?",
+      "direct_answer": "For a Garfield patio project, establish the location and dimensions before choosing the finished surface. The City's patio guide asks for the proposed patio to be marked on a correctly scaled survey copy. Use that information to prepare a consistent scope for contractors, then confirm the current submission requirements with the Building Department.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Price the same patio in every proposal",
+          "paragraphs": [
+            "Show where the patio will meet doors, paths, planting and existing pavement. Describe how you intend to use it and what must remain accessible. Give each contractor the same proposed footprint so a lower quote is not simply pricing a smaller area or leaving out preparation that another proposal includes.",
+            "Garfield's Building Department links a patio-specific guide rather than leaving residents to infer the process from a general construction form. The guide asks for the location and size on a survey and cautions against changing the survey's scale. Confirm current documentation with the department before relying on an old copy or ordering material.",
+            "Ask the mason to explain the preparation, edge treatment and restoration included in the quote. Coordinate nearby planting after the hardscape plan is settled, and identify who removes excavated material. Keep any proposed scope change visible on the same plan so the finished patio, contractor agreement and applicable municipal documents remain aligned."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Garfield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Compare the masonry scope",
+              "body": "Share the footprint and adjoining surface photos. Ask for preparation, material, edge and cleanup details so proposals can be compared on the same basis.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate the planting edges",
+              "body": "Identify beds affected by the patio and access route. Plan restoration and planting after the final hardscape dimensions are established.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Arrange removal of project debris",
+              "body": "Describe the excavated and removed materials separately from household items. Confirm loading access and disposal responsibilities before work begins.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What information helps prepare a Garfield patio request?",
+              "answer": "The City's patio guide asks for a survey showing the proposed location and dimensions, with the survey scale preserved. Use that as a starting point and confirm current application requirements with the Building Department."
+            },
+            {
+              "question": "How does A5 help with my Garfield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Garfield is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Garfield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:21.445+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "587795cf-7152-4034-8d28-68e5d7bd17e9",
+      "slug": "glen-rock",
+      "page_type": "LOCATION",
+      "title": "Home services in Glen Rock, Bergen County",
+      "meta_title": "Glen Rock Home Services | Bergen County",
+      "meta_description": "Plan Glen Rock tree and landscape requests with clear ownership questions, Borough shade-tree resources and practical project preparation.",
+      "h1": "Home services in Glen Rock.",
+      "primary_service_id": null,
+      "primary_location_id": "glen-rock",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Glen Rock, Bergen County?",
+      "direct_answer": "For a Glen Rock tree concern near the street, clarify responsibility before booking private work. The Borough's Shade Tree Advisory Committee directs residents to Public Works for assessment of trees in the public right-of-way. Private tree work follows a separate set of questions, including current removal requirements; the apparent curb location alone should not decide ownership or permission.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with the tree's location and the work you want",
+          "paragraphs": [
+            "Take ground-level photos showing the tree in relation to the house, sidewalk and street. Describe the concern and any planned work nearby without diagnosing the tree from appearance alone. If responsibility is uncertain, ask the Borough to identify the appropriate next step before authorizing pruning or removal.",
+            "Glen Rock's shade-tree resource describes a Borough assessment process and consideration of replacement species and planting sites. It is a route for public-tree questions, not a promise that a particular tree or planting request will be approved. The Borough also publishes separate guidance for private-property removal; confirm current requirements for the actual tree.",
+            "When planning private landscaping, discuss mature plant size, access and protection of retained trees with the professional. Keep public-tree decisions separate from the private quote. If adjoining walkway repairs are needed, coordinate the work areas so a surface repair does not proceed without considering nearby roots and the responsible authority."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Glen Rock project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Request a private-tree assessment",
+              "body": "Provide location photos and describe the concern. Clarify ownership and applicable Borough requirements before agreeing to any tree work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Plan planting around retained trees",
+              "body": "Show existing trees and the proposed beds. Ask the landscaper to explain spacing, access and how retained features will be protected.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate a nearby walkway repair",
+              "body": "Identify damaged paving and adjacent trees. Ask the mason to define repair boundaries and coordinate unresolved tree or right-of-way questions first.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who is the starting contact for a Glen Rock public shade-tree concern?",
+              "answer": "The Shade Tree Advisory Committee's official page directs residents to Public Works for assessment of trees in the Borough right-of-way. Confirm responsibility and the appropriate process before arranging private work."
+            },
+            {
+              "question": "How does A5 help with my Glen Rock request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Glen Rock is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Glen Rock project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:21.556+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a98e2f19-0bbe-44e9-8480-8464b5ee7491",
+      "slug": "hackensack",
+      "page_type": "LOCATION",
+      "title": "Home services in Hackensack, Bergen County",
+      "meta_title": "Hackensack Home Services | Bergen County",
+      "meta_description": "Organize Hackensack property repairs with the original findings, clear trade responsibilities and City building and property-maintenance resources.",
+      "h1": "Home services in Hackensack.",
+      "primary_service_id": null,
+      "primary_location_id": "hackensack",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hackensack, Bergen County?",
+      "direct_answer": "For a Hackensack repair prompted by a property-maintenance concern, start with the written finding and the exact location of the problem. The City's Building, Housing and Land Use department separates Building Inspection, Property Maintenance and Community Development. Ask the relevant division what needs to be resolved, then give the professional a scope that addresses the finding rather than only its visible symptom.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the original finding attached to the repair plan",
+          "paragraphs": [
+            "Collect the notice or service report, photos and any prior repair information. Mark which room, surface or exterior feature is involved. If wording is unclear, ask the issuing office for clarification before requesting a quote; a contractor should not have to infer the required outcome from a homeowner's abbreviated description.",
+            "Hackensack's department page provides distinct divisions and construction resources, including trade technical sheets and inspection information. A property-maintenance issue and a construction-permit inspection may involve different steps. Confirm the process for the actual repair, including who should receive completion information and whether a follow-up is required.",
+            "Ask the professional to explain the cause they are addressing, what is included and what lies outside their scope. Arrange underlying repairs before cosmetic restoration, and keep invoices and photos with the original finding. Review unresolved items before treating the project as closed; the appearance of a repaired surface does not settle every administrative or technical question."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hackensack project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify the small-repair list",
+              "body": "Share the exact finding and location. Ask which door, trim or hardware tasks fit the handyman's scope and which need another trade.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Investigate a plumbing-related symptom",
+              "body": "Provide observations and previous findings. Ask the plumber to distinguish diagnosis from repair and document the work completed.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore finishes after the repair",
+              "body": "Identify surfaces affected by the underlying work. Agree on preparation and finish expectations once the cause has been addressed.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where should I start with a Hackensack property-maintenance repair question?",
+              "answer": "The City's Building, Housing and Land Use department identifies its Property Maintenance and Building Inspection divisions. Share the address and written finding so the appropriate division can clarify the next step."
+            },
+            {
+              "question": "How does A5 help with my Hackensack request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hackensack is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hackensack project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:21.664+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "999ec9a3-508d-404c-85e7-e2b10f1fdfa5",
+      "slug": "harrington-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Harrington Park, Bergen County",
+      "meta_title": "Harrington Park Home Services | Bergen County",
+      "meta_description": "Plan Harrington Park repairs with the Borough's inspection sequence, clear contractor handoffs and a practical finish-work schedule.",
+      "h1": "Home services in Harrington Park.",
+      "primary_service_id": null,
+      "primary_location_id": "harrington-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Harrington Park, Bergen County?",
+      "direct_answer": "For a Harrington Park project with required inspections, confirm the trade sequence before scheduling later work. The Building and Zoning page says plumbing and electrical inspections must be requested for approval before Building and Fire inspections are scheduled. Ask the department how that sequence applies to the project and agree who will coordinate each request.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the inspection sequence part of the job schedule",
+          "paragraphs": [
+            "Have the contractor identify which work stages apply to the project, what must be ready at each stage and who will request inspection. Share that sequence with every involved trade. A finish contractor needs a clear handoff, not an assumed date based only on when the preceding installer expects to leave.",
+            "Harrington Park's published instructions identify a specific relationship between plumbing, electrical, building and fire inspection scheduling. They also call for the permit reference, property address and inspection type in the request. Check the current department instructions rather than carrying over a process used for another town or a different project.",
+            "Keep findings and any correction list with the shared schedule. Confirm readiness before booking work that would cover the inspected area, and clarify who pays for an avoidable return visit if the handoff is missed. Once applicable inspections and underlying repairs are resolved, finish the surfaces and retain the relevant completion records."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Harrington Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Map plumbing work to the schedule",
+              "body": "Describe fixture or piping changes and ask which stages need access. Agree who handles inspection requests and communicates the outcome.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate the electrical handoff",
+              "body": "Share the room plan and other trade dates. Ask the electrician to identify readiness milestones before walls or ceilings are closed.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Finish walls after the required checks",
+              "body": "Confirm the underlying work is ready before patching. Define the surface finish and responsibility for painting in the quote.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why should I check inspection order in Harrington Park?",
+              "answer": "The Borough's Building and Zoning instructions specify plumbing and electrical approval requests before Building and Fire scheduling. Confirm the sequence for the permitted work so later trades are not booked around an unconfirmed milestone."
+            },
+            {
+              "question": "How does A5 help with my Harrington Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Harrington Park is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Harrington Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:21.775+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "4de1a71e-77da-4e33-8f08-28b52bd36797",
+      "slug": "hasbrouck-heights",
+      "page_type": "LOCATION",
+      "title": "Home services in Hasbrouck Heights, Bergen County",
+      "meta_title": "Hasbrouck Heights Home Services | Bergen County",
+      "meta_description": "Prepare Hasbrouck Heights repair projects with available permit records, clear existing conditions and coordinated technical and cosmetic work.",
+      "h1": "Home services in Hasbrouck Heights.",
+      "primary_service_id": null,
+      "primary_location_id": "hasbrouck-heights",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hasbrouck Heights, Bergen County?",
+      "direct_answer": "For a Hasbrouck Heights project involving earlier renovations, collect the available records before assuming the work was fully closed out. The Borough's construction FAQ directs requests for open and closed permit records through the Clerk's public-records process. Use those records to prepare questions for the Building Department and contractor; the finished appearance of a room does not establish its permit history.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Understand the previous work before adding the next layer",
+          "paragraphs": [
+            "Gather invoices, plans, product information and any certificates left by the prior owner or contractor. Photograph what is visible and identify the change you now want. Keep uncertainty explicit: an undocumented alteration should not be described as approved simply because it has been in place for years.",
+            "Hasbrouck Heights explains how to request open and closed permit information through the Borough Clerk. Ask for the records relevant to the address and project, then discuss unresolved entries with the Building Department. A records response helps establish history but is not a technical inspection of every concealed part of the home.",
+            "Give the relevant trade the records and observations before asking for a fixed repair approach. Separate investigation and required corrections from optional finish upgrades. Keep new documentation with the old file so the next repair starts from an accurate account of what was changed, inspected and completed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hasbrouck Heights project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Review an electrical alteration",
+              "body": "Share available plans and prior records with the electrician. Explain the current symptom or desired change without assuming the concealed installation's condition.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Clarify plumbing repair scope",
+              "body": "Provide fixture history and any earlier findings. Ask the plumber what assessment is needed before choosing a repair or replacement.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore surfaces after technical work",
+              "body": "Identify the areas opened for assessment or correction. Agree on patching boundaries and finish level after the underlying work is ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "How can I start checking Hasbrouck Heights permit history?",
+              "answer": "The Borough's construction FAQ directs open and closed permit-record requests to the Clerk's public-records process. Use the current instructions and ask the Building Department to clarify any unresolved project status."
+            },
+            {
+              "question": "How does A5 help with my Hasbrouck Heights request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hasbrouck Heights is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hasbrouck Heights project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:21.885+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "aac201df-0ee0-4969-81e3-ab44b28b5ddb",
+      "slug": "haworth",
+      "page_type": "LOCATION",
+      "title": "Home services in Haworth, Bergen County",
+      "meta_title": "Haworth Home Services | Bergen County",
+      "meta_description": "Plan Haworth driveway and adjoining landscape work with a defined footprint, local routing information and clear contractor responsibilities.",
+      "h1": "Home services in Haworth.",
+      "primary_service_id": null,
+      "primary_location_id": "haworth",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Haworth, Bergen County?",
+      "direct_answer": "For a Haworth driveway project, specify whether the existing footprint stays the same or will change. The Borough's Building Department guidance routes direct replacement to the Clerk and describes a Building Department zoning step for modifications, supported by a survey and pavement-coverage information. Confirm the current process before a quote becomes an agreement to enlarge or reshape the driveway.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the proposed footprint clear before comparing quotes",
+          "paragraphs": [
+            "Photograph the existing entrance, edges and adjoining surfaces. Mark the proposed work on an available survey and describe any change in width, shape or connection to other paved areas. If the intention is only replacement, say so clearly; a contractor's suggested extension can change the scope and the questions that need answering.",
+            "Haworth publishes separate guidance for direct driveway replacement and modification. The distinction gives residents a useful starting point for contacting the Clerk or Building Department. Have the office confirm the applicable process for the actual property rather than treating a general description as approval or assuming an existing paved area proves what may be rebuilt.",
+            "Agree on removal, preparation, material, edges and restoration before work starts. Discuss access to the home while the driveway is unavailable and coordinate affected planting after the final footprint is settled. Keep any change to the plan in writing and revisit the municipal questions if the proposed work changes."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Haworth project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Scope adjoining paved repairs",
+              "body": "Show steps, walkways or masonry edges affected by the driveway project. Ask the mason to define the interface and restoration work separately.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Restore planting beside the driveway",
+              "body": "Identify beds or lawn disturbed by removal and access. Schedule landscape restoration around the confirmed hard-surface footprint.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate removed-material hauling",
+              "body": "Describe the material and loading arrangements. Confirm whether removal is included in the main contractor's scope before arranging a separate hauler.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why does a Haworth driveway quote need to show whether the footprint changes?",
+              "answer": "The Borough distinguishes direct replacement from modification in its published guidance. A modification involves zoning information before the Clerk's driveway process, so confirm the applicable steps for the proposed dimensions."
+            },
+            {
+              "question": "How does A5 help with my Haworth request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Haworth is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Haworth project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:21.989+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "bd2b9c20-d701-42d1-8979-acd870e942f1",
+      "slug": "hillsdale",
+      "page_type": "LOCATION",
+      "title": "Home services in Hillsdale, Bergen County",
+      "meta_title": "Hillsdale Home Services | Bergen County",
+      "meta_description": "Prepare Hillsdale outdoor improvement requests with a clear proposed location, property information and Borough zoning resources.",
+      "h1": "Home services in Hillsdale.",
+      "primary_service_id": null,
+      "primary_location_id": "hillsdale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hillsdale, Bergen County?",
+      "direct_answer": "For a Hillsdale outdoor improvement, identify the proposed location as well as the product or finish. The Borough's Building, Construction and Zoning page links a zoning map and schedule of uses and requirements. Use the address and project plan to ask the office what applies before ordering equipment or committing to a new paved area.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give the proposed location as much attention as the product",
+          "paragraphs": [
+            "Photograph the work area and show its relationship to the house, property edges, access paths and existing equipment. Provide an available survey rather than estimating boundaries from a fence. Explain whether the project keeps an existing location or creates a new one, because those are different questions even when the equipment or material looks similar.",
+            "Hillsdale makes its zoning map and requirements schedule available through the same department page as construction resources. A published map is a starting point for discussion, not a property-specific approval or a substitute for current interpretation. Ask the office to confirm the relevant information for the actual address and proposed work.",
+            "Have the installer identify service access, electrical or plumbing connections and adjacent restoration in the proposal. Coordinate any landscaping or masonry changes after those needs are understood. Keep the agreed location and scope consistent across contractors so a last-minute placement change does not undo earlier planning."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hillsdale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plan outdoor heating or cooling equipment",
+              "body": "Share the proposed location and existing equipment information. Ask the HVAC professional to identify service access and connection needs before installation is scheduled.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate planting around the installation",
+              "body": "Show the confirmed equipment and access plan. Ask for planting that respects the professionally established clearances and ongoing maintenance route.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Define nearby masonry changes",
+              "body": "Identify paved areas or supports affected by the project. Agree on the actual dimensions and responsibilities after the siting questions are resolved.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where does Hillsdale publish zoning resources for project planning?",
+              "answer": "The Building, Construction and Zoning page links its zoning map and schedule of uses and requirements. Confirm current applicability with the office using the address and actual project scope."
+            },
+            {
+              "question": "How does A5 help with my Hillsdale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hillsdale is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hillsdale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:22.099+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2a7a027e-85c5-4b0e-8de2-1f10f0b1ad1a",
+      "slug": "ho-ho-kus",
+      "page_type": "LOCATION",
+      "title": "Home services in Ho-Ho-Kus, Bergen County",
+      "meta_title": "Ho-Ho-Kus Home Services | Bergen County",
+      "meta_description": "Prepare Ho-Ho-Kus water and plumbing requests with clear observations, available records and the Borough's water-meter contact route.",
+      "h1": "Home services in Ho-Ho-Kus.",
+      "primary_service_id": null,
+      "primary_location_id": "ho-ho-kus",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Ho-Ho-Kus, Bergen County?",
+      "direct_answer": "For a Ho-Ho-Kus water concern, separate a meter or billing question from the repair of a fixture or appliance. The Borough's Water/Sewer page directs meter problems to its Water Office for an appointment and identifies a billing contact. Describe the symptom to the appropriate office or professional before assuming that replacing a fixture will resolve a meter-related concern.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Match the observation to the right first conversation",
+          "paragraphs": [
+            "Keep relevant bills, prior service findings and a simple record of when the concern appeared. Note whether you observed water at a fixture, an appliance problem or a change in recorded use. Report what you can see without opening or altering meter equipment, and avoid treating a usage change alone as a confirmed diagnosis.",
+            "Ho-Ho-Kus provides a specific Borough route for water-meter problems and billing questions on its Water/Sewer page. Use the current contact information to establish the appropriate next step. Municipal equipment questions and private plumbing repairs may need separate conversations; ask the responsible office or professional to clarify the boundary.",
+            "For a private repair, give the professional the fixture or appliance details and any relevant findings. Agree on diagnosis, repair and restoration responsibilities before work begins. Save the completion information so future questions can be compared against a clear record of what was inspected or replaced."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Ho-Ho-Kus project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Describe a fixture leak or symptom",
+              "body": "Identify the affected fixture and timing. Ask the plumber to explain the assessment and repair scope rather than assuming the source from a bill alone.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Assess an appliance-related problem",
+              "body": "Provide the model and visible symptom for a washer or dishwasher. Clarify whether the appliance technician or plumber should handle each connection-related task.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            },
+            {
+              "title": "Restore the surrounding small finishes",
+              "body": "After the underlying issue is resolved, list affected cabinet hardware, trim or access-panel repairs. Keep this finish work distinct from plumbing diagnosis.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where should a Ho-Ho-Kus water-meter problem be raised?",
+              "answer": "The Borough's Water/Sewer page directs meter problems to the Borough Hall Water Office for an appointment. Use its current instructions, and keep private fixture or appliance repair requests separate where appropriate."
+            },
+            {
+              "question": "How does A5 help with my Ho-Ho-Kus request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Ho-Ho-Kus is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Ho-Ho-Kus project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:22.217+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "82ea0ac8-1aa6-4705-8732-5bd873ffe963",
+      "slug": "leonia",
+      "page_type": "LOCATION",
+      "title": "Home services in Leonia, Bergen County",
+      "meta_title": "Leonia Home Services | Bergen County",
+      "meta_description": "Organize Leonia turnover repairs with distinct occupancy and alarm-compliance checks, a clear punch list and coordinated contractor follow-up.",
+      "h1": "Home services in Leonia.",
+      "primary_service_id": null,
+      "primary_location_id": "leonia",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Leonia, Bergen County?",
+      "direct_answer": "For a Leonia home sale or rental turnover, track the occupancy and alarm-compliance steps separately. The Building Department's current notice describes two inspections for the covered dwellings: the resale/rental occupancy inspection and smoke-alarm/carbon-monoxide compliance. Confirm the requirements for the transaction before assuming that one completed appointment closes the whole process.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use one punch list with separate closeout milestones",
+          "paragraphs": [
+            "Collect the applicable Borough instructions and create a list of findings by room or system. Mark who is handling each repair and which inspection it relates to. Share the original wording with contractors so a repair is aimed at the actual finding instead of a shortened description that leaves out important detail.",
+            "Leonia's Building Department distinguishes its occupancy process from the alarm-compliance inspection in a notice effective in 2025. Check the current guidance for the property and transaction, including the appropriate applications. Do not infer that every small repair creates a new occupancy requirement or that a contractor's invoice substitutes for a municipal certificate.",
+            "Schedule technical repairs before cosmetic touch-ups and final cleaning. Keep records for each completed item and confirm the remaining inspection steps before arranging handover. If a finding involves wiring, have the appropriate qualified professional assess it rather than turning a general handyman request into an undefined electrical task."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Leonia project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Address a defined electrical finding",
+              "body": "Provide the written finding and equipment information. Ask the electrician to identify the required work and applicable follow-up for the actual installation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Complete small turnover repairs",
+              "body": "List specific door, trim and hardware tasks with room locations. Clarify which items are within the handyman's scope and which need another professional.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Clean after the repairs finish",
+              "body": "Specify rooms, surfaces and access arrangements. Schedule the final clean after the trades have completed the work and removed their materials.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does one Leonia turnover inspection cover every required certificate?",
+              "answer": "The Building Department's current notice distinguishes occupancy inspection from smoke-alarm and carbon-monoxide compliance. Confirm the applicable steps for the property and track each one through completion."
+            },
+            {
+              "question": "How does A5 help with my Leonia request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Leonia is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Leonia project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:22.325+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ac118c5f-7564-438f-8078-e89b21e1b52a",
+      "slug": "little-ferry",
+      "page_type": "LOCATION",
+      "title": "Home services in Little Ferry, Bergen County",
+      "meta_title": "Little Ferry Home Services | Bergen County",
+      "meta_description": "Prepare Little Ferry home improvement requests with accurate property information, a defined scope and local zoning and floodplain resources.",
+      "h1": "Home services in Little Ferry.",
+      "primary_service_id": null,
+      "primary_location_id": "little-ferry",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Little Ferry, Bergen County?",
+      "direct_answer": "For a Little Ferry improvement that changes the building or site, check the applicable review before fixing the construction scope. The Borough Building Department publishes a combined zoning and floodplain application resource alongside construction and inspection information. Ask the office what applies to the address; the existence of that form does not mean every Little Ferry property has the same flood designation or requirements.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Bring the property information into the scope discussion early",
+          "paragraphs": [
+            "Gather the available survey, plans, prior approvals and photos of the proposed work area. Describe what will be repaired, replaced or changed, including any altered footprint or equipment location. Keep known conditions separate from assumptions based on a neighboring property or a general map.",
+            "Little Ferry's Building Department lists zoning and floodplain resources as well as its construction application and inspection route. Use the office to identify which reviews belong to the actual proposal. A general contractor estimate or an online form title is not a determination of property-specific conditions, approvals or required design measures.",
+            "Once the relevant questions are resolved, give each professional the same agreed scope and supporting information. Ask who coordinates submissions, inspections and final documentation where required. Sequence the underlying repair before surface restoration, and revisit the plan if investigation changes what needs to be done."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Little Ferry project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define an exterior masonry repair",
+              "body": "Show the existing feature and proposed repair boundary. Share relevant property findings and ask how preparation and restoration are included.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan equipment changes carefully",
+              "body": "Provide existing HVAC information and the proposed location. Have the professional assess installation needs in light of the applicable project requirements.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate the landscape scope",
+              "body": "Identify ground changes and retained access areas. Finalize planting or restoration after the relevant site questions and underlying work are resolved.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Little Ferry's floodplain application establish my property's flood status?",
+              "answer": "No. It is a municipal application resource. Ask the Building Department which current information and reviews apply to the specific address and project before drawing property-level conclusions."
+            },
+            {
+              "question": "How does A5 help with my Little Ferry request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Little Ferry is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Little Ferry project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:05:12.343Z",
+      "published_at": "2026-10-08T01:22:22.43+00:00",
+      "last_reviewed_at": "2026-10-08T17:05:12.343Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "c12ac6ba-ced6-42c1-82e8-23a4cf2e107a",
+      "title": "Garfield Patio Permit Guide",
+      "url": "https://www.garfieldnj.org/_Content/pdf/WHAT-IS-REQUIRED-FOR-A-PATIO-PERMIT.pdf",
+      "publisher": "City of Garfield",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "3508591c-407f-4dd4-8d32-ba33c5054f16",
+      "title": "Garfield Building Department",
+      "url": "https://www.garfieldnj.org/Departments/building-department",
+      "publisher": "City of Garfield",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "57566995-166f-4a50-81b2-88fd1c415379",
+      "title": "Glen Rock Shade Tree Advisory Committee",
+      "url": "https://www.glenrocknj.net/boards/tree",
+      "publisher": "Borough of Glen Rock",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "485a3281-458a-48e3-89d3-93e22bccb48b",
+      "title": "Glen Rock Private Tree Removal Update",
+      "url": "https://glenrocknj.net/government/news/612-glen-rock-updates-tree-ordinance-to-regulate-the-removal-of-trees-on-private-property",
+      "publisher": "Borough of Glen Rock",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "65b85443-fe8f-4a69-83f2-991875ce75d7",
+      "title": "Hackensack Building, Housing and Land Use",
+      "url": "https://www.hackensack.org/building-housing-and-land-use/",
+      "publisher": "City of Hackensack",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "071eb4de-fe49-48ef-88aa-b3476de4b4d1",
+      "title": "Harrington Park Building and Zoning",
+      "url": "https://www.harringtonparknj.gov/departments/construction",
+      "publisher": "Borough of Harrington Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "9d42c03a-0fe6-435e-8f48-9bdb8a302b2b",
+      "title": "Hasbrouck Heights Construction and Code Enforcement",
+      "url": "https://hasbrouck-heightsnj.org/pages/construction-code-enforcement",
+      "publisher": "Borough of Hasbrouck Heights",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "77e54cdb-8d7b-41da-8d78-8ca15f2c60e2",
+      "title": "Haworth Building Department",
+      "url": "https://www.haworthnj.org/index.asp?SEC=70AB896F-A644-4BD0-B512-645DAC50E865&Type=B_BASIC",
+      "publisher": "Borough of Haworth",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "e53fcd0a-1227-4d33-8ca6-bad2fb56a40a",
+      "title": "Hillsdale Building, Construction and Zoning",
+      "url": "https://www.hillsdalenj.org/buildingconstructionzoning",
+      "publisher": "Borough of Hillsdale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "e524a51f-cb12-4951-8d43-500563377f85",
+      "title": "Ho-Ho-Kus Water/Sewer Departments",
+      "url": "https://www.hhkborough.com/1331/WaterSewer-Departments",
+      "publisher": "Borough of Ho-Ho-Kus",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "77d1f341-5a42-409c-852a-a665e8d7bad6",
+      "title": "Leonia Building Department",
+      "url": "https://www.leonianj.gov/borough-government/borough-departments/building-department",
+      "publisher": "Borough of Leonia",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    },
+    {
+      "id": "5b62215c-d0d6-478f-8eac-3350171f7688",
+      "title": "Little Ferry Building Department",
+      "url": "https://www.littleferrynj.org/content/121/137/default.aspx",
+      "publisher": "Borough of Little Ferry",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:05:12.343Z",
+      "reviewed_at": "2026-10-08T17:05:12.343Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "77e21760-19ce-4b22-8f1c-4d9832d3a7dc",
+      "source_id": "c12ac6ba-ced6-42c1-82e8-23a4cf2e107a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "77e21760-19ce-4b22-8f1c-4d9832d3a7dc",
+      "source_id": "3508591c-407f-4dd4-8d32-ba33c5054f16",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "587795cf-7152-4034-8d28-68e5d7bd17e9",
+      "source_id": "57566995-166f-4a50-81b2-88fd1c415379",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "587795cf-7152-4034-8d28-68e5d7bd17e9",
+      "source_id": "485a3281-458a-48e3-89d3-93e22bccb48b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "a98e2f19-0bbe-44e9-8480-8464b5ee7491",
+      "source_id": "65b85443-fe8f-4a69-83f2-991875ce75d7",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "999ec9a3-508d-404c-85e7-e2b10f1fdfa5",
+      "source_id": "071eb4de-fe49-48ef-88aa-b3476de4b4d1",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "4de1a71e-77da-4e33-8f08-28b52bd36797",
+      "source_id": "9d42c03a-0fe6-435e-8f48-9bdb8a302b2b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "aac201df-0ee0-4969-81e3-ab44b28b5ddb",
+      "source_id": "77e54cdb-8d7b-41da-8d78-8ca15f2c60e2",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "bd2b9c20-d701-42d1-8979-acd870e942f1",
+      "source_id": "e53fcd0a-1227-4d33-8ca6-bad2fb56a40a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2a7a027e-85c5-4b0e-8de2-1f10f0b1ad1a",
+      "source_id": "e524a51f-cb12-4951-8d43-500563377f85",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "82ea0ac8-1aa6-4705-8732-5bd873ffe963",
+      "source_id": "77d1f341-5a42-409c-852a-a665e8d7bad6",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ac118c5f-7564-438f-8078-e89b21e1b52a",
+      "source_id": "5b62215c-d0d6-478f-8eac-3350171f7688",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "77e21760-19ce-4b22-8f1c-4d9832d3a7dc",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "587795cf-7152-4034-8d28-68e5d7bd17e9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "a98e2f19-0bbe-44e9-8480-8464b5ee7491",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "999ec9a3-508d-404c-85e7-e2b10f1fdfa5",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "4de1a71e-77da-4e33-8f08-28b52bd36797",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "aac201df-0ee0-4969-81e3-ab44b28b5ddb",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "bd2b9c20-d701-42d1-8979-acd870e942f1",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "2a7a027e-85c5-4b0e-8de2-1f10f0b1ad1a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "82ea0ac8-1aa6-4705-8732-5bd873ffe963",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "ac118c5f-7564-438f-8078-e89b21e1b52a",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "batch": "07",
+  "sha256": "a89aa920d99d286131e580589322849f4d7046e6fcbcbed3db83dcfba632ad2c",
+  "checkedAt": "2026-10-08T16:59:47.115Z",
+  "count": 10,
+  "sitemapCount": 186,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/east-rutherford",
+      "status": 200,
+      "title": "East Rutherford Home Services | Bergen County | A5 Home Services",
+      "description": "Plan East Rutherford home cleanouts with material sorting, local collection guidance and coordinated hauling, repairs and final cleaning.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/edgewater",
+      "status": 200,
+      "title": "Edgewater Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Edgewater condo, co-op and home repair requests with clear work boundaries, access arrangements and Borough building resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/elmwood-park",
+      "status": 200,
+      "title": "Elmwood Park Home Services | Bergen County | A5 Home Services",
+      "description": "Organize Elmwood Park move-related repairs, cleaning and follow-up with a practical punch list and local occupancy information.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/emerson",
+      "status": 200,
+      "title": "Emerson Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Emerson repairs around clear trade responsibilities, written inspection confirmation and a sensible sequence for restoring finished surfaces.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/englewood",
+      "status": 200,
+      "title": "Englewood Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Englewood landscape and exterior repair projects with clear soil, tree and access information and City engineering resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/englewood-cliffs",
+      "status": 200,
+      "title": "Englewood Cliffs Home Services | Bergen County | A5 Home Services",
+      "description": "Define Englewood Cliffs repair and renovation scope with clear retained features, removal responsibilities and Borough construction resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/fair-lawn",
+      "status": 200,
+      "title": "Fair Lawn Home Services | Bergen County | A5 Home Services",
+      "description": "Describe Fair Lawn drainage and plumbing problems clearly, with local sewer and road responsibilities and practical preparation for professional assessment.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/fairview",
+      "status": 200,
+      "title": "Fairview Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Fairview driveway-edge and exterior repairs with clear public-road boundaries, contractor scope and local Public Works guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/fort-lee",
+      "status": 200,
+      "title": "Fort Lee Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Fort Lee bathroom repair projects with a shared scope, sensible trade sequencing and Borough building and subcode resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/franklin-lakes",
+      "status": 200,
+      "title": "Franklin Lakes Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Franklin Lakes property improvements around known septic equipment, clear specialist responsibilities and Borough Health resources.",
+      "errors": []
+    }
+  ]
+}
