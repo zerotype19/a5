@@ -1,0 +1,1338 @@
+{
+  "updates": [
+    {
+      "id": "2c4e653b-e30b-4f55-8d52-c96d2a68f03d",
+      "slug": "upper-saddle-river",
+      "page_type": "LOCATION",
+      "title": "Home services in Upper Saddle River, Bergen County",
+      "meta_title": "Upper Saddle River Home Services | Bergen County",
+      "meta_description": "Plan Upper Saddle River wall repairs with air-barrier and insulation questions before surfaces close, using the Borough's construction welcome resources.",
+      "h1": "Home services in Upper Saddle River.",
+      "primary_service_id": null,
+      "primary_location_id": "upper-saddle-river",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Upper Saddle River, Bergen County?",
+      "direct_answer": "For an Upper Saddle River renovation that opens exterior walls or ceilings, discuss air sealing and insulation before the surfaces are closed. The Borough's construction welcome packet includes an Air Barrier and Insulation Checklist. Ask the project professional and Building Department which current checks apply, then coordinate that stage with the wall-restoration schedule.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the open-wall stage to clarify the complete repair",
+          "paragraphs": [
+            "Describe why the wall or ceiling is being opened and any known comfort, moisture or mechanical concern. Provide accessible photos and prior professional findings. Ask the responsible professional to identify the underlying problem before treating new drywall or extra insulation as the whole solution.",
+            "Upper Saddle River links its air-barrier and insulation checklist alongside framing and inspection resources. The checklist treats air sealing and insulation as related but distinct components. Use it to frame the conversation with the department and contractor, rather than prescribing a material or relying on an older document as the current technical standard.",
+            "Agree on who handles each part of the open-wall work and who confirms readiness for closure. Keep plumbing or electrical changes coordinated with the professional's plan so later visits do not reopen finished surfaces. Define the drywall and paint finish at the same time, including how the repaired area will meet the existing wall."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Upper Saddle River project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Scope the wall restoration",
+              "body": "Identify the areas to open, close and finish. Confirm that underlying work and applicable checks are complete before closure.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Discuss comfort symptoms with an HVAC professional",
+              "body": "Describe the rooms and conditions involved. Ask for an assessment rather than assuming insulation alone explains the issue.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Define the final paint finish",
+              "body": "Identify whether the repair needs a local touch-up or a full surface finish. Schedule painting after the repaired surfaces are ready.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Upper Saddle River provide a resource for insulation and air-sealing coordination?",
+              "answer": "The Borough's construction welcome packet includes an Air Barrier and Insulation Checklist. Confirm the current requirements for your project with the Building Department and responsible professional."
+            },
+            {
+              "question": "How does A5 help with my Upper Saddle River request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Upper Saddle River is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Upper Saddle River project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.167+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "5d6900c3-18bb-430c-8d72-5509e0ffd454",
+      "slug": "waldwick",
+      "page_type": "LOCATION",
+      "title": "Home services in Waldwick, Bergen County",
+      "meta_title": "Waldwick Home Services | Bergen County",
+      "meta_description": "Prepare Waldwick tree work with the Borough's removal and replacement process, contractor registration check and a clear cleanup and planting scope.",
+      "h1": "Home services in Waldwick.",
+      "primary_service_id": null,
+      "primary_location_id": "waldwick",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Waldwick, Bergen County?",
+      "direct_answer": "For Waldwick tree work, check both the proposed removal and the contractor's local status. The Borough's Tree Removal and Replacement Process page separates the property permit process from tree-contractor registration and links an approved-contractor list. Confirm current requirements with the Borough before scheduling; an A5 service match does not establish that local registration.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan what happens before and after a tree is removed",
+          "paragraphs": [
+            "Identify the tree and describe the concern with photos from a safe ground-level position. Ask the tree professional to assess the condition and options before deciding on removal. Share any nearby structures or access constraints without attempting to determine the tree's safety yourself.",
+            "Waldwick's current tree guidance addresses replacement or offset planning as well as removal permits, and it provides a separate registration route for contractors. Ask the Building Department about the actual tree and the Clerk's office about current contractor registration. Do not assume a permit exception, fee treatment or registration from a general business listing.",
+            "Have the proposal distinguish the assessed tree work, debris removal, stump-related work if appropriate and restoration. If replacement planting forms part of the agreed local process, coordinate the location and timing with the responsible professionals. Keep the finished condition of the yard and access route explicit so the job does not end with unclear cleanup responsibilities."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Waldwick project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Request a tree assessment",
+              "body": "Provide the location and condition photos. Confirm qualifications and current Borough registration directly before agreeing on the work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate replacement planting",
+              "body": "Use the applicable local direction and professional plan. Clarify planting, restoration and follow-up responsibilities in the landscape scope.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Separate other cleanup items",
+              "body": "Identify non-tree household material in the access area. Arrange its removal separately rather than assuming the tree crew will take it.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is a Waldwick tree-removal permit the same as contractor registration?",
+              "answer": "No. The Borough's page describes a property removal/replacement process and separate contractor registration, with an approved-contractor list. Confirm both for the actual job."
+            },
+            {
+              "question": "How does A5 help with my Waldwick request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Waldwick is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Waldwick project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.275+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "a98fe07d-9cd7-4952-8993-c23255a018c8",
+      "slug": "wallington",
+      "page_type": "LOCATION",
+      "title": "Home services in Wallington, Bergen County",
+      "meta_title": "Wallington Home Services | Bergen County",
+      "meta_description": "Prepare Wallington property improvements with an address-specific floodplain review question and a defined repair scope before finalizing work.",
+      "h1": "Home services in Wallington.",
+      "primary_service_id": null,
+      "primary_location_id": "wallington",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Wallington, Bergen County?",
+      "direct_answer": "For Wallington work that may involve a flood-hazard area, check the property and proposal with the Floodplain Administrator before finalizing the project. The Borough's flood-damage-prevention code distinguishes floodplain development approval from a building permit. The applicable review depends on the actual location and work; this guide does not classify your property or establish that an approval is unnecessary.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Clarify the review before comparing final repair proposals",
+          "paragraphs": [
+            "Collect the property address, available plans and a plain-language description of the proposed work. Separate existing damage or maintenance concerns from changes in layout, grading or use. Give the relevant office a complete picture rather than asking only whether one material replacement needs a construction permit.",
+            "Wallington's published code identifies a floodplain-permit process and explains that the administrator may require floodplain approval in addition to a building permit. Ask the office to confirm how the current requirements apply. A contractor's quote, a nearby property's designation or an earlier approval is not a determination for the new proposal.",
+            "Once the applicable review and professional assessment are understood, align the contractor scope with that work. Ask what is being repaired, what is being changed and which assumptions remain unresolved. Keep cosmetic restoration after the underlying issue is assessed, and do not treat a landscaping or wall repair as a guarantee against future water problems."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Wallington project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define interior wall restoration",
+              "body": "Share the findings on the underlying issue and the proposed repair area. Confirm readiness and applicable review before closing or finishing surfaces.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Assess exterior masonry work",
+              "body": "Describe the damaged feature and any proposed change. Keep the quote aligned with the scope discussed with the relevant office.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Review a proposed landscape change",
+              "body": "Explain the work's purpose and available site information. Ask what assessment or approval is needed before changing the ground or layout.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can Wallington floodplain review be separate from a building permit?",
+              "answer": "Yes. The Borough's code provides for floodplain approval in addition to a building permit where applicable. Confirm the property and proposal with the Floodplain Administrator rather than inferring the requirement."
+            },
+            {
+              "question": "How does A5 help with my Wallington request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Wallington is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Wallington project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.384+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b6c1565c-5fd4-436d-8c7b-15524df5d154",
+      "slug": "washington-township-bergen",
+      "page_type": "LOCATION",
+      "title": "Home services in Washington Township, Bergen County",
+      "meta_title": "Washington Township Home Services | Bergen County",
+      "meta_description": "Prepare Washington Township, Bergen County, home repairs with the correct municipal forms and online inspection-request process for the work address.",
+      "h1": "Home services in Washington Township.",
+      "primary_service_id": null,
+      "primary_location_id": "washington-township-bergen",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Washington Township, Bergen County?",
+      "direct_answer": "For work in Washington Township in Bergen County, use the Township of Washington's own project resources and inspection-request form. Its forms page says inspection requests must be submitted online rather than by telephone. Keep the work municipality clear in your request so documents and follow-up do not go to a different New Jersey Washington Township.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the municipality and project record together",
+          "paragraphs": [
+            "Start the project folder with the full work address, municipality and any existing permit information. Add a short description of the repair and the trades involved. A mailing label or a search result for another Washington Township should not determine which office handles the property.",
+            "The Bergen Township's forms page provides a construction-permit guide, trade forms and an online inspection-request route. Use the current instructions for the particular project and confirm any unclear next step with the office. Sending the online request is not the same as a confirmed appointment or an inspection approval.",
+            "Ask the responsible contractor to identify who submits each request and who receives the response. Keep correction items and completion records with the project details before scheduling follow-on work. This is especially useful when plumbing or electrical work needs to be coordinated with surface restoration and a later final visit."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Washington Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate plumbing repair records",
+              "body": "Share the actual scope and existing permit details where relevant. Agree on who handles applicable inspection requests and follow-up.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Track the electrical work stage",
+              "body": "Describe the work and identify the correct Bergen municipality. Ask the electrician to explain the next inspection or completion step.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Schedule finish work after readiness is confirmed",
+              "body": "Identify surfaces affected by the project. Plan drywall restoration after the responsible professional confirms the underlying work is ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "How does Washington Township in Bergen County request construction inspections?",
+              "answer": "The Township of Washington's forms page directs inspection requests to its online form and says telephone requests are not taken. Follow the current form instructions and wait for confirmation."
+            },
+            {
+              "question": "How does A5 help with my Washington Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Washington Township is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Washington Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.495+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "9298ea9f-19b4-41f6-84d7-fc59ad0ae7c9",
+      "slug": "westwood",
+      "page_type": "LOCATION",
+      "title": "Home services in Westwood, Bergen County",
+      "meta_title": "Westwood Home Services | Bergen County",
+      "meta_description": "Finish a Westwood renovation with a clear final-inspection and certificate checklist, correction-item tracking and coordinated finishing work.",
+      "h1": "Home services in Westwood.",
+      "primary_service_id": null,
+      "primary_location_id": "westwood",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Westwood, Bergen County?",
+      "direct_answer": "For a permitted Westwood project, include closeout in the work plan. The Borough's inspection guidance separates final inspections for applicable subcodes from the later certificate application and supporting documentation. Ask the Building Department and project lead what remains for your job before treating a contractor's last visit as the end of the municipal process.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define completion before the last contractor visit",
+          "paragraphs": [
+            "Keep the permit information, inspection results and outstanding corrections together. Ask each trade to identify what is complete and what still needs follow-up. A single project may have several records, so a general statement that the work is finished may leave important details unresolved.",
+            "Westwood's inspection guidance describes applicable final inspections and a certificate application once approvals and necessary documentation are in place. Confirm the current requirements for the actual project with the office. Not every maintenance task has the same closeout process, and a submitted certificate application should not be represented as an issued certificate.",
+            "Agree on who resolves correction items, supplies documents and checks the final status. Schedule finishing and cleaning around that plan, with access retained where the responsible professional requires it. Save the issued records with the completed-work information so future repairs or a transaction do not begin with an incomplete project history."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Westwood project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Close out plumbing work",
+              "body": "Ask the plumber to identify applicable final steps and outstanding corrections. Keep the resulting records with the project folder.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate electrical completion",
+              "body": "Confirm the electrical work's status and any remaining visit. Distinguish completed installation from the applicable final approval.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Arrange the finished-space cleaning",
+              "body": "Identify the rooms and surfaces included. Schedule cleaning after repair and correction work so it addresses the completed space.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a Westwood final inspection automatically complete all certificate paperwork?",
+              "answer": "The Borough guidance separates applicable final inspections from submitting the certificate application and supporting documents. Confirm the actual remaining steps with the Building Department."
+            },
+            {
+              "question": "How does A5 help with my Westwood request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Westwood is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Westwood project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.599+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f6fc8874-dac6-42d4-859a-b2c5c04897b2",
+      "slug": "wood-ridge",
+      "page_type": "LOCATION",
+      "title": "Home services in Wood-Ridge, Bergen County",
+      "meta_title": "Wood-Ridge Home Services | Bergen County",
+      "meta_description": "Prepare Wood-Ridge exterior work with a clear footprint, the Borough's fence and driveway zoning resource and coordinated surface-restoration questions.",
+      "h1": "Home services in Wood-Ridge.",
+      "primary_service_id": null,
+      "primary_location_id": "wood-ridge",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Wood-Ridge, Bergen County?",
+      "direct_answer": "For Wood-Ridge exterior work affecting a driveway or fence layout, bring the location and proposed changes into the planning discussion. The Borough's Construction Department lists a zoning-permit resource for fences and driveways alongside construction forms. Confirm the applicable review for the actual work before treating a surface-repair estimate as approval for a changed footprint.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate the repair from changes to the outdoor layout",
+          "paragraphs": [
+            "Describe what is damaged, what you want to retain and whether you are changing the size or position of anything. Share available property information and photos that show adjoining planting, paths and access. A replacement in the same location and a larger redesign can involve different questions, even if they use similar materials.",
+            "Wood-Ridge's Construction Department provides a fence-and-driveway zoning resource and a separate zoning-approval application. Ask the office which current documents apply to the proposal. The presence of a form does not determine a setback, property boundary or permit exemption for your particular project.",
+            "Give the relevant professionals the same proposed layout and ask them to identify assumptions in their quotes. Coordinate paving or masonry restoration with planting and access needs. If a fence is part of the project, discuss the installer's specific capability directly rather than assuming a general service category includes that work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Wood-Ridge project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define masonry and surface repairs",
+              "body": "Identify the area and any intended footprint change. Ask the professional to separate repair preparation from a larger redesign.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate adjacent planting",
+              "body": "Show the retained beds and proposed access. Plan landscape restoration around the agreed exterior layout and applicable review.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "List smaller exterior repair items",
+              "body": "Describe the individual tasks and materials. Confirm which are within the handyman's scope and which require another professional.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where should I start with a Wood-Ridge driveway or fence zoning question?",
+              "answer": "The Borough's Construction Department lists a zoning resource for fences and driveways. Bring the property information and proposed work to the office to confirm the applicable current process."
+            },
+            {
+              "question": "How does A5 help with my Wood-Ridge request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Wood-Ridge is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Wood-Ridge project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.819+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f92c272d-92d5-4fec-8a16-13a1616c857a",
+      "slug": "woodcliff-lake",
+      "page_type": "LOCATION",
+      "title": "Home services in Woodcliff Lake, Bergen County",
+      "meta_title": "Woodcliff Lake Home Services | Bergen County",
+      "meta_description": "Prepare Woodcliff Lake corner-lot landscape and exterior repairs with a visibility review, property information and coordinated planting plans.",
+      "h1": "Home services in Woodcliff Lake.",
+      "primary_service_id": null,
+      "primary_location_id": "woodcliff-lake",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Woodcliff Lake, Bergen County?",
+      "direct_answer": "For a Woodcliff Lake corner-lot project, discuss visibility before choosing new planting or a fence layout. The Borough's construction guidance specifically addresses sight lines at corners. Confirm the current requirements for the property and proposal with the office; this guide does not set a height, boundary or clearance for your site.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Show the corner and proposed changes in the same plan",
+          "paragraphs": [
+            "Take photos from safe locations showing the existing planting, paths and the area you want to alter. Describe whether the request is pruning, replacement planting, repair or a new layout. Include available property information so the professional can distinguish the work area from assumptions about the street edge.",
+            "Woodcliff Lake's construction FAQ calls out corner-lot visibility separately from its other exterior guidance. Use that distinction to ask the Borough about the actual proposal before ordering plants or settling a design. Do not rely on a neighboring property's fence or hedge as evidence that the same arrangement is appropriate for yours.",
+            "Ask the landscape professional to explain the proposed planting and ongoing maintenance needs, and coordinate nearby masonry or tree work before installation. Keep the approved or agreed dimensions consistent across quotes. If the scope changes, return the revised proposal to the relevant office rather than assuming the earlier discussion covers it."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Woodcliff Lake project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plan the corner planting",
+              "body": "Share the existing layout and desired changes. Coordinate plant selection and maintenance with current site-specific visibility guidance.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Assess nearby tree work",
+              "body": "Identify the tree concern separately from the planting plan. Confirm the professional scope and applicable Borough process before work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate path or edge repairs",
+              "body": "Show hardscape surfaces affected by the project. Align masonry work with the same layout used for the landscape discussion.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why should a Woodcliff Lake corner-lot landscape project get an early visibility check?",
+              "answer": "The Borough's construction guidance specifically addresses corner sight lines. Ask the office how current requirements apply to your property and proposed planting or fence layout before finalizing it."
+            },
+            {
+              "question": "How does A5 help with my Woodcliff Lake request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Woodcliff Lake is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Woodcliff Lake project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.712+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ef4dbf09-b379-486c-8ca3-7d7d4a9ca360",
+      "slug": "wyckoff",
+      "page_type": "LOCATION",
+      "title": "Home services in Wyckoff, Bergen County",
+      "meta_title": "Wyckoff Home Services | Bergen County",
+      "meta_description": "Track a Wyckoff home project using the Township's permit-status descriptions, correction records and coordinated contractor next steps.",
+      "h1": "Home services in Wyckoff.",
+      "primary_service_id": null,
+      "primary_location_id": "wyckoff",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Wyckoff, Bergen County?",
+      "direct_answer": "For a Wyckoff project, use the Township's permit lookup to understand the current stage before scheduling the next trade. Its Building Department explains statuses such as pending corrections, plan approved, permit issued and pending certificate issue. These are different milestones; confirm unclear status or missing records with the office rather than treating any search result as authorization to proceed.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn the status record into a practical next-step list",
+          "paragraphs": [
+            "Keep the work address, application or permit information and contractor scope together. When reviewing progress, record the specific outstanding item and the person responsible for resolving it. That is more useful than a general statement that the permit is in process, especially when multiple trades are waiting on one another.",
+            "Wyckoff publishes explanations for its online permit statuses and notes that an application not appearing in the database may not yet have been entered. The office also distinguishes prior approvals from plan review and permit issuance. Ask for clarification where needed rather than interpreting absence, an approved plan or an open record as the same outcome.",
+            "Share the relevant next step with the responsible professional and coordinate follow-on work only after readiness is confirmed. Keep correction responses and final documents in the project folder. An A5 introduction helps start the professional conversation; it does not monitor municipal status or manage the construction schedule for you."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Wyckoff project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate plumbing next steps",
+              "body": "Give the plumber the current project status and relevant correction details. Ask who is responsible for the next submission or visit.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Clarify the electrical milestone",
+              "body": "Distinguish pending review, permit issuance and completion in the project discussion. Confirm readiness before scheduling dependent work.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plan surface restoration",
+              "body": "Identify the affected walls and finish expectations. Arrange drywall work after the underlying work and applicable checks are ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Wyckoff's plan-approved status mean the same thing as permit-issued?",
+              "answer": "The Township lists them as separate statuses. Read the actual record and confirm the next step with the Building Department before assuming the work is authorized to start."
+            },
+            {
+              "question": "How does A5 help with my Wyckoff request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Wyckoff is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Wyckoff project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:26.927+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "df1025a8-92ab-4006-8ae1-4c037a1285dc",
+      "slug": "berkeley-heights",
+      "page_type": "LOCATION",
+      "title": "Home services in Berkeley Heights, Union County",
+      "meta_title": "Berkeley Heights Home Services | Union County",
+      "meta_description": "Prepare Berkeley Heights retaining-wall and landscape work with site observations, grading questions and the Township's engineering-review guidance.",
+      "h1": "Home services in Berkeley Heights.",
+      "primary_service_id": null,
+      "primary_location_id": "berkeley-heights",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Berkeley Heights, Union County?",
+      "direct_answer": "For a Berkeley Heights retaining-wall or landscape-wall project, discuss grading and drainage before comparing final construction prices. The Township's permit-process guidance identifies engineering review for these walls because of potential effects on neighboring properties. Confirm the current requirements and needed professional design for the actual scope before committing to materials or excavation.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Treat the wall and surrounding ground as one planning discussion",
+          "paragraphs": [
+            "Photograph the wall and adjoining ground from a safe location, and describe what has changed or needs attention. Share available surveys and prior professional findings. A visible lean, crack or water concern needs assessment; do not assume that replacing the surface material resolves the underlying condition.",
+            "Berkeley Heights separates zoning, engineering and building review in its project guidance. Its engineering section specifically calls out landscape and retaining walls in relation to grading and neighboring properties. Ask the relevant office how that applies to your proposal, without inferring that a general masonry or landscaping estimate includes engineering services.",
+            "Once the appropriate assessment and review are defined, ask proposals to use the same scope and identify design, construction, drainage-related work and restoration separately. Coordinate planting after the wall work and access needs are settled. Keep changes to the agreed design visible to the responsible professional and office before they are built."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Berkeley Heights project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the masonry scope",
+              "body": "Share the condition and available site information. Confirm whether the work needs a separate design professional before comparing installation prices.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate landscape restoration",
+              "body": "Identify retained planting and disturbed areas. Align restoration with the reviewed wall and grading plan.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Identify tree conflicts early",
+              "body": "Show trees near the proposed work. Ask the appropriate professional about protection and any separate tree work before finalizing access.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why does Berkeley Heights retaining-wall planning involve an engineering question?",
+              "answer": "The Township's permit guidance identifies engineering review for landscape and retaining walls because grading changes may affect neighboring properties. Confirm the actual project requirements and design needs with the office."
+            },
+            {
+              "question": "How does A5 help with my Berkeley Heights request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Berkeley Heights is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Berkeley Heights project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:38.71+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "30ff0e8b-9bc6-41d3-818a-3b42f227c738",
+      "slug": "clark",
+      "page_type": "LOCATION",
+      "title": "Home services in Clark, Union County",
+      "meta_title": "Clark Home Services | Union County",
+      "meta_description": "Prepare Clark outdoor repairs with utility-location coordination, the Township's before-you-dig resource and a clear professional work boundary.",
+      "h1": "Home services in Clark.",
+      "primary_service_id": null,
+      "primary_location_id": "clark",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Clark, Union County?",
+      "direct_answer": "For a Clark outdoor project involving digging, include utility-location coordination before work begins. The Township's permit page links a Before You Dig notice as well as separate right-of-way and other permit resources. Ask the responsible professional to confirm the current markout process and applicable approvals for the actual scope; one step does not replace the other.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Include below-ground uncertainty in an outdoor repair request",
+          "paragraphs": [
+            "Describe the proposed work area and the reason for the repair, with photos and available site information. Tell the professional about known private systems or previous work without assuming a record shows every buried line. Leave the investigation and excavation planning to appropriately qualified people rather than probing or digging to find the problem yourself.",
+            "Clark provides a before-you-dig notice through its Construction Department and separate permit routes for work such as right-of-way activity. Use the current official instructions with the contractor. This guide does not prescribe notice periods, establish utility locations or treat a markout as municipal permission for the proposed work.",
+            "Ask the proposal to name who coordinates markouts, checks the work boundary and handles applicable approvals. Include access and restoration in the same discussion, especially where planting or paved surfaces will be disturbed. If the scope changes, have the responsible professional reassess the preparation rather than extending the work beyond the original plan."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Clark project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plan landscape work involving ground disturbance",
+              "body": "Identify the work boundary and known site information. Agree on preparation and utility-location responsibilities before digging is scheduled.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate masonry access and restoration",
+              "body": "Describe the affected surfaces and proposed work. Ask the professional to include preparation, access and the final condition in the scope.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Clarify an underground plumbing repair",
+              "body": "Share professional findings and the proposed repair area. Confirm the private scope, qualifications and coordination needed before excavation.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Clark provide a local starting point for before-you-dig preparation?",
+              "answer": "Yes. Its Construction Department permit page links a Before You Dig notice. Confirm current utility-location instructions and any separate project approvals with the responsible professional and relevant authorities."
+            },
+            {
+              "question": "How does A5 help with my Clark request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Clark is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Clark project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:39:21.468Z",
+      "published_at": "2026-10-08T01:22:38.834+00:00",
+      "last_reviewed_at": "2026-10-08T17:39:21.468Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "24c57916-d74f-4ecc-8f42-3e3032d247e1",
+      "title": "Upper Saddle River Construction Welcome Packet",
+      "url": "https://www.usrtoday.org/257/Welcome-Packet-Information",
+      "publisher": "Borough of Upper Saddle River",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "a11b975d-9cb8-4529-8bb3-e18a16624655",
+      "title": "Air Barrier and Insulation Checklist linked by Upper Saddle River",
+      "url": "https://www.usrtoday.org/DocumentCenter/View/685",
+      "publisher": "Borough of Upper Saddle River",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "d68d0294-a557-4c43-83c7-f392fea41707",
+      "title": "Waldwick Tree Removal and Replacement Process",
+      "url": "https://www.waldwicknj.gov/departments/Building/trees",
+      "publisher": "Borough of Waldwick",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "35cabe0f-5e48-4c9b-80cd-3dec04def910",
+      "title": "Wallington Flood Damage Prevention: Permits",
+      "url": "https://ecode360.com/48225683",
+      "publisher": "Borough of Wallington",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "410c8cb4-e333-42c6-852c-b04b6e987b4e",
+      "title": "Township of Washington, Bergen County: Forms and Permits",
+      "url": "https://www.twpofwashington.us/page/forms-permits-licenses",
+      "publisher": "Township of Washington, Bergen County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "2c523a70-8a23-4fe7-8369-e333b54596ce",
+      "title": "Westwood Construction Inspections",
+      "url": "https://westwoodnj.gov/164/Inspections",
+      "publisher": "Borough of Westwood",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "d53e26c8-4693-4966-8cb8-8a42332d3436",
+      "title": "Wood-Ridge Construction Department",
+      "url": "https://www.woodridgenj.gov/departments/construction-department",
+      "publisher": "Borough of Wood-Ridge",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "2e4e9006-3b73-4e5d-8ace-f2e2b3ca816b",
+      "title": "Woodcliff Lake Construction Guidance",
+      "url": "https://wclnj.com/departments/construction",
+      "publisher": "Borough of Woodcliff Lake",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "51778222-2424-41ea-8e9b-8efacdce3eca",
+      "title": "Wyckoff Building, Zoning and Property Maintenance",
+      "url": "https://www.wyckoffnj.gov/building-zoning-property-maintenance",
+      "publisher": "Township of Wyckoff",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "c6760a06-2a44-4506-8d9d-844b835a851b",
+      "title": "Berkeley Heights Permit Process",
+      "url": "https://berkeleyheights.gov/158/Permit-Process",
+      "publisher": "Township of Berkeley Heights",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "cc6240ae-d71f-45f6-840d-a57ef19b13b9",
+      "title": "Clark Construction Permits",
+      "url": "https://www.ourclark.com/329/Permits",
+      "publisher": "Township of Clark",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    },
+    {
+      "id": "51f844e8-1e4e-41fc-871d-862c9b48a5f1",
+      "title": "Clark Before You Dig Notice",
+      "url": "https://www.ourclark.com/DocumentCenter/View/44/Before-You-Dig-PDF",
+      "publisher": "Township of Clark",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:39:21.468Z",
+      "reviewed_at": "2026-10-08T17:39:21.468Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "2c4e653b-e30b-4f55-8d52-c96d2a68f03d",
+      "source_id": "24c57916-d74f-4ecc-8f42-3e3032d247e1",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2c4e653b-e30b-4f55-8d52-c96d2a68f03d",
+      "source_id": "a11b975d-9cb8-4529-8bb3-e18a16624655",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "5d6900c3-18bb-430c-8d72-5509e0ffd454",
+      "source_id": "d68d0294-a557-4c43-83c7-f392fea41707",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "a98fe07d-9cd7-4952-8993-c23255a018c8",
+      "source_id": "35cabe0f-5e48-4c9b-80cd-3dec04def910",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b6c1565c-5fd4-436d-8c7b-15524df5d154",
+      "source_id": "410c8cb4-e333-42c6-852c-b04b6e987b4e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "9298ea9f-19b4-41f6-84d7-fc59ad0ae7c9",
+      "source_id": "2c523a70-8a23-4fe7-8369-e333b54596ce",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f6fc8874-dac6-42d4-859a-b2c5c04897b2",
+      "source_id": "d53e26c8-4693-4966-8cb8-8a42332d3436",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f92c272d-92d5-4fec-8a16-13a1616c857a",
+      "source_id": "2e4e9006-3b73-4e5d-8ace-f2e2b3ca816b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ef4dbf09-b379-486c-8ca3-7d7d4a9ca360",
+      "source_id": "51778222-2424-41ea-8e9b-8efacdce3eca",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "df1025a8-92ab-4006-8ae1-4c037a1285dc",
+      "source_id": "c6760a06-2a44-4506-8d9d-844b835a851b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "30ff0e8b-9bc6-41d3-818a-3b42f227c738",
+      "source_id": "cc6240ae-d71f-45f6-840d-a57ef19b13b9",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "30ff0e8b-9bc6-41d3-818a-3b42f227c738",
+      "source_id": "51f844e8-1e4e-41fc-871d-862c9b48a5f1",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "2c4e653b-e30b-4f55-8d52-c96d2a68f03d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "5d6900c3-18bb-430c-8d72-5509e0ffd454",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "a98fe07d-9cd7-4952-8993-c23255a018c8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "b6c1565c-5fd4-436d-8c7b-15524df5d154",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "9298ea9f-19b4-41f6-84d7-fc59ad0ae7c9",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "f6fc8874-dac6-42d4-859a-b2c5c04897b2",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "f92c272d-92d5-4fec-8a16-13a1616c857a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "ef4dbf09-b379-486c-8ca3-7d7d4a9ca360",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "df1025a8-92ab-4006-8ae1-4c037a1285dc",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "30ff0e8b-9bc6-41d3-818a-3b42f227c738",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

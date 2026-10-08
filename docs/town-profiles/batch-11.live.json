@@ -1,0 +1,80 @@
+{
+  "batch": "11",
+  "sha256": "01ccebe9050075d003dac6849bb5f0e9916c9df2e77cb90dde6e388cb7b9f1bc",
+  "checkedAt": "2026-10-08T17:35:47.249Z",
+  "count": 10,
+  "sitemapCount": 226,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/river-vale",
+      "status": 200,
+      "title": "River Vale Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare River Vale renovation cleanup with a dumpster placement check, access plan and clear disposal responsibilities before work starts.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/rochelle-park",
+      "status": 200,
+      "title": "Rochelle Park Home Services | Bergen County | A5 Home Services",
+      "description": "Plan a Rochelle Park home EV-charger request with equipment information, a proposed location and the Township's dedicated plan-review resource.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/rockleigh",
+      "status": 200,
+      "title": "Rockleigh Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Rockleigh exterior improvements with a historic-context check, existing-condition photos and a repair scope before selecting replacement materials.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/rutherford",
+      "status": 200,
+      "title": "Rutherford Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Rutherford exterior repairs with a public-tree responsibility check and coordinated access, material staging and private tree-service questions.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/saddle-brook",
+      "status": 200,
+      "title": "Saddle Brook Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Saddle Brook renovation stages around applicable rough inspections, framing review and coordinated wall restoration with your professionals.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/saddle-river",
+      "status": 200,
+      "title": "Saddle River Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Saddle River well or septic questions with property records, Health Office guidance and a specialist scope before planning related home repairs.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/south-hackensack",
+      "status": 200,
+      "title": "South Hackensack Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare a South Hackensack home-sale repair list around separate zoning, smoke and carbon monoxide inspection, and certificate requirements.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/teaneck",
+      "status": 200,
+      "title": "Teaneck Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare a Teaneck air-conditioning project with proposed condenser placement, survey information and the Township's equipment-review resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/tenafly",
+      "status": 200,
+      "title": "Tenafly Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Tenafly exterior repairs with a historic-status check, existing-material documentation and a clear scope before selecting visible changes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/teterboro",
+      "status": 200,
+      "title": "Teterboro Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Teterboro drainage and plumbing requests with clear observations and a distinction between Borough infrastructure and private-property work.",
+      "errors": []
+    }
+  ]
+}
