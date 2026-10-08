@@ -1,0 +1,1310 @@
+{
+  "updates": [
+    {
+      "id": "df716108-a14f-41bd-802a-e29078bedec6",
+      "slug": "roselle",
+      "page_type": "LOCATION",
+      "title": "Home services in Roselle, Union County",
+      "meta_title": "Roselle Home Services | Union County",
+      "meta_description": "Prepare Roselle repair requests after an inspection with the correction report, permit context and a clear plan for repairs and reinspection.",
+      "h1": "Home services in Roselle.",
+      "primary_service_id": null,
+      "primary_location_id": "roselle",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Roselle, Union County?",
+      "direct_answer": "If a Roselle project inspection identifies corrections, use the written report to define the next request. The Borough's Building Department FAQ explains that a failed inspection produces a correction report and requires reinspection after the corrections. Share the relevant findings with the professional and confirm the current scheduling process with the office.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Quote the reported correction before adding other improvements",
+          "paragraphs": [
+            "Keep the inspection report with the permit number, work address and photos of the affected area. Describe what the inspector identified without attempting to reinterpret technical findings. Ask the professional which items fit their qualifications and whether other trades need to participate.",
+            "Roselle's Building Department FAQ points residents to its SDL portal for permit and inspection information. Use the official record to keep the requested work connected to the correct project. A service request through A5 does not arrange a municipal inspection or clear a reported correction; those steps remain with the responsible parties and Borough.",
+            "Ask for a proposal that separates the required correction, access or opening-up work, and finish restoration. Identify who will communicate with the inspector and retain the results. Avoid closing a wall or concealing the affected work before the professional confirms that applicable checks are complete. Save optional upgrades for a separate decision so the immediate scope stays understandable."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Roselle project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify an electrical correction",
+              "body": "Share the relevant written findings with an electrical professional. Ask for the correction scope and applicable follow-up steps, rather than a general upgrade quote.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Define plumbing follow-up",
+              "body": "Provide the report and existing project details. Confirm which work is being corrected and who will coordinate any required reinspection.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore the finish at the right stage",
+              "body": "Show areas opened for access and describe the finish. Schedule drywall restoration around completion of the underlying work and checks.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should I send with a Roselle request following a failed inspection?",
+              "answer": "Provide the correction report, relevant permit information, work address and photos. The Borough FAQ describes corrections followed by reinspection; confirm the current process and responsibilities with the office and professional."
+            },
+            {
+              "question": "How does A5 help with my Roselle request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Roselle is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Roselle project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:40.14+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3eab0547-be43-4f05-82b3-957a1c07f9b4",
+      "slug": "roselle-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Roselle Park, Union County",
+      "meta_title": "Roselle Park Home Services | Union County",
+      "meta_description": "Plan Roselle Park basement improvements with condition photos, a defined finish scope and the Borough's basement and trade-work resources.",
+      "h1": "Home services in Roselle Park.",
+      "primary_service_id": null,
+      "primary_location_id": "roselle-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Roselle Park, Union County?",
+      "direct_answer": "For a Roselle Park basement project, describe the existing condition before choosing finishes. The Borough's Construction Code Department publishes separate resources for finished basements, electrical work and mechanical permits. Use those resources to ask which current requirements apply to the complete project, including work behind the proposed walls.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define the basement project before picking the finished look",
+          "paragraphs": [
+            "List the intended use, rooms or areas involved, existing equipment and visible condition concerns. Photograph surfaces and accessible systems without disturbing them. If water or recurring staining is present, explain when it happens and have the cause assessed before treating new drywall or paint as the solution.",
+            "Roselle Park's Construction Code page groups homeowner handouts by project and trade. The availability of a basement guide does not establish approval for a particular layout or use. Discuss the actual proposal with the Department and qualified professionals, including any changes to plumbing, electrical or mechanical systems.",
+            "Break the quote into investigation, required underlying work and finish installation. Ask who coordinates the trades and applicable inspections, what access must remain and what cleanup is included. Keep proposed living-space changes distinct from a simple surface repair. A5 can connect the request to independent professionals; design suitability and authorization for the work need their own review."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Roselle Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Scope the drywall finish",
+              "body": "Describe the area, existing surfaces and desired finish. Keep installation dependent on resolving underlying conditions and required checks.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Identify electrical changes",
+              "body": "List intended lighting and power needs. Have an electrical professional assess the proposed use and system rather than choosing devices in isolation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plan plumbing work separately",
+              "body": "Identify any fixtures or pipe changes in the proposal. Ask the plumber to define their scope and coordination with the rest of the basement project.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I start with Roselle Park basement project requirements?",
+              "answer": "The Borough's Construction Code Department publishes a Finished Basement Requirements handout alongside trade-specific resources. Confirm the current requirements for your actual layout and scope directly with the office."
+            },
+            {
+              "question": "How does A5 help with my Roselle Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Roselle Park is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Roselle Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:40.242+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3b40212f-05fc-424e-89ed-1d9764ab8f98",
+      "slug": "scotch-plains",
+      "page_type": "LOCATION",
+      "title": "Home services in Scotch Plains, Union County",
+      "meta_title": "Scotch Plains Home Services | Union County",
+      "meta_description": "Prepare Scotch Plains roofing requests around solar equipment with condition photos, structural-review questions and clear contractor responsibilities.",
+      "h1": "Home services in Scotch Plains.",
+      "primary_service_id": null,
+      "primary_location_id": "scotch-plains",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Scotch Plains, Union County?",
+      "direct_answer": "If a Scotch Plains roof project involves solar equipment, tell the roofer at the outset. The Township's Building Department publishes solar-permit guidance addressing plans and structural capacity for the added load. Confirm what applies to the proposed work and who is qualified to handle the solar system; a roofing-category match does not establish solar expertise.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the roof and solar-system scopes connected",
+          "paragraphs": [
+            "Describe whether the issue is a roof leak, deteriorated covering or a planned installation. Share available roof and solar records, warranty information and ground-level photos. Ask the roofer to identify what can be assessed without moving equipment and what requires coordination with a solar specialist.",
+            "Scotch Plains identifies structural documentation among its solar application requirements and notes that additional roof-support work may be identified. Use that guidance for questions about the specific project rather than assuming that an existing roof can accept any new load. The responsible professionals and Township should confirm current documentation and review requirements.",
+            "Request separate descriptions for roof work, solar handling and any related electrical work. Clarify responsibility for protecting the home, system shutdown where needed, reinstatement and completion records. If the job expands after assessment, update the scope before materials are ordered. A5 facilitates introductions; it does not design or certify the roof or solar installation."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Scotch Plains project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess roof condition first",
+              "body": "Share the symptom and known solar arrangement. Ask which roof repairs can be assessed now and which depend on specialist equipment coordination.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            },
+            {
+              "title": "Clarify electrical coordination",
+              "body": "Explain how the proposed roof work relates to installed equipment. Confirm solar-system qualifications and the professional's actual scope directly.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Repair interior finishes after the cause",
+              "body": "Document any ceiling staining and the affected area. Plan drywall restoration after the roof issue is assessed and addressed.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a roofing match mean the vendor can remove or reinstall solar panels?",
+              "answer": "No. Confirm solar-system experience and responsibilities directly. Scotch Plains publishes solar documentation requirements, but a service-category match does not establish those specialist qualifications."
+            },
+            {
+              "question": "How does A5 help with my Scotch Plains request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Scotch Plains is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Scotch Plains project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:40.348+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6179c4b1-01d4-40df-8262-9b933a21727d",
+      "slug": "springfield",
+      "page_type": "LOCATION",
+      "title": "Home services in Springfield, Union County",
+      "meta_title": "Springfield Home Services | Union County",
+      "meta_description": "Plan Springfield renovation changes with updated scope, approved-plan questions and coordinated trade work before finishes conceal the changes.",
+      "h1": "Home services in Springfield.",
+      "primary_service_id": null,
+      "primary_location_id": "springfield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Springfield, Union County?",
+      "direct_answer": "When a Springfield renovation changes after approval, review the change before the work proceeds. The Township's Building Department says revisions to approved construction plans may require additional documentation and approval. Show the proposed difference to the professional and office so pricing, trade responsibilities and the approved scope stay aligned.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Record the change before it becomes hidden work",
+          "paragraphs": [
+            "A moved fixture, changed wall or revised equipment location can affect more than the visible finish. Describe the original plan and proposed change together, with a marked-up sketch or photos where useful. Ask the responsible professional what else the change affects instead of assuming it is a small substitution.",
+            "Springfield's Building Department guidance specifically addresses changes to approved plans and requires the approved job-site documents to remain available. Confirm the current review process for your proposal before proceeding. This applies to the actual permitted project; it is not a claim that every decorative choice needs revised drawings.",
+            "Have the revised quote identify materials, affected trades, scheduling consequences and restoration. Keep agreement on the change with the project records and make sure everyone works from the same version. Confirm applicable inspections before concealment. At completion, retain the final scope and relevant approvals so future repairs are not based on an abandoned design."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Springfield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Revisit a fixture relocation",
+              "body": "Explain both the original and proposed fixture positions. Ask the plumber to identify scope and coordination implications before approving the change.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate revised lighting",
+              "body": "Show the changed layout and desired lighting. Confirm the electrical scope and whether project documentation needs updating.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Sequence wall restoration",
+              "body": "Identify surfaces affected by the revision. Agree on drywall work after the underlying changes and applicable inspections are ready.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I change a Springfield project after its plans are approved?",
+              "answer": "Discuss the proposed change with the professional and Building Department first. Township guidance says changes may need revised plans or other documentation and approval before the changed work is performed."
+            },
+            {
+              "question": "How does A5 help with my Springfield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Springfield is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Springfield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:40.44+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ca5b533a-80e9-4527-8159-e356052280a6",
+      "slug": "union-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Union Township, Union County",
+      "meta_title": "Union Township Home Services | Union County",
+      "meta_description": "Prepare Union Township driveway and yard requests by separating surface repair from expansion, with survey and zoning questions before pricing.",
+      "h1": "Home services in Union Township.",
+      "primary_service_id": null,
+      "primary_location_id": "union-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Union Township, Union County?",
+      "direct_answer": "For a Union Township driveway project, explain whether you are repairing the current surface or enlarging the footprint. The Township's Building Department lists driveway expansion among zoning-permit projects and asks for a survey with the application. Confirm the applicable current process before treating an expanded parking area as routine maintenance.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Draw the existing and proposed edges of the driveway",
+          "paragraphs": [
+            "Show the current driveway, any proposed extension and nearby landscaping in your photos or sketch. Gather a property survey if available. Describe the reason for the project—surface deterioration, access or additional space—so the professional can distinguish a repair proposal from a change in site layout.",
+            "Union Township's Building Department directs questions about parking, setbacks and other zoning matters to the Zoning Officer. Ask about the actual proposal using the work address in Union County. A mailing label or a similar township name elsewhere should not substitute for the correct municipality and property information.",
+            "Compare quotes on the same defined footprint and agreed materials. Ask who handles any required documentation and how adjoining surfaces, planting and drainage concerns will be addressed. Do not assume a masonry or landscaping provider offers every paving system or engineering service; confirm experience, exclusions and restoration directly before committing."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Union Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define a hardscape repair",
+              "body": "Show the existing surface and damaged area. Ask about the provider's materials and scope before comparing repair with a larger redesign.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate planting restoration",
+              "body": "Identify beds or lawn affected by the proposal. Keep restoration tied to the final reviewed footprint rather than an early sketch.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Address nearby tree concerns",
+              "body": "Show trees close to the intended work without assuming their roots are the cause. Ask a qualified professional about assessment and any applicable local process.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is enlarging a Union Township driveway the same as repairing its surface?",
+              "answer": "No. The Township identifies driveway expansion as a zoning-permit project. Describe the exact change to the Building Department and confirm the current requirements before finalizing the scope."
+            },
+            {
+              "question": "How does A5 help with my Union Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Union Township is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Union Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:40.553+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "48ef2eee-fbf5-4792-855a-026ad6e88509",
+      "slug": "winfield",
+      "page_type": "LOCATION",
+      "title": "Home services in Winfield, Union County",
+      "meta_title": "Winfield Home Services | Union County",
+      "meta_description": "Prepare Winfield home-service requests with clear materials, finish expectations and responsibilities, using the Township's contractor-selection guidance.",
+      "h1": "Home services in Winfield.",
+      "primary_service_id": null,
+      "primary_location_id": "winfield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Winfield, Union County?",
+      "direct_answer": "For a Winfield home project, agree on the actual work and finish expectations in writing. The Township's Building Department guidance distinguishes code compliance from contractual obligations and customer expectations. Use a clear proposal to define what the professional will deliver; a municipal inspection does not settle every question about the agreement.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the quote explain what a finished job means to you",
+          "paragraphs": [
+            "List the problem, desired result and limits of the area being worked on. Include photos and distinguish essential repairs from optional cosmetic improvements. Confirm that you are authorized to commission the work and identify any owner or management approval needed before arranging changes to the property.",
+            "Winfield's contractor-selection guidance encourages checking relevant references, communicating clearly and obtaining a written agreement. It also explains the limits of the Building Department's role in contractor disputes. A5 is a connection network, and an introduction is not a municipal recommendation or a guarantee of workmanship.",
+            "Ask the proposal to identify materials, preparation, protection of belongings, cleanup, exclusions and how changes will be agreed. Discuss warranty terms directly with the professional. Compare bids using the same scope rather than the total alone, and keep the agreed description and completion records together. Confirm project-specific permit questions with the Township rather than interpreting a price quote as authorization."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Winfield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Specify painting preparation",
+              "body": "Identify surfaces, existing condition and the expected finish. Ask the proposal to distinguish preparation, coating and cleanup.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Make a handyman list measurable",
+              "body": "List individual repairs and the result expected for each. Confirm which tasks fit the professional's skills and which need another trade.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Define a cleaning scope",
+              "body": "Describe rooms, surfaces and access conditions. Agree on included tasks and exclusions so completion can be reviewed against the same list.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a code inspection confirm every part of my Winfield contractor agreement?",
+              "answer": "No. The Township's guidance distinguishes code compliance from contractual obligations and expectations. Put the scope and finish standards in writing and discuss agreement questions directly with the professional."
+            },
+            {
+              "question": "How does A5 help with my Winfield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Winfield is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Winfield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:40.75+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "64f1361b-8fde-4f8b-8277-ca275b4c41c1",
+      "slug": "bloomingdale",
+      "page_type": "LOCATION",
+      "title": "Home services in Bloomingdale, Passaic County",
+      "meta_title": "Bloomingdale Home Services | Passaic County",
+      "meta_description": "Prepare Bloomingdale home repairs with the correct property municipality, project records and clear questions for the shared construction office.",
+      "h1": "Home services in Bloomingdale.",
+      "primary_service_id": null,
+      "primary_location_id": "bloomingdale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Bloomingdale, Passaic County?",
+      "direct_answer": "For work at a Bloomingdale property, keep Bloomingdale as the project municipality even when discussing shared construction services. The Borough's Construction Department serves Bloomingdale, Butler and Kinnelon for plan review, inspections and construction-code enforcement. Supply the actual work address so records and questions are connected to the correct property.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the property identity clear through every project step",
+          "paragraphs": [
+            "Collect the work address, available permit numbers and a concise description of the repair or alteration. If documents refer to a shared office, do not change the project municipality to match another town it serves. Use the same location and scope when requesting estimates, asking municipal questions and submitting the A5 request.",
+            "Bloomingdale's department page explains the three-borough construction service. That administrative arrangement does not make all local zoning conditions interchangeable or establish approval for a particular project. Ask which office and current process apply to the specific property and proposed work before relying on paperwork from a different municipality.",
+            "Give the professional the relevant history and present symptoms, then ask for a quote with a clear work boundary and coordination responsibilities. Keep any municipal questions separate from scheduling the private work. Save the final documents under the actual property address so a future repair does not begin with uncertainty about which town's record belongs to the project."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Bloomingdale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Organize a plumbing request",
+              "body": "Share the symptom, work address and relevant earlier records. Ask the plumber to distinguish diagnosis from any proposed alteration.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Clarify an electrical project",
+              "body": "Describe existing equipment and the requested change. Keep the same property and scope information in the quote and applicable documentation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plan finish restoration",
+              "body": "Show the affected surfaces and desired finish. Coordinate drywall work with completion of underlying repairs and checks.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Bloomingdale's construction office also serve other boroughs?",
+              "answer": "Yes. Its department page identifies plan review, inspections and construction-code enforcement for Bloomingdale, Butler and Kinnelon. Keep the actual work municipality and property address on your request."
+            },
+            {
+              "question": "How does A5 help with my Bloomingdale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Bloomingdale is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Bloomingdale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:34.234+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "86389850-5010-4134-85b7-cd9d04275bd4",
+      "slug": "haledon",
+      "page_type": "LOCATION",
+      "title": "Home services in Haledon, Passaic County",
+      "meta_title": "Haledon Home Services | Passaic County",
+      "meta_description": "Prepare Haledon renovation requests with trade sequencing, inspection questions and finish restoration planned before walls are closed.",
+      "h1": "Home services in Haledon.",
+      "primary_service_id": null,
+      "primary_location_id": "haledon",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Haledon, Passaic County?",
+      "direct_answer": "If a Haledon renovation includes work behind walls, plan the inspection sequence before scheduling the finish. The Borough's Building/Code Department describes framing and insulation checks in relation to rough electrical and plumbing approvals. Confirm the inspections for your actual permitted scope with the office and professional before concealing work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Build the finish schedule around the work behind the wall",
+          "paragraphs": [
+            "Describe what is being opened, changed or repaired and include photos of the accessible area. Ask which trades must finish before the wall can be restored. A quote that covers only new drywall may miss access, underlying corrections or coordination needed to reach that stage.",
+            "Haledon's published inspection guidance distinguishes rough work, framing, insulation and final checks. Use it to ask project-specific sequencing questions rather than assuming that every surface patch triggers all those inspections. Have the responsible professional confirm the current requirements and who will request the applicable checks.",
+            "Agree on a handoff between the underlying trade work and finish contractor, including what information confirms readiness. Keep the approved project documents available where required and record any change in scope. A5 can help connect the request, but the professionals and municipal officials determine the technical sequence; avoid promising a finish date before those dependencies are understood."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Haledon project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plan electrical access and completion",
+              "body": "Describe the affected area and intended work. Ask how the electrical scope and applicable rough checks fit into wall restoration.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate plumbing behind surfaces",
+              "body": "Identify the plumbing concern and access needs. Confirm the repair and check sequence before planning the finish work.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore drywall after the handoff",
+              "body": "Share the expected openings and finish standard. Agree on the point when the underlying work is ready to be covered.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "When should drywall restoration be scheduled on a Haledon renovation?",
+              "answer": "After the underlying work and any applicable inspections are ready for covering. Haledon's inspection guidance describes sequencing around rough trade approvals; confirm the requirements for your project rather than assuming a universal checklist."
+            },
+            {
+              "question": "How does A5 help with my Haledon request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Haledon is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Haledon project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:34.558+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3ab302d3-208c-4237-84dd-7f52030f3220",
+      "slug": "hawthorne",
+      "page_type": "LOCATION",
+      "title": "Home services in Hawthorne, Passaic County",
+      "meta_title": "Hawthorne Home Services | Passaic County",
+      "meta_description": "Prepare Hawthorne sidewalk and front-walk repairs with clear location photos, scope boundaries and questions for the Borough's Building Department.",
+      "h1": "Home services in Hawthorne.",
+      "primary_service_id": null,
+      "primary_location_id": "hawthorne",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hawthorne, Passaic County?",
+      "direct_answer": "For Hawthorne sidewalk work, identify exactly which walkway section is involved before requesting a final quote. The Borough's Building Department states that it issues sidewalk permits. Ask the office which current requirements apply to the proposed repair and distinguish the public-facing sidewalk from other private walks or hardscape on the property.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Show where the walkway repair begins and ends",
+          "paragraphs": [
+            "Take a wide photo of the frontage and closer photos of the affected slabs or joints. Mark the intended repair limits and note nearby driveway or planting areas. Describe observed lifting, cracks or movement without assuming the cause or deciding that every adjoining section needs replacement.",
+            "Hawthorne's construction department identifies sidewalk permits separately within its responsibilities. Use the work address and a clear description to confirm the appropriate process. A permit discussion does not by itself establish ownership, responsibility for payment or the cause of a condition; those questions need the relevant property and professional information.",
+            "Ask the masonry proposal to explain removal, installation, adjoining-surface protection and cleanup. If trees or other site conditions may be involved, coordinate assessment before deciding how to repair the surface. Keep the route into the home and the expected disruption part of the plan. Confirm provider experience and any specialist needs directly rather than relying on a category match alone."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hawthorne project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the concrete or masonry work",
+              "body": "Share photos and proposed repair boundaries. Ask the provider to describe materials, adjoining surfaces and cleanup in the quote.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Assess a nearby tree concern",
+              "body": "Show the relationship between the tree and damaged walk. Ask a qualified professional to assess the concern without assuming roots are responsible.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Restore disturbed planting areas",
+              "body": "Identify beds or lawn alongside the work. Coordinate restoration after the final walkway scope and any site assessment are agreed.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Hawthorne office handles sidewalk permit questions?",
+              "answer": "The Borough's Building Department says it issues sidewalk permits. Provide the exact location and scope to confirm the current process for your proposed work."
+            },
+            {
+              "question": "How does A5 help with my Hawthorne request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hawthorne is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hawthorne project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:34.676+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f01fabd3-62e5-45bf-831c-9bb8dc1f5b97",
+      "slug": "little-falls",
+      "page_type": "LOCATION",
+      "title": "Home services in Little Falls, Passaic County",
+      "meta_title": "Little Falls Home Services | Passaic County",
+      "meta_description": "Prepare Little Falls renovation requests with an exact work scope, property information and floodplain questions for the Township before finishes are chosen.",
+      "h1": "Home services in Little Falls.",
+      "primary_service_id": null,
+      "primary_location_id": "little-falls",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Little Falls, Passaic County?",
+      "direct_answer": "For a Little Falls project with a floodplain question, ask the Township about the specific property and work before finalizing the proposal. Its Building Department provides a route for zoning and floodplain inquiries. A town-wide guide cannot determine whether an individual property is affected or which requirements apply to its repairs.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate the observed problem from the proposed property change",
+          "paragraphs": [
+            "Describe the current condition, any known incident history and the work you want assessed. Include existing documents if available, but do not infer a property's status from its town or a nearby address. Distinguish repairing a finish from changing equipment, rooms or the building itself so the office and professional can evaluate the actual proposal.",
+            "Little Falls identifies zoning and floodplain inquiries within its Building Department resources. Ask what current property information and project documentation are needed before ordering materials or committing to an expanded scope. Municipal review and technical design are separate from the initial A5 introduction to a service provider.",
+            "Have the professional separate diagnosis, underlying repair and finish restoration in the quote. Confirm any need for specialist assessment and applicable approvals before work proceeds beyond the agreed scope. Keep photos and relevant records together, and do not interpret a new surface or replaced fixture as proof that the original water-related concern has been resolved."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Little Falls project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess plumbing symptoms",
+              "body": "Explain the observed issue and known history. Ask the plumber to assess the cause and define the repair without drawing conclusions from location alone.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Discuss heating and cooling changes",
+              "body": "Describe existing equipment and the proposed change. Confirm the professional's scope and any property-specific review dependencies.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Plan finish restoration after assessment",
+              "body": "Document affected surfaces and the desired result. Coordinate drywall repairs after the underlying conditions and applicable requirements are addressed.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does living in Little Falls establish that my project is subject to floodplain requirements?",
+              "answer": "No. Ask the Township about the specific property and proposed work. Its Building Department provides a contact route for floodplain inquiries; this guide does not assign parcel status or determine applicable requirements."
+            },
+            {
+              "question": "How does A5 help with my Little Falls request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Little Falls is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Little Falls project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:55:10.850Z",
+      "published_at": "2026-10-08T01:22:34.793+00:00",
+      "last_reviewed_at": "2026-10-08T17:55:10.850Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "42816309-5bf4-48da-8a01-3b8d99fa3530",
+      "title": "Roselle Building Department FAQ",
+      "url": "https://cms7files.revize.com/rosellenj/Building%20Department/Buildings%20FAQ%202025.pdf",
+      "publisher": "Borough of Roselle",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "e6549fb9-e9b4-44f5-8d6f-b5d7848295c0",
+      "title": "Roselle Park Construction Code Department",
+      "url": "https://www.rosellepark.gov/177/Construction-Code-Department",
+      "publisher": "Borough of Roselle Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "07bc9244-b26b-42f5-876b-6de198056ffe",
+      "title": "Scotch Plains Building Department",
+      "url": "https://www.scotchplainsnj.gov/departments/building-department",
+      "publisher": "Township of Scotch Plains",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "96a82fac-9d6c-4470-8d63-cc4476f94db0",
+      "title": "Springfield Building Department",
+      "url": "https://springfield-nj.us/departments/building/",
+      "publisher": "Township of Springfield, Union County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "123b9bdb-ac14-43b2-8a26-58963e2cddae",
+      "title": "Union Township Building Department",
+      "url": "https://www.uniontownship.com/134/Building-Department",
+      "publisher": "Township of Union, Union County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "08bb4ad1-644f-4747-89d4-5c8501923346",
+      "title": "Winfield Building Department Helpful Information",
+      "url": "https://www.winfield-nj.org/building-department-helpful-information.html",
+      "publisher": "Township of Winfield",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "e214030d-761b-4062-8f17-1538a25fde00",
+      "title": "Bloomingdale Building Department",
+      "url": "https://www.bloomingdalenj.net/cn/webpage.cfm?tpid=13069",
+      "publisher": "Borough of Bloomingdale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "4d8e19eb-2b12-4836-82f1-a66b309a6ab2",
+      "title": "Haledon Building/Code Department",
+      "url": "https://www.haledonboronj.com/building",
+      "publisher": "Borough of Haledon",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "3c9841d6-e158-436d-8223-890de24eb234",
+      "title": "Hawthorne Building Department and Construction Inspections",
+      "url": "https://www.hawthornenj.org/415/Building-DeptConstruction-Inspection",
+      "publisher": "Borough of Hawthorne",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    },
+    {
+      "id": "9d1a48a4-a889-44b2-81b9-c22db1cdf41b",
+      "title": "Little Falls Building Department",
+      "url": "https://littlefallsnj.gov/building-department",
+      "publisher": "Township of Little Falls",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:55:10.850Z",
+      "reviewed_at": "2026-10-08T17:55:10.850Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "df716108-a14f-41bd-802a-e29078bedec6",
+      "source_id": "42816309-5bf4-48da-8a01-3b8d99fa3530",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3eab0547-be43-4f05-82b3-957a1c07f9b4",
+      "source_id": "e6549fb9-e9b4-44f5-8d6f-b5d7848295c0",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3b40212f-05fc-424e-89ed-1d9764ab8f98",
+      "source_id": "07bc9244-b26b-42f5-876b-6de198056ffe",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6179c4b1-01d4-40df-8262-9b933a21727d",
+      "source_id": "96a82fac-9d6c-4470-8d63-cc4476f94db0",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ca5b533a-80e9-4527-8159-e356052280a6",
+      "source_id": "123b9bdb-ac14-43b2-8a26-58963e2cddae",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "48ef2eee-fbf5-4792-855a-026ad6e88509",
+      "source_id": "08bb4ad1-644f-4747-89d4-5c8501923346",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "64f1361b-8fde-4f8b-8277-ca275b4c41c1",
+      "source_id": "e214030d-761b-4062-8f17-1538a25fde00",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "86389850-5010-4134-85b7-cd9d04275bd4",
+      "source_id": "4d8e19eb-2b12-4836-82f1-a66b309a6ab2",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3ab302d3-208c-4237-84dd-7f52030f3220",
+      "source_id": "3c9841d6-e158-436d-8223-890de24eb234",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f01fabd3-62e5-45bf-831c-9bb8dc1f5b97",
+      "source_id": "9d1a48a4-a889-44b2-81b9-c22db1cdf41b",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "df716108-a14f-41bd-802a-e29078bedec6",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "3eab0547-be43-4f05-82b3-957a1c07f9b4",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "3b40212f-05fc-424e-89ed-1d9764ab8f98",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "6179c4b1-01d4-40df-8262-9b933a21727d",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "ca5b533a-80e9-4527-8159-e356052280a6",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "48ef2eee-fbf5-4792-855a-026ad6e88509",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "64f1361b-8fde-4f8b-8277-ca275b4c41c1",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "86389850-5010-4134-85b7-cd9d04275bd4",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "3ab302d3-208c-4237-84dd-7f52030f3220",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "f01fabd3-62e5-45bf-831c-9bb8dc1f5b97",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

@@ -109,3 +109,11 @@ Upper Saddle River, Waldwick, Wallington, Washington Township (Bergen), Westwood
 ## Batch 13: ready for publication
 
 Elizabeth, Fanwood, Garwood, Hillside, Kenilworth, Linden, Mountainside, New Providence, Plainfield and Rahway. Brand positioning ideas approved all ten. Official sources support narrow local guidance; engineering, equipment qualifications and historic designation remain separate from service-category matching. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 13: published and verified
+
+2026-10-08: PR #62 merged (a359967). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 246 URLs. One hundred thirty completed; 72 remain.
+
+## Batch 14: ready for publication
+
+Roselle, Roselle Park, Scotch Plains, Springfield, Union Township, Winfield, Bloomingdale, Haledon, Hawthorne and Little Falls finish Union and begin Passaic. Brand positioning ideas approved all ten. Source-backed distinctions include solar coordination, changes to approved plans and written contractor expectations. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.

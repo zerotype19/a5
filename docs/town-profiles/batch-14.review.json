@@ -1,0 +1,145 @@
+{
+  "sha256": "d5ea20c4b826a16dee36d9df280ccf1cf603a8f32a282e49094d91d5d65a4b35",
+  "pages": [
+    {
+      "id": "df716108-a14f-41bd-802a-e29078bedec6",
+      "path": "/home-services/roselle",
+      "newlyIndexable": true,
+      "purpose": "Turn an inspection correction report into a defined repair scope",
+      "sourceClaims": [
+        {
+          "title": "Roselle Building Department FAQ",
+          "url": "https://cms7files.revize.com/rosellenj/Building%20Department/Buildings%20FAQ%202025.pdf",
+          "publisher": "Borough of Roselle",
+          "supports": "PDF questions 9–11: SDL inspections, correction report and reinspection. No timing or fees copied."
+        }
+      ]
+    },
+    {
+      "id": "3eab0547-be43-4f05-82b3-957a1c07f9b4",
+      "path": "/home-services/roselle-park",
+      "newlyIndexable": true,
+      "purpose": "Separate basement finishing from unresolved water and building-system work",
+      "sourceClaims": [
+        {
+          "title": "Roselle Park Construction Code Department",
+          "url": "https://www.rosellepark.gov/177/Construction-Code-Department",
+          "publisher": "Borough of Roselle Park",
+          "supports": "Department page lists finished-basement, electrical and mechanical homeowner handouts. No unread PDF provisions or universal permit assertions used."
+        }
+      ]
+    },
+    {
+      "id": "3b40212f-05fc-424e-89ed-1d9764ab8f98",
+      "path": "/home-services/scotch-plains",
+      "newlyIndexable": true,
+      "purpose": "Coordinate roof repairs with an existing or proposed solar installation",
+      "sourceClaims": [
+        {
+          "title": "Scotch Plains Building Department",
+          "url": "https://www.scotchplainsnj.gov/departments/building-department",
+          "publisher": "Township of Scotch Plains",
+          "supports": "Solar Panels section addresses plans and structural capacity documentation. No exact application counts, approvals or contractor solar qualifications asserted."
+        }
+      ]
+    },
+    {
+      "id": "6179c4b1-01d4-40df-8262-9b933a21727d",
+      "path": "/home-services/springfield",
+      "newlyIndexable": true,
+      "purpose": "Keep changes during renovation aligned with approved plans",
+      "sourceClaims": [
+        {
+          "title": "Springfield Building Department",
+          "url": "https://springfield-nj.us/departments/building/",
+          "publisher": "Township of Springfield, Union County",
+          "supports": "Changes to Approved Plans and Approved Plans on Site sections. Scope-specific wording; no universal decorative-change approval requirement."
+        }
+      ]
+    },
+    {
+      "id": "ca5b533a-80e9-4527-8159-e356052280a6",
+      "path": "/home-services/union-township",
+      "newlyIndexable": true,
+      "purpose": "Distinguish driveway repair from a proposed larger parking footprint",
+      "sourceClaims": [
+        {
+          "title": "Union Township Building Department",
+          "url": "https://www.uniontownship.com/134/Building-Department",
+          "publisher": "Township of Union, Union County",
+          "supports": "Zoning Permits lists driveway expansion and survey; Zoning section assigns parking/setback questions to officer. Not Union County Pennsylvania or Hunterdon township."
+        }
+      ]
+    },
+    {
+      "id": "48ef2eee-fbf5-4792-855a-026ad6e88509",
+      "path": "/home-services/winfield",
+      "newlyIndexable": true,
+      "purpose": "Make the written repair agreement reflect expectations beyond inspection",
+      "sourceClaims": [
+        {
+          "title": "Winfield Building Department Helpful Information",
+          "url": "https://www.winfield-nj.org/building-department-helpful-information.html",
+          "publisher": "Township of Winfield",
+          "supports": "Contractor-selection guidance and distinction between code compliance and contractual/customer expectations. No penalties, emergency deadlines or blanket permit statements reused."
+        }
+      ]
+    },
+    {
+      "id": "64f1361b-8fde-4f8b-8277-ca275b4c41c1",
+      "path": "/home-services/bloomingdale",
+      "newlyIndexable": true,
+      "purpose": "Use the work municipality correctly within a shared construction service",
+      "sourceClaims": [
+        {
+          "title": "Bloomingdale Building Department",
+          "url": "https://www.bloomingdalenj.net/cn/webpage.cfm?tpid=13069",
+          "publisher": "Borough of Bloomingdale",
+          "supports": "Current department responsibilities explicitly list shared construction services for Bloomingdale, Butler and Kinnelon. No shared zoning jurisdiction inferred."
+        }
+      ]
+    },
+    {
+      "id": "86389850-5010-4134-85b7-cd9d04275bd4",
+      "path": "/home-services/haledon",
+      "newlyIndexable": true,
+      "purpose": "Sequence wall finishes after required rough-work checks",
+      "sourceClaims": [
+        {
+          "title": "Haledon Building/Code Department",
+          "url": "https://www.haledonboronj.com/building",
+          "publisher": "Borough of Haledon",
+          "supports": "Required Construction Inspections sequencing only. Outdated/inconsistent permit thresholds, lead-paint wording, fees and timeline claims excluded."
+        }
+      ]
+    },
+    {
+      "id": "3ab302d3-208c-4237-84dd-7f52030f3220",
+      "path": "/home-services/hawthorne",
+      "newlyIndexable": true,
+      "purpose": "Include the sidewalk permit question in front-walk repairs",
+      "sourceClaims": [
+        {
+          "title": "Hawthorne Building Department and Construction Inspections",
+          "url": "https://www.hawthornenj.org/415/Building-DeptConstruction-Inspection",
+          "publisher": "Borough of Hawthorne",
+          "supports": "Department explicitly issues sidewalk permits. No ownership, cost responsibility, tree causation or permit exemption asserted."
+        }
+      ]
+    },
+    {
+      "id": "f01fabd3-62e5-45bf-831c-9bb8dc1f5b97",
+      "path": "/home-services/little-falls",
+      "newlyIndexable": true,
+      "purpose": "Resolve property-specific floodplain questions before a repair becomes an alteration",
+      "sourceClaims": [
+        {
+          "title": "Little Falls Building Department",
+          "url": "https://littlefallsnj.gov/building-department",
+          "publisher": "Township of Little Falls",
+          "supports": "Zoning Inquiries and Floodplain Regulations contact route only. No parcel hazard designation, mitigation design or review outcome claimed."
+        }
+      ]
+    }
+  ]
+}
