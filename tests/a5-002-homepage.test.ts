@@ -45,9 +45,7 @@ describe("A5-002 public homepage", () => {
     assert.match(homepage, /SERVICES\.map/);
     assert.match(homepage, /SERVICE_PRESENTATION/);
 
-    assert.equal(SERVICES.length, 8);
-    assert.doesNotMatch(homepage, /\bHVAC\b/);
-    assert.doesNotMatch(homepage, /\broofing\b/i);
+    assert.equal(SERVICES.length, 16);
   });
 
   it("presents the approved county directory", () => {

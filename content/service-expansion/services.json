@@ -1,0 +1,42 @@
+[
+  {
+    "id": "hvac",
+    "name": "Heating & Cooling",
+    "slug": "hvac"
+  },
+  {
+    "id": "roofing",
+    "name": "Roofing",
+    "slug": "roofing"
+  },
+  {
+    "id": "house-cleaning",
+    "name": "House Cleaning",
+    "slug": "house-cleaning"
+  },
+  {
+    "id": "gutters",
+    "name": "Gutter Services",
+    "slug": "gutters"
+  },
+  {
+    "id": "pest-control",
+    "name": "Pest Control",
+    "slug": "pest-control"
+  },
+  {
+    "id": "junk-removal",
+    "name": "Junk Removal",
+    "slug": "junk-removal"
+  },
+  {
+    "id": "tree-services",
+    "name": "Tree Services",
+    "slug": "tree-services"
+  },
+  {
+    "id": "appliance-repair",
+    "name": "Appliance Repair",
+    "slug": "appliance-repair"
+  }
+]

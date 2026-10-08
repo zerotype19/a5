@@ -4,7 +4,7 @@ import { dirname, join, relative } from "node:path";
 import { describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import { LOCATION_HUBS as LOCATIONS } from "../config/locations.ts";
-import { SERVICES } from "../config/services.ts";
+import { INITIAL_SERVICES as SERVICES } from "../config/services.ts";
 import {
   CLAIM_EPA_RRP,
   CLAIM_NJ_811,

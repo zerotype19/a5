@@ -36,7 +36,7 @@ describe('North Jersey regional expansion',()=>{
  });
  it('publishes only eight authored county hubs, with source evidence and distinct planning content',()=>{
   const plan=emptyPlan();assert.equal(plan.pages.length,8);assert.equal(new Set(DRAFTS.map(d=>d.h1)).size,8);assert.equal(new Set(DRAFTS.map(d=>JSON.stringify(d.sections[0]))).size,8);
-  for(const p of plan.pages){assert.equal(p.page_type,'CORE');assert.equal(p.primary_location_id,null);assert.match(p.direct_answer!,/check provider availability/);assert.equal(plan.sourceLinks.filter(l=>l.content_page_id===p.id).length,1);assert.equal(plan.relationships.filter(l=>l.from_page_id===p.id).length,8);assert.equal(buildContentPathFromRecord(p),countyPath(getCountyBySlug(p.slug)!));assert.equal(buildBreadcrumbs(p)[1].path,'/home-services');}
+  for(const p of plan.pages){assert.equal(p.page_type,'CORE');assert.equal(p.primary_location_id,null);assert.match(p.direct_answer!,/check provider availability/);assert.equal(plan.sourceLinks.filter(l=>l.content_page_id===p.id).length,1);assert.equal(plan.relationships.filter(l=>l.from_page_id===p.id).length,SERVICES.length);assert.equal(buildContentPathFromRecord(p),countyPath(getCountyBySlug(p.slug)!));assert.equal(buildBreadcrumbs(p)[1].path,'/home-services');}
   assert.throws(()=>buildNorthPlan({...baseline,content_pages:plan.all}),/Duplicate/);
  });
  it('keeps draft, nonindexable and unrelated CORE records out of the sitemap',()=>{

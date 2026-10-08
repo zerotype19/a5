@@ -1,7 +1,7 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
 import { LOCATIONS } from "../config/locations.ts";
-import { SERVICES } from "../config/services.ts";
+import { INITIAL_SERVICES as SERVICES } from "../config/services.ts";
 import { LOCATION_BATCH_PROBLEM_SLUGS } from "../src/lib/authority/drafts/locations.ts";
 import { LIVE_MADISON_LOCATION_PAGE_ID } from "../src/lib/authority/drafts/types.ts";
 import {

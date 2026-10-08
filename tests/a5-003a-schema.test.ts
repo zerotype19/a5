@@ -4,7 +4,7 @@ import { dirname, join } from "node:path";
 import { describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
 import { LOCATIONS } from "../config/locations.ts";
-import { SERVICES } from "../config/services.ts";
+import { INITIAL_SERVICES as SERVICES } from "../config/services.ts";
 import {
   PREFERRED_CONTACT_METHODS,
   SERVICE_SELECTION_STATUSES,

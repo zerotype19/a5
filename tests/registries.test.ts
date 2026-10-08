@@ -6,8 +6,8 @@ import { SITE } from "../config/site.ts";
 import { featureFlags } from "../src/lib/feature-flags.ts";
 
 describe("product registries", () => {
-  it("includes exactly the eight approved MVP services", () => {
-    assert.equal(SERVICES.length, 8);
+  it("includes the sixteen owner-authorized services", () => {
+    assert.equal(SERVICES.length, 16);
     assert.deepEqual(
       SERVICES.map((service) => service.id),
       [
@@ -19,6 +19,15 @@ describe("product registries", () => {
         "tile",
         "plumbing",
         "electrical",
+        "hvac",
+        "roofing",
+        "house-cleaning",
+        "gutters",
+        "pest-control",
+        "junk-removal",
+        "tree-services",
+        "appliance-repair",
+
       ],
     );
   });

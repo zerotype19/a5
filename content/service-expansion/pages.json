@@ -1,0 +1,482 @@
+[
+  {
+    "id": "81000000-0000-4000-8000-000000000001",
+    "slug": "hvac",
+    "page_type": "SERVICE",
+    "title": "Heating & Cooling in Northern New Jersey",
+    "meta_title": "Heating & Cooling in Northern NJ | A5 Home Services",
+    "meta_description": "Heating, cooling and seasonal maintenance for your home. Tell A5 what your system is doing and we will review your request for an independent HVAC professional.",
+    "h1": "Heating & Cooling in Northern New Jersey",
+    "primary_service_id": "hvac",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request heating & cooling through A5?",
+    "direct_answer": "Heating, cooling and seasonal maintenance for your home. Tell A5 what your system is doing and we will review your request for an independent HVAC professional. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Heating, cooling and seasonal maintenance for your home. Tell A5 what your system is doing and we will review your request for an independent HVAC professional."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the visit around the symptoms",
+        "paragraphs": [
+          "Explain whether the issue affects the whole home or one room, whether it happens continuously, and when the system last worked normally. Mention recent maintenance or repair work so the provider has context.",
+          "For a replacement request, describe the existing equipment and your goals for comfort, noise and controls. Ask the provider what the estimate includes, which equipment is proposed, and whether additional work is needed.",
+          "For a maintenance visit, confirm which units are included, what the inspection covers and how additional repair recommendations will be quoted. The provider sets availability and pricing directly."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Include the equipment type, approximate age, symptoms and any displayed error code.",
+          "An introduction is not an emergency appointment. Contact emergency services or your utility for an immediate hazard."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request heating & cooling",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000002",
+    "slug": "roofing",
+    "page_type": "SERVICE",
+    "title": "Roofing in Northern New Jersey",
+    "meta_title": "Roofing in Northern NJ | A5 Home Services",
+    "meta_description": "Roof repairs, inspections and replacement requests, reviewed by A5 and introduced to an independent roofing professional.",
+    "h1": "Roofing in Northern New Jersey",
+    "primary_service_id": "roofing",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request roofing through A5?",
+    "direct_answer": "Roof repairs, inspections and replacement requests, reviewed by A5 and introduced to an independent roofing professional. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Roof repairs, inspections and replacement requests, reviewed by A5 and introduced to an independent roofing professional."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Give the roofer useful context",
+        "paragraphs": [
+          "Describe what you have noticed inside and outside the home, including when a stain first appeared and whether it changes after rain. An interior mark alone does not establish the source; a provider needs to assess the roof and related details.",
+          "For replacement estimates, ask what is included in removal, materials, flashing, disposal and cleanup. Confirm how the provider handles changes discovered during the work and how those changes are approved.",
+          "Tell the provider about access restrictions, additions, skylights and any prior repairs. Discuss the work schedule, protection of landscaping and written terms before choosing a contractor."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Share the roof type if known, when the issue appeared and photos taken from ground level.",
+          "Do not climb onto the roof to document a request. A5 does not provide emergency dispatch."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request roofing",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000003",
+    "slug": "house-cleaning",
+    "page_type": "SERVICE",
+    "title": "House Cleaning in Northern New Jersey",
+    "meta_title": "House Cleaning in Northern NJ | A5 Home Services",
+    "meta_description": "Regular cleaning, a deeper refresh or help before a move. Share the rooms and priorities so A5 can review your request for a cleaning professional.",
+    "h1": "House Cleaning in Northern New Jersey",
+    "primary_service_id": "house-cleaning",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request house cleaning through A5?",
+    "direct_answer": "Regular cleaning, a deeper refresh or help before a move. Share the rooms and priorities so A5 can review your request for a cleaning professional. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Regular cleaning, a deeper refresh or help before a move. Share the rooms and priorities so A5 can review your request for a cleaning professional."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Define what a good clean includes",
+        "paragraphs": [
+          "Start with the rooms you want included and the tasks that matter most. Kitchens, bathrooms, floors and dusting may be packaged differently by each provider; confirm the task list before booking.",
+          "Mention pets, access instructions, product preferences and surfaces that require particular care. Ask whether supplies are included and whether anyone needs to be home for the visit.",
+          "For a move, clarify whether the property will be empty and whether cabinets, appliances and interior windows are part of the scope. For recurring visits, agree on frequency, changes and cancellation terms directly."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Tell us the home size, number of bathrooms, preferred frequency and areas needing extra attention.",
+          "Specialist remediation, hazardous materials and pest cleanup require separate assessment."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request house cleaning",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000004",
+    "slug": "gutters",
+    "page_type": "SERVICE",
+    "title": "Gutter Services in Northern New Jersey",
+    "meta_title": "Gutter Services in Northern NJ | A5 Home Services",
+    "meta_description": "Gutter cleaning, repairs and replacement requests for independent local providers in the A5 network.",
+    "h1": "Gutter Services in Northern New Jersey",
+    "primary_service_id": "gutters",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request gutter services through A5?",
+    "direct_answer": "Gutter cleaning, repairs and replacement requests for independent local providers in the A5 network. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Gutter cleaning, repairs and replacement requests for independent local providers in the A5 network."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Separate cleaning from repairs",
+        "paragraphs": [
+          "Tell the provider where you see overflow, dripping joints or a disconnected downspout. Include whether the issue is new, seasonal or recurring. A visit may identify more than one task, so ask for cleaning and repair items to be explained separately.",
+          "For a cleaning request, confirm whether downspouts, debris removal and cleanup are included. Mention gutter guards or other covers because they can affect access and the work required.",
+          "For replacement, discuss the sections involved, materials, appearance and where downspouts discharge. If water is collecting in the yard, describe that separately so the provider can explain the limits of the gutter work."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Describe the number of stories, visible overflow and any hard-to-reach sections.",
+          "Take photos from the ground. Roof access and ladder work belong with an appropriately equipped provider."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request gutter services",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000005",
+    "slug": "pest-control",
+    "page_type": "SERVICE",
+    "title": "Pest Control in Northern New Jersey",
+    "meta_title": "Pest Control in Northern NJ | A5 Home Services",
+    "meta_description": "Describe the activity and where it is happening. A5 reviews your request for an independent pest control professional.",
+    "h1": "Pest Control in Northern New Jersey",
+    "primary_service_id": "pest-control",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request pest control through A5?",
+    "direct_answer": "Describe the activity and where it is happening. A5 reviews your request for an independent pest control professional. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Describe the activity and where it is happening. A5 reviews your request for an independent pest control professional."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Start with observations, not a diagnosis",
+        "paragraphs": [
+          "Describe the signs you have noticed and how often they occur. Clear photos taken safely can help the first conversation, but the provider may need an inspection before identifying the issue or giving a treatment estimate.",
+          "Mention children, pets, food storage areas and any treatment already attempted. Ask the provider about preparation, access restrictions and instructions that apply to the proposed work.",
+          "Clarify whether the quote is for an inspection, a single treatment or a recurring plan. Ask how follow-up visits work, what is included and which exclusions apply. Scheduling and service terms are agreed directly with the provider."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Share what you have seen, the rooms or outdoor areas involved, and when the activity began.",
+          "The provider identifies the pest and recommends treatment. Do not handle unknown pests or disturb a nest to collect photos."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request pest control",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000006",
+    "slug": "junk-removal",
+    "page_type": "SERVICE",
+    "title": "Junk Removal in Northern New Jersey",
+    "meta_title": "Junk Removal in Northern NJ | A5 Home Services",
+    "meta_description": "Furniture, household clutter and cleanout requests. Tell A5 what needs to go so we can review the job for a removal provider.",
+    "h1": "Junk Removal in Northern New Jersey",
+    "primary_service_id": "junk-removal",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request junk removal through A5?",
+    "direct_answer": "Furniture, household clutter and cleanout requests. Tell A5 what needs to go so we can review the job for a removal provider. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Furniture, household clutter and cleanout requests. Tell A5 what needs to go so we can review the job for a removal provider."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Show the load and the route out",
+        "paragraphs": [
+          "Wide photos and an item list make the request easier to assess. Include large or heavy items and say whether they need to be dismantled. Mention stairs, elevators, narrow doors and the distance to the loading area.",
+          "Ask how the provider calculates the price and what could change it on arrival. Confirm labor, transport, disposal and any minimum charge before authorizing the work.",
+          "Keep anything you want to retain clearly separate. Ask which materials the provider accepts and whether donation or recycling is available for the particular items; do not assume every load can be handled the same way."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "List the items, approximate quantity, stairs and parking or loading restrictions.",
+          "Accepted materials vary by provider. Identify chemicals, paint, batteries and other unusual items before arranging pickup."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request junk removal",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000007",
+    "slug": "tree-services",
+    "page_type": "SERVICE",
+    "title": "Tree Services in Northern New Jersey",
+    "meta_title": "Tree Services in Northern NJ | A5 Home Services",
+    "meta_description": "Pruning, removal and stump work requests, reviewed for an independent tree service professional.",
+    "h1": "Tree Services in Northern New Jersey",
+    "primary_service_id": "tree-services",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request tree services through A5?",
+    "direct_answer": "Pruning, removal and stump work requests, reviewed for an independent tree service professional. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Pruning, removal and stump work requests, reviewed for an independent tree service professional."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Describe the tree and the surrounding space",
+        "paragraphs": [
+          "Tell the provider why you are requesting work: clearance, visible damage, a fallen tree or a change you have noticed. Include the approximate size if known and whether the tree can be reached from the driveway or street.",
+          "Ask which tasks are included in the estimate. Removal, stump work, hauling and final cleanup may be separate items. Discuss how equipment will access the property and how nearby surfaces will be protected.",
+          "Before agreeing to work, confirm responsibility for any required local permissions and whether the proposed scope addresses your concern. The provider should explain the approach and any limits after assessing the site."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Describe the tree location, access and nearby buildings or utilities. Photos from a safe distance are useful.",
+          "Keep clear of hanging limbs and downed lines. Immediate hazards require the appropriate emergency service or utility."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request tree services",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  },
+  {
+    "id": "81000000-0000-4000-8000-000000000008",
+    "slug": "appliance-repair",
+    "page_type": "SERVICE",
+    "title": "Appliance Repair in Northern New Jersey",
+    "meta_title": "Appliance Repair in Northern NJ | A5 Home Services",
+    "meta_description": "Describe the appliance and the symptoms. A5 reviews your request for a repair professional who can discuss the brand, issue and visit.",
+    "h1": "Appliance Repair in Northern New Jersey",
+    "primary_service_id": "appliance-repair",
+    "primary_location_id": null,
+    "primary_problem_id": null,
+    "primary_question": "How do I request appliance repair through A5?",
+    "direct_answer": "Describe the appliance and the symptoms. A5 reviews your request for a repair professional who can discuss the brand, issue and visit. You discuss the scope, price and scheduling directly with the provider.",
+    "sections": [
+      {
+        "type": "INTRO",
+        "body": "Describe the appliance and the symptoms. A5 reviews your request for a repair professional who can discuss the brand, issue and visit."
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Match the request to the appliance",
+        "paragraphs": [
+          "A model number and a clear description help a repair provider decide whether the appliance is within their scope. Mention its approximate age, prior repairs and whether the issue is constant or intermittent.",
+          "Ask about the diagnostic visit charge, whether it is credited toward an approved repair, and how parts and labor will be quoted. A final repair recommendation may depend on inspection and parts availability.",
+          "If the appliance may be covered by a manufacturer or service agreement, check that process before commissioning work. For a replacement decision, compare the written repair estimate with your plans for the appliance rather than assuming every fault needs replacement."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "What to include in your request",
+        "paragraphs": [
+          "Include the brand, model number if accessible, error code and what happens when you try to use it.",
+          "Brand and appliance coverage vary. Do not disassemble equipment to prepare a request."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Your introduction through A5",
+        "paragraphs": [
+          "A5 is a home services network. We review your project and location and offer the opportunity to a relevant independent provider. After the introduction is accepted, the provider can review your request and contact you.",
+          "Sending a request does not book an appointment or guarantee a match. You choose whether to proceed after discussing the estimate, timing and terms directly with the provider."
+        ]
+      },
+      {
+        "type": "CTA",
+        "title": "Request appliance repair",
+        "description": "Tell us about your home and what you need. A5 helps you start the right conversation.",
+        "primaryLabel": "Start your request"
+      }
+    ],
+    "status": "PUBLISHED",
+    "indexable": true,
+    "ai_assisted": true,
+    "created_by": "a5-owner-authorized-service-expansion",
+    "reviewed_by": "A5 owner-authorized editorial review",
+    "last_reviewed_at": "2026-10-08T00:00:00Z",
+    "cost_methodology": null,
+    "cost_geography": null,
+    "public_project_approved": false
+  }
+]

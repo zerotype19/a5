@@ -1,0 +1,91 @@
+{
+  "checkedAt": "2026-10-08T03:50:47.328Z",
+  "realVendors": 136,
+  "emailAssignable": 111,
+  "pairs": 3616,
+  "belowEight": 1808,
+  "eightToNine": 426,
+  "tenOrMore": 1382,
+  "services": [
+    {
+      "service": "handyman",
+      "minimum": 8,
+      "belowEight": 0
+    },
+    {
+      "service": "masonry",
+      "minimum": 11,
+      "belowEight": 0
+    },
+    {
+      "service": "landscaping",
+      "minimum": 9,
+      "belowEight": 0
+    },
+    {
+      "service": "painting",
+      "minimum": 11,
+      "belowEight": 0
+    },
+    {
+      "service": "drywall",
+      "minimum": 9,
+      "belowEight": 0
+    },
+    {
+      "service": "tile",
+      "minimum": 10,
+      "belowEight": 0
+    },
+    {
+      "service": "plumbing",
+      "minimum": 9,
+      "belowEight": 0
+    },
+    {
+      "service": "electrical",
+      "minimum": 8,
+      "belowEight": 0
+    },
+    {
+      "service": "hvac",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "roofing",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "house-cleaning",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "gutters",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "pest-control",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "junk-removal",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "tree-services",
+      "minimum": 0,
+      "belowEight": 226
+    },
+    {
+      "service": "appliance-repair",
+      "minimum": 0,
+      "belowEight": 226
+    }
+  ]
+}

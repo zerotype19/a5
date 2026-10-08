@@ -1,0 +1,1294 @@
+[
+  {
+    "business_name": "24/7 Home Pro",
+    "website": "https://www.247homepro.com/",
+    "email": "Info@247HomePro.com",
+    "services": [
+      "handyman"
+    ],
+    "counties": [
+      "union",
+      "morris",
+      "essex",
+      "bergen",
+      "passaic",
+      "hudson"
+    ],
+    "phone": "877-444-0247",
+    "source_urls": [
+      "https://www.247homepro.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Ignore unrelated info@mysite.com template placeholder; use published business contact. House cleaning scope retained for later service addition."
+  },
+  {
+    "business_name": "East Coast Residential LLC",
+    "website": "https://www.eastcoastresidentialnj.com/",
+    "email": "eastcoastresidential@gmail.com",
+    "services": [
+      "handyman",
+      "drywall"
+    ],
+    "counties": [
+      "union"
+    ],
+    "phone": "908-845-3090",
+    "source_urls": [
+      "https://www.eastcoastresidentialnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Roofing and gutter services advertised; map when categories approved."
+  },
+  {
+    "business_name": "Painting New Jersey",
+    "website": "https://paintingnewjersey.com/home",
+    "email": "jeffbaker@paintingnewjersey.com",
+    "services": [
+      "painting"
+    ],
+    "counties": [
+      "morris",
+      "warren",
+      "sussex",
+      "bergen",
+      "essex",
+      "passaic"
+    ],
+    "phone": "973-691-9213",
+    "source_urls": [
+      "https://paintingnewjersey.com/home"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Iaione Contracting",
+    "website": "https://iaionecontracting.com/pages/contact-us",
+    "email": "iaionecontracting@gmail.com",
+    "services": [
+      "masonry",
+      "tile"
+    ],
+    "counties": [
+      "morris",
+      "warren",
+      "sussex"
+    ],
+    "phone": "908-894-2555",
+    "source_urls": [
+      "https://iaionecontracting.com/pages/contact-us"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "C. Vanblarcom Mason Contractor LLC",
+    "website": "https://www.cvbmasonry.com/",
+    "email": "concreteworks2000@yahoo.com",
+    "services": [
+      "masonry"
+    ],
+    "counties": [
+      "sussex",
+      "morris",
+      "warren",
+      "bergen",
+      "passaic"
+    ],
+    "phone": "973-600-3496",
+    "source_urls": [
+      "https://www.cvbmasonry.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "WolvesBros",
+    "website": "https://www.wolvesbros.com/",
+    "email": "Info@wolvesbros.com",
+    "services": [
+      "handyman"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "phone": "862-357-0147",
+    "source_urls": [
+      "https://www.wolvesbros.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Blueprint Construction Services",
+    "website": "https://www.blueprintconstructionservice.com/services",
+    "email": "contact@blueprintconstructionservice.com",
+    "services": [
+      "masonry"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren",
+      "essex",
+      "union"
+    ],
+    "phone": "973-945-1219",
+    "source_urls": [
+      "https://www.blueprintconstructionservice.com/services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Site displays contact@ address with different linked Gmail address; preserve alternate in source evidence for operator. No commercial-only snow mapping."
+  },
+  {
+    "business_name": "First Call NJ Plumbing Heating & Cooling",
+    "website": "https://jerseyhvacplumbing.com/",
+    "email": "cityservicegroupnj@gmail.com",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "973-604-8922",
+    "source_urls": [
+      "https://jerseyhvacplumbing.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Shared email/address with On Call NJ, Right Now NJ and On Time NJ; count once, not four businesses. Heating/cooling advertised for future category."
+  },
+  {
+    "business_name": "Courtyard Home Improvements",
+    "website": "https://courtyardhomeimprovement.com/",
+    "email": "courtyardsolutions.co@gmail.com",
+    "services": [
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "973-489-3642",
+    "source_urls": [
+      "https://courtyardhomeimprovement.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit whole-state scope. Roofing advertised for future category."
+  },
+  {
+    "business_name": "PTL Home Renovations",
+    "website": "https://www.ptlhomerenovations.com/",
+    "email": "Ptlhomerenovations@gmail.com",
+    "services": [
+      "plumbing",
+      "tile",
+      "drywall",
+      "painting"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "862-260-7893",
+    "source_urls": [
+      "https://www.ptlhomerenovations.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit servicing all New Jersey; scope includes specified plumbing repairs, drywall, tile and painting. Credential claims unverified."
+  },
+  {
+    "business_name": "Abbys Masonry Corp",
+    "website": "https://abbysmasonrycorp.com/contact-us/",
+    "email": "abbysmasonrynj@gmail.com",
+    "services": [
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "862-279-4620",
+    "source_urls": [
+      "https://abbysmasonrycorp.com/contact-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "A&E Exteriors LLC",
+    "website": "https://www.aeexteriorsnj.com/services",
+    "email": "aeexteriorsnj@gmail.com",
+    "services": [
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "732-956-0411",
+    "source_urls": [
+      "https://www.aeexteriorsnj.com/services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "All21 counties explicitly advertised; roofing/gutters advertised for future categories."
+  },
+  {
+    "business_name": "Perfect Measure Construction LLC",
+    "website": "https://perfectmeasureconstruction.com/",
+    "email": "measureperfect@gmail.com",
+    "services": [
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "201-344-7605",
+    "source_urls": [
+      "https://perfectmeasureconstruction.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "FAQ explicitly all New Jersey; most work Bergen/Passaic/Hudson/Essex. Roofing advertised for future category."
+  },
+  {
+    "business_name": "Woodbine Exteriors",
+    "website": "https://woodbineexteriors.com/",
+    "email": "Woodbine.contractors@gmail.com",
+    "services": [
+      "masonry",
+      "landscaping"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "973-609-2700",
+    "source_urls": [
+      "https://woodbineexteriors.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Landscaping scope is landscape architecture/design, not inferred routine lawn mowing. Roofing advertised for future category."
+  },
+  {
+    "business_name": "MJS Painting & Epoxy",
+    "website": "https://www.mjspaintingnj.com/",
+    "email": "mjspaintingnj@gmail.com",
+    "services": [
+      "painting"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "862-427-0053",
+    "source_urls": [
+      "https://www.mjspaintingnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Lebanon Landscaping LLC",
+    "website": "https://lebanonlandscapingllc.com/",
+    "email": "contact@lebanonlandscapingllc.com",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "warren"
+    ],
+    "phone": "908-303-0611",
+    "source_urls": [
+      "https://lebanonlandscapingllc.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Tarazona Lawn Care",
+    "website": "https://www.tarazonalawncare.com/",
+    "email": "TARAZONALAWNCARE@GMAIL.COM",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "warren"
+    ],
+    "phone": "908-887-0135",
+    "source_urls": [
+      "https://www.tarazonalawncare.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "America JMC Contractor LLC",
+    "website": "https://www.americajmccontractorllc.com/paintingnj",
+    "email": "services@americajmccontractorllc.com",
+    "services": [
+      "painting"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "732-799-0887",
+    "source_urls": [
+      "https://www.americajmccontractorllc.com/paintingnj"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Valence Electric LLC",
+    "website": "https://valenceelectricnj.com/",
+    "email": "chris@valenceNJelectric.com",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "732-618-0589",
+    "source_urls": [
+      "https://valenceelectricnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Hidden Leaf Landscaping",
+    "website": "https://hiddenleaflandscaping.com/home-2/contact-us/",
+    "email": "Hiddenleaflawncare@gmail.com",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "warren"
+    ],
+    "phone": "908-441-8696",
+    "source_urls": [
+      "https://hiddenleaflandscaping.com/home-2/contact-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Outside Warren county mentions individual places; do not infer all Morris county."
+  },
+  {
+    "business_name": "CJM Electric",
+    "website": "https://www.cjmelectric.com/",
+    "email": "CJM153@Gmail.com",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "908-892-5804",
+    "source_urls": [
+      "https://www.cjmelectric.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit work in all areas of NJ; regular service Hunterdon/Somerset/Union; longer distance scheduling unconfirmed."
+  },
+  {
+    "business_name": "Affordable Home Renovations",
+    "website": "https://www.affordablerenos.com/",
+    "email": "questions@affordablerenos.com",
+    "services": [
+      "handyman",
+      "drywall",
+      "painting",
+      "tile"
+    ],
+    "counties": [
+      "morris",
+      "warren"
+    ],
+    "phone": "516-807-3284",
+    "source_urls": [
+      "https://www.affordablerenos.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Count only explicit counties within registry; most central/north NJ not expanded."
+  },
+  {
+    "business_name": "Kobe's Drywall LLC",
+    "website": "https://kobesdrywall-nj.com/",
+    "email": "contact@kobesdrywall-nj.com",
+    "services": [
+      "drywall",
+      "painting",
+      "tile"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "973-980-3476",
+    "source_urls": [
+      "https://kobesdrywall-nj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "HomeFix Solutions LLC",
+    "website": "https://homefixsolutionsllc.com/book",
+    "email": "info@homefixsolutionsllc.com",
+    "services": [
+      "painting",
+      "drywall",
+      "tile"
+    ],
+    "counties": [
+      "bergen",
+      "passaic",
+      "essex",
+      "morris",
+      "hudson",
+      "sussex"
+    ],
+    "phone": "201-937-9542",
+    "source_urls": [
+      "https://homefixsolutionsllc.com/book"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Lexington Bath & Tile LLC",
+    "website": "https://lexingtonbathandtile.com/contact",
+    "email": "LexingtonBathandTile@gmail.com",
+    "services": [
+      "tile"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "908-381-4990",
+    "source_urls": [
+      "https://lexingtonbathandtile.com/contact"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Page explicitly states all21 counties; core focus Somerset/Hunterdon/Mercer/Union. Ignore www. prefixed conflicting email string; footer and CTA agree on selected email."
+  },
+  {
+    "business_name": "Ortu Plumbing",
+    "website": "https://www.ortuplumbing.com/",
+    "email": "service@ortuplumbing.com",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "phone": "201-486-5864",
+    "source_urls": [
+      "https://www.ortuplumbing.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "JWG Electric",
+    "website": "https://jwgelectric.com/",
+    "email": "info@jwgelectric.com",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "warren",
+      "morris",
+      "sussex"
+    ],
+    "phone": "908-441-2956",
+    "source_urls": [
+      "https://jwgelectric.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Houle Technology Handyman",
+    "website": "https://www.houlellc.com/",
+    "email": "houletechnologyhandyman@gmail.com",
+    "services": [
+      "handyman"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "phone": "973-739-8099",
+    "source_urls": [
+      "https://www.houlellc.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Technology installation/mounting focus; do not imply all handyman job types."
+  },
+  {
+    "business_name": "BDP Plumbing & Heating",
+    "website": "https://www.bdpplumbing.com/plumbing-and-heating-services-in-morris-sussex-warren-somerset-counties-nj",
+    "email": "biancodiamondplumbing@yahoo.com",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "morris",
+      "sussex",
+      "warren"
+    ],
+    "phone": "973-584-8485",
+    "source_urls": [
+      "https://www.bdpplumbing.com/plumbing-and-heating-services-in-morris-sussex-warren-somerset-counties-nj"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Esposito's Electric",
+    "website": "https://www.espositoelectric.com/contact-us/",
+    "email": "info@espositoelectric.com",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "973-366-9902",
+    "source_urls": [
+      "https://www.espositoelectric.com/contact-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Colabelli Landscape Contractors",
+    "website": "https://www.colabellilandscape.com/",
+    "email": "Capitallandcontractor@gmail.com",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "732-446-0060",
+    "source_urls": [
+      "https://www.colabellilandscape.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Scope includes landscape design/renovation, plantings and pavers, not inferred routine mowing."
+  },
+  {
+    "business_name": "MOJC General Contractor LLC",
+    "website": "https://www.mojcbuilds.com/service-handyman.html",
+    "email": "mojchandyman@gmail.com",
+    "services": [
+      "handyman",
+      "drywall"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "551-204-7833",
+    "source_urls": [
+      "https://www.mojcbuilds.com/service-handyman.html"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Drywall patching explicit; other31 advertised services require separate evidence before mapping."
+  },
+  {
+    "business_name": "Elephant Landscaping",
+    "website": "https://elephantlandscaping.com/",
+    "email": "landscapingelephant@gmail.com",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "908-240-6572",
+    "source_urls": [
+      "https://elephantlandscaping.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Run N Fix Handyman Services LLC",
+    "website": "https://runnfixhandymanservices.com/",
+    "email": "runnfixhandyman@gmail.com",
+    "services": [
+      "handyman",
+      "drywall",
+      "painting"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "908-549-7363",
+    "source_urls": [
+      "https://runnfixhandymanservices.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Minor fixture mentions not mapped as specialist electrical/plumbing categories."
+  },
+  {
+    "business_name": "All Day and Night Services",
+    "website": "https://alldayandnightservices.com/contact/",
+    "email": "Alldayandnight.services@gmail.com",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "passaic",
+      "bergen",
+      "hudson",
+      "essex"
+    ],
+    "phone": "973-652-2424",
+    "source_urls": [
+      "https://alldayandnightservices.com/contact/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Stamp Plumbing NJ",
+    "website": "https://www.stampplumbingnj.com/contact",
+    "email": "stampplumbingnj@gmail.com",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "hudson",
+      "bergen",
+      "essex",
+      "passaic",
+      "morris",
+      "union"
+    ],
+    "phone": "862-333-9396",
+    "source_urls": [
+      "https://www.stampplumbingnj.com/contact"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Home Services Plus LLC",
+    "website": "https://homeservicesplusllc.com/about/",
+    "email": "homeservicesplusllc@gmail.com",
+    "services": [
+      "handyman"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "phone": "609-853-0377",
+    "source_urls": [
+      "https://homeservicesplusllc.com/about/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Site states willing to travel and no NJ job too far, not inferred from statewide licensing alone."
+  },
+  {
+    "business_name": "New Era Plumbing Services",
+    "website": "https://www.neweraplumbingnj.com/contact",
+    "email": "info@neweraplumbingnj.com",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "bergen",
+      "passaic",
+      "essex",
+      "hudson",
+      "morris"
+    ],
+    "phone": "201-856-2761",
+    "source_urls": [
+      "https://www.neweraplumbingnj.com/contact"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": ""
+  },
+  {
+    "business_name": "Emtech Electric LLC",
+    "website": "https://www.emtechelectricnj.com/",
+    "email": "moishe@emtechelectricnj.com",
+    "phone": "732-534-7131",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.emtechelectricnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Statewide residential electrical; focus on new construction and renovations."
+  },
+  {
+    "business_name": "Royal Tech Electric",
+    "website": "https://www.royaltechelectric.com/services",
+    "email": "njroyaltech@gmail.com",
+    "phone": "862-264-3898",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "morris",
+      "union",
+      "hudson",
+      "essex",
+      "passaic"
+    ],
+    "source_urls": [
+      "https://www.royaltechelectric.com/services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Six counties explicitly listed for residential electrical."
+  },
+  {
+    "business_name": "Fahey Electrical Contracting",
+    "website": "https://www.faheyelectrical.com/",
+    "email": "seanfahey444@gmail.com",
+    "phone": "732-684-8379",
+    "services": [
+      "electrical"
+    ],
+    "counties": [
+      "sussex",
+      "passaic",
+      "bergen",
+      "warren",
+      "morris",
+      "essex",
+      "union"
+    ],
+    "source_urls": [
+      "https://www.faheyelectrical.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Seven registry counties explicitly named; no Hudson mapping."
+  },
+  {
+    "business_name": "USA Flooring LLC",
+    "website": "https://usaflooringnj.com/",
+    "email": "usaflooringnj@gmail.com",
+    "phone": "732-713-1035",
+    "services": [
+      "tile"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://usaflooringnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey residential ceramic tile installation."
+  },
+  {
+    "business_name": "Fine Landscapes LLC",
+    "website": "https://finelandscapesllc.com/contact-blairstown-landscaping/",
+    "email": "Finelandscapesllc@gmail.com",
+    "phone": "908-878-8553",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "warren",
+      "morris",
+      "sussex"
+    ],
+    "source_urls": [
+      "https://finelandscapesllc.com/contact-blairstown-landscaping/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Residential landscape design, lawn care and seasonal cleanup throughout three named counties."
+  },
+  {
+    "business_name": "T & J Famularo Landscape & Design",
+    "website": "https://tjfamularolandscaping.com/contact.php",
+    "email": "TJfamularo@optonline.net",
+    "phone": "973-838-2206",
+    "services": [
+      "landscaping",
+      "masonry"
+    ],
+    "counties": [
+      "morris",
+      "passaic",
+      "bergen",
+      "sussex",
+      "essex"
+    ],
+    "source_urls": [
+      "https://tjfamularolandscaping.com/contact.php"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "County service scope in page title; landscape design and stone masonry explicitly advertised."
+  },
+  {
+    "business_name": "Landscaping by Craig Inc.",
+    "website": "https://landscapingbycraig.com/about-us/",
+    "email": "landscapingbycraig@comcast.net",
+    "phone": "732-254-5423",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "essex",
+      "morris",
+      "union"
+    ],
+    "source_urls": [
+      "https://landscapingbycraig.com/about-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Landscape design and construction, not routine lawn mowing; three registry counties named."
+  },
+  {
+    "business_name": "Luciano Landscaping LLC and Construction",
+    "website": "https://www.lucianolandscaping.net/",
+    "email": "lucianoordon04@gmail.com",
+    "phone": "201-376-3120",
+    "services": [
+      "landscaping",
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "hudson"
+    ],
+    "source_urls": [
+      "https://www.lucianolandscaping.net/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit Bergen and Hudson counties; landscape, pavers and retaining walls."
+  },
+  {
+    "business_name": "Tropical Tiles of NJ",
+    "website": "https://tropicaltilesnj.com/about-us/",
+    "email": "timmy@tropicaltilesnj.com",
+    "phone": "917-501-0549",
+    "services": [
+      "tile"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://tropicaltilesnj.com/about-us/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey service heading; residential tile installation and repair."
+  },
+  {
+    "business_name": "MJC Construction & Repairs LLC",
+    "website": "https://mjcconstructionsllc.com/kitchen-bathroom-remodeling/",
+    "email": "caguanamanuel18687@gmail.com",
+    "phone": "973-819-1407",
+    "services": [
+      "tile",
+      "masonry",
+      "painting"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://mjcconstructionsllc.com/kitchen-bathroom-remodeling/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Statewide remodeling, tile, masonry and painting advertised; roofing and gutters retained for category expansion. No specialist plumbing/electrical inferred from remodel fixture work."
+  },
+  {
+    "business_name": "Under Pressure Plumbing",
+    "website": "https://www.under-pressure-plumbing.com/",
+    "email": "underpressureplumbingNJ@gmail.com",
+    "phone": "609-709-0580",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.under-pressure-plumbing.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit statewide full-service residential plumbing; water heater specialist."
+  },
+  {
+    "business_name": "Trent Plumbing Heating & Cooling",
+    "website": "https://www.trentplumbingnj.com/about",
+    "email": "njtrent13@gmail.com",
+    "phone": "973-766-3356",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.trentplumbingnj.com/about"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey service from Totowa; HVAC service retained for category rollout."
+  },
+  {
+    "business_name": "Continental Plumbers",
+    "website": "https://www.continentalplumbers.com/drain-repair-services",
+    "email": "continentalplumbers@gmail.com",
+    "phone": "973-900-0430",
+    "services": [
+      "plumbing"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.continentalplumbers.com/drain-repair-services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Residential drain cleaning statewide; specialist drain scope."
+  },
+  {
+    "business_name": "R.O.N.I. Renovations and Exteriors Inc.",
+    "website": "https://ronirenovation.com/handyman-services",
+    "email": "info@ronirenovations.com",
+    "phone": "862-228-3880",
+    "services": [
+      "handyman",
+      "masonry"
+    ],
+    "counties": [
+      "sussex",
+      "passaic",
+      "bergen",
+      "warren",
+      "morris",
+      "essex",
+      "hudson"
+    ],
+    "source_urls": [
+      "https://ronirenovation.com/handyman-services"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Seven registry counties explicitly in footer; handyman and masonry advertised. No Union mapping."
+  },
+  {
+    "business_name": "Nailed It Brothers",
+    "website": "https://naileditbrothers.com/contact/",
+    "email": "info@naileditbrothers.com",
+    "phone": "908-661-1566",
+    "services": [
+      "drywall",
+      "painting",
+      "tile",
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://naileditbrothers.com/contact/",
+      "https://naileditbrothers.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Contact page explicitly all NJ; homepage details sheetrock, painting, tile and masonry. Roofing retained for rollout."
+  },
+  {
+    "business_name": "First Call Contracting",
+    "website": "https://firstcallcontractingnj.com/handyman-and-small-jobs-nj",
+    "email": "info@firstcallcontractingnj.com",
+    "phone": "201-676-3099",
+    "services": [
+      "handyman",
+      "drywall",
+      "painting",
+      "tile",
+      "plumbing",
+      "electrical"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://firstcallcontractingnj.com/handyman-and-small-jobs-nj"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all 21 counties; handyman repair scope plus dedicated plumbing and electrical divisions. Distinct from City Service Group brand First Call NJ; contact/domain/phone must remain deduplicated. HVAC, roofing and gutters advertised for later mapping."
+  },
+  {
+    "business_name": "Monello Landscape Industries",
+    "website": "https://monellolandscape.com/",
+    "email": "office@monellolandscape.com",
+    "phone": "973-947-8442",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://monellolandscape.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all counties residential and commercial landscaping."
+  },
+  {
+    "business_name": "A&S Landscaping",
+    "website": "https://www.aslandscapingnj.com/contact",
+    "email": "info@aslandscaping.com",
+    "phone": "732-719-4320",
+    "services": [
+      "landscaping",
+      "masonry"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://www.aslandscapingnj.com/contact",
+      "https://www.aslandscapingnj.com/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Statewide hardscaping and planting/garden projects ONLY. Routine maintenance and cleanup restricted to Ocean and Monmouth; do not route North Jersey lawn mowing. Source https://www.aslandscapingnj.com/"
+  },
+  {
+    "business_name": "New Jersey Best Lawns Sprinklers & Fencing",
+    "website": "https://njlawn.com/contact/",
+    "email": "sales@njbestllc.com",
+    "phone": "888-655-2967",
+    "services": [
+      "landscaping"
+    ],
+    "counties": [
+      "bergen",
+      "essex",
+      "hudson",
+      "morris",
+      "passaic",
+      "sussex",
+      "union",
+      "warren"
+    ],
+    "source_urls": [
+      "https://njlawn.com/contact/"
+    ],
+    "observed_date": "2026-10-08",
+    "notes": "Explicit all-New-Jersey lawn services; alternate published address info@njlawn.com."
+  }
+]
