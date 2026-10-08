@@ -10,6 +10,8 @@ Before any substantive work:
 
 Implement only the approved task. Prefer fewer dependencies. Do not deploy production.
 
+For location or geographic service expansion, follow `docs/expansion/LOCATION-EXPANSION-PLAYBOOK.md`, create an expansion brief and coverage matrix, and report directory publication separately from verified fulfillment readiness. Honor existing owner authorization; the playbook does not authorize outreach, vendor activation or spending by itself.
+
 After implementation: run tests, typecheck, lint, and build; summarize files changed, migrations, dependencies, risks, and whether anything outside scope changed.
 
 <!-- BEGIN:nextjs-agent-rules -->
