@@ -1,0 +1,235 @@
+{
+  "sha256": "1a9684468cd8a944a257dafb02ec0e029105ca7178a33d07c256fbc2640ba7ef",
+  "pages": [
+    {
+      "id": "e8fc8eb6-3155-40e6-8bef-dc9f7dc3bf4b",
+      "path": "/home-services/paramus",
+      "newlyIndexable": true,
+      "purpose": "Distinguish Borough-tree questions from private yard work",
+      "sourceClaims": [
+        {
+          "title": "Paramus Trees",
+          "url": "https://www.paramusborough.gov/507/Paramus-Trees",
+          "publisher": "Borough of Paramus",
+          "supports": "Borough-tree assessment/removal process and Shade Tree & Parks contact; no private-tree exemption asserted."
+        }
+      ]
+    },
+    {
+      "id": "2a12eb6e-3dc8-4479-8564-3e58f47bdece",
+      "path": "/home-services/bloomfield",
+      "newlyIndexable": true,
+      "purpose": "Choose municipal disposal or private removal before a room refresh",
+      "sourceClaims": [
+        {
+          "title": "Bloomfield Garbage & Recycling",
+          "url": "https://www.bloomfieldtwpnj.com/264/Recycling-Garbage",
+          "publisher": "Township of Bloomfield",
+          "supports": "Municipal bulky-item guidance expressly excludes appliances/electronics; verify current limits and collection details."
+        }
+      ]
+    },
+    {
+      "id": "c78f4931-a246-4e13-8cea-798d63283df1",
+      "path": "/home-services/hoboken",
+      "newlyIndexable": true,
+      "purpose": "Plan essential repairs and distinguish private work from assistance applications",
+      "sourceClaims": [
+        {
+          "title": "Hoboken Home Improvement Program",
+          "url": "https://www.hobokennj.gov/resources/hoboken-home-improvement-program",
+          "publisher": "City of Hoboken",
+          "supports": "Existence and separate eligibility/application process for municipal home improvement assistance; no funding amount or approval promise."
+        }
+      ]
+    },
+    {
+      "id": "b0effd79-5a30-4045-808b-779602df9211",
+      "path": "/home-services/randolph",
+      "newlyIndexable": true,
+      "purpose": "Sequence tree, planting and site work with local planning resources",
+      "sourceClaims": [
+        {
+          "title": "Randolph Planning / Zoning",
+          "url": "https://www.randolphnj.org/397/Planning-Zoning",
+          "publisher": "Township of Randolph",
+          "supports": "Division administers tree protection/replacement and zoning review; no project-specific legal determination."
+        }
+      ]
+    },
+    {
+      "id": "6a0f3712-7ff5-44b0-8862-788e095532cf",
+      "path": "/home-services/clifton",
+      "newlyIndexable": true,
+      "purpose": "Coordinate appliance replacement, removal and surrounding repairs",
+      "sourceClaims": [
+        {
+          "title": "Clifton Rules for the Collection of Garbage",
+          "url": "https://www.cliftonnj.org/190/Rules-for-the-Collection-of-Garbage",
+          "publisher": "City of Clifton",
+          "supports": "Electronic items excluded from garbage and separate recycling routes; no blanket appliance collection claim."
+        }
+      ]
+    },
+    {
+      "id": "d286da57-d928-4a74-8330-ed294c0cc09f",
+      "path": "/home-services/cranford",
+      "newlyIndexable": true,
+      "purpose": "Separate water-entry assessment, drainage work and finish restoration",
+      "sourceClaims": [
+        {
+          "title": "Cranford Storm Management",
+          "url": "https://www.cranfordnj.org/2055/Storm-Management",
+          "publisher": "Township of Cranford",
+          "supports": "Official preparation, response and recovery resource; no property-specific flood-risk claim."
+        }
+      ]
+    },
+    {
+      "id": "d126ee35-b0f7-4b3c-8e9c-7417a53384f3",
+      "path": "/home-services/newton",
+      "newlyIndexable": true,
+      "purpose": "Navigate shared construction services while planning staged repairs",
+      "sourceClaims": [
+        {
+          "title": "Newton Construction",
+          "url": "https://www.newtontownhall.com/62/Construction",
+          "publisher": "Town of Newton",
+          "supports": "Shared construction service with Hardyston and official online permitting/inspection resource. The Town page expressly names State of New Jersey and Town of Newton codes; Newton jurisdiction retained."
+        }
+      ]
+    },
+    {
+      "id": "11abfd9b-1398-45c3-8a54-4383ba7a2bfe",
+      "path": "/home-services/hackettstown",
+      "newlyIndexable": true,
+      "purpose": "Use project-specific construction guides to define multi-trade work",
+      "sourceClaims": [
+        {
+          "title": "Hackettstown Construction",
+          "url": "https://www.hackettstown.net/176/Construction",
+          "publisher": "Town of Hackettstown",
+          "supports": "Project-specific guides, forms, inspection information and permit-record portal; no blanket permit claim."
+        }
+      ]
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000003",
+      "path": "/madison/masonry",
+      "newlyIndexable": false,
+      "purpose": "Appears in discovered-not-indexed report; separate brick-step repair intent from the regional masonry hub.",
+      "sourceClaims": [
+        {
+          "id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+          "title": "Madison Building & Construction Department",
+          "url": "https://www.rosenet.org/153/Building-Construction-Department",
+          "publisher": "Borough of Madison",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        }
+      ]
+    },
+    {
+      "id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "path": "/florham-park/handyman",
+      "newlyIndexable": false,
+      "purpose": "Supports the Florham Park town page that Google currently indexes; turns broad handyman intent into a useful repair list.",
+      "sourceClaims": [
+        {
+          "id": "2dcc0469-542d-4308-897f-071bfafe7e0f",
+          "title": "Florham Park permitting",
+          "url": "https://www.florhamparknj.gov/Permitting",
+          "publisher": "Borough of Florham Park",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "path": "/florham-park/painting",
+      "newlyIndexable": false,
+      "purpose": "Connects an indexed town hub with the peeling-paint problem in the older exclusion report; distinguishes preparation from finish selection.",
+      "sourceClaims": [
+        {
+          "id": "2dcc0469-542d-4308-897f-071bfafe7e0f",
+          "title": "Florham Park permitting",
+          "url": "https://www.florhamparknj.gov/Permitting",
+          "publisher": "Borough of Florham Park",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        },
+        {
+          "id": "1e275fc2-26c3-4d9f-8bcb-a11c3fdb43fd",
+          "title": "EPA Lead Renovation, Repair and Painting Program",
+          "url": "https://www.epa.gov/lead/lead-renovation-repair-and-painting-program",
+          "publisher": "U.S. Environmental Protection Agency",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        }
+      ]
+    },
+    {
+      "id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "path": "/madison/plumbing",
+      "newlyIndexable": false,
+      "purpose": "Supports the discovered Madison town hub and running-toilet problem; focuses on repair versus supplied-fixture replacement.",
+      "sourceClaims": [
+        {
+          "id": "819a5f6b-c475-4f26-88f2-4aef1a2aa377",
+          "title": "Madison Building & Construction Department",
+          "url": "https://www.rosenet.org/153/Building-Construction-Department",
+          "publisher": "Borough of Madison",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        }
+      ]
+    },
+    {
+      "id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "path": "/east-hanover/plumbing",
+      "newlyIndexable": false,
+      "purpose": "Strengthens a commercial page attached to the East Hanover town example; emphasizes installation scope and inspection scheduling.",
+      "sourceClaims": [
+        {
+          "id": "56520e2c-d568-4e99-84b5-a85a715936d5",
+          "title": "East Hanover Construction Department",
+          "url": "https://www.easthanovertownship.com/Departments/construction-department",
+          "publisher": "Township of East Hanover",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        }
+      ]
+    },
+    {
+      "id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "path": "/morris-township/landscaping",
+      "newlyIndexable": false,
+      "purpose": "Supports the discovered Morris Township hub and yard-surface-grading problem; separates maintenance from site changes.",
+      "sourceClaims": [
+        {
+          "id": "162f5bbb-6bdf-4b3d-851e-afc66fa18e24",
+          "title": "Morris Township building and construction",
+          "url": "https://www.morristwp.com/121/Building",
+          "publisher": "Morris Township",
+          "source_type": "GOVERNMENT",
+          "retrieved_at": "2026-10-07T00:00:00+00:00",
+          "reviewed_at": "2026-10-07T19:25:14.794+00:00",
+          "created_at": "2026-10-07T19:25:15.095842+00:00"
+        }
+      ]
+    }
+  ]
+}

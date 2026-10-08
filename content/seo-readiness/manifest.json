@@ -1,0 +1,1734 @@
+{
+  "updates": [
+    {
+      "id": "e8fc8eb6-3155-40e6-8bef-dc9f7dc3bf4b",
+      "slug": "paramus",
+      "page_type": "LOCATION",
+      "title": "Home services in Paramus, Bergen County",
+      "meta_title": "Paramus Home Services | Bergen County",
+      "meta_description": "Plan Paramus tree, landscape and walkway projects with clear ownership questions, useful photos and Borough resources. Request an independent professional through A5.",
+      "h1": "Home services in Paramus.",
+      "primary_service_id": null,
+      "primary_location_id": "paramus",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Paramus, Bergen County?",
+      "direct_answer": "For a Paramus yard project, identify the tree or planting area and its relationship to the curb, sidewalk and house. Check Borough-tree questions with Shade Tree & Parks before agreeing to removal. A5 can connect your project request with an independent professional; it does not authorize tree work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start at the boundary between your yard and the street",
+          "paragraphs": [
+            "A tree close to the curb can affect more than the garden underneath it. Show the tree, the curb and the route to your front door in one wide photo. Explain whether you want pruning, removal, a walkway repair or simply a planting refresh. Those are separate decisions even when they share the same work area.",
+            "The Borough’s Paramus Trees page explains its process for assessing Borough trees and provides the Shade Tree & Parks contact. Use that resource to ask about the specific tree rather than assuming it is yours to remove. The page’s discussion of Borough trees is not a blanket statement about private-tree requirements.",
+            "Keep the access plan separate from the finished design. Describe gate openings, where equipment could stand and which beds or paved surfaces should be protected. If tree work is proposed, settle that scope before paying to restore the lawn or rebuild a path underneath it."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Paramus project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Tree assessment and cleanup",
+              "body": "Photograph the tree from the ground and identify the branches or condition you noticed. Ask whether the proposal includes removing cut material, stump work and restoring access damage. Do not assume a pruning estimate includes removal.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Walks beside roots",
+              "body": "Show the full uneven section and nearby trees. Ask the mason to explain what must be assessed before resetting the surface; moving paving without understanding the site may not address the cause.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Refresh the planting after other work",
+              "body": "List plants to retain and areas available for replacement. Ask for plant quantities, preparation and cleanup to be separated from any tree or walkway work in the estimate.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who handles questions about a Borough tree in Paramus?",
+              "answer": "Use the Shade Tree & Parks contact on the Borough’s Paramus Trees page. Supply the location and proposed work. For a private tree, ask which current local rules apply; an A5 introduction or contractor quote is not municipal permission."
+            },
+            {
+              "question": "How does A5 help with my Paramus request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Paramus is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Paramus project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:24.344+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2a12eb6e-3dc8-4479-8564-3e58f47bdece",
+      "slug": "bloomfield",
+      "page_type": "LOCATION",
+      "title": "Home services in Bloomfield, Essex County",
+      "meta_title": "Bloomfield Home Services | Essex County",
+      "meta_description": "Plan a Bloomfield cleanout and room refresh with a clear removal list, cleanup sequence and Township recycling resources. Send a project request to A5.",
+      "h1": "Home services in Bloomfield.",
+      "primary_service_id": null,
+      "primary_location_id": "bloomfield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Bloomfield, Essex County?",
+      "direct_answer": "For a Bloomfield cleanout, separate reusable furniture, ordinary household items, electronics and renovation debris before requesting removal. Check Township disposal guidance for the items you can handle through municipal services. A5 can introduce an independent vendor for the remaining lifting, hauling or home-improvement work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "A cleanout is easier when the destination is decided first",
+          "paragraphs": [
+            "Before describing a job as a garage or basement cleanout, make three lists: keep, consider donating and remove. Photograph the removal group without including private documents. Note any item you are unsure about rather than allowing a vendor to assume everything in the room can go.",
+            "Bloomfield’s Garbage & Recycling page distinguishes its bulky-item collection from appliance and electronics disposal: appliances and electronics are excluded from the bulky-item guidance. Separate those items before choosing a municipal option or private hauling, and check the Township’s current instructions and limits before placing anything at the curb.",
+            "If removal is preparation for painting or flooring, establish the handoff between the trades. Emptying a room, removing attached materials and cleaning after construction are different scopes. Request them separately so the estimate describes the work that will actually leave the space ready for its next use."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Bloomfield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Furniture and stored items",
+              "body": "List the large items, stairs and distance to the loading area. Identify pieces that must remain. Ask whether the quote includes disassembly and carrying items from inside, rather than curbside collection alone.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Cleaning an emptied space",
+              "body": "Say whether the room is simply dusty or has renovation residue. Specify shelves, cabinets and reachable surfaces. Describe unusual materials before assuming they belong in an ordinary cleaning visit.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            },
+            {
+              "title": "Painting after the cleanout",
+              "body": "Show the walls once furniture is moved, if practical. Ask whether patching old mounting holes, painting trim and protecting retained items are included. Agree when the space will be available.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I book private hauling before checking Bloomfield collection options?",
+              "answer": "Check Township garbage and recycling guidance first for the specific materials. Then request the work you still need, such as carrying heavy items out, coordinating several loads or handling materials the municipal service does not accept. Confirm disposal arrangements with the vendor."
+            },
+            {
+              "question": "How does A5 help with my Bloomfield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Bloomfield is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Bloomfield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:27.13+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "c78f4931-a246-4e13-8cea-798d63283df1",
+      "slug": "hoboken",
+      "page_type": "LOCATION",
+      "title": "Home services in Hoboken, Hudson County",
+      "meta_title": "Hoboken Home Services | Hudson County",
+      "meta_description": "Prepare a Hoboken home repair request with building access, repair priorities and City assistance resources. Connect with an independent professional through A5.",
+      "h1": "Home services in Hoboken.",
+      "primary_service_id": null,
+      "primary_location_id": "hoboken",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hoboken, Hudson County?",
+      "direct_answer": "For work in a Hoboken home, identify the unit, affected system and who can authorize access or changes to shared areas. A5 can connect a private project request with an independent professional. If you are exploring the City’s Home Improvement Program, contact that program before assuming a privately arranged repair will qualify.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate the repair decision from building and funding decisions",
+          "paragraphs": [
+            "Start with what has stopped working or needs attention, then identify whether the affected item serves only your home or a shared part of the building. A fixture inside a unit and a shared supply line can require different permissions and coordination. Tell the vendor what you know; do not guess at ownership from the item’s location alone.",
+            "Hoboken publishes a Home Improvement Program for qualifying residents making eligible repairs. The City’s resource is the starting point for current eligibility and application instructions. A5 does not administer the program, approve funding or establish whether a vendor or project qualifies.",
+            "For a privately arranged visit, describe stairs or elevator access, loading restrictions supplied by the building and the person who can admit the professional. Coordinate any building approval before agreeing to a start date. Share private entry codes directly with the selected professional rather than placing them in the initial project description."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hoboken project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plumbing in a unit",
+              "body": "Identify the fixture, room and observed issue. Ask whether access to a common area or a building-wide interruption may be needed, and have the building representative and plumber settle those arrangements.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Interior patching after repairs",
+              "body": "Explain what underlying work has been completed and show the remaining opening. Clarify whether backing, patching and repainting are one proposal or separate jobs before scheduling a finish repair.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Cleaning around a move or repair",
+              "body": "State whether the unit will be empty, the number of rooms and whether cabinets or appliances are included. Arrange access and waste handling so the cleaner can price the actual scope.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does submitting to A5 apply for Hoboken’s repair assistance?",
+              "answer": "No. An A5 request starts a private introduction to an independent professional. The City’s Home Improvement Program has its own application and eligibility process. Ask the program about approval and contractor requirements before arranging work you hope to fund through it."
+            },
+            {
+              "question": "How does A5 help with my Hoboken request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hoboken is in Hudson County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Hudson County",
+              "href": "/home-services/county/hudson-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hoboken project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:29.771+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "b0effd79-5a30-4045-808b-779602df9211",
+      "slug": "randolph",
+      "page_type": "LOCATION",
+      "title": "Home services in Randolph, Morris County",
+      "meta_title": "Randolph Home Services | Morris County",
+      "meta_description": "Plan Randolph yard improvements around tree protection, access and restoration. Use Township resources and request an independent home professional through A5.",
+      "h1": "Home services in Randolph.",
+      "primary_service_id": null,
+      "primary_location_id": "randolph",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Randolph, Morris County?",
+      "direct_answer": "For a Randolph outdoor project, describe what will be removed, what stays and whether the proposal changes the ground or involves trees. The Township’s Planning/Zoning division administers tree protection and land-use matters. Clarify the applicable process there while an independent professional develops the scope and estimate.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Map the work area before choosing the finish",
+          "paragraphs": [
+            "A new planting bed or patio may involve access through another part of the yard. Describe both the finished area and the path equipment would use to reach it. Mark trees, fences and landscape features you want retained. A useful estimate accounts for that surrounding work instead of pricing only the visible finished surface.",
+            "Randolph’s Planning/Zoning page identifies the division’s role in tree protection and replacement, zoning permits and review of development proposals. Use it to locate the right official contact for your project. Do not infer that routine gardening and a larger site change follow the same process.",
+            "Ask the vendor to separate assessment, removals, installation and restoration. If several trades are involved, agree who finishes each stage and who checks that the site is ready for the next one. A5 makes the introduction; the scope, local approvals and schedule are settled directly with the responsible parties."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Randolph project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Tree work near a planned improvement",
+              "body": "Explain why the tree is part of the project and show its position relative to the proposed work. Ask about protection of retained trees and what happens to cut material or stumps.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Planting and bed changes",
+              "body": "List areas to clear and plants to retain. Include light, access and maintenance preferences as observations. Ask the vendor to specify quantities and establishment care rather than quoting an undefined garden refresh.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Repair a path after site work",
+              "body": "Show damaged sections and where they join retained paving. Ask about preparation, edge restraint, material matching and restoration. Schedule final paving after heavy access needs are understood.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where do I start with Randolph tree-protection questions?",
+              "answer": "Use the Township Planning/Zoning resource below and explain the property and proposed work. The division administers tree protection and replacement. Ask what applies to the specific project before cutting; a private estimate does not determine an exemption or approval."
+            },
+            {
+              "question": "How does A5 help with my Randolph request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Randolph is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Randolph project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:33.382+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6a0f3712-7ff5-44b0-8862-788e095532cf",
+      "slug": "clifton",
+      "page_type": "LOCATION",
+      "title": "Home services in Clifton, Passaic County",
+      "meta_title": "Clifton Home Services | Passaic County",
+      "meta_description": "Plan Clifton appliance replacement and home repairs with clear access, removal and City recycling questions. Request an independent professional through A5.",
+      "h1": "Home services in Clifton.",
+      "primary_service_id": null,
+      "primary_location_id": "clifton",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Clifton, Passaic County?",
+      "direct_answer": "For a Clifton appliance project, first decide whether you want a repair assessment or have already chosen a replacement. Describe the appliance, connections and access route, then check City recycling guidance before arranging disposal. A5 helps connect you with an independent professional for the work you need.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Replacing an appliance can involve more than delivery",
+          "paragraphs": [
+            "A machine that fits the kitchen opening may still be difficult to move through a doorway or down a staircase. Record the model, approximate age if known and what happens when you use it. For replacement planning, note the route from the loading point to the room and any attached cabinetry that limits access.",
+            "Clifton’s Rules for the Collection of Garbage separates bulk waste from electronic items. Computers, televisions and other listed electronics are not collected with ordinary garbage; the page provides recycling options. Keep those items separate from an appliance-removal request, and check with the Recycling Office about the exact item before assuming a curbside route applies.",
+            "Ask who disconnects and reconnects the equipment, who removes it and who repairs any adjacent finishes. A hauling quote is not automatically an installation quote. Electrical or plumbing changes should be identified before an ordinary delivery or repair appointment is agreed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Clifton project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Appliance diagnosis",
+              "body": "Share the model label, error display and symptoms without opening the equipment. Tell the professional about warranty or prior service information. Ask about the assessment fee and how a repair recommendation will be explained.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            },
+            {
+              "title": "Removal and access",
+              "body": "Specify where the item is located and whether it is already disconnected by the appropriate person. Identify stairs and tight turns. Confirm accepted materials and removal terms before booking a hauler.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Finish repairs after replacement",
+              "body": "Show gaps, mounting holes or damaged trim once the equipment scope is settled. Ask whether the finishing work includes materials and painting, and keep appliance connections outside a general repair list.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does an appliance repair request include disposal or installation?",
+              "answer": "Only if those tasks are explicitly agreed with the professional. Request diagnosis, disconnection, removal, installation and finish work as separate items. Check Clifton’s current collection guidance if you intend to use a municipal disposal option."
+            },
+            {
+              "question": "How does A5 help with my Clifton request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Clifton is in Passaic County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Passaic County",
+              "href": "/home-services/county/passaic-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Clifton project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:34.347+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d286da57-d928-4a74-8330-ed294c0cc09f",
+      "slug": "cranford",
+      "page_type": "LOCATION",
+      "title": "Home services in Cranford, Union County",
+      "meta_title": "Cranford Home Services | Union County",
+      "meta_description": "Plan Cranford water-related repairs with clear observations, a sensible work sequence and Township storm resources. Request an independent professional through A5.",
+      "h1": "Home services in Cranford.",
+      "primary_service_id": null,
+      "primary_location_id": "cranford",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Cranford, Union County?",
+      "direct_answer": "For a Cranford repair after water entry, describe where and when the water appeared and which assessments or repairs have already been completed. Resolve the cause and readiness for finish work before requesting repainting or wall repairs. Use Township storm resources for current public guidance; A5 does not provide emergency response.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Document the event before treating the visible mark",
+          "paragraphs": [
+            "A stain on a ceiling, water at a doorway and an overflowing gutter are different observations. Record the time, weather and affected area from a safe place. Tell the professional whether the problem appears during rain or when a fixture is used. Photographs help explain the sequence, but cannot establish the cause or whether materials are ready to cover.",
+            "Cranford’s Storm Management page brings together Township and emergency-management resources for preparation, response and recovery. Use current official information for an active weather event. The existence of these resources does not mean every Cranford property has the same flood exposure or that a gutter repair will prevent flooding.",
+            "Keep assessment and finish restoration as separate decisions. Ask the relevant professional to establish what must be addressed first and what evidence will support closing a wall or repainting. Do not treat an A5 submission as an emergency call or an insurance determination."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Cranford project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Gutters overflowing during rain",
+              "body": "From the ground, note the location and whether water spills over an edge or at a joint. Include nearby downspouts in the photo. Ask the vendor to distinguish cleaning, damaged parts and drainage beyond the gutter system.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Wall or ceiling restoration",
+              "body": "Say what caused the damage if it has been professionally established and what has been completed. Ask for the patch boundaries, finish preparation and painting to be described separately.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Standing water in the yard",
+              "body": "Show the wider area and nearby paving or downspouts. Request assessment before specifying added soil or a drain. Discuss the proposed discharge route and relevant local review with the professional.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can A5 determine whether my Cranford home is in a flood area?",
+              "answer": "No. Use current Township resources and the relevant official property information for that determination. A5 connects project requests with independent professionals; it does not establish flood exposure, certify a repair or dispatch emergency help."
+            },
+            {
+              "question": "How does A5 help with my Cranford request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Cranford is in Union County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Union County",
+              "href": "/home-services/county/union-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Cranford project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:38.94+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d126ee35-b0f7-4b3c-8e9c-7417a53384f3",
+      "slug": "newton",
+      "page_type": "LOCATION",
+      "title": "Home services in Newton, Sussex County",
+      "meta_title": "Newton Home Services | Sussex County",
+      "meta_description": "Plan Newton home repairs with clear trade responsibilities, inspection questions and the Town’s shared construction-service resources. Start an A5 request.",
+      "h1": "Home services in Newton.",
+      "primary_service_id": null,
+      "primary_location_id": "newton",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Newton, Sussex County?",
+      "direct_answer": "For a Newton home repair, describe the work and any related plumbing, electrical or finish tasks separately. Newton’s official site directs construction matters to its shared service with Hardyston Township. Check that resource for the current process; A5 connects you with an independent professional and does not handle municipal approvals.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the right office and the right order of work",
+          "paragraphs": [
+            "Start with the result you want: a functioning fixture, a repaired wall or a refreshed room. Then list any underlying work already planned. A finish repair should not be scheduled as though it were independent when another professional still needs access behind it.",
+            "The Town of Newton’s Construction page explains its shared construction services with Hardyston Township and links to online permitting and inspection resources. Follow the Town’s current instructions for a Newton project rather than assuming every transaction is handled at the Newton municipal building. The page explicitly describes permits as enforcing State of New Jersey and Town of Newton codes. Shared administration does not replace Newton’s local requirements with Hardyston’s rules.",
+            "Agree who owns each step of the project, including checking applicable approvals and arranging any required inspection. Keep records of what has been completed before final finishes go on. The homeowner and professional should confirm the actual project requirements with the responsible office."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Newton project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Heating or cooling assessment",
+              "body": "Identify the equipment and the rooms affected, and note whether you want troubleshooting or replacement planning. Share existing service records. Ask the professional to separate diagnosis from a proposal to replace equipment.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Fixture and connection work",
+              "body": "Provide the fixture model and whether the replacement is already purchased. Ask about compatibility, access and responsibility for any permit or inspection. Include finish repairs as a separate line item.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Close and finish a repair opening",
+              "body": "State which underlying work is complete and what remains outstanding. Ask about patch dimensions, backing, surface texture and paint boundaries so the result is agreed before the opening is closed.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why does Newton’s construction page refer me to Hardyston?",
+              "answer": "Newton’s official page describes an interlocal shared-service arrangement for construction services. Use its current instructions for Newton-related permits and inspections. Your A5 request should still identify Newton as the work municipality; shared administration does not change the project’s location."
+            },
+            {
+              "question": "How does A5 help with my Newton request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Newton is in Sussex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Sussex County",
+              "href": "/home-services/county/sussex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Newton project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:37.617+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "11abfd9b-1398-45c3-8a54-4383ba7a2bfe",
+      "slug": "hackettstown",
+      "page_type": "LOCATION",
+      "title": "Home services in Hackettstown, Warren County",
+      "meta_title": "Hackettstown Home Services | Warren County",
+      "meta_description": "Plan Hackettstown kitchen, bathroom and basement repairs with project-specific scope questions and official construction guides. Connect through A5.",
+      "h1": "Home services in Hackettstown.",
+      "primary_service_id": null,
+      "primary_location_id": "hackettstown",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Hackettstown, Warren County?",
+      "direct_answer": "For a Hackettstown renovation or repair, separate the underlying systems from the finishes you want changed. The Town publishes construction guides for projects including kitchens, bathrooms and finished basements. Use the relevant guide to prepare questions while an independent professional assesses your specific work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define what stays before pricing what changes",
+          "paragraphs": [
+            "A bathroom refresh might mean new paint and hardware, or it might mean changing fixtures, tile and the room layout. List what stays in place and what changes. Share existing plans or product information, but do not assume a desired finish identifies all the trades the project will need.",
+            "Hackettstown’s Construction Department page provides project guides, forms, inspection resources and a link to permit records. Its guides include kitchen/bathroom renovation and finished-basement examples. They are useful starting points for questions, not a substitute for the department’s determination on your proposal.",
+            "Ask for a sequence that keeps unfinished systems accessible until the necessary work and checks are complete. Clarify who arranges each trade and what happens if hidden conditions change the plan. A5 introduces the request to an independent professional; it does not act as the project’s general contractor."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Hackettstown project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Bathroom surfaces",
+              "body": "Separate tile or grout repair from replacement of the underlying assembly. Show transitions at tubs, showers and doors. Ask which preparation and waterproofing decisions need assessment before agreeing to a surface-only repair.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            },
+            {
+              "title": "Electrical changes during a refresh",
+              "body": "Identify the lights or devices you want changed and their current locations. Discuss any relocation, new circuit or access needs directly with the electrician before walls are finished.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Roof-related interior damage",
+              "body": "Explain whether the roof issue has been assessed and repaired, then describe the interior damage separately. Ask who confirms readiness for closing or repainting the affected area.",
+              "links": [
+                {
+                  "label": "Explore roofing projects",
+                  "href": "/services/roofing"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can I find Hackettstown project and inspection guidance?",
+              "answer": "Start with the Town’s Construction Department page below. It links to project-specific guides, application forms, inspection information and permit records. Ask the department and your professional which steps apply to the proposed scope before arranging the sequence of work."
+            },
+            {
+              "question": "How does A5 help with my Hackettstown request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Hackettstown is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Hackettstown project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-08T01:22:41.621+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "10000000-0000-4000-8000-000000000003",
+      "slug": "madison-masonry",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Masonry services in Madison, NJ",
+      "meta_title": "Masonry services in Madison, NJ",
+      "meta_description": "Plan masonry repairs in Madison for brick steps, mortar and walks. Compare repair scopes, prepare useful photos and request local help through A5.",
+      "h1": "Masonry services in Madison, NJ",
+      "primary_service_id": "masonry",
+      "primary_location_id": "madison",
+      "primary_problem_id": null,
+      "primary_question": "How do I start a masonry repair request in Madison?",
+      "direct_answer": "Show the whole set of steps, walk or wall and a close-up of the damage. Explain whether anything is loose, leaning or separating and mention previous repairs. A5 reviews the request; the masonry provider assesses whether targeted repair or more extensive work is appropriate.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Start with the entrance or walk as a whole",
+          "paragraphs": [
+            "A close-up of missing mortar tells only part of the story. Include the whole entrance, a side view and where the masonry meets adjoining surfaces. Describe what has changed: a loose tread, a gap, a low spot or an area that has been patched before.",
+            "For a Madison entrance project, tell the provider whether another entrance is available during the work. Identify railings, adjoining paths and planting that may affect access or restoration. Keep clear of visibly unstable areas rather than testing them for the request."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the repair area, not only the total price",
+          "paragraphs": [
+            "Ask the provider to distinguish replacing individual materials, repointing and rebuilding a section. Discuss what base work or adjoining repair is included and how matching brick or stone will be approached. Different scopes can produce very different proposals for the same steps.",
+            "Before work begins, agree who checks applicable construction requirements. Madison's Building Department is the official local contact. Provide the proposed scope instead of assuming a repair or a rebuild has the same requirements."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the proposal easy to review",
+          "paragraphs": [
+            "Ask for the limits of removal, disposal, protection and restoration in writing. If the plan includes railing work or another trade, identify who coordinates it. Discuss how newly exposed conditions will be documented and priced.",
+            "Send A5 the location, photos, what you noticed and your preferred timing. A5 helps connect you with a local professional; the provider assesses the work and confirms the proposal and schedule."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Choose the question your estimate needs to answer",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Loose mortar with retained brick",
+              "body": "Ask which joints are included, how the existing masonry will be assessed and how the replacement mortar will be selected. A price for repointing should identify its boundaries; it should not be read as a promise to correct movement underneath the steps.",
+              "links": [
+                {
+                  "label": "Understand missing or loose mortar",
+                  "href": "/services/masonry/loose-mortar"
+                }
+              ]
+            },
+            {
+              "title": "Moving or damaged steps",
+              "body": "Explain which tread or section moves and keep it out of use if it appears unsafe. Ask for the proposal to distinguish retaining the existing structure from removing and rebuilding it, including the adjoining railing and landing.",
+              "links": [
+                {
+                  "label": "Plan a brick-step repair",
+                  "href": "/services/masonry/brick-step-repair"
+                }
+              ]
+            },
+            {
+              "title": "Settled paving beside the entrance",
+              "body": "Show the low area and its connection to the stairs. Ask about base assessment, edge restraint and water flow before comparing a reset with full replacement.",
+              "links": [
+                {
+                  "label": "What to include about sunken pavers",
+                  "href": "/services/masonry/sunken-pavers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "How do I keep a Madison masonry project’s permit and finish stages aligned?",
+              "answer": "Ask the professional to identify any applicable approvals and inspections before the work sequence is fixed. Madison’s Building & Construction page provides an SDL inspection route and permit-status lookup. Keep the project’s permit information with the agreed scope; a finished-looking repair is not evidence that any required final inspection has occurred."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the local resource for the actual scope",
+          "paragraphs": [
+            "Local resource: Madison Building & Construction Department, listed under Sources and local contacts below. Its page covers Madison and Chatham Borough; Chatham Township has a separate construction department. Use the actual project municipality when making an inquiry."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Related repair topics and planning"
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and local contacts"
+        },
+        {
+          "type": "CTA",
+          "title": "Make the next step easier.",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "cursor-g001",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-09-23T18:00:00+00:00",
+      "updated_at": "2026-10-08T03:09:19.082+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-09-30T00:30:45.668+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "17664908-506a-40c6-846a-8cac280e56ba",
+      "slug": "florham-park-handyman",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Handyman services in Florham Park, NJ",
+      "meta_title": "Handyman services in Florham Park, NJ",
+      "meta_description": "Plan a Florham Park repair visit for doors, trim, hardware and mounting. Organize your task list and request an independent local professional through A5.",
+      "h1": "Handyman services in Florham Park, NJ",
+      "primary_service_id": "handyman",
+      "primary_location_id": "florham-park",
+      "primary_problem_id": null,
+      "primary_question": "Can I combine several small repairs in a Florham Park service request?",
+      "direct_answer": "Yes. Send one prioritized list with the rooms, tasks and optional photos. A5 reviews the work and helps connect you with a relevant local professional. Identify electrical, plumbing or structural concerns separately so the request can be directed to the appropriate trade.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "One list for the repairs around your home",
+          "paragraphs": [
+            "Start with the door that catches, the loose handle or the unfinished trim. Group the items by room and mark which ones affect everyday use. A small task can be hard to explain in isolation, so include a wider photo showing where the item sits in the room.",
+            "For a Florham Park visit, share access arrangements and whether you have already bought hardware or mounting equipment. A list helps the provider discuss what can be completed together; it does not establish that every task belongs to the same trade."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Confirm the scope before adding more work",
+          "paragraphs": [
+            "A useful proposal separates labor, parts, sourcing and any finish repair. Ask whether a mounting job includes assembly or whether replacing trim includes painting. List supplied materials so the provider can assess them before the visit.",
+            "If the request grows into an alteration, have the provider check whether a municipal review is needed. Florham Park's permitting page is the official starting point for applications and inspection instructions; a handyman label alone does not determine the requirements."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare for a productive visit",
+          "paragraphs": [
+            "Clear access to the agreed work areas and keep the approved list available. Identify the items that must be completed first if parts, access or additional assessment affect the scope. Agree how unexpected work will be discussed before it starts.",
+            "Submit the list to A5 with your Florham Park address details and preferred timing. A5 makes the introduction; the provider confirms the estimate, scope and schedule after reviewing your request."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Build a small-job list a professional can estimate",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Doors and hardware",
+              "body": "Count the affected doors, describe what happens when each opens or closes and identify hardware you already own. Ask whether adjustment, hardware replacement and finish touch-ups are separate allowances.",
+              "links": [
+                {
+                  "label": "Describe a sticking interior door",
+                  "href": "/services/handyman/sticking-interior-door"
+                }
+              ]
+            },
+            {
+              "title": "Mounting and assembly",
+              "body": "Name the item, give its approximate dimensions and share the product instructions if available. Say what you know about the mounting surface; leave anchoring suitability to the professional rather than assuming the included hardware is appropriate."
+            },
+            {
+              "title": "Several rooms in one visit",
+              "body": "Group tasks by room, put the most important items first and distinguish fixed requirements from optional extras. Ask whether the professional proposes a defined scope or time-based work and how additional items will be approved.",
+              "links": [
+                {
+                  "label": "Turn a repair list into a clear request",
+                  "href": "/services/handyman/punch-list-repairs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What happens if my Florham Park handyman list includes electrical or plumbing work?",
+              "answer": "Identify those tasks separately in the request. A5 can review the service category, and the professional should explain what is within their scope and what needs a different trade. One list is convenient for describing the project, but it does not mean one person can perform every task."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the local resource for the actual scope",
+          "paragraphs": [
+            "Local resource: Florham Park Permitting, listed below, explains inspection requests through SDL or the Building Department. If your scope needs inspection, the Borough asks for the permit number, site address, inspection type and an onsite contact. Confirm the current instructions for the actual work."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Related repair topics and planning"
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and local contacts"
+        },
+        {
+          "type": "CTA",
+          "title": "Make the next step easier.",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-08T03:09:20.154+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3b75d6af-4994-4271-8dd9-559f21ae4623",
+      "slug": "florham-park-painting",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Painting services in Florham Park, NJ",
+      "meta_title": "Painting services in Florham Park, NJ",
+      "meta_description": "Request painting in Florham Park with a clear plan for rooms, trim, preparation and finish. A5 helps connect you with an independent local professional.",
+      "h1": "Painting services in Florham Park, NJ",
+      "primary_service_id": "painting",
+      "primary_location_id": "florham-park",
+      "primary_problem_id": null,
+      "primary_question": "What should I include in a Florham Park painting request?",
+      "direct_answer": "List the rooms or exterior surfaces, describe peeling, stains or damage, and say whether ceilings, doors and trim are included. Mention older painted surfaces and known moisture issues before preparation starts. Photos help a provider distinguish finishing work from repairs that need attention first.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Define the surfaces and the result you want",
+          "paragraphs": [
+            "For an interior refresh, list the rooms and whether each includes walls, ceilings, trim or doors. For exterior work, identify the surfaces and show access around the house. Describe the result you want without assuming every wall needs the same preparation.",
+            "A Florham Park painting request can combine several areas, but distinguish the priority spaces from optional additions. That helps the provider explain the sequence and limits of a proposal."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve preparation questions first",
+          "paragraphs": [
+            "Share stains, peeling and previous repairs in the first conversation. Ask who assesses moisture or damaged material before painting, and whether drywall or carpentry work is included. Preparation should be a stated part of the scope rather than an assumption attached to a color choice.",
+            "For a pre-1978 home, discuss lead-safe assessment before disturbing painted surfaces. EPA recommends lead-safe certified contractors for this work. If the project expands beyond painting, consult Florham Park's permitting information about the actual alteration."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan protection and completion",
+          "paragraphs": [
+            "Agree on moving furniture, protecting plants or flooring, selecting samples and storing materials. Confirm who supplies paint and how touch-ups and cleanup will be handled. Share access constraints before scheduling.",
+            "A5 reviews the request and helps connect you with an independent local professional. The provider confirms what preparation is needed, what the price includes and when work can take place."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare painting proposals surface by surface",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Walls that have already been patched",
+              "body": "Ask whether sanding, priming and repainting the full wall are included. Matching a color does not automatically match an aged finish or sheen; agree on the intended paint boundary before work starts.",
+              "links": [
+                {
+                  "label": "Painting after a wall patch",
+                  "href": "/services/painting/paint-after-patching"
+                }
+              ]
+            },
+            {
+              "title": "Peeling exterior surfaces",
+              "body": "Show the damaged area and adjacent surfaces from the ground. Ask which preparation and material repairs are included and how the professional will investigate recurring failure before applying a new finish.",
+              "links": [
+                {
+                  "label": "Prepare a peeling-paint request",
+                  "href": "/services/painting/peeling-exterior-paint"
+                }
+              ]
+            },
+            {
+              "title": "Doors, trim and built-ins",
+              "body": "Count the pieces and say whether hardware remains in place. Ask about preparation, application method, protection and the time before normal use. Keep these surfaces separate from a walls-only room price."
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I buy paint before a Florham Park professional reviews the job?",
+              "answer": "It is usually more useful to agree on the surfaces, preparation and product specification first. Share colors or samples you like, then ask who supplies the coating and how quantity, sheen and compatibility will be confirmed. The estimate should explain whether materials and later touch-ups are included."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the local resource for the actual scope",
+          "paragraphs": [
+            "Local resource: use Florham Park’s Permitting page below if preparation uncovers work that changes the agreed scope. Ask the relevant official about that alteration; this painting page does not determine permit requirements or establish whether a particular surface contains lead."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Related repair topics and planning"
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and local contacts"
+        },
+        {
+          "type": "CTA",
+          "title": "Make the next step easier.",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-08T03:09:26.113+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "fca596c0-e0c9-41aa-88a7-ab0d2d1a58b0",
+      "slug": "madison-plumbing",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Plumbing services in Madison, NJ",
+      "meta_title": "Plumbing services in Madison, NJ",
+      "meta_description": "Request scheduled plumbing help in Madison for toilets, faucets and fixture projects. Prepare symptoms, photos and replacement details for provider review.",
+      "h1": "Plumbing services in Madison, NJ",
+      "primary_service_id": "plumbing",
+      "primary_location_id": "madison",
+      "primary_problem_id": null,
+      "primary_question": "Can A5 help arrange a scheduled plumbing visit in Madison?",
+      "direct_answer": "A5 can review a request for a running toilet, leaking fixture or planned replacement and help introduce you to an independent local professional. Include the symptoms and whether water is actively leaking. Immediate hazards require urgent assistance; A5 is not an emergency dispatch service.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe the symptom before choosing a replacement",
+          "paragraphs": [
+            "A running toilet, water around a faucet and a planned sink replacement are different scopes. Say where the problem appears and when it happens. Mention previous repair attempts and whether more than one fixture is affected.",
+            "For a Madison plumbing request, show the fixture and surrounding space without dismantling anything. Include model details or product packaging you already have. The professional can determine what needs to be assessed in person."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Coordinate fixtures and surrounding finishes",
+          "paragraphs": [
+            "If you are replacing a fixture, have the provider review the product before ordering. Ask whether the work includes removal, connections and disposal, and what wall, cabinet or tile repair is excluded. A supplied fixture does not automatically make the job a direct swap.",
+            "Ask the professional to confirm permit and inspection responsibilities for the proposed work. Madison's Building Department provides the local construction contact; the scope, rather than the product name, is the useful starting point for that discussion."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare access and the handoff",
+          "paragraphs": [
+            "Identify access limitations and whether the fixture is the only one available in the home. Discuss the expected interruption and work sequence directly with the provider. Keep the agreed scope and any changes in writing.",
+            "A5 can begin with a short description, your Madison location and optional photos. Scheduling and pricing are confirmed after review, not when the online request is sent."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a useful answer before buying a replacement fixture",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "A toilet that keeps running",
+              "body": "Describe whether it runs continuously or refills intermittently, and include the model if visible. Ask for a diagnosis and repair recommendation before assuming replacement is the only option.",
+              "links": [
+                {
+                  "label": "Explain a running toilet",
+                  "href": "/services/plumbing/running-toilet"
+                }
+              ]
+            },
+            {
+              "title": "A faucet or connection leak",
+              "body": "Say whether water appears during use or while the fixture is idle. Show the surrounding area without dismantling fittings. Ask whether the assessment covers the fixture alone or the connections around it.",
+              "links": [
+                {
+                  "label": "Prepare a dripping-faucet request",
+                  "href": "/services/plumbing/dripping-faucet"
+                }
+              ]
+            },
+            {
+              "title": "An owner-supplied fixture",
+              "body": "Provide the exact model before purchase where possible. Confirm compatibility, missing parts, removal and disposal with the plumber. Ask how a defective supplied product or a return visit would be handled."
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a Madison plumbing estimate include repairing the wall afterward?",
+              "answer": "Only if the proposal says so. Ask who opens and closes any access area, which finishes are included and whether tile, drywall or painting will be handled by another professional. Agree on the inspection and closing sequence before the opening is finished."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the local resource for the actual scope",
+          "paragraphs": [
+            "Local resource: Madison’s Building & Construction Department page below includes inspection and permit-status resources. Ask the professional who will arrange the applicable checks and retain the final records. A vendor’s availability and a municipal inspection appointment are separate arrangements."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Related repair topics and planning"
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and local contacts"
+        },
+        {
+          "type": "CTA",
+          "title": "Make the next step easier.",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-08T03:09:46.726+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "8a4c025b-c0db-42f9-8d89-27e4cb3ca31b",
+      "slug": "east-hanover-plumbing",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Plumbing services in East Hanover, NJ",
+      "meta_title": "Plumbing services in East Hanover, NJ",
+      "meta_description": "Plan scheduled plumbing repairs and fixture replacements in East Hanover with clear symptoms, access details and scope questions.",
+      "h1": "Plumbing services in East Hanover, NJ",
+      "primary_service_id": "plumbing",
+      "primary_location_id": "east-hanover",
+      "primary_problem_id": null,
+      "primary_question": "How do I plan a fixture replacement in East Hanover?",
+      "direct_answer": "Share the existing fixture, the proposed replacement and any access limitations before ordering or scheduling. Ask the professional to confirm fit, connections, surrounding finish work and permit or inspection responsibilities. A5 offers introductions for planned work; the provider confirms the actual installation scope.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Distinguish a repair from a replacement project",
+          "paragraphs": [
+            "A leaking faucet may start as a repair discussion, while replacing a sink can affect connections, cabinetry and finishes. Describe the outcome you want and whether you have bought a replacement. Include product details so the provider can review compatibility.",
+            "For an East Hanover service request, mention when the issue occurs and whether water is actively leaking. A5 is not emergency dispatch; immediate hazards should be addressed through appropriate urgent assistance."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Clarify inspection and other work",
+          "paragraphs": [
+            "Ask who will check the permit requirements and arrange applicable inspections. East Hanover publishes plumbing inspection information through its Construction Department. Confirm current arrangements for your project instead of assuming a general visit schedule is a booking.",
+            "Have the provider identify excluded wall, tile or cabinet work. If another trade is needed, agree on the sequence and who coordinates it. A fixture price alone does not describe the cost or scope of the complete installation."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare for the visit",
+          "paragraphs": [
+            "Show the fixture and surrounding area without dismantling equipment. Identify stored items or other obstacles affecting access, and say whether this is the only available fixture of its kind in the home. Discuss interruptions directly with the provider.",
+            "A5 can begin with the location, a short description and optional photos. The professional assesses the work, confirms the estimate and agrees the schedule after the introduction."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Separate the installation quote from the product price",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Replacing a sink or faucet",
+              "body": "Share photos of the existing setup and the replacement specification. Ask the plumber to identify compatible connections and any cabinet or countertop changes. A fixture fitting the visible opening does not settle every installation detail."
+            },
+            {
+              "title": "A visible leak with uncertain scope",
+              "body": "Describe the location, frequency and anything already assessed. Ask what the first visit includes and when you will receive a repair proposal. Do not turn an unconfirmed diagnosis into instructions to replace a specific part.",
+              "links": [
+                {
+                  "label": "What to report about a visible pipe leak",
+                  "href": "/services/plumbing/visible-pipe-leak"
+                }
+              ]
+            },
+            {
+              "title": "Work that needs a second visit",
+              "body": "Ask how parts, access, any inspection and finish repairs affect the sequence. If the fixture is the only one of its kind in the home, discuss that constraint before agreeing to the interruption."
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can an A5 request reserve an East Hanover plumbing inspection?",
+              "answer": "No. East Hanover’s Construction Department publishes its own plumbing inspection information. The homeowner or responsible professional must use the current municipal process when an inspection applies. A5 forwards the project request; the professional agrees to the work and schedule directly with you."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the local resource for the actual scope",
+          "paragraphs": [
+            "Local resource: East Hanover Construction Department, linked below. Its inspection information is useful for planning questions, but published hours are not a booking. Confirm arrangements with the office for the specific project rather than relying on copied schedule details."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Related repair topics and planning"
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and local contacts"
+        },
+        {
+          "type": "CTA",
+          "title": "Make the next step easier.",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-08T03:09:35.769+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d668888d-cb7a-403a-8b30-49ef5fb062d5",
+      "slug": "morris-township-landscaping",
+      "page_type": "SERVICE_LOCATION",
+      "title": "Landscaping services in Morris Township, NJ",
+      "meta_title": "Landscaping services in Morris Township, NJ",
+      "meta_description": "Organize a Morris Township yard project around cleanup, planting and water concerns. Define priorities and request an independent local professional through A5.",
+      "h1": "Landscaping services in Morris Township, NJ",
+      "primary_service_id": "landscaping",
+      "primary_location_id": "morris-township",
+      "primary_problem_id": null,
+      "primary_question": "How should I separate yard cleanup from a drainage concern?",
+      "direct_answer": "List cleanup and planting tasks separately from standing water or proposed grade changes. Show the wider area, access route and where water appears. A provider should assess the cause and proposed scope before work is described simply as adding soil or refreshing a bed.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Build a clear yard-work brief",
+          "paragraphs": [
+            "Mark the beds, boundaries and features you want to keep. Separate removal, cleanup and new planting, and identify your main goal: easier maintenance, a clearer entrance or a more usable outdoor area. Photos can show the intended work without requiring plant names.",
+            "For a Morris Township request, include access through gates, material storage and how debris should be handled. Those details help a provider distinguish the visible planting area from the practical work needed to complete it."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Treat changes to the ground as a separate scope",
+          "paragraphs": [
+            "If water collects or a surface slopes in an unwanted direction, record what you observe after rain. Show downspouts, adjoining paving and nearby structures. Ask for an assessment before approving a change in ground levels.",
+            "Morris Township's Building Department publishes construction guidance and a portal for property and permit information. Have the provider confirm which local reviews apply if the proposal expands into drainage, structures or other regulated work."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Agree on restoration and ongoing care",
+          "paragraphs": [
+            "Ask how equipment access will be protected and what lawn or bed restoration is included. For planting, discuss sizes, quantities and the care you are prepared to provide. Separate a one-time project from any recurring maintenance arrangement.",
+            "A5 reviews the project and helps connect you with a local professional. Share the Morris Township location and priorities; the provider confirms the site assessment, price and timing."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Choose between maintenance, planting and site assessment",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "An overgrown bed",
+              "body": "Identify plants to retain, material to remove and whether new planting is part of the job. Ask whether removal includes roots or simply cutting back, and how debris and final mulch are handled.",
+              "links": [
+                {
+                  "label": "Prepare an overgrown-bed cleanup",
+                  "href": "/services/landscaping/overgrown-planting-beds"
+                }
+              ]
+            },
+            {
+              "title": "Water collecting after rain",
+              "body": "Record where water starts, where it sits and which surfaces surround it. Ask for assessment before specifying regrading. Adding soil or redirecting a downspout can affect areas outside the visible puddle.",
+              "links": [
+                {
+                  "label": "Questions before changing yard levels",
+                  "href": "/services/landscaping/yard-surface-grading"
+                }
+              ]
+            },
+            {
+              "title": "A planting plan with ongoing care",
+              "body": "Tell the professional how much maintenance you want to do. Ask for plant sizes, quantities and care responsibilities in writing, and distinguish a one-time installation from a recurring maintenance service."
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is a Morristown mailing address enough to identify my project municipality?",
+              "answer": "No. Morris Township and Morristown are separate municipalities. Use the municipality on your property records, along with the ZIP code, when submitting your request and checking local requirements. This page is for Morris Township; A5 also has a separate Morristown area page."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Use the local resource for the actual scope",
+          "paragraphs": [
+            "Local resource: Morris Township Building & Construction Code Enforcement, listed below, provides permit and inspection guidance. If the proposal adds structures or other construction work, ask that office which process applies. A landscaping label does not establish an exemption."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT",
+          "heading": "Related repair topics and planning"
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and local contacts"
+        },
+        {
+          "type": "CTA",
+          "title": "Make the next step easier.",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-authority-expansion",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-07T00:00:00+00:00",
+      "updated_at": "2026-10-08T03:09:42.69+00:00",
+      "reviewed_at": "2026-10-08T15:00:00.000Z",
+      "published_at": "2026-10-07T19:25:14.794+00:00",
+      "last_reviewed_at": "2026-10-08T15:00:00.000Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "2d3e93a1-7b7e-494a-86de-a7680744b938",
+      "title": "Paramus Trees",
+      "url": "https://www.paramusborough.gov/507/Paramus-Trees",
+      "publisher": "Borough of Paramus",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "231c40ff-96c7-4362-8c73-78d8ae398049",
+      "title": "Bloomfield Garbage & Recycling",
+      "url": "https://www.bloomfieldtwpnj.com/264/Recycling-Garbage",
+      "publisher": "Township of Bloomfield",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "999f50ef-e91d-4c20-8b07-488eaed8207c",
+      "title": "Hoboken Home Improvement Program",
+      "url": "https://www.hobokennj.gov/resources/hoboken-home-improvement-program",
+      "publisher": "City of Hoboken",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "febf1526-192b-4309-8012-890d05107fa4",
+      "title": "Randolph Planning / Zoning",
+      "url": "https://www.randolphnj.org/397/Planning-Zoning",
+      "publisher": "Township of Randolph",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "dab8ac21-647a-434c-8c1c-b92b8a89660f",
+      "title": "Clifton Rules for the Collection of Garbage",
+      "url": "https://www.cliftonnj.org/190/Rules-for-the-Collection-of-Garbage",
+      "publisher": "City of Clifton",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "0f163d64-46a9-44db-85d4-1456743d1edb",
+      "title": "Cranford Storm Management",
+      "url": "https://www.cranfordnj.org/2055/Storm-Management",
+      "publisher": "Township of Cranford",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "a2d5d127-77a7-48e4-88bd-35b93101bdbe",
+      "title": "Newton Construction",
+      "url": "https://www.newtontownhall.com/62/Construction",
+      "publisher": "Town of Newton",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    },
+    {
+      "id": "9a0b45cd-46c4-4616-8dce-17e4245d47bf",
+      "title": "Hackettstown Construction",
+      "url": "https://www.hackettstown.net/176/Construction",
+      "publisher": "Town of Hackettstown",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T15:00:00.000Z",
+      "reviewed_at": "2026-10-08T15:00:00.000Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "e8fc8eb6-3155-40e6-8bef-dc9f7dc3bf4b",
+      "source_id": "2d3e93a1-7b7e-494a-86de-a7680744b938",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2a12eb6e-3dc8-4479-8564-3e58f47bdece",
+      "source_id": "231c40ff-96c7-4362-8c73-78d8ae398049",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "c78f4931-a246-4e13-8cea-798d63283df1",
+      "source_id": "999f50ef-e91d-4c20-8b07-488eaed8207c",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "b0effd79-5a30-4045-808b-779602df9211",
+      "source_id": "febf1526-192b-4309-8012-890d05107fa4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6a0f3712-7ff5-44b0-8862-788e095532cf",
+      "source_id": "dab8ac21-647a-434c-8c1c-b92b8a89660f",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d286da57-d928-4a74-8330-ed294c0cc09f",
+      "source_id": "0f163d64-46a9-44db-85d4-1456743d1edb",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d126ee35-b0f7-4b3c-8e9c-7417a53384f3",
+      "source_id": "a2d5d127-77a7-48e4-88bd-35b93101bdbe",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "11abfd9b-1398-45c3-8a54-4383ba7a2bfe",
+      "source_id": "9a0b45cd-46c4-4616-8dce-17e4245d47bf",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "e8fc8eb6-3155-40e6-8bef-dc9f7dc3bf4b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "2a12eb6e-3dc8-4479-8564-3e58f47bdece",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "d8254c48-e437-4cf7-8bf8-d9c0e606a24d",
+      "to_page_id": "c78f4931-a246-4e13-8cea-798d63283df1",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "b0effd79-5a30-4045-808b-779602df9211",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "to_page_id": "6a0f3712-7ff5-44b0-8862-788e095532cf",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "to_page_id": "d286da57-d928-4a74-8330-ed294c0cc09f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "to_page_id": "d126ee35-b0f7-4b3c-8e9c-7417a53384f3",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "11abfd9b-1398-45c3-8a54-4383ba7a2bfe",
+      "relationship_type": "RELATED"
+    }
+  ]
+}
