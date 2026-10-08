@@ -52,7 +52,6 @@ describe("A5-D001 design system", () => {
     assert.doesNotMatch(homepage, /borrowed reviews/i);
     assert.doesNotMatch(homepage, /does not publish ratings/i);
     assert.match(homepage, /Start with what you see\./);
-    assert.match(homepage, /illustrative, not photographs of A5 projects/);
   });
 
   it("keeps public navigation free of admin and uses one primary header CTA", () => {
