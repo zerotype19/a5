@@ -47,3 +47,13 @@ PR47 merged as 9893e9d; Worker a0b3ed83-a5bf-4168-8b14-78a11d73f03e deployed Oct
 The live crawl passes all 116 sitemap URLs plus intake (117 total), with zero HTTP, metadata-head, canonical, H1 or reachability errors. All 18 browser/Googlebot metadata checks pass. Google live-tested Madison/masonry as available and accepted its indexing request into the priority crawl queue. Google accepted the updated sitemap submission; submission does not mean immediate processing/indexing.
 
 Post-release Madison/masonry mobile PSI: performance 88, accessibility/best-practices/SEO 100, LCP 3.6s, CLS 0. Homepage samples were slower (71/73 performance, LCP 6.2s, SEO100). The dependency tree shows intake-form, validation and Turnstile chunks loading through automatic request-CTA prefetch. A narrow follow-up disables that prefetch in the shared Button, mobile actions, footer and homepage request link; request navigation remains intact. Further lab results must be reported honestly, not averaged into a claimed field pass.
+
+### Final follow-up verification
+
+PR48 merged as 46dcac0 and deployed Worker d3299409-1597-43f6-9e36-953c6311d699. All 301 tests, lint, final sequential typecheck, Next/Vinext builds and CI pass. Local hero, lower-page, unsure and mobile request CTAs open intake; the live hero CTA opens intake without browser errors. No test request was submitted. Consent, attribution, CAPTCHA, persistence and routing implementation are unchanged.
+
+[Final homepage mobile report](https://pagespeed.web.dev/analysis/https-www-a5homeservices-com/ciqzqpu2a9?form_factor=mobile): performance85, accessibility100, best-practices100, SEO100, FCP2.0s, LCP3.8s, TBT0ms, CLS0, speed-index4.3s. The dependency tree no longer includes the intake/Turnstile/validation prefetch chain. Maximum critical-path latency is734ms, compared with1734ms in the intermediate report. This restores LCP to the baseline; the lab score is not evidence of a field Core Web Vitals pass.
+
+[Post-release Madison masonry mobile report](https://pagespeed.web.dev/analysis/https-www-a5homeservices-com-madison-masonry/trqyc79wbq?form_factor=mobile): performance88, accessibility100, best-practices100, SEO100, LCP3.6s, CLS0. The description audit now passes.
+
+All 202 deliberately excluded town routes were individually checked in production: HTTP200 and noindex in HEAD, zero errors. All 18 metadata/UA checks still pass on the final Worker. The live Acquisition page displays the one unarchived persisted request with unknown attribution and zero unsent operations alerts. No cache purge was necessary: each Worker build uses its own generated render-cache namespace, and the production crawl confirmed fresh content.
