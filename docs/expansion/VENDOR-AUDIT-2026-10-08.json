@@ -1,0 +1,74 @@
+{
+  "checkedAt": "2026-10-08T00:47:39.480Z",
+  "totalRecords": 61,
+  "testRecordsExcluded": 1,
+  "businesses": 60,
+  "active": 60,
+  "accepting": 60,
+  "emailPresentValidFormat": 19,
+  "withoutEmail": 41,
+  "phonePresent": 52,
+  "insuranceVerified": 0,
+  "municipalities": 226,
+  "serviceLocationCells": 1808,
+  "cellsWithMappings": 40,
+  "cellsWithoutMappings": 1768,
+  "legacyMappedAreas": [
+    "Morristown",
+    "Morris Township",
+    "Madison",
+    "Florham Park",
+    "East Hanover",
+    "Chatham"
+  ],
+  "counties": [
+    {
+      "county": "Bergen County",
+      "municipalities": 70,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    },
+    {
+      "county": "Essex County",
+      "municipalities": 22,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    },
+    {
+      "county": "Hudson County",
+      "municipalities": 12,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    },
+    {
+      "county": "Morris County",
+      "municipalities": 39,
+      "mappedMunicipalities": 5,
+      "mappedServiceLocationCells": 40
+    },
+    {
+      "county": "Passaic County",
+      "municipalities": 16,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    },
+    {
+      "county": "Sussex County",
+      "municipalities": 24,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    },
+    {
+      "county": "Union County",
+      "municipalities": 21,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    },
+    {
+      "county": "Warren County",
+      "municipalities": 22,
+      "mappedMunicipalities": 0,
+      "mappedServiceLocationCells": 0
+    }
+  ]
+}
