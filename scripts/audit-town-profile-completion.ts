@@ -32,7 +32,10 @@ for(let i=1;i<=21;i++){
   for(const field of ['sections','direct_answer','meta_description','indexable','reviewed_by'])if(!current||!isDeepStrictEqual(current[field],page[field]))errors.push(`Authored field mismatch ${page.slug}/${field}`);
  }
  for(const [table,rows] of [['sources',manifest.sources],['content_sources',manifest.sourceLinks],['content_relationships',manifest.relationships]] as const){
-  for(const row of rows)if(!live[table].some(r=>Object.entries(row).every(([k,v])=>isDeepStrictEqual(r[k],v))))errors.push(`Missing authored ${table} record in batch ${batch}`);
+  for(const row of rows)if(!live[table].some(r=>Object.entries(row).every(([k,v])=>{
+   if(table==='sources'&&['retrieved_at','reviewed_at'].includes(k)&&typeof v==='string'&&typeof r[k]==='string')return Number.isFinite(Date.parse(v))&&Date.parse(r[k] as string)===Date.parse(v);
+   return isDeepStrictEqual(r[k],v);
+  })))errors.push(`Missing authored ${table} record in batch ${batch}`);
  }
 }
 if(authored.size!==queue.length||verified!==queue.length)errors.push('Incomplete queue');
