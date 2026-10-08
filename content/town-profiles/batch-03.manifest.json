@@ -1,0 +1,1338 @@
+{
+  "updates": [
+    {
+      "id": "8d4601d0-6b12-48a7-8870-daa588a30e7f",
+      "slug": "mount-olive",
+      "page_type": "LOCATION",
+      "title": "Home services in Mount Olive, Morris County",
+      "meta_title": "Mount Olive Home Services | Morris County",
+      "meta_description": "Plan a Mount Olive garage cleanout with material sorting, recycling resources and clear hauling, repair and cleaning scopes. Request help through A5.",
+      "h1": "Home services in Mount Olive.",
+      "primary_service_id": null,
+      "primary_location_id": "mount-olive",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mount Olive, Morris County?",
+      "direct_answer": "For a Mount Olive garage cleanout, separate ordinary recyclables, reusable belongings, appliances and renovation debris before asking for a hauling quote. The county utility authority lists the Mount Olive recycling depot’s accepted materials and resident-only access. Check that list for each load rather than assuming the depot accepts everything from a home project.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Sort the garage before booking the truck",
+          "paragraphs": [
+            "Photograph the whole garage and make a keep, donate and remove list. Note heavy items, shelves fixed to walls and anything in a loft or behind stored belongings. An inventory helps a hauler price access and loading, while keeping possessions you want out of the removal pile.",
+            "The Morris County Municipal Utilities Authority maintains a specific facility listing for the Mount Olive recycling depot, including accepted materials and its restriction to Township residents. The municipal depot and a private removal service serve different needs. Confirm current acceptance before transporting unusual items or asking a contractor to use a resident facility.",
+            "Sequence the work so removal comes before shelf repairs and final cleaning. Ask who disconnects appliances and how materials excluded from the hauling quote will be handled. Chemicals and unknown containers need a confirmed disposal route; do not hide them inside a mixed load."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mount Olive project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Inventory-based removal",
+              "body": "Share photos, approximate quantities and the path to the truck. Ask for excluded materials and any additional loading conditions in writing.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Repair useful storage",
+              "body": "Identify shelves, doors and hardware worth keeping. Schedule repairs after the area is accessible and clarify whether new storage is part of the job.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Clean the cleared space",
+              "body": "Describe the surfaces and remaining mess. Confirm whether the cleaner handles garage floors and ordinary dust; hazardous residues need a different assessment.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can every item from my Mount Olive cleanout go to the municipal recycling depot?",
+              "answer": "No. The county utility authority’s depot listing specifies accepted materials and resident access. Check the actual items against current facility guidance and agree on another disposal route for materials it does not accept."
+            },
+            {
+              "question": "How does A5 help with my Mount Olive request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mount Olive is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mount Olive project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:32.87+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "6857f76e-d3d9-4032-894d-deea4be251d2",
+      "slug": "mountain-lakes",
+      "page_type": "LOCATION",
+      "title": "Home services in Mountain Lakes, Morris County",
+      "meta_title": "Mountain Lakes Home Services | Morris County",
+      "meta_description": "Plan Mountain Lakes repairs with the Borough restoration handbook, material documentation and practical guidance for trim, masonry and painting projects.",
+      "h1": "Home services in Mountain Lakes.",
+      "primary_service_id": null,
+      "primary_location_id": "mountain-lakes",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Mountain Lakes, Morris County?",
+      "direct_answer": "For a Mountain Lakes exterior repair, document the existing materials and details before choosing replacements. The Borough’s restoration handbook is intended for early project planning, particularly for original Hapgood and Belhall houses. Use it alongside current zoning and construction guidance, and ask whether repair can preserve the feature you value.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Understand the detail before replacing it",
+          "paragraphs": [
+            "A worn sill, cracked step or peeling trim does not by itself describe the right repair. Take a wide photograph of the elevation and closer images of profiles, joints and previous patches. Explain which details you want to preserve and which problems affect everyday use.",
+            "Mountain Lakes’ Historic Preservation Committee developed a restoration and renovation handbook focused especially on the community’s original Hapgood and Belhall houses. The Borough recommends reviewing it early, before drawings and material selection. The handbook is design guidance to use with local codes; it is not approval for a particular property or a rule that every house must be restored identically.",
+            "Ask for repair and replacement options that explain what material remains, what is removed and how new work meets the old. Agree on a sample or small test area where finish matching matters. Keep any concealed damage allowance separate so the project can adapt without losing the intended detail."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Mountain Lakes project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Wood trim and door details",
+              "body": "Provide close-ups of the profile and its surrounding context. Ask whether a limited repair is possible and whether custom fabrication is outside the professional’s usual work.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Masonry repair planning",
+              "body": "Show existing joints, surface texture and older patches. Ask the mason how repair materials will be selected for the existing assembly rather than simply covering visible cracks.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Exterior finish matching",
+              "body": "Identify the surfaces and previous coatings. Discuss preparation and a sample area before committing to a full elevation, with repairs completed before final paint.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "When should I use the Mountain Lakes restoration handbook?",
+              "answer": "The Borough recommends it during early planning, before drawings are complete and materials are chosen. It focuses primarily on original Hapgood and Belhall houses, while offering broader design principles. Confirm current approvals separately with the Borough."
+            },
+            {
+              "question": "How does A5 help with my Mountain Lakes request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Mountain Lakes is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Mountain Lakes project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:32.969+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "42f6d0a8-4ab6-4158-89b5-504bfccd1bdc",
+      "slug": "netcong",
+      "page_type": "LOCATION",
+      "title": "Home services in Netcong, Morris County",
+      "meta_title": "Netcong Home Services | Morris County",
+      "meta_description": "Prepare Netcong home repairs with a clear move-in punch list, Borough zoning resources and Byram construction contacts. Connect through the A5 network.",
+      "h1": "Home services in Netcong.",
+      "primary_service_id": null,
+      "primary_location_id": "netcong",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Netcong, Morris County?",
+      "direct_answer": "For a Netcong pre-move repair list, separate cosmetic tasks from work that changes systems or the building. Netcong directs construction permitting and final inspections to Byram Township while retaining Borough zoning resources. Confirm the applicable process before committing to a completion date tied to a move or sale.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Turn a move-in list into manageable scopes",
+          "paragraphs": [
+            "Walk through the house and label each task by room, symptom and desired result. Distinguish a loose handle from a damaged door frame, a stain from an active leak and a worn finish from a change to the room layout. Share the full list so trades can identify work that should happen first.",
+            "Netcong’s Building Permits page describes Borough zoning review and directs building-permit questions and final inspections to Byram Township. Its separate Zoning and Habitability page provides property-transfer information. Use those current resources to check the address and planned work; a contractor’s completion date does not establish municipal clearance.",
+            "Schedule messy or system work before painting and final cleaning. Assign one person to maintain the punch list and approval records. If the timeline is tied to occupancy, identify the required steps with the municipality rather than assuming that finished-looking rooms mean all requirements are complete."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Netcong project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair the small items together",
+              "body": "Group doors, hardware and minor carpentry into a photographed list. Identify tasks needing a different trade so they do not disappear inside a general handyman request.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Resolve plumbing concerns",
+              "body": "Describe leaks, fixture problems and prior repairs. Have the plumber distinguish immediate repair needs from optional replacements before finish work begins.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Prepare rooms for arrival",
+              "body": "Give the cleaner a room list and explain what repair work will precede the visit. Confirm whether the scope is ordinary cleaning or a separate post-renovation clean.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why are Byram construction services relevant to a Netcong home?",
+              "answer": "Netcong’s official permitting page directs homeowners to Byram Township for building-permit questions and final inspections. Netcong maintains its own zoning resources. Follow the Borough’s links to coordinate the correct offices for your project."
+            },
+            {
+              "question": "How does A5 help with my Netcong request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Netcong is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Netcong project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.078+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "09689277-fd2d-4c19-8cbc-b3789ec81781",
+      "slug": "pequannock",
+      "page_type": "LOCATION",
+      "title": "Home services in Pequannock, Morris County",
+      "meta_title": "Pequannock Home Services | Morris County",
+      "meta_description": "Plan Pequannock repairs using current flood resources, clear drainage observations and the right public or private contact. Request home service through A5.",
+      "h1": "Home services in Pequannock.",
+      "primary_service_id": null,
+      "primary_location_id": "pequannock",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Pequannock, Morris County?",
+      "direct_answer": "For a Pequannock water-related project, record where water appears and whether the issue involves the house, a private yard or a public drainage feature. The Township’s flood resource page separates construction-regulation questions from ditch-maintenance concerns and links effective flood maps. Use those resources for property-specific questions before planning repairs.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Send the water problem to the right place",
+          "paragraphs": [
+            "Photograph stains, visible downspout outlets and the route water takes from a safe location. Note whether the problem follows rainfall or fixture use. Avoid entering flooded areas or treating a photo as a diagnosis; the goal is to give the appropriate professional a useful starting point.",
+            "Pequannock’s Flood Information page distinguishes the Construction Official’s floodplain role from Public Works concerns such as drainage ditches and debris near waterways. It also publishes current map resources. These tools help frame a question, but do not mean every Township property shares the same flood conditions or repair requirements.",
+            "Ask for a scope that identifies the suspected source, required assessment and later restoration separately. Report public drainage concerns through Township channels. A private repair quote should state what it addresses and what remains outside its scope, especially if engineering or flood-related review is needed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Pequannock project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Check gutter discharge",
+              "body": "Show overflow or visible outlets and where water lands. Ask whether the problem is maintenance, a damaged component or a larger drainage issue requiring another assessment.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Evaluate a plumbing source",
+              "body": "Explain when water appears and which fixtures are in use. A plumbing assessment covers plumbing causes, not a determination of flood risk or the public drainage system.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore damaged finishes",
+              "body": "Document what has been removed and the area affected. Arrange wall repairs after the source and relevant inspection questions have been addressed.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who handles Pequannock drainage and flood-construction questions?",
+              "answer": "The Township’s Flood Information page directs floodplain construction questions to its Construction Official and ditch-maintenance or waterway-debris concerns to Public Works. Use the linked resources to describe the actual location; A5 does not determine flood status or perform municipal maintenance."
+            },
+            {
+              "question": "How does A5 help with my Pequannock request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Pequannock is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Pequannock project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.271+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3559bbd8-a205-4986-8bf2-0748dd5cbfc7",
+      "slug": "riverdale",
+      "page_type": "LOCATION",
+      "title": "Home services in Riverdale, Morris County",
+      "meta_title": "Riverdale Home Services | Morris County",
+      "meta_description": "Plan Riverdale appliance and utility-room projects with repair information, safe trade handoffs and local recycling resources. Send one clear request to A5.",
+      "h1": "Home services in Riverdale.",
+      "primary_service_id": null,
+      "primary_location_id": "riverdale",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Riverdale, Morris County?",
+      "direct_answer": "For a Riverdale appliance project, decide whether you need diagnosis, replacement, removal or all three. The Borough’s recycling program treats metal appliances, electronics and hazardous waste through different routes. Confirm the current disposal arrangement and who handles disconnection before scheduling removal or delivery.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "An appliance replacement is more than delivery",
+          "paragraphs": [
+            "Collect the model number, symptoms and approximate age without moving or opening the appliance. Photograph the opening and accessible connections. Tell the professional about stairs, narrow doorways and the surfaces that need protection so the visit can be planned around the actual home.",
+            "Riverdale’s published recycling program distinguishes metal appliances and scrap metal from electronics and the county hazardous-waste program. Those categories make it worth checking the item before leaving it for collection. Use current Borough instructions for scheduling and preparation rather than relying on a general cleanout quote.",
+            "Confirm who diagnoses the problem, disconnects utilities, removes the old unit and connects the replacement. Repairing an appliance may avoid unnecessary changes to cabinetry or finishes. If replacement is chosen, arrange any electrical or plumbing work before the final cleanup and keep installation details for future service."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Riverdale project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Appliance diagnosis",
+              "body": "Share the model and what happens during normal use, including any displayed error. Ask whether the visit includes diagnosis only or a repair proposal, and discuss parts before authorizing work.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            },
+            {
+              "title": "Plumbing connections",
+              "body": "For water-connected equipment, identify accessible supply and drain connections. Ask a plumber about leaks or relocation needs rather than assuming a hauler or delivery crew handles them.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Removal with a defined item list",
+              "body": "State exactly what is leaving and whether it is disconnected and accessible. Agree on handling and disposal exclusions before the truck arrives.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Riverdale use one disposal route for appliances and electronics?",
+              "answer": "The Borough’s recycling program lists different arrangements for metal appliances or scrap, electronics and hazardous waste. Check the current instructions for the specific item and confirm disconnection and pickup responsibilities separately."
+            },
+            {
+              "question": "How does A5 help with my Riverdale request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Riverdale is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Riverdale project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.49+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "e05c4167-7c1d-449d-8166-ac4ae38062de",
+      "slug": "rockaway-borough",
+      "page_type": "LOCATION",
+      "title": "Home services in Rockaway Borough, Morris County",
+      "meta_title": "Rockaway Borough Home Services | Morris County",
+      "meta_description": "Plan Rockaway Borough repairs with clear trade sequencing and confirmed inspection requests. Prepare plumbing, electrical and drywall work through A5.",
+      "h1": "Home services in Rockaway Borough.",
+      "primary_service_id": null,
+      "primary_location_id": "rockaway-borough",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Rockaway Borough, Morris County?",
+      "direct_answer": "For Rockaway Borough work involving several trades, keep the permit number, inspection stage and access contact together. The Borough’s Construction Office says an inspection request is not on its schedule until a confirmation email is received. Confirm that step before arranging work that would cover the area being inspected.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Leave room in the schedule for confirmation",
+          "paragraphs": [
+            "A wall opened for a leak can also reveal electrical work or damaged framing. Photograph the opening and list what has been completed, what needs assessment and what must remain accessible. Give each professional the same information so the finish schedule does not run ahead of the underlying repair.",
+            "Rockaway Borough allows inspection requests through email or its online scheduling portal and explicitly tells applicants to look for confirmation. Use the Borough’s process for Borough properties; Rockaway Township is a separate municipality. The requested date should not be treated as a confirmed appointment just because a form was sent.",
+            "Agree on who monitors the inspection response and lets the next trade know the area is ready. Keep records of any follow-up items rather than relying on verbal messages. Price drywall and painting after the opening and finish boundaries are clear."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Rockaway Borough project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plumbing repair first",
+              "body": "Explain the original leak and any temporary repair. Ask the plumber what access is needed and what information should be retained for the project record.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Electrical coordination",
+              "body": "Identify affected fixtures or wiring concerns without touching exposed components. Have the electrician define the work and its relationship to the open wall.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Wall restoration last",
+              "body": "Share the final opening dimensions and agreed inspection sequence. Clarify patching, texture and painting responsibilities so the room reaches a finished condition.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does submitting a Rockaway Borough inspection request confirm the appointment?",
+              "answer": "The Borough’s Construction Office says a confirmation email is sent and that a request without that confirmation is not on the inspection schedule. Follow up through the office if confirmation is missing before planning the next trade’s visit."
+            },
+            {
+              "question": "How does A5 help with my Rockaway Borough request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Rockaway Borough is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Rockaway Borough project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.595+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "dedc6fda-7db0-45cc-81fc-bd1b2851d0d4",
+      "slug": "rockaway-township",
+      "page_type": "LOCATION",
+      "title": "Home services in Rockaway Township, Morris County",
+      "meta_title": "Rockaway Township Home Services | Morris County",
+      "meta_description": "Plan Rockaway Township outdoor improvements with a clear site sketch, Township zoning resources and practical scopes for paving, landscaping and lighting.",
+      "h1": "Home services in Rockaway Township.",
+      "primary_service_id": null,
+      "primary_location_id": "rockaway-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Rockaway Township, Morris County?",
+      "direct_answer": "For a Rockaway Township outdoor project, sketch the existing and proposed structures before getting a price. The Township’s Zoning page specifically lists features such as decks, sheds, fences and retaining walls for review. Confirm the applicable requirements for the address before changing locations or dimensions.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Treat the yard layout as one connected project",
+          "paragraphs": [
+            "A small shed, path and retaining edge may compete for the same access route and usable space. Start with the survey and photos of the full area. Identify doors, slopes and features to retain, and distinguish repair of an existing element from creating a new one.",
+            "Rockaway Township’s Zoning Department reviews applications before construction and lists several common outdoor structures on its guidance page. Use Township resources rather than the separate Rockaway Borough office. Ask which parts of the proposal need review and whether additional construction or engineering input is necessary.",
+            "Have estimates show excavation, base preparation, assembly and restoration as separate responsibilities. If a wall is supporting land or a structure, do not treat it as decorative edging without assessment. Schedule planting and finish work after locations and access needs are settled."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Rockaway Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Paving and retaining features",
+              "body": "Show the height change and adjoining structures in photographs. Ask the mason to identify whether the requested repair is within scope or requires a separate structural design.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Restore the landscape",
+              "body": "Mark plants and lawn to protect during access. Include the final cleanup and restoration area in the estimate instead of adding it after excavation.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Power and lighting needs",
+              "body": "Describe proposed lighting or equipment at the outdoor feature. An electrician should assess the electrical work and coordinate it before paving or walls conceal the route.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Rockaway office should review a Township yard project?",
+              "answer": "Use Rockaway Township’s Zoning Department for a Township property. Its guidance lists outdoor features including decks, sheds, fences and retaining walls. Rockaway Borough is separate; confirm the municipality and exact scope before applying."
+            },
+            {
+              "question": "How does A5 help with my Rockaway Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Rockaway Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Rockaway Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.699+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "4d4882af-25f7-492d-869f-8b24f54b86db",
+      "slug": "roxbury",
+      "page_type": "LOCATION",
+      "title": "Home services in Roxbury, Morris County",
+      "meta_title": "Roxbury Home Services | Morris County",
+      "meta_description": "Plan Roxbury yard cleanup with clear leaf, brush and hauling responsibilities, Township collection guidance and practical gutter and tree-service preparation.",
+      "h1": "Home services in Roxbury.",
+      "primary_service_id": null,
+      "primary_location_id": "roxbury",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Roxbury, Morris County?",
+      "direct_answer": "For a Roxbury yard cleanup, decide whether the contractor will remove the material or prepare it for municipal collection. Township guidance separates grass, leaves and brush and says yard waste must not be blown into the street. Put collection preparation and hauling responsibilities in the quote before work begins.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "A clean yard needs a finished disposal plan",
+          "paragraphs": [
+            "Photograph the areas needing attention and distinguish leaves, ordinary brush, larger limbs and unrelated debris. Identify planting beds to protect and whether the goal includes pruning or only collecting material already on the ground. These differences affect the equipment and removal plan.",
+            "Roxbury’s current sanitation information provides route-based collection resources and separate yard-waste guidance. Its curbside instructions tell residents to notify landscapers that material cannot be deposited in the street. Check current preparation rules before deciding to leave material for the Township’s hauler; a seasonal cleanup quote should not assume every pile will be collected.",
+            "Ask the contractor to state whether bagging, bundling, transport and final sweeping are included. Keep leaves and brush separate from renovation debris. If gutter work is included, coordinate it before the final yard cleanup so debris does not land on a newly finished area."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Roxbury project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Seasonal landscape cleanup",
+              "body": "Define the beds, lawn and paths included. Ask whether the scope includes disposal or only staging material according to current collection instructions.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Gutter maintenance",
+              "body": "Describe overflow and the number of roof levels from the ground. Confirm cleanup below the work and whether damaged components are quoted separately.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Larger branch assessment",
+              "body": "Show larger limbs or tree concerns from a safe distance. Tree assessment, cutting and hauling are separate from a basic leaf cleanup and should be scoped accordingly.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should my Roxbury landscaper leave yard waste in the street?",
+              "answer": "No. The Township’s curbside guidance prohibits blowing, raking or sweeping yard waste into the street and tells residents to inform their landscapers. Agree on compliant preparation or private hauling before the cleanup."
+            },
+            {
+              "question": "How does A5 help with my Roxbury request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Roxbury is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Roxbury project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.816+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2e3906d5-8d53-47cb-8381-6f5e25450df2",
+      "slug": "victory-gardens",
+      "page_type": "LOCATION",
+      "title": "Home services in Victory Gardens, Morris County",
+      "meta_title": "Victory Gardens Home Services | Morris County",
+      "meta_description": "Plan Victory Gardens room refreshes with a clear removal list, local recycling resources and repair-to-cleaning handoffs. Request an independent professional through A5.",
+      "h1": "Home services in Victory Gardens.",
+      "primary_service_id": null,
+      "primary_location_id": "victory-gardens",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Victory Gardens, Morris County?",
+      "direct_answer": "For a Victory Gardens room refresh, separate unwanted belongings from material removed during repairs. The Borough’s recycling page excludes bulk and building material from that collection stream and provides separate appliance arrangements. Confirm the route for each item rather than putting everything at the curb together.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Clear the room without creating a second project outside",
+          "paragraphs": [
+            "Before painting or repairing a room, make a photo list of furniture to keep, items to remove and any fixtures being replaced. Tell the hauler about stairs and tight turns, and agree on protection for doors and floors. Keep repair materials separate from ordinary household belongings.",
+            "Victory Gardens’ recycling guidance distinguishes its accepted stream from bulk and building material, with separate instructions for larger appliances and electronics. Check current Borough notices and arrangements before staging items outdoors. The recycling page is not a promise that every item from a renovation has municipal pickup.",
+            "Arrange removal first, repairs second and final cleaning after dust-producing work. Ask the painter or handyman who takes away the material they remove. This avoids paying for a clean room and then bringing another trade through it to finish an overlooked task."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Victory Gardens project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Room-by-room removal",
+              "body": "Provide the exact item list and identify what stays. Ask the hauler to separate household contents from building debris and state any disposal exclusions.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            },
+            {
+              "title": "Refresh walls and trim",
+              "body": "Show holes, worn surfaces and desired paint boundaries. Confirm repairs and preparation before selecting the final finish.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            },
+            {
+              "title": "Final room cleaning",
+              "body": "Explain which repairs have been completed and whether dust remains. Agree on floors, surfaces and interior windows included in the cleaning scope.",
+              "links": [
+                {
+                  "label": "Explore house cleaning projects",
+                  "href": "/services/house-cleaning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can renovation debris go out with Victory Gardens recycling?",
+              "answer": "The Borough’s recycling page says bulk and building material are not accepted in that collection stream. Confirm an appropriate disposal arrangement and ask your repair contractor or hauler to include it explicitly."
+            },
+            {
+              "question": "How does A5 help with my Victory Gardens request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Victory Gardens is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Victory Gardens project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:33.928+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0e0b7200-0be2-475e-8e97-a3b650b27b5e",
+      "slug": "washington-township-morris",
+      "page_type": "LOCATION",
+      "title": "Home services in Washington Township, Morris County",
+      "meta_title": "Washington Township Home Services | Morris County",
+      "meta_description": "Plan Washington Township, Morris County yard projects with survey, easement and lot-coverage questions before clearing or paving. Request home service through A5.",
+      "h1": "Home services in Washington Township.",
+      "primary_service_id": null,
+      "primary_location_id": "washington-township-morris",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Washington Township, Morris County?",
+      "direct_answer": "For a Washington Township project in Morris County, review the survey and Township zoning resources before clearing vegetation or expanding a patio. Its Zoning page identifies conservation easements, ridgeline considerations and lot-coverage documents. Confirm the property-specific restrictions before choosing the layout or scheduling equipment.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Check the usable area before drawing the new patio",
+          "paragraphs": [
+            "Begin with the part of the property you want to change and the route equipment would take to reach it. Mark existing paving, trees and known easements on the survey. State whether the goal is repair, a larger footprint or clearing space for another use.",
+            "Washington Township’s Morris County zoning resources include a lot-coverage worksheet and maps for conservation easements and the Ridgeline Protection Zone. The page explains that easements can restrict clearing and structures. Use the resources for the Long Valley municipality, not another New Jersey community called Washington, and ask the office to interpret requirements for the actual parcel.",
+            "Ask the professional to price the approved scope rather than assuming all open-looking land is available for work. Separate tree assessment, clearing, paving and restoration. If the layout changes after review, update the estimate before ordering materials or arranging machinery."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Washington Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Tree and clearing assessment",
+              "body": "Identify the specific trees or vegetation under discussion and any known easement. Ask about assessment and approved limits before authorizing removal.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Patio repair or expansion",
+              "body": "Show the existing footprint and proposed change. Have the mason separate restoration from added paving and coordinate any required site review.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Planting after the layout is settled",
+              "body": "Define beds and restoration areas within the agreed work limits. Ask how equipment access and soil disturbance will be repaired when the project ends.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Which Washington Township resources apply to a Long Valley property?",
+              "answer": "Use Washington Township in Morris County at wtmorris.org. Its Zoning page provides easement, lot-coverage and map resources. Other New Jersey municipalities share the Washington name, so confirm the county and property identity before relying on their requirements."
+            },
+            {
+              "question": "How does A5 help with my Washington Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Washington Township is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Washington Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:20:07.076Z",
+      "published_at": "2026-10-08T01:22:34.021+00:00",
+      "last_reviewed_at": "2026-10-08T16:20:07.076Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "d7812a9a-0498-4912-88a2-b6255744450b",
+      "title": "MCMUA Mount Olive Recycling Depot",
+      "url": "https://mcmua.com/facilitydetail.asp?FacilityID=24",
+      "publisher": "Morris County Municipal Utilities Authority",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "47054c73-8964-4386-88f0-c98667fcfd8c",
+      "title": "Mountain Lakes Restoration and Renovation Handbook",
+      "url": "https://mountainlakes.gov/hpc-incentives/restoration/",
+      "publisher": "Borough of Mountain Lakes",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "9966e6b1-f9de-4650-835d-e0614fd6c2c4",
+      "title": "Netcong Building Permits",
+      "url": "https://netcong.org/building-permits/",
+      "publisher": "Borough of Netcong",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "6c7c437d-16cd-4c0a-83c1-8e6794d7191b",
+      "title": "Netcong Zoning and Habitability",
+      "url": "https://netcong.org/zoning-habitability/",
+      "publisher": "Borough of Netcong",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "2e7d906e-00d5-4901-82e3-e8ad48b0c61a",
+      "title": "Pequannock Township Flood Information",
+      "url": "https://peqtwp.org/165/Flood-Information",
+      "publisher": "Pequannock Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "c81c32a4-8c23-4d73-8369-69e626099340",
+      "title": "Riverdale Recycling Program",
+      "url": "https://www.riverdalenj.gov/_Content/pdf/Recycling-Program.pdf",
+      "publisher": "Borough of Riverdale",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "b59ad833-ae4e-4303-84de-4c3e7c2a6ce7",
+      "title": "Rockaway Borough Building and Construction Office",
+      "url": "https://www.rockawayborough.org/departments/construction/",
+      "publisher": "Borough of Rockaway",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "4161f8a3-f7ef-4b9f-8e49-44001f769468",
+      "title": "Rockaway Township Zoning",
+      "url": "https://www.rockawaytownship.org/213/Zoning",
+      "publisher": "Rockaway Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "40321311-ef10-499f-8618-c3101052cad5",
+      "title": "Roxbury Recycling and Sanitation Information",
+      "url": "https://www.roxburynj.us/34/Recycling-Sanitation-information",
+      "publisher": "Township of Roxbury",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "7f689229-871e-4019-8b6e-9140f84973e1",
+      "title": "Roxbury Brush, Grass and Leaves Curbside Guidelines",
+      "url": "https://roxburynj.us/818/Brush-Grass-Leaves--curbside-guidelines",
+      "publisher": "Township of Roxbury",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "b46c43e4-3ce6-436f-8ab5-4bf439a57e5a",
+      "title": "Victory Gardens Recycling",
+      "url": "https://www.victorygardensnj.gov/recycling/",
+      "publisher": "Borough of Victory Gardens",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    },
+    {
+      "id": "5279d62c-967d-432e-8bd0-1a2a84eed7c5",
+      "title": "Washington Township, Morris County Zoning",
+      "url": "https://www.wtmorris.org/index.php/departments/zoning",
+      "publisher": "Washington Township, Morris County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:20:07.076Z",
+      "reviewed_at": "2026-10-08T16:20:07.076Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "8d4601d0-6b12-48a7-8870-daa588a30e7f",
+      "source_id": "d7812a9a-0498-4912-88a2-b6255744450b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "6857f76e-d3d9-4032-894d-deea4be251d2",
+      "source_id": "47054c73-8964-4386-88f0-c98667fcfd8c",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "42f6d0a8-4ab6-4158-89b5-504bfccd1bdc",
+      "source_id": "9966e6b1-f9de-4650-835d-e0614fd6c2c4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "42f6d0a8-4ab6-4158-89b5-504bfccd1bdc",
+      "source_id": "6c7c437d-16cd-4c0a-83c1-8e6794d7191b",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "09689277-fd2d-4c19-8cbc-b3789ec81781",
+      "source_id": "2e7d906e-00d5-4901-82e3-e8ad48b0c61a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3559bbd8-a205-4986-8bf2-0748dd5cbfc7",
+      "source_id": "c81c32a4-8c23-4d73-8369-69e626099340",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "e05c4167-7c1d-449d-8166-ac4ae38062de",
+      "source_id": "b59ad833-ae4e-4303-84de-4c3e7c2a6ce7",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "dedc6fda-7db0-45cc-81fc-bd1b2851d0d4",
+      "source_id": "4161f8a3-f7ef-4b9f-8e49-44001f769468",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "4d4882af-25f7-492d-869f-8b24f54b86db",
+      "source_id": "40321311-ef10-499f-8618-c3101052cad5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "4d4882af-25f7-492d-869f-8b24f54b86db",
+      "source_id": "7f689229-871e-4019-8b6e-9140f84973e1",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2e3906d5-8d53-47cb-8381-6f5e25450df2",
+      "source_id": "b46c43e4-3ce6-436f-8ab5-4bf439a57e5a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0e0b7200-0be2-475e-8e97-a3b650b27b5e",
+      "source_id": "5279d62c-967d-432e-8bd0-1a2a84eed7c5",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "8d4601d0-6b12-48a7-8870-daa588a30e7f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "6857f76e-d3d9-4032-894d-deea4be251d2",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "42f6d0a8-4ab6-4158-89b5-504bfccd1bdc",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "09689277-fd2d-4c19-8cbc-b3789ec81781",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "3559bbd8-a205-4986-8bf2-0748dd5cbfc7",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "e05c4167-7c1d-449d-8166-ac4ae38062de",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "dedc6fda-7db0-45cc-81fc-bd1b2851d0d4",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "4d4882af-25f7-492d-869f-8b24f54b86db",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "2e3906d5-8d53-47cb-8381-6f5e25450df2",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "0e0b7200-0be2-475e-8e97-a3b650b27b5e",
+      "relationship_type": "RELATED"
+    }
+  ]
+}

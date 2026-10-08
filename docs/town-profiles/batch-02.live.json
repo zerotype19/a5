@@ -1,0 +1,80 @@
+{
+  "batch": "02",
+  "sha256": "bfa6ec0a0c8a273bb9c1dbff3601ada6800081cb0351cfb61857ba29a74ded07",
+  "checkedAt": "2026-10-08T16:16:25.566Z",
+  "count": 10,
+  "sitemapCount": 136,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/jefferson-township",
+      "status": 200,
+      "title": "Jefferson Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan Jefferson Township home projects with survey and zoning preparation, equipment details and practical repair guidance. Send one clear request through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/kinnelon",
+      "status": 200,
+      "title": "Kinnelon Home Services | Morris County | A5 Home Services",
+      "description": "Prepare Kinnelon exterior repair requests with clear scope, shared construction-office guidance and practical planning for doors, finishes and outdoor work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/lincoln-park",
+      "status": 200,
+      "title": "Lincoln Park Home Services | Morris County | A5 Home Services",
+      "description": "Plan Lincoln Park home repairs with water-history documentation, flood-review questions and a clear sequence for plumbing, drywall and finish work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/long-hill-township",
+      "status": 200,
+      "title": "Long Hill Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan a Long Hill Township kitchen refresh with clear trade responsibilities, inspection coordination and practical preparation for plumbing, tile and appliances.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mendham-borough",
+      "status": 200,
+      "title": "Mendham Borough Home Services | Morris County | A5 Home Services",
+      "description": "Plan Mendham Borough equipment and electrical projects using local project guides, a clear scope and inspection records. Request an independent professional through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mendham-township",
+      "status": 200,
+      "title": "Mendham Township Home Services | Morris County | A5 Home Services",
+      "description": "Prepare Mendham Township renovation requests with accurate property identity, trade scopes and inspection handoffs. Connect with independent home professionals through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mine-hill",
+      "status": 200,
+      "title": "Mine Hill Home Services | Morris County | A5 Home Services",
+      "description": "Plan Mine Hill repairs with existing permit records, a clear old-versus-new scope and practical preparation for plumbing, electrical and wall restoration.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/montville",
+      "status": 200,
+      "title": "Montville Home Services | Morris County | A5 Home Services",
+      "description": "Plan Montville paving and yard repairs with clear drainage observations, right-of-way questions and restoration scope. Send a focused request through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/morris-plains",
+      "status": 200,
+      "title": "Morris Plains Home Services | Morris County | A5 Home Services",
+      "description": "Plan Morris Plains home updates by separating like-for-like repairs from layout changes. Use Borough resources and clear scopes for fixtures, doors and finishes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mount-arlington",
+      "status": 200,
+      "title": "Mount Arlington Home Services | Morris County | A5 Home Services",
+      "description": "Prepare Mount Arlington yard and home projects with clear boundaries, grading questions and a practical repair sequence. Request help through the A5 network.",
+      "errors": []
+    }
+  ]
+}

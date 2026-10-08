@@ -1,0 +1,157 @@
+{
+  "sha256": "a2ce5ebbd4d7fd3328091db4a99a6707cb73c75910cc8cc048b8bf3e68c24cdc",
+  "pages": [
+    {
+      "id": "8d4601d0-6b12-48a7-8870-daa588a30e7f",
+      "path": "/home-services/mount-olive",
+      "newlyIndexable": true,
+      "purpose": "Organize a garage cleanout around the municipal depot's accepted materials and a private hauling scope",
+      "sourceClaims": [
+        {
+          "title": "MCMUA Mount Olive Recycling Depot",
+          "url": "https://mcmua.com/facilitydetail.asp?FacilityID=24",
+          "publisher": "Morris County Municipal Utilities Authority",
+          "supports": "Depot-specific accepted materials and resident-only access; no hours or comprehensive disposal guarantees copied."
+        }
+      ]
+    },
+    {
+      "id": "6857f76e-d3d9-4032-894d-deea4be251d2",
+      "path": "/home-services/mountain-lakes",
+      "newlyIndexable": true,
+      "purpose": "Use the Borough restoration handbook before replacing original exterior details",
+      "sourceClaims": [
+        {
+          "title": "Mountain Lakes Restoration and Renovation Handbook",
+          "url": "https://mountainlakes.gov/hpc-incentives/restoration/",
+          "publisher": "Borough of Mountain Lakes",
+          "supports": "Handbook purpose, early planning and primary Hapgood/Belhall focus; no property designation inferred."
+        }
+      ]
+    },
+    {
+      "id": "42f6d0a8-4ab6-4158-89b5-504bfccd1bdc",
+      "path": "/home-services/netcong",
+      "newlyIndexable": true,
+      "purpose": "Coordinate a pre-move repair list across Netcong zoning and Byram construction services",
+      "sourceClaims": [
+        {
+          "title": "Netcong Building Permits",
+          "url": "https://netcong.org/building-permits/",
+          "publisher": "Borough of Netcong",
+          "supports": "Netcong zoning and Byram building/final-inspection responsibilities; no blanket permit list copied."
+        },
+        {
+          "title": "Netcong Zoning and Habitability",
+          "url": "https://netcong.org/zoning-habitability/",
+          "publisher": "Borough of Netcong",
+          "supports": "Separate local property-transfer resources and shared Byram construction service, without asserting an individual clearance."
+        }
+      ]
+    },
+    {
+      "id": "09689277-fd2d-4c19-8cbc-b3789ec81781",
+      "path": "/home-services/pequannock",
+      "newlyIndexable": true,
+      "purpose": "Distinguish private property water problems from public drainage and floodplain questions",
+      "sourceClaims": [
+        {
+          "title": "Pequannock Township Flood Information",
+          "url": "https://peqtwp.org/165/Flood-Information",
+          "publisher": "Pequannock Township",
+          "supports": "Distinct construction and public-drainage contacts plus effective flood-map resources; no parcel-level classification or regulatory thresholds."
+        }
+      ]
+    },
+    {
+      "id": "3559bbd8-a205-4986-8bf2-0748dd5cbfc7",
+      "path": "/home-services/riverdale",
+      "newlyIndexable": true,
+      "purpose": "Separate appliance repair, disconnection and disposal in a utility-room refresh",
+      "sourceClaims": [
+        {
+          "title": "Riverdale Recycling Program",
+          "url": "https://www.riverdalenj.gov/_Content/pdf/Recycling-Program.pdf",
+          "publisher": "Borough of Riverdale",
+          "supports": "Separate appliance, electronics and hazardous-waste routes only; dated schedules and fees omitted."
+        }
+      ]
+    },
+    {
+      "id": "e05c4167-7c1d-449d-8166-ac4ae38062de",
+      "path": "/home-services/rockaway-borough",
+      "newlyIndexable": true,
+      "purpose": "Use confirmed inspection appointments to sequence a multi-trade repair",
+      "sourceClaims": [
+        {
+          "title": "Rockaway Borough Building and Construction Office",
+          "url": "https://www.rockawayborough.org/departments/construction/",
+          "publisher": "Borough of Rockaway",
+          "supports": "Inspection request channels and explicit confirmation requirement; no guaranteed appointment or copied hours."
+        }
+      ]
+    },
+    {
+      "id": "dedc6fda-7db0-45cc-81fc-bd1b2851d0d4",
+      "path": "/home-services/rockaway-township",
+      "newlyIndexable": true,
+      "purpose": "Map accessory structures and retaining features before arranging yard work",
+      "sourceClaims": [
+        {
+          "title": "Rockaway Township Zoning",
+          "url": "https://www.rockawaytownship.org/213/Zoning",
+          "publisher": "Rockaway Township",
+          "supports": "Township zoning review and listed outdoor features; no blanket permit determination or thresholds copied."
+        }
+      ]
+    },
+    {
+      "id": "4d4882af-25f7-492d-869f-8b24f54b86db",
+      "path": "/home-services/roxbury",
+      "newlyIndexable": true,
+      "purpose": "Define bagging and hauling responsibilities for a seasonal yard cleanup",
+      "sourceClaims": [
+        {
+          "title": "Roxbury Recycling and Sanitation Information",
+          "url": "https://www.roxburynj.us/34/Recycling-Sanitation-information",
+          "publisher": "Township of Roxbury",
+          "supports": "Current route-based collection and separate yard-material guidance; no dated collection days or limits copied."
+        },
+        {
+          "title": "Roxbury Brush, Grass and Leaves Curbside Guidelines",
+          "url": "https://roxburynj.us/818/Brush-Grass-Leaves--curbside-guidelines",
+          "publisher": "Township of Roxbury",
+          "supports": "No yard waste in street and explicit landscaper reminder; old seasonal dates not used."
+        }
+      ]
+    },
+    {
+      "id": "2e3906d5-8d53-47cb-8381-6f5e25450df2",
+      "path": "/home-services/victory-gardens",
+      "newlyIndexable": true,
+      "purpose": "Separate furniture, building debris and cleaning in a small-room refresh",
+      "sourceClaims": [
+        {
+          "title": "Victory Gardens Recycling",
+          "url": "https://www.victorygardensnj.gov/recycling/",
+          "publisher": "Borough of Victory Gardens",
+          "supports": "Recycling-stream exclusions and separate appliance/electronics arrangements; no schedule, fees or transfer-certificate claims copied."
+        }
+      ]
+    },
+    {
+      "id": "0e0b7200-0be2-475e-8e97-a3b650b27b5e",
+      "path": "/home-services/washington-township-morris",
+      "newlyIndexable": true,
+      "purpose": "Check conservation easements and lot coverage before a Long Valley yard expansion",
+      "sourceClaims": [
+        {
+          "title": "Washington Township, Morris County Zoning",
+          "url": "https://www.wtmorris.org/index.php/departments/zoning",
+          "publisher": "Washington Township, Morris County",
+          "supports": "Conservation easements, ridgeline map and lot-coverage resources; correct Morris County identity; no disturbance thresholds or exemptions reproduced."
+        }
+      ]
+    }
+  ]
+}
