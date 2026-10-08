@@ -20,6 +20,10 @@ Image-led service selection on the new town profiles, direct town navigation, co
 
 ## Release evidence and remaining work
 
-The exact manifests are committed beside this file. Private before snapshots and 275 completed write receipts are under ignored `.wrangler/municipal-expansion/`; no uncertain pending intent remains. Application PR/deployment and live verification results will be added following release.
+The exact manifests are committed beside this file. Private before snapshots and 275 completed write receipts are under ignored `.wrangler/municipal-expansion/`; no uncertain pending intent remains. Application PR [#33](https://github.com/zerotype19/a5/pull/33) merged as `2d8b8e045f1e94f964db7921728e709824d37fce`; its tree exactly matches tested head `35d0a22`. Initial Worker version `a9db0c6e-9c19-4bb1-8d80-014b7030214a` deployed successfully with the five-minute notification cron and existing flags retained.
+
+The live crawl passed all 218 new page responses, canonicals, noindex directives and eight contextual request links per page. All 75 existing sitemap URLs returned 200. It caught a parent directory filter that hid noindex municipal links from the main area directory; the follow-up changes the town branch to receive all published pages while retaining indexable-only service discovery. Final full audit is rerun after that follow-up deploy.
+
+The database audit verified all new vendor mappings through the actual paginated admin loader, all 226 exact municipal records, unchanged existing content/vendor fields outside the approved contact enrichment, 45 open request tasks and 64 vendor tasks. Browser verified the live Ridgewood profile. The admin browser was signed out; authenticated queue rendering was not visually checked. Queue data, pure action logic and the signed-out access boundary are checked separately.
 
 Customer navigation coverage is complete for this registry. Indexable editorial expansion, verified provider capacity, credentials and individual customer handoffs remain operating work. The new directory pages are intentionally excluded from the existing 75-URL sitemap. Follow OPERATING-GUIDE.md and the location expansion playbook for subsequent indexing or territory changes.
