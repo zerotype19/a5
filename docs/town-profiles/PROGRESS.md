@@ -173,3 +173,11 @@ Harmony, Hope, Independence, Knowlton, Liberty Township, Lopatcong, Mansfield To
 ## Batch 21: ready for publication
 
 Washington Township (Warren) and White Township complete the immutable 202-profile queue. Brand positioning ideas approved both. Washington Public Works source verified in live browser; White's source explicitly preserves local zoning with shared Washington construction services. All 32 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 21: published and verified
+
+2026-10-08: PR #70 merged (f250cfe). Two guarded updates applied; 2/2 live checks passed with zero errors. Sitemap: 318 URLs. All 202 queued profiles completed; zero remain.
+
+## Final editorial alignment
+
+Mobile review found inherited request-instructions headings above the new local planning answers. Brand positioning ideas approved the exact 202-record correction to “What should I know before planning a home project in [existing municipality, county]?” Only primary_question and the routine updated_at timestamp change; prior batch manifests remain immutable. Exact correction manifest, review digest, guarded release and final all-profile checks provide separate evidence. Full tests, lint, typecheck and build passed. Belvidere mobile at 390px: readable article and no horizontal overflow; earlier Boonton, Glen Ridge and Closter samples also passed.

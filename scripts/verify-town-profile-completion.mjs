@@ -1,0 +1,30 @@
+/** Check the final rendered heading and original reviewed body across all 202 profiles. */
+import {readFileSync,writeFileSync} from 'node:fs';
+const headings=JSON.parse(readFileSync('content/town-profiles/planning-headings.json','utf8'));
+const manifests=Array.from({length:21},(_,i)=>JSON.parse(readFileSync(`content/town-profiles/batch-${String(i+1).padStart(2,'0')}.manifest.json`,'utf8'))).flatMap(m=>m.updates);
+const origin='https://www.a5homeservices.com';
+const decode=s=>s.replaceAll('&amp;','&').replaceAll('&#x27;',"'").replaceAll('&#39;',"'").replaceAll('&quot;','"');
+const sitemap=await(await fetch(origin+'/sitemap.xml')).text();
+const rows=[];let cursor=0;
+await Promise.all(Array.from({length:5},async()=>{while(cursor<headings.length){
+ const item=headings[cursor++],page=manifests.find(p=>p.id===item.id),path='/home-services/'+item.slug,errors=[];
+ const r=await fetch(origin+path,{signal:AbortSignal.timeout(30000)});
+ const html=decode(await r.text());
+ const head=html.match(/<head\b[^>]*>([\s\S]*?)<\/head>/i)?.[1]??'';
+ const title=head.match(/<title>(.*?)<\/title>/)?.[1];
+ const description=head.match(/name="description" content="([^"]*)"/)?.[1];
+ if(r.status!==200)errors.push('HTTP '+r.status);
+ if(!html.includes(item.after)||html.includes(item.before))errors.push('planning heading');
+ if(!html.includes(page.direct_answer))errors.push('direct answer');
+ if(!title||description!==page.meta_description)errors.push('metadata');
+ if((html.match(/<h1[\s>]/g)||[]).length!==1)errors.push('H1');
+ if(!head.includes(`rel="canonical" href="${origin+path}"`))errors.push('canonical');
+ if(!head.includes('name="robots" content="index, follow"'))errors.push('indexability');
+ if(!sitemap.includes(`<loc>${origin+path}</loc>`))errors.push('sitemap');
+ rows.push({path,status:r.status,title,description,errors});
+}}));
+rows.sort((a,b)=>a.path.localeCompare(b.path));
+const errors=rows.filter(r=>r.errors.length);
+for(const field of ['title','description'])if(new Set(rows.map(r=>r[field])).size!==rows.length)errors.push({path:'all profiles',errors:['duplicate '+field]});
+writeFileSync('docs/town-profiles/FINAL-LIVE.json',JSON.stringify({checkedAt:new Date().toISOString(),count:rows.length,sitemapCount:(sitemap.match(/<loc>/g)||[]).length,errors,rows},null,2)+'\n');
+console.log({checked:rows.length,errors:errors.length});if(errors.length)process.exitCode=1;
