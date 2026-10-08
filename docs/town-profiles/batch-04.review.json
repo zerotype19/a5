@@ -1,0 +1,157 @@
+{
+  "sha256": "266134431776f20f049ec57a762a3329216bd6beb623bc81d75425c6d64b27a8",
+  "pages": [
+    {
+      "id": "5f348ea1-a256-4d98-8d1d-9717e07b99b1",
+      "path": "/home-services/wharton",
+      "newlyIndexable": true,
+      "purpose": "Keep inspections and closeout documents in a home equipment replacement scope",
+      "sourceClaims": [
+        {
+          "title": "Wharton Construction Department",
+          "url": "https://www.whartonnj.com/index.php/departments/construction-department",
+          "publisher": "Borough of Wharton",
+          "supports": "Inspection coordination through the technical assistant and attention to final certificates; no fees, deadlines or exemptions copied."
+        }
+      ]
+    },
+    {
+      "id": "ae6f6c05-9143-4b8d-80aa-3f8e62ffac7f",
+      "path": "/home-services/belleville",
+      "newlyIndexable": true,
+      "purpose": "Separate curb-tree questions from private yard work before planning the front landscape",
+      "sourceClaims": [
+        {
+          "title": "Belleville Public Works",
+          "url": "https://www.bellevillenj.org/departments/public-works",
+          "publisher": "Township of Belleville",
+          "supports": "Township curb-tree responsibility and local collection resources; no property ownership determination for an individual tree."
+        }
+      ]
+    },
+    {
+      "id": "46610a56-d4a4-4395-8f1b-f361dbdf24c5",
+      "path": "/home-services/caldwell",
+      "newlyIndexable": true,
+      "purpose": "Define the footprint of a front-walk, driveway or fence project before material selection",
+      "sourceClaims": [
+        {
+          "title": "Caldwell Construction and Zoning",
+          "url": "https://caldwell-nj.com/construction",
+          "publisher": "Borough of Caldwell",
+          "supports": "Borough exterior-project review resources and construction/zoning contact, without blanket permit rules."
+        }
+      ]
+    },
+    {
+      "id": "33c44e2f-5529-4d38-806f-1a056e1733af",
+      "path": "/home-services/cedar-grove",
+      "newlyIndexable": true,
+      "purpose": "Prepare a tree-by-tree scope including removal, stump work and restoration",
+      "sourceClaims": [
+        {
+          "title": "Cedar Grove Stormwater Management Program",
+          "url": "https://www.cedargrovenj.org/197/Stormwater-Management-Program",
+          "publisher": "Township of Cedar Grove",
+          "supports": "Official links to tree-removal/replacement and yard-waste resources."
+        },
+        {
+          "title": "Cedar Grove Tree Removal Application",
+          "url": "https://cedargrovenj.org/DocumentCenter/View/177",
+          "publisher": "Township of Cedar Grove",
+          "supports": "Tree-specific application information including location and reason; no fees, thresholds or universal permit claims."
+        }
+      ]
+    },
+    {
+      "id": "d29ef9c2-3bf0-4437-8a48-964734fd358e",
+      "path": "/home-services/east-orange",
+      "newlyIndexable": true,
+      "purpose": "Turn a property-maintenance concern into a documented repair list with accountable closeout",
+      "sourceClaims": [
+        {
+          "title": "East Orange Code Enforcement and Property Maintenance",
+          "url": "https://www.eastorange-nj.gov/253/Code-Enforcement",
+          "publisher": "City of East Orange",
+          "supports": "Residential property-maintenance remit and official contact; no specific violation or clearance process inferred."
+        }
+      ]
+    },
+    {
+      "id": "2a9aca47-8ed0-45e5-8a38-43e12f6f7f2a",
+      "path": "/home-services/essex-fells",
+      "newlyIndexable": true,
+      "purpose": "Coordinate gutter and yard cleanup around the property's drainage path",
+      "sourceClaims": [
+        {
+          "title": "Essex Fells Stormwater Management",
+          "url": "https://www.essexfellsboro.com/pages/stormwater-management",
+          "publisher": "Borough of Essex Fells",
+          "supports": "Separate yard-waste, private-inlet and municipal stormwater resources; no parcel flood status or engineering design inferred."
+        }
+      ]
+    },
+    {
+      "id": "44de6a7c-7ca9-4139-8cee-1d842673d9cc",
+      "path": "/home-services/fairfield",
+      "newlyIndexable": true,
+      "purpose": "Check engineering and parcel resources before changing driveway drainage or yard grades",
+      "sourceClaims": [
+        {
+          "title": "Fairfield Township Engineering",
+          "url": "https://www.fairfieldtownshipnj.gov/192/Engineering",
+          "publisher": "Township of Fairfield, Essex County",
+          "supports": "Engineering responsibilities for exterior improvements and official flood/tax map resources; no parcel-level risk or permit exemption inferred."
+        }
+      ]
+    },
+    {
+      "id": "2372486c-487a-42fc-86f8-bfed591bd0d5",
+      "path": "/home-services/glen-ridge",
+      "newlyIndexable": true,
+      "purpose": "Preserve exterior details and check historic review before choosing replacements",
+      "sourceClaims": [
+        {
+          "title": "Glen Ridge Historic Preservation Commission",
+          "url": "https://www.glenridgenj.org/hpc/",
+          "publisher": "Borough of Glen Ridge",
+          "supports": "Current historic-review resources, minor application and guidance on exterior features; no universal approval requirement or processing time asserted."
+        }
+      ]
+    },
+    {
+      "id": "860d64e9-0948-4057-8052-75bc4ed78328",
+      "path": "/home-services/irvington",
+      "newlyIndexable": true,
+      "purpose": "Distinguish a private plumbing or paving problem from a public right-of-way issue",
+      "sourceClaims": [
+        {
+          "title": "Irvington Public Works",
+          "url": "https://irvingtonnj.gov/public-works/",
+          "publisher": "Township of Irvington, New Jersey",
+          "supports": "Public right-of-way responsibilities and road/sidewalk opening resources; no individual ownership or repair liability inferred."
+        },
+        {
+          "title": "Irvington Building Construction",
+          "url": "https://irvingtonnj.gov/building-construction/",
+          "publisher": "Township of Irvington, New Jersey",
+          "supports": "Separate municipal construction-permitting function, without specific exemptions or clearance claims."
+        }
+      ]
+    },
+    {
+      "id": "06c2c95f-47a4-4ff2-8976-1e7ac02df5de",
+      "path": "/home-services/maplewood",
+      "newlyIndexable": true,
+      "purpose": "Include equipment choice and debris handling in a seasonal yard-cleanup quote",
+      "sourceClaims": [
+        {
+          "title": "Maplewood Township Municipal Update, July 29, 2026",
+          "url": "https://content.govdelivery.com/accounts/NJMAPLEWOOD/bulletins/42280e0",
+          "publisher": "Township of Maplewood",
+          "supports": "Current municipal reminder distinguishing gas, electric/battery and turbo blower rules; exact hours, fees and seasonal dates not copied."
+        }
+      ]
+    }
+  ]
+}

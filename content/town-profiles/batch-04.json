@@ -1,0 +1,404 @@
+[
+  {
+    "location": "wharton",
+    "focus": "Keep inspections and closeout documents in a home equipment replacement scope",
+    "description": "Plan Wharton home repairs with clear trade responsibilities, inspection coordination and a practical project closeout list. Request help through A5.",
+    "answer": "For a Wharton equipment replacement or repair project, include inspection coordination and final records in the scope from the start. The Borough routes inspections through its Construction Department's technical assistant and reminds owners to confirm that required final certificates have been issued. A working appliance or freshly finished wall is only one part of closing the project.",
+    "heading": "Finish the project with the records you need",
+    "paragraphs": [
+      "Start with the equipment or problem, its location and the outcome you want. Photograph model labels and accessible connections without opening equipment. Tell the professional about any earlier work or open permit you know of so a replacement is not priced as though the surrounding system were new.",
+      "Wharton's Construction Department provides the local inspection contact and guidance on final certificates. Ask the office what applies to your scope and agree with the contractor who will request inspections and collect the resulting paperwork. This is especially useful when more than one trade contributes to the same installation.",
+      "Build a short handover list: operating instructions, warranty information, the final scope, any remaining defects and applicable inspection records. Plan patching and paint around required access. Keep the documents with the home records so a later service call begins with the installation history rather than guesswork."
+    ],
+    "projects": [
+      {
+        "title": "Heating equipment handover",
+        "body": "Include model information, the reported symptoms and access conditions. Ask the installer to explain operation and identify which project records you should retain.",
+        "service": "hvac"
+      },
+      {
+        "title": "Plumbing replacement scope",
+        "body": "Clarify what pipework, shutoffs and removal are included. Ask who coordinates any required inspection before surrounding finishes are restored.",
+        "service": "plumbing"
+      },
+      {
+        "title": "Restore walls after trade work",
+        "body": "Mark the openings to be patched and agree on the finish level. Confirm that the relevant trade no longer needs access before the repair is closed.",
+        "service": "drywall"
+      }
+    ],
+    "question": "Who should arrange a Wharton project's final inspection?",
+    "response": "Agree on the responsible person with your contractor and use the Borough Construction Department's inspection process. Confirm which inspections and final documents apply to your work; do not assume they are complete because the equipment is running.",
+    "sources": [
+      {
+        "title": "Wharton Construction Department",
+        "url": "https://www.whartonnj.com/index.php/departments/construction-department",
+        "publisher": "Borough of Wharton",
+        "supports": "Inspection coordination through the technical assistant and attention to final certificates; no fees, deadlines or exemptions copied."
+      }
+    ]
+  },
+  {
+    "location": "belleville",
+    "focus": "Separate curb-tree questions from private yard work before planning the front landscape",
+    "description": "Plan Belleville front-yard projects with curb-tree guidance, clear property boundaries and coordinated landscaping, tree and walkway repair scopes.",
+    "answer": "For a Belleville front-yard project, identify whether the tree or damaged feature is on private property or along the public curb before requesting removal or repair. Belleville Public Works describes curb trees as Township property under its care. Start municipal tree questions there, and give your private professional a clearly defined work area.",
+    "heading": "Draw the boundary around the front-yard job",
+    "paragraphs": [
+      "Take a photograph that shows the house, front walk, curb and tree together. Then add close-ups of the concern: a raised paving section, broken branch, exposed root or planting bed. A close-up alone can hide the location that determines whom to contact first.",
+      "Belleville's Public Works page distinguishes Township curb-tree maintenance and provides local collection resources. Check with the Township before treating a curb tree as part of a private tree-removal quote. The same project may still include private planting, lawn restoration or walkway work, but those scopes need their own boundaries and any applicable approvals.",
+      "Ask each professional to specify protection for nearby trees, how debris will leave the property and which surfaces will be restored. Keep municipal questions separate from the private estimate so an unresolved curb-tree issue does not become an assumed promise in the landscaping price."
+    ],
+    "projects": [
+      {
+        "title": "Private planting-bed refresh",
+        "body": "Share the bed outline and plants to keep. Describe the desired result and confirm access without assuming that a nearby curb tree may be altered.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Assess the correct tree",
+        "body": "Identify the tree's location in a wide photograph. Resolve ownership and municipal involvement before agreeing on private tree work.",
+        "service": "tree-services"
+      },
+      {
+        "title": "Front-walk repair planning",
+        "body": "Show uneven sections and nearby roots. Ask for a repair assessment and check the approval process before changing a public-facing walkway or curb area.",
+        "service": "masonry"
+      }
+    ],
+    "question": "Should a Belleville curb tree be included in my private removal request?",
+    "response": "First contact Belleville Public Works, whose page identifies curb trees as Township property. Confirm responsibility and the allowed scope before engaging a private professional for work affecting that tree.",
+    "sources": [
+      {
+        "title": "Belleville Public Works",
+        "url": "https://www.bellevillenj.org/departments/public-works",
+        "publisher": "Township of Belleville",
+        "supports": "Township curb-tree responsibility and local collection resources; no property ownership determination for an individual tree."
+      }
+    ]
+  },
+  {
+    "location": "caldwell",
+    "focus": "Define the footprint of a front-walk, driveway or fence project before material selection",
+    "description": "Prepare Caldwell walkway, driveway and fence projects with a measured scope, Borough review resources and coordinated repair planning through A5.",
+    "answer": "For a Caldwell front-walk, driveway or fence project, distinguish repair within the existing footprint from a change in size, position or materials. The Borough's Construction and Zoning resources specifically address these exterior projects. Bring a simple sketch and the property information to the office before ordering materials for a changed layout.",
+    "heading": "Decide what stays before designing what changes",
+    "paragraphs": [
+      "Measure the visible work area and photograph its connection to the house, sidewalk and neighboring property. Note whether the problem is a loose section, surface wear, water collecting or a layout that no longer works. Those are different requests even when they involve the same few square feet.",
+      "Caldwell's Construction page combines construction and zoning contacts with resources for exterior improvements, including driveways, sidewalks and fences. Use the Borough's process for your address and exact scope. A contractor's estimate should not substitute for checking whether a proposed footprint or replacement needs review.",
+      "Ask for separate pricing for the repair you need and the optional redesign you are considering. Include removal, base preparation, transitions, access and restoration of disturbed planting. Clear alternatives make it easier to compare bids without accidentally choosing a larger project than you intended."
+    ],
+    "projects": [
+      {
+        "title": "Repair a defined walking surface",
+        "body": "Mark the sections that move or have deteriorated. Ask whether the underlying support needs assessment before selecting a new surface treatment.",
+        "service": "masonry"
+      },
+      {
+        "title": "Limited gate and hardware repairs",
+        "body": "Describe sticking, sagging or latch problems and include photos of the supports. Clarify whether the task is hardware repair or replacement of the larger fence assembly.",
+        "service": "handyman"
+      },
+      {
+        "title": "Restore the edges after construction",
+        "body": "Show the planting and lawn areas likely to be disturbed. Schedule final landscaping after the hard surface work and cleanup are complete.",
+        "service": "landscaping"
+      }
+    ],
+    "question": "What should I take to Caldwell before changing an exterior layout?",
+    "response": "Prepare the address, available property survey, a sketch of the existing and proposed work, and photos. Ask Construction and Zoning which reviews apply before committing to the footprint or ordering materials.",
+    "sources": [
+      {
+        "title": "Caldwell Construction and Zoning",
+        "url": "https://caldwell-nj.com/construction",
+        "publisher": "Borough of Caldwell",
+        "supports": "Borough exterior-project review resources and construction/zoning contact, without blanket permit rules."
+      }
+    ]
+  },
+  {
+    "location": "cedar-grove",
+    "focus": "Prepare a tree-by-tree scope including removal, stump work and restoration",
+    "description": "Plan Cedar Grove tree work with a clear tree inventory, Township application resources and separate removal, stump and landscape restoration scopes.",
+    "answer": "For Cedar Grove tree work, identify each tree and the reason for the request before asking for a single removal price. The Township's tree application asks for tree-specific information and location details. Confirm the current review requirements, then agree separately on cutting, stump work, debris removal and replacement planting.",
+    "heading": "Make the tree list more specific than the quote",
+    "paragraphs": [
+      "Photograph each tree from a safe position and label the images consistently on a simple yard sketch. Explain the concern without attempting to diagnose the tree yourself. Include nearby structures and the route equipment would use; those details affect the assessment and the restoration plan.",
+      "Cedar Grove publishes a tree-removal application and links tree regulations from its stormwater resources. The application organizes information by tree, location and reason for removal. Use that structure to prepare a focused inquiry to the Township. Do not assume that a tree on private land is automatically outside local review.",
+      "Ask the professional to itemize what remains after cutting: stump, roots, logs, chips or a disturbed lawn. Confirm any applicable replacement-planting requirements with the Township and include responsibility for follow-through. A low cutting price may describe a different finished yard from the one you expect."
+    ],
+    "projects": [
+      {
+        "title": "Tree assessment and removal scope",
+        "body": "Provide the labeled tree photos and access sketch. Ask the professional to explain the recommended work and identify exclusions such as stump grinding.",
+        "service": "tree-services"
+      },
+      {
+        "title": "Plan the restored planting area",
+        "body": "Describe how you want to use the space after tree work. Coordinate grading, soil and planting with any municipal requirements rather than treating restoration as an afterthought.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Repair affected hard surfaces",
+        "body": "Photograph damaged edging or paving separately. Have its condition assessed before assuming tree removal alone will correct a walkway problem.",
+        "service": "masonry"
+      }
+    ],
+    "question": "What information helps with Cedar Grove tree-work planning?",
+    "response": "Use a labeled inventory, photographs, locations and the reason each tree is being considered. Check the Township's current application and review process, then distinguish removal from stump work and restoration in the private quote.",
+    "sources": [
+      {
+        "title": "Cedar Grove Stormwater Management Program",
+        "url": "https://www.cedargrovenj.org/197/Stormwater-Management-Program",
+        "publisher": "Township of Cedar Grove",
+        "supports": "Official links to tree-removal/replacement and yard-waste resources."
+      },
+      {
+        "title": "Cedar Grove Tree Removal Application",
+        "url": "https://cedargrovenj.org/DocumentCenter/View/177",
+        "publisher": "Township of Cedar Grove",
+        "supports": "Tree-specific application information including location and reason; no fees, thresholds or universal permit claims."
+      }
+    ]
+  },
+  {
+    "location": "east-orange",
+    "focus": "Turn a property-maintenance concern into a documented repair list with accountable closeout",
+    "description": "Organize East Orange home maintenance with a photographed repair list, clear trade scopes and City property-maintenance resources. Request service with A5.",
+    "answer": "For an East Orange property-maintenance project, separate the observed condition, the requested repair and any City follow-up into a written list. The City's Code Enforcement page identifies Property Maintenance as a resource for residential property concerns. If an official notice is involved, use its specific items and confirm closeout requirements with the City.",
+    "heading": "Make every item on the repair list traceable",
+    "paragraphs": [
+      "Number the issues by room or exterior area and attach a photograph to each one. Describe what you can observe, such as a door that will not close or a surface that keeps getting wet. Record when the issue appeared and any earlier repair so the professional can investigate the cause rather than simply cover the symptom.",
+      "East Orange's Property Maintenance team addresses residential property concerns through the City's Code Enforcement resources. A homeowner seeking help can use that contact to clarify an official issue, while a private professional develops the repair scope. A5's introduction does not resolve a municipal notice or certify compliance.",
+      "Agree on which items each trade owns, what must happen before finishing work and what completion evidence you want. Where City follow-up is required, keep that step separate from the contractor's invoice. Save before-and-after photos and any inspection records in the same numbered list."
+    ],
+    "projects": [
+      {
+        "title": "Group small functional repairs",
+        "body": "List doors, hardware and limited carpentry individually. Ask the professional to identify items that need another trade rather than accepting a vague whole-house repair promise.",
+        "service": "handyman"
+      },
+      {
+        "title": "Address the source of recurring dampness",
+        "body": "Describe when water appears and which fixtures are nearby. Request diagnosis and repair before adding painting or wall restoration to the schedule.",
+        "service": "plumbing"
+      },
+      {
+        "title": "Finish repaired surfaces",
+        "body": "Identify the rooms, damaged areas and desired finish. Confirm that underlying repairs are complete and surfaces ready before agreeing on preparation and paint.",
+        "service": "painting"
+      }
+    ],
+    "question": "Does completing a private repair close an East Orange property-maintenance notice?",
+    "response": "Do not assume so. Confirm the required follow-up with the City using the actual notice and retain the relevant repair records. A contractor's work and the City's administrative closeout are separate steps.",
+    "sources": [
+      {
+        "title": "East Orange Code Enforcement and Property Maintenance",
+        "url": "https://www.eastorange-nj.gov/253/Code-Enforcement",
+        "publisher": "City of East Orange",
+        "supports": "Residential property-maintenance remit and official contact; no specific violation or clearance process inferred."
+      }
+    ]
+  },
+  {
+    "location": "essex-fells",
+    "focus": "Coordinate gutter and yard cleanup around the property's drainage path",
+    "description": "Plan Essex Fells gutter and yard maintenance with stormwater resources, a clear debris-removal scope and careful separation of public and private drainage.",
+    "answer": "For an Essex Fells gutter and yard cleanup, show where roof water travels and where leaves or debris collect. The Borough's stormwater resources include yard-waste and private storm-drain guidance. Use those resources to plan maintenance without pushing debris into drainage structures or assuming every inlet is a municipal repair responsibility.",
+    "heading": "Follow the water when planning the cleanup",
+    "paragraphs": [
+      "Photograph the gutter outlet, ground below it and any nearby drain from a safe location. Note whether the concern happens during rain, after a cleanup or even in dry weather. This gives the professional a sequence to investigate instead of a general request to fix a wet yard.",
+      "Essex Fells publishes stormwater information with separate resources for containerized yard waste, private storm-drain inlets and municipal drainage infrastructure. Those distinctions matter when a cleanup affects the edge of the street or an inlet on the property. Ask the Borough about responsibility when the boundary is unclear; a map alone does not diagnose your home's drainage problem.",
+      "Schedule gutter debris collection and yard cleanup as a coordinated scope. Specify how material will be contained, removed and kept away from inlets. If a repair changes where water flows, obtain an assessment and check applicable municipal review before adding it to a routine maintenance visit."
+    ],
+    "projects": [
+      {
+        "title": "Gutter cleaning with a defined finish",
+        "body": "Describe overflowing sections and accessible outlet locations. Ask whether the quote includes collecting ground debris and reporting visible damage after cleaning.",
+        "service": "gutters"
+      },
+      {
+        "title": "Contain yard debris",
+        "body": "Show leaf accumulation and the agreed collection area. Confirm how material will be prepared or hauled away without using a drain as a disposal route.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Assess a damaged private surface",
+        "body": "Photograph settled paving and where water collects. Ask for an assessment before covering the area or changing its slope.",
+        "service": "masonry"
+      }
+    ],
+    "question": "Who handles a drain involved in an Essex Fells yard project?",
+    "response": "Identify its location and ask the Borough if responsibility is unclear. Essex Fells provides both municipal stormwater information and private-inlet guidance. Confirm responsibility before hiring for a repair or modifying the drainage path.",
+    "sources": [
+      {
+        "title": "Essex Fells Stormwater Management",
+        "url": "https://www.essexfellsboro.com/pages/stormwater-management",
+        "publisher": "Borough of Essex Fells",
+        "supports": "Separate yard-waste, private-inlet and municipal stormwater resources; no parcel flood status or engineering design inferred."
+      }
+    ]
+  },
+  {
+    "location": "fairfield",
+    "focus": "Check engineering and parcel resources before changing driveway drainage or yard grades",
+    "description": "Plan Fairfield, Essex County driveway and yard projects with Township engineering resources, drainage observations and clearly defined repair scopes.",
+    "answer": "For a Fairfield, Essex County driveway or yard project, document the existing slope and water problem before requesting fill or expansion. Township Engineering provides grading, driveway, curb and sidewalk resources along with flood and tax maps. Ask how those resources apply to the actual parcel before designing a change to drainage.",
+    "heading": "Investigate the puddle before adding material",
+    "paragraphs": [
+      "Record where water collects and whether the problem follows rainfall, a blocked outlet or a recent property change. Photograph the relationship between the driveway, building, neighboring grade and street. Do not treat a photograph as enough information to prescribe fill, a new drain or a higher paved surface.",
+      "Fairfield Township Engineering lists review responsibilities for grading and several exterior improvements and provides parcel-related map resources. This is Fairfield in Essex County. Use the address and block-and-lot information when contacting the Township; the maps are a starting point for questions, not a determination that a specific improvement is permitted or a property is outside flood risk.",
+      "Ask the professional to separate diagnosis, design and physical work in the estimate. Include where excavated material goes and how disturbed lawn or paving will be restored. If the proposed solution redirects water, resolve review and design questions before selecting finishes or scheduling installation."
+    ],
+    "projects": [
+      {
+        "title": "Assess paving and its base",
+        "body": "Mark settled or broken sections and the nearby drainage path. Ask whether a localized repair will address the cause or only the visible surface.",
+        "service": "masonry"
+      },
+      {
+        "title": "Plan yard restoration",
+        "body": "Define the area to be restored after approved work. Discuss planting and soil preparation without assuming that adding soil is the correct drainage remedy.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Check roof-water maintenance",
+        "body": "Describe gutter overflow and outlet condition separately from yard grading. Cleaning or repairing a gutter may be one part of an assessment, not a substitute for a drainage plan.",
+        "service": "gutters"
+      }
+    ],
+    "question": "Can Fairfield's online maps approve my driveway or grading plan?",
+    "response": "No. The Township provides maps as a resource, while Engineering can explain the review needed for your parcel and scope. Confirm the applicable process before changing grades, expanding paving or redirecting water.",
+    "sources": [
+      {
+        "title": "Fairfield Township Engineering",
+        "url": "https://www.fairfieldtownshipnj.gov/192/Engineering",
+        "publisher": "Township of Fairfield, Essex County",
+        "supports": "Engineering responsibilities for exterior improvements and official flood/tax map resources; no parcel-level risk or permit exemption inferred."
+      }
+    ]
+  },
+  {
+    "location": "glen-ridge",
+    "focus": "Preserve exterior details and check historic review before choosing replacements",
+    "description": "Plan Glen Ridge exterior repairs with historic-review resources, existing-material photos and clear scopes for doors, masonry, painting and trim.",
+    "answer": "For a Glen Ridge exterior project, check the property's historic-district status and the proposed work with the Historic Preservation Commission before selecting replacements. The Borough provides design guidance and application paths for exterior changes. Photograph original details and compare repair with replacement so the proposal describes what will actually change.",
+    "heading": "Keep the detail visible in the project brief",
+    "paragraphs": [
+      "Start with a full view of the porch or elevation and closer photos of the door, trim, masonry or other feature. Record dimensions, profiles and existing finishes where practical. Tell the professional which details you value and what is failing, rather than asking for a generic modern replacement.",
+      "Glen Ridge's Historic Preservation Commission publishes local design guidance and review information, including a minor-application process. Its guidance addresses exterior features such as doors, windows and previously unpainted masonry. Check district status and the exact scope with the Borough; neither the age of a house nor a small quote alone tells you which process applies.",
+      "Request a proposal that names materials and shows how the finished work will meet the existing building. Use samples where a match matters, and resolve review questions before purchasing custom items. Keep preparation, concealed repairs and final finish distinct so a change discovered during work can be discussed clearly."
+    ],
+    "projects": [
+      {
+        "title": "Repair doors and exterior trim",
+        "body": "Share the profile and surrounding details, not just the damaged spot. Ask whether repair is practical and whether custom matching is within the professional's experience.",
+        "service": "handyman"
+      },
+      {
+        "title": "Evaluate masonry repairs",
+        "body": "Show existing joints and earlier patches. Discuss compatible repair materials and consult the Borough before planning a change to the appearance of unpainted masonry.",
+        "service": "masonry"
+      },
+      {
+        "title": "Define the paint preparation",
+        "body": "Identify existing coatings and the proposed finish. Keep underlying wood or masonry repairs ahead of painting and include a sample where matching is important.",
+        "service": "painting"
+      }
+    ],
+    "question": "Does a small Glen Ridge exterior job automatically avoid historic review?",
+    "response": "Do not assume so. Check the property's district status and specific work with the Historic Preservation Commission, which provides design guidance and application information, including a minor-work process.",
+    "sources": [
+      {
+        "title": "Glen Ridge Historic Preservation Commission",
+        "url": "https://www.glenridgenj.org/hpc/",
+        "publisher": "Borough of Glen Ridge",
+        "supports": "Current historic-review resources, minor application and guidance on exterior features; no universal approval requirement or processing time asserted."
+      }
+    ]
+  },
+  {
+    "location": "irvington",
+    "focus": "Distinguish a private plumbing or paving problem from a public right-of-way issue",
+    "description": "Prepare Irvington drainage and exterior repair requests with clear location photos, Township Public Works resources and separate private repair scopes.",
+    "answer": "For an Irvington drainage or exterior repair request, show whether the problem is inside the home, on the private lot or in the street and sidewalk area. Township Public Works identifies public infrastructure and right-of-way permits among its responsibilities. Confirm the responsible party before including public-area work in a private repair quote.",
+    "heading": "Give the problem a precise location",
+    "paragraphs": [
+      "Take a wide photo showing the house and street, then a closer image of the affected area if safe. Describe when the problem occurs, how long it lasts and whether it involves a fixture, yard drain, curb or street inlet. This helps separate a plumbing call from a municipal infrastructure report without asking you to diagnose the system.",
+      "Irvington's Public Works page lists public right-of-way infrastructure responsibilities and provides road and sidewalk opening resources. The Township's Building Construction page separately addresses private construction permitting. Use the correct department for the proposed work and ask about boundaries before arranging excavation or a change near the street.",
+      "For private work, ask the estimate to identify investigation, repair and restoration separately. Clarify who handles access, any required approvals and cleanup. If an unresolved public issue affects the project, record that dependency so it is not mistaken for a task the private professional has agreed to complete."
+    ],
+    "projects": [
+      {
+        "title": "Investigate private plumbing symptoms",
+        "body": "Describe affected fixtures and whether symptoms occur together. Provide any prior findings and ask what investigation is included before authorizing a larger repair.",
+        "service": "plumbing"
+      },
+      {
+        "title": "Repair the defined paving area",
+        "body": "Mark the damaged area and its connection to the sidewalk or curb. Confirm responsibility and approvals before widening the scope beyond the private surface.",
+        "service": "masonry"
+      },
+      {
+        "title": "Restore disturbed landscape",
+        "body": "Agree on what soil, lawn and planting will be restored after the repair. Keep that finish scope separate from diagnosing the original water problem.",
+        "service": "landscaping"
+      }
+    ],
+    "question": "Should every Irvington water or sidewalk problem go straight to a private contractor?",
+    "response": "First identify where it occurs and whether public infrastructure is involved. Township Public Works provides the appropriate starting point for right-of-way questions; a private professional can assess the work for which the property owner is responsible.",
+    "sources": [
+      {
+        "title": "Irvington Public Works",
+        "url": "https://irvingtonnj.gov/public-works/",
+        "publisher": "Township of Irvington, New Jersey",
+        "supports": "Public right-of-way responsibilities and road/sidewalk opening resources; no individual ownership or repair liability inferred."
+      },
+      {
+        "title": "Irvington Building Construction",
+        "url": "https://irvingtonnj.gov/building-construction/",
+        "publisher": "Township of Irvington, New Jersey",
+        "supports": "Separate municipal construction-permitting function, without specific exemptions or clearance claims."
+      }
+    ]
+  },
+  {
+    "location": "maplewood",
+    "focus": "Include equipment choice and debris handling in a seasonal yard-cleanup quote",
+    "description": "Plan Maplewood yard cleanup with local leaf-blower guidance, clear debris handling and coordinated gutter and landscape work. Request help through A5.",
+    "answer": "For a Maplewood yard cleanup, include the proposed equipment and debris-removal method in the quote. The Township publishes equipment-specific leaf-blower restrictions, including separate treatment of turbo blowers. Check the current rules for the planned date and equipment rather than assuming a particular blower is permitted.",
+    "heading": "Specify how the cleanup will be done",
+    "paragraphs": [
+      "Walk the property and divide the cleanup into lawn, beds, hard surfaces and gutter-related debris. Identify plants to protect and places where material should not be piled. Share photos and say whether you expect on-site preparation for municipal collection or private hauling; those are different scopes.",
+      "Maplewood's municipal guidance distinguishes electric or battery equipment from restricted gas-powered blowers and separately addresses turbo equipment. The Township's current notice links the applicable rules. Confirm equipment and permitted use for the actual work date with the professional, rather than importing a schedule or assumption from a neighboring town.",
+      "Sequence gutter work before the final yard pass so leaves are not cleaned up twice. Ask who gathers debris from hard surfaces, how it will be contained and what happens if it is unsuitable for the planned collection route. A useful quote describes the finished property and the method, not simply a number of worker-hours."
+    ],
+    "projects": [
+      {
+        "title": "Seasonal cleanup with an agreed method",
+        "body": "List the areas to be cleared and equipment proposed. Confirm preparation or hauling responsibilities and protect plants that should remain untouched.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Gutter work before the final pass",
+        "body": "Describe overflowing sections and access. Ask how removed debris will be collected and coordinate timing with the yard cleanup.",
+        "service": "gutters"
+      },
+      {
+        "title": "Separate non-yard items",
+        "body": "Photograph old furniture, planters and other unwanted objects separately from leaves. Obtain a clear removal scope instead of assuming municipal yard collection accepts them.",
+        "service": "junk-removal"
+      }
+    ],
+    "question": "What should I ask a Maplewood cleanup professional about leaf blowers?",
+    "response": "Ask which equipment will be used and how the plan follows current Township restrictions for that equipment and date. Maplewood treats blower types differently, including turbo equipment, so a blanket assumption about all gas or all seasonal use is insufficient.",
+    "sources": [
+      {
+        "title": "Maplewood Township Municipal Update, July 29, 2026",
+        "url": "https://content.govdelivery.com/accounts/NJMAPLEWOOD/bulletins/42280e0",
+        "publisher": "Township of Maplewood",
+        "supports": "Current municipal reminder distinguishing gas, electric/battery and turbo blower rules; exact hours, fees and seasonal dates not copied."
+      }
+    ]
+  }
+]

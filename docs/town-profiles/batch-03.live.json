@@ -1,0 +1,80 @@
+{
+  "batch": "03",
+  "sha256": "a2ce5ebbd4d7fd3328091db4a99a6707cb73c75910cc8cc048b8bf3e68c24cdc",
+  "checkedAt": "2026-10-08T16:28:51.026Z",
+  "count": 10,
+  "sitemapCount": 146,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/mount-olive",
+      "status": 200,
+      "title": "Mount Olive Home Services | Morris County | A5 Home Services",
+      "description": "Plan a Mount Olive garage cleanout with material sorting, recycling resources and clear hauling, repair and cleaning scopes. Request help through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mountain-lakes",
+      "status": 200,
+      "title": "Mountain Lakes Home Services | Morris County | A5 Home Services",
+      "description": "Plan Mountain Lakes repairs with the Borough restoration handbook, material documentation and practical guidance for trim, masonry and painting projects.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/netcong",
+      "status": 200,
+      "title": "Netcong Home Services | Morris County | A5 Home Services",
+      "description": "Prepare Netcong home repairs with a clear move-in punch list, Borough zoning resources and Byram construction contacts. Connect through the A5 network.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/pequannock",
+      "status": 200,
+      "title": "Pequannock Home Services | Morris County | A5 Home Services",
+      "description": "Plan Pequannock repairs using current flood resources, clear drainage observations and the right public or private contact. Request home service through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/riverdale",
+      "status": 200,
+      "title": "Riverdale Home Services | Morris County | A5 Home Services",
+      "description": "Plan Riverdale appliance and utility-room projects with repair information, safe trade handoffs and local recycling resources. Send one clear request to A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/rockaway-borough",
+      "status": 200,
+      "title": "Rockaway Borough Home Services | Morris County | A5 Home Services",
+      "description": "Plan Rockaway Borough repairs with clear trade sequencing and confirmed inspection requests. Prepare plumbing, electrical and drywall work through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/rockaway-township",
+      "status": 200,
+      "title": "Rockaway Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan Rockaway Township outdoor improvements with a clear site sketch, Township zoning resources and practical scopes for paving, landscaping and lighting.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/roxbury",
+      "status": 200,
+      "title": "Roxbury Home Services | Morris County | A5 Home Services",
+      "description": "Plan Roxbury yard cleanup with clear leaf, brush and hauling responsibilities, Township collection guidance and practical gutter and tree-service preparation.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/victory-gardens",
+      "status": 200,
+      "title": "Victory Gardens Home Services | Morris County | A5 Home Services",
+      "description": "Plan Victory Gardens room refreshes with a clear removal list, local recycling resources and repair-to-cleaning handoffs. Request an independent professional through A5.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/washington-township-morris",
+      "status": 200,
+      "title": "Washington Township Home Services | Morris County | A5 Home Services",
+      "description": "Plan Washington Township, Morris County yard projects with survey, easement and lot-coverage questions before clearing or paving. Request home service through A5.",
+      "errors": []
+    }
+  ]
+}

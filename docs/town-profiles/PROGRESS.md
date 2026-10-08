@@ -29,3 +29,11 @@ Jefferson Township, Kinnelon, Lincoln Park, Long Hill Township, Mendham Borough,
 ## Batch 03: ready for publication
 
 Mount Olive, Mountain Lakes, Netcong, Pequannock, Riverdale, Rockaway Borough, Rockaway Township, Roxbury, Victory Gardens and Washington Township (Morris). Brand positioning ideas approved all ten. Official sources support the local project guidance; no collection dates, fees or property-specific approvals inferred. All 160 service/town combinations retain at least ten mapped active emailed vendors. Tests, lint, typecheck and Next build passed. Wharton remains the final Morris municipality and begins batch 04.
+
+## Batch 03: published and verified
+
+2026-10-08: PR #52 merged (1ccdfaf). Ten guarded updates applied; live verification passed 10/10 with zero errors. Sitemap: 146 URLs. Thirty completed; 172 remain.
+
+## Batch 04: ready for publication
+
+Wharton completes Morris; Belleville, Caldwell, Cedar Grove, East Orange, Essex Fells, Fairfield, Glen Ridge, Irvington and Maplewood begin Essex. Editorial review approved all ten; its Maplewood wording refinement was incorporated. Official resources support narrow local claims, with exact property responsibility and approvals left to the relevant office. All 160 service/town combinations retain at least ten mapped active emailed vendors. Tests, lint, typecheck and Next build passed. No runtime changes.

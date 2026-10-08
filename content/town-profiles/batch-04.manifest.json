@@ -1,0 +1,1338 @@
+{
+  "updates": [
+    {
+      "id": "5f348ea1-a256-4d98-8d1d-9717e07b99b1",
+      "slug": "wharton",
+      "page_type": "LOCATION",
+      "title": "Home services in Wharton, Morris County",
+      "meta_title": "Wharton Home Services | Morris County",
+      "meta_description": "Plan Wharton home repairs with clear trade responsibilities, inspection coordination and a practical project closeout list. Request help through A5.",
+      "h1": "Home services in Wharton.",
+      "primary_service_id": null,
+      "primary_location_id": "wharton",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Wharton, Morris County?",
+      "direct_answer": "For a Wharton equipment replacement or repair project, include inspection coordination and final records in the scope from the start. The Borough routes inspections through its Construction Department's technical assistant and reminds owners to confirm that required final certificates have been issued. A working appliance or freshly finished wall is only one part of closing the project.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Finish the project with the records you need",
+          "paragraphs": [
+            "Start with the equipment or problem, its location and the outcome you want. Photograph model labels and accessible connections without opening equipment. Tell the professional about any earlier work or open permit you know of so a replacement is not priced as though the surrounding system were new.",
+            "Wharton's Construction Department provides the local inspection contact and guidance on final certificates. Ask the office what applies to your scope and agree with the contractor who will request inspections and collect the resulting paperwork. This is especially useful when more than one trade contributes to the same installation.",
+            "Build a short handover list: operating instructions, warranty information, the final scope, any remaining defects and applicable inspection records. Plan patching and paint around required access. Keep the documents with the home records so a later service call begins with the installation history rather than guesswork."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Wharton project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Heating equipment handover",
+              "body": "Include model information, the reported symptoms and access conditions. Ask the installer to explain operation and identify which project records you should retain.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Plumbing replacement scope",
+              "body": "Clarify what pipework, shutoffs and removal are included. Ask who coordinates any required inspection before surrounding finishes are restored.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore walls after trade work",
+              "body": "Mark the openings to be patched and agree on the finish level. Confirm that the relevant trade no longer needs access before the repair is closed.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who should arrange a Wharton project's final inspection?",
+              "answer": "Agree on the responsible person with your contractor and use the Borough Construction Department's inspection process. Confirm which inspections and final documents apply to your work; do not assume they are complete because the equipment is running."
+            },
+            {
+              "question": "How does A5 help with my Wharton request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Wharton is in Morris County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Morris County",
+              "href": "/home-services/county/morris-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Wharton project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:34.127+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "ae6f6c05-9143-4b8d-80aa-3f8e62ffac7f",
+      "slug": "belleville",
+      "page_type": "LOCATION",
+      "title": "Home services in Belleville, Essex County",
+      "meta_title": "Belleville Home Services | Essex County",
+      "meta_description": "Plan Belleville front-yard projects with curb-tree guidance, clear property boundaries and coordinated landscaping, tree and walkway repair scopes.",
+      "h1": "Home services in Belleville.",
+      "primary_service_id": null,
+      "primary_location_id": "belleville",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Belleville, Essex County?",
+      "direct_answer": "For a Belleville front-yard project, identify whether the tree or damaged feature is on private property or along the public curb before requesting removal or repair. Belleville Public Works describes curb trees as Township property under its care. Start municipal tree questions there, and give your private professional a clearly defined work area.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Draw the boundary around the front-yard job",
+          "paragraphs": [
+            "Take a photograph that shows the house, front walk, curb and tree together. Then add close-ups of the concern: a raised paving section, broken branch, exposed root or planting bed. A close-up alone can hide the location that determines whom to contact first.",
+            "Belleville's Public Works page distinguishes Township curb-tree maintenance and provides local collection resources. Check with the Township before treating a curb tree as part of a private tree-removal quote. The same project may still include private planting, lawn restoration or walkway work, but those scopes need their own boundaries and any applicable approvals.",
+            "Ask each professional to specify protection for nearby trees, how debris will leave the property and which surfaces will be restored. Keep municipal questions separate from the private estimate so an unresolved curb-tree issue does not become an assumed promise in the landscaping price."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Belleville project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Private planting-bed refresh",
+              "body": "Share the bed outline and plants to keep. Describe the desired result and confirm access without assuming that a nearby curb tree may be altered.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Assess the correct tree",
+              "body": "Identify the tree's location in a wide photograph. Resolve ownership and municipal involvement before agreeing on private tree work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Front-walk repair planning",
+              "body": "Show uneven sections and nearby roots. Ask for a repair assessment and check the approval process before changing a public-facing walkway or curb area.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should a Belleville curb tree be included in my private removal request?",
+              "answer": "First contact Belleville Public Works, whose page identifies curb trees as Township property. Confirm responsibility and the allowed scope before engaging a private professional for work affecting that tree."
+            },
+            {
+              "question": "How does A5 help with my Belleville request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Belleville is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Belleville project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.024+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "46610a56-d4a4-4395-8f1b-f361dbdf24c5",
+      "slug": "caldwell",
+      "page_type": "LOCATION",
+      "title": "Home services in Caldwell, Essex County",
+      "meta_title": "Caldwell Home Services | Essex County",
+      "meta_description": "Prepare Caldwell walkway, driveway and fence projects with a measured scope, Borough review resources and coordinated repair planning through A5.",
+      "h1": "Home services in Caldwell.",
+      "primary_service_id": null,
+      "primary_location_id": "caldwell",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Caldwell, Essex County?",
+      "direct_answer": "For a Caldwell front-walk, driveway or fence project, distinguish repair within the existing footprint from a change in size, position or materials. The Borough's Construction and Zoning resources specifically address these exterior projects. Bring a simple sketch and the property information to the office before ordering materials for a changed layout.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Decide what stays before designing what changes",
+          "paragraphs": [
+            "Measure the visible work area and photograph its connection to the house, sidewalk and neighboring property. Note whether the problem is a loose section, surface wear, water collecting or a layout that no longer works. Those are different requests even when they involve the same few square feet.",
+            "Caldwell's Construction page combines construction and zoning contacts with resources for exterior improvements, including driveways, sidewalks and fences. Use the Borough's process for your address and exact scope. A contractor's estimate should not substitute for checking whether a proposed footprint or replacement needs review.",
+            "Ask for separate pricing for the repair you need and the optional redesign you are considering. Include removal, base preparation, transitions, access and restoration of disturbed planting. Clear alternatives make it easier to compare bids without accidentally choosing a larger project than you intended."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Caldwell project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair a defined walking surface",
+              "body": "Mark the sections that move or have deteriorated. Ask whether the underlying support needs assessment before selecting a new surface treatment.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Limited gate and hardware repairs",
+              "body": "Describe sticking, sagging or latch problems and include photos of the supports. Clarify whether the task is hardware repair or replacement of the larger fence assembly.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Restore the edges after construction",
+              "body": "Show the planting and lawn areas likely to be disturbed. Schedule final landscaping after the hard surface work and cleanup are complete.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should I take to Caldwell before changing an exterior layout?",
+              "answer": "Prepare the address, available property survey, a sketch of the existing and proposed work, and photos. Ask Construction and Zoning which reviews apply before committing to the footprint or ordering materials."
+            },
+            {
+              "question": "How does A5 help with my Caldwell request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Caldwell is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Caldwell project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.234+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "33c44e2f-5529-4d38-806f-1a056e1733af",
+      "slug": "cedar-grove",
+      "page_type": "LOCATION",
+      "title": "Home services in Cedar Grove, Essex County",
+      "meta_title": "Cedar Grove Home Services | Essex County",
+      "meta_description": "Plan Cedar Grove tree work with a clear tree inventory, Township application resources and separate removal, stump and landscape restoration scopes.",
+      "h1": "Home services in Cedar Grove.",
+      "primary_service_id": null,
+      "primary_location_id": "cedar-grove",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Cedar Grove, Essex County?",
+      "direct_answer": "For Cedar Grove tree work, identify each tree and the reason for the request before asking for a single removal price. The Township's tree application asks for tree-specific information and location details. Confirm the current review requirements, then agree separately on cutting, stump work, debris removal and replacement planting.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make the tree list more specific than the quote",
+          "paragraphs": [
+            "Photograph each tree from a safe position and label the images consistently on a simple yard sketch. Explain the concern without attempting to diagnose the tree yourself. Include nearby structures and the route equipment would use; those details affect the assessment and the restoration plan.",
+            "Cedar Grove publishes a tree-removal application and links tree regulations from its stormwater resources. The application organizes information by tree, location and reason for removal. Use that structure to prepare a focused inquiry to the Township. Do not assume that a tree on private land is automatically outside local review.",
+            "Ask the professional to itemize what remains after cutting: stump, roots, logs, chips or a disturbed lawn. Confirm any applicable replacement-planting requirements with the Township and include responsibility for follow-through. A low cutting price may describe a different finished yard from the one you expect."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Cedar Grove project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Tree assessment and removal scope",
+              "body": "Provide the labeled tree photos and access sketch. Ask the professional to explain the recommended work and identify exclusions such as stump grinding.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Plan the restored planting area",
+              "body": "Describe how you want to use the space after tree work. Coordinate grading, soil and planting with any municipal requirements rather than treating restoration as an afterthought.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Repair affected hard surfaces",
+              "body": "Photograph damaged edging or paving separately. Have its condition assessed before assuming tree removal alone will correct a walkway problem.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What information helps with Cedar Grove tree-work planning?",
+              "answer": "Use a labeled inventory, photographs, locations and the reason each tree is being considered. Check the Township's current application and review process, then distinguish removal from stump work and restoration in the private quote."
+            },
+            {
+              "question": "How does A5 help with my Cedar Grove request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Cedar Grove is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Cedar Grove project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.344+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "d29ef9c2-3bf0-4437-8a48-964734fd358e",
+      "slug": "east-orange",
+      "page_type": "LOCATION",
+      "title": "Home services in East Orange, Essex County",
+      "meta_title": "East Orange Home Services | Essex County",
+      "meta_description": "Organize East Orange home maintenance with a photographed repair list, clear trade scopes and City property-maintenance resources. Request service with A5.",
+      "h1": "Home services in East Orange.",
+      "primary_service_id": null,
+      "primary_location_id": "east-orange",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in East Orange, Essex County?",
+      "direct_answer": "For an East Orange property-maintenance project, separate the observed condition, the requested repair and any City follow-up into a written list. The City's Code Enforcement page identifies Property Maintenance as a resource for residential property concerns. If an official notice is involved, use its specific items and confirm closeout requirements with the City.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make every item on the repair list traceable",
+          "paragraphs": [
+            "Number the issues by room or exterior area and attach a photograph to each one. Describe what you can observe, such as a door that will not close or a surface that keeps getting wet. Record when the issue appeared and any earlier repair so the professional can investigate the cause rather than simply cover the symptom.",
+            "East Orange's Property Maintenance team addresses residential property concerns through the City's Code Enforcement resources. A homeowner seeking help can use that contact to clarify an official issue, while a private professional develops the repair scope. A5's introduction does not resolve a municipal notice or certify compliance.",
+            "Agree on which items each trade owns, what must happen before finishing work and what completion evidence you want. Where City follow-up is required, keep that step separate from the contractor's invoice. Save before-and-after photos and any inspection records in the same numbered list."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your East Orange project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Group small functional repairs",
+              "body": "List doors, hardware and limited carpentry individually. Ask the professional to identify items that need another trade rather than accepting a vague whole-house repair promise.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Address the source of recurring dampness",
+              "body": "Describe when water appears and which fixtures are nearby. Request diagnosis and repair before adding painting or wall restoration to the schedule.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Finish repaired surfaces",
+              "body": "Identify the rooms, damaged areas and desired finish. Confirm that underlying repairs are complete and surfaces ready before agreeing on preparation and paint.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does completing a private repair close an East Orange property-maintenance notice?",
+              "answer": "Do not assume so. Confirm the required follow-up with the City using the actual notice and retain the relevant repair records. A contractor's work and the City's administrative closeout are separate steps."
+            },
+            {
+              "question": "How does A5 help with my East Orange request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "East Orange is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your East Orange project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.462+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2a9aca47-8ed0-45e5-8a38-43e12f6f7f2a",
+      "slug": "essex-fells",
+      "page_type": "LOCATION",
+      "title": "Home services in Essex Fells, Essex County",
+      "meta_title": "Essex Fells Home Services | Essex County",
+      "meta_description": "Plan Essex Fells gutter and yard maintenance with stormwater resources, a clear debris-removal scope and careful separation of public and private drainage.",
+      "h1": "Home services in Essex Fells.",
+      "primary_service_id": null,
+      "primary_location_id": "essex-fells",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Essex Fells, Essex County?",
+      "direct_answer": "For an Essex Fells gutter and yard cleanup, show where roof water travels and where leaves or debris collect. The Borough's stormwater resources include yard-waste and private storm-drain guidance. Use those resources to plan maintenance without pushing debris into drainage structures or assuming every inlet is a municipal repair responsibility.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Follow the water when planning the cleanup",
+          "paragraphs": [
+            "Photograph the gutter outlet, ground below it and any nearby drain from a safe location. Note whether the concern happens during rain, after a cleanup or even in dry weather. This gives the professional a sequence to investigate instead of a general request to fix a wet yard.",
+            "Essex Fells publishes stormwater information with separate resources for containerized yard waste, private storm-drain inlets and municipal drainage infrastructure. Those distinctions matter when a cleanup affects the edge of the street or an inlet on the property. Ask the Borough about responsibility when the boundary is unclear; a map alone does not diagnose your home's drainage problem.",
+            "Schedule gutter debris collection and yard cleanup as a coordinated scope. Specify how material will be contained, removed and kept away from inlets. If a repair changes where water flows, obtain an assessment and check applicable municipal review before adding it to a routine maintenance visit."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Essex Fells project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Gutter cleaning with a defined finish",
+              "body": "Describe overflowing sections and accessible outlet locations. Ask whether the quote includes collecting ground debris and reporting visible damage after cleaning.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Contain yard debris",
+              "body": "Show leaf accumulation and the agreed collection area. Confirm how material will be prepared or hauled away without using a drain as a disposal route.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Assess a damaged private surface",
+              "body": "Photograph settled paving and where water collects. Ask for an assessment before covering the area or changing its slope.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who handles a drain involved in an Essex Fells yard project?",
+              "answer": "Identify its location and ask the Borough if responsibility is unclear. Essex Fells provides both municipal stormwater information and private-inlet guidance. Confirm responsibility before hiring for a repair or modifying the drainage path."
+            },
+            {
+              "question": "How does A5 help with my Essex Fells request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Essex Fells is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Essex Fells project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.582+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "44de6a7c-7ca9-4139-8cee-1d842673d9cc",
+      "slug": "fairfield",
+      "page_type": "LOCATION",
+      "title": "Home services in Fairfield, Essex County",
+      "meta_title": "Fairfield Home Services | Essex County",
+      "meta_description": "Plan Fairfield, Essex County driveway and yard projects with Township engineering resources, drainage observations and clearly defined repair scopes.",
+      "h1": "Home services in Fairfield.",
+      "primary_service_id": null,
+      "primary_location_id": "fairfield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Fairfield, Essex County?",
+      "direct_answer": "For a Fairfield, Essex County driveway or yard project, document the existing slope and water problem before requesting fill or expansion. Township Engineering provides grading, driveway, curb and sidewalk resources along with flood and tax maps. Ask how those resources apply to the actual parcel before designing a change to drainage.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Investigate the puddle before adding material",
+          "paragraphs": [
+            "Record where water collects and whether the problem follows rainfall, a blocked outlet or a recent property change. Photograph the relationship between the driveway, building, neighboring grade and street. Do not treat a photograph as enough information to prescribe fill, a new drain or a higher paved surface.",
+            "Fairfield Township Engineering lists review responsibilities for grading and several exterior improvements and provides parcel-related map resources. This is Fairfield in Essex County. Use the address and block-and-lot information when contacting the Township; the maps are a starting point for questions, not a determination that a specific improvement is permitted or a property is outside flood risk.",
+            "Ask the professional to separate diagnosis, design and physical work in the estimate. Include where excavated material goes and how disturbed lawn or paving will be restored. If the proposed solution redirects water, resolve review and design questions before selecting finishes or scheduling installation."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Fairfield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess paving and its base",
+              "body": "Mark settled or broken sections and the nearby drainage path. Ask whether a localized repair will address the cause or only the visible surface.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan yard restoration",
+              "body": "Define the area to be restored after approved work. Discuss planting and soil preparation without assuming that adding soil is the correct drainage remedy.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Check roof-water maintenance",
+              "body": "Describe gutter overflow and outlet condition separately from yard grading. Cleaning or repairing a gutter may be one part of an assessment, not a substitute for a drainage plan.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can Fairfield's online maps approve my driveway or grading plan?",
+              "answer": "No. The Township provides maps as a resource, while Engineering can explain the review needed for your parcel and scope. Confirm the applicable process before changing grades, expanding paving or redirecting water."
+            },
+            {
+              "question": "How does A5 help with my Fairfield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Fairfield is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Fairfield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.693+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "2372486c-487a-42fc-86f8-bfed591bd0d5",
+      "slug": "glen-ridge",
+      "page_type": "LOCATION",
+      "title": "Home services in Glen Ridge, Essex County",
+      "meta_title": "Glen Ridge Home Services | Essex County",
+      "meta_description": "Plan Glen Ridge exterior repairs with historic-review resources, existing-material photos and clear scopes for doors, masonry, painting and trim.",
+      "h1": "Home services in Glen Ridge.",
+      "primary_service_id": null,
+      "primary_location_id": "glen-ridge",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Glen Ridge, Essex County?",
+      "direct_answer": "For a Glen Ridge exterior project, check the property's historic-district status and the proposed work with the Historic Preservation Commission before selecting replacements. The Borough provides design guidance and application paths for exterior changes. Photograph original details and compare repair with replacement so the proposal describes what will actually change.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the detail visible in the project brief",
+          "paragraphs": [
+            "Start with a full view of the porch or elevation and closer photos of the door, trim, masonry or other feature. Record dimensions, profiles and existing finishes where practical. Tell the professional which details you value and what is failing, rather than asking for a generic modern replacement.",
+            "Glen Ridge's Historic Preservation Commission publishes local design guidance and review information, including a minor-application process. Its guidance addresses exterior features such as doors, windows and previously unpainted masonry. Check district status and the exact scope with the Borough; neither the age of a house nor a small quote alone tells you which process applies.",
+            "Request a proposal that names materials and shows how the finished work will meet the existing building. Use samples where a match matters, and resolve review questions before purchasing custom items. Keep preparation, concealed repairs and final finish distinct so a change discovered during work can be discussed clearly."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Glen Ridge project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair doors and exterior trim",
+              "body": "Share the profile and surrounding details, not just the damaged spot. Ask whether repair is practical and whether custom matching is within the professional's experience.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            },
+            {
+              "title": "Evaluate masonry repairs",
+              "body": "Show existing joints and earlier patches. Discuss compatible repair materials and consult the Borough before planning a change to the appearance of unpainted masonry.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Define the paint preparation",
+              "body": "Identify existing coatings and the proposed finish. Keep underlying wood or masonry repairs ahead of painting and include a sample where matching is important.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a small Glen Ridge exterior job automatically avoid historic review?",
+              "answer": "Do not assume so. Check the property's district status and specific work with the Historic Preservation Commission, which provides design guidance and application information, including a minor-work process."
+            },
+            {
+              "question": "How does A5 help with my Glen Ridge request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Glen Ridge is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Glen Ridge project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.802+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "860d64e9-0948-4057-8052-75bc4ed78328",
+      "slug": "irvington",
+      "page_type": "LOCATION",
+      "title": "Home services in Irvington, Essex County",
+      "meta_title": "Irvington Home Services | Essex County",
+      "meta_description": "Prepare Irvington drainage and exterior repair requests with clear location photos, Township Public Works resources and separate private repair scopes.",
+      "h1": "Home services in Irvington.",
+      "primary_service_id": null,
+      "primary_location_id": "irvington",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Irvington, Essex County?",
+      "direct_answer": "For an Irvington drainage or exterior repair request, show whether the problem is inside the home, on the private lot or in the street and sidewalk area. Township Public Works identifies public infrastructure and right-of-way permits among its responsibilities. Confirm the responsible party before including public-area work in a private repair quote.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Give the problem a precise location",
+          "paragraphs": [
+            "Take a wide photo showing the house and street, then a closer image of the affected area if safe. Describe when the problem occurs, how long it lasts and whether it involves a fixture, yard drain, curb or street inlet. This helps separate a plumbing call from a municipal infrastructure report without asking you to diagnose the system.",
+            "Irvington's Public Works page lists public right-of-way infrastructure responsibilities and provides road and sidewalk opening resources. The Township's Building Construction page separately addresses private construction permitting. Use the correct department for the proposed work and ask about boundaries before arranging excavation or a change near the street.",
+            "For private work, ask the estimate to identify investigation, repair and restoration separately. Clarify who handles access, any required approvals and cleanup. If an unresolved public issue affects the project, record that dependency so it is not mistaken for a task the private professional has agreed to complete."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Irvington project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Investigate private plumbing symptoms",
+              "body": "Describe affected fixtures and whether symptoms occur together. Provide any prior findings and ask what investigation is included before authorizing a larger repair.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Repair the defined paving area",
+              "body": "Mark the damaged area and its connection to the sidewalk or curb. Confirm responsibility and approvals before widening the scope beyond the private surface.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Restore disturbed landscape",
+              "body": "Agree on what soil, lawn and planting will be restored after the repair. Keep that finish scope separate from diagnosing the original water problem.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should every Irvington water or sidewalk problem go straight to a private contractor?",
+              "answer": "First identify where it occurs and whether public infrastructure is involved. Township Public Works provides the appropriate starting point for right-of-way questions; a private professional can assess the work for which the property owner is responsible."
+            },
+            {
+              "question": "How does A5 help with my Irvington request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Irvington is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Irvington project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:27.913+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "06c2c95f-47a4-4ff2-8976-1e7ac02df5de",
+      "slug": "maplewood",
+      "page_type": "LOCATION",
+      "title": "Home services in Maplewood, Essex County",
+      "meta_title": "Maplewood Home Services | Essex County",
+      "meta_description": "Plan Maplewood yard cleanup with local leaf-blower guidance, clear debris handling and coordinated gutter and landscape work. Request help through A5.",
+      "h1": "Home services in Maplewood.",
+      "primary_service_id": null,
+      "primary_location_id": "maplewood",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Maplewood, Essex County?",
+      "direct_answer": "For a Maplewood yard cleanup, include the proposed equipment and debris-removal method in the quote. The Township publishes equipment-specific leaf-blower restrictions, including separate treatment of turbo blowers. Check the current rules for the planned date and equipment rather than assuming a particular blower is permitted.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Specify how the cleanup will be done",
+          "paragraphs": [
+            "Walk the property and divide the cleanup into lawn, beds, hard surfaces and gutter-related debris. Identify plants to protect and places where material should not be piled. Share photos and say whether you expect on-site preparation for municipal collection or private hauling; those are different scopes.",
+            "Maplewood's municipal guidance distinguishes electric or battery equipment from restricted gas-powered blowers and separately addresses turbo equipment. The Township's current notice links the applicable rules. Confirm equipment and permitted use for the actual work date with the professional, rather than importing a schedule or assumption from a neighboring town.",
+            "Sequence gutter work before the final yard pass so leaves are not cleaned up twice. Ask who gathers debris from hard surfaces, how it will be contained and what happens if it is unsuitable for the planned collection route. A useful quote describes the finished property and the method, not simply a number of worker-hours."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Maplewood project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Seasonal cleanup with an agreed method",
+              "body": "List the areas to be cleared and equipment proposed. Confirm preparation or hauling responsibilities and protect plants that should remain untouched.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Gutter work before the final pass",
+              "body": "Describe overflowing sections and access. Ask how removed debris will be collected and coordinate timing with the yard cleanup.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Separate non-yard items",
+              "body": "Photograph old furniture, planters and other unwanted objects separately from leaves. Obtain a clear removal scope instead of assuming municipal yard collection accepts them.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What should I ask a Maplewood cleanup professional about leaf blowers?",
+              "answer": "Ask which equipment will be used and how the plan follows current Township restrictions for that equipment and date. Maplewood treats blower types differently, including turbo equipment, so a blanket assumption about all gas or all seasonal use is insufficient."
+            },
+            {
+              "question": "How does A5 help with my Maplewood request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Maplewood is in Essex County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Essex County",
+              "href": "/home-services/county/essex-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Maplewood project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T16:32:16.503Z",
+      "published_at": "2026-10-08T01:22:28.019+00:00",
+      "last_reviewed_at": "2026-10-08T16:32:16.503Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "04dd829d-8a47-4d28-8f62-b21f52fd76a3",
+      "title": "Wharton Construction Department",
+      "url": "https://www.whartonnj.com/index.php/departments/construction-department",
+      "publisher": "Borough of Wharton",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "63d59256-bfce-49eb-85d5-de3155a332ac",
+      "title": "Belleville Public Works",
+      "url": "https://www.bellevillenj.org/departments/public-works",
+      "publisher": "Township of Belleville",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "19a08da9-636d-4670-8a26-c599441419f5",
+      "title": "Caldwell Construction and Zoning",
+      "url": "https://caldwell-nj.com/construction",
+      "publisher": "Borough of Caldwell",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "606b6489-1ab3-46c8-8f25-bbda60f544a5",
+      "title": "Cedar Grove Stormwater Management Program",
+      "url": "https://www.cedargrovenj.org/197/Stormwater-Management-Program",
+      "publisher": "Township of Cedar Grove",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "bc7cfed3-4b93-4450-87c5-ee18c41c0dfb",
+      "title": "Cedar Grove Tree Removal Application",
+      "url": "https://cedargrovenj.org/DocumentCenter/View/177",
+      "publisher": "Township of Cedar Grove",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "8f60a908-8145-42ef-8964-f19721f44d5a",
+      "title": "East Orange Code Enforcement and Property Maintenance",
+      "url": "https://www.eastorange-nj.gov/253/Code-Enforcement",
+      "publisher": "City of East Orange",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "6056fbe2-fe7a-434b-8fab-a8bddf4ff147",
+      "title": "Essex Fells Stormwater Management",
+      "url": "https://www.essexfellsboro.com/pages/stormwater-management",
+      "publisher": "Borough of Essex Fells",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "48a8c138-87d4-4270-8fa1-df9997843115",
+      "title": "Fairfield Township Engineering",
+      "url": "https://www.fairfieldtownshipnj.gov/192/Engineering",
+      "publisher": "Township of Fairfield, Essex County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "d7b56d85-0ee1-42c2-8aa3-002469df48e4",
+      "title": "Glen Ridge Historic Preservation Commission",
+      "url": "https://www.glenridgenj.org/hpc/",
+      "publisher": "Borough of Glen Ridge",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "168636f0-23aa-4f30-8739-feae6673bfbc",
+      "title": "Irvington Public Works",
+      "url": "https://irvingtonnj.gov/public-works/",
+      "publisher": "Township of Irvington, New Jersey",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "fe905885-1a24-4db0-82e2-c957a77a61d5",
+      "title": "Irvington Building Construction",
+      "url": "https://irvingtonnj.gov/building-construction/",
+      "publisher": "Township of Irvington, New Jersey",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    },
+    {
+      "id": "7a0dc9dc-5cc6-4bfc-87a9-21454f79f5fb",
+      "title": "Maplewood Township Municipal Update, July 29, 2026",
+      "url": "https://content.govdelivery.com/accounts/NJMAPLEWOOD/bulletins/42280e0",
+      "publisher": "Township of Maplewood",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T16:32:16.503Z",
+      "reviewed_at": "2026-10-08T16:32:16.503Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "5f348ea1-a256-4d98-8d1d-9717e07b99b1",
+      "source_id": "04dd829d-8a47-4d28-8f62-b21f52fd76a3",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "ae6f6c05-9143-4b8d-80aa-3f8e62ffac7f",
+      "source_id": "63d59256-bfce-49eb-85d5-de3155a332ac",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "46610a56-d4a4-4395-8f1b-f361dbdf24c5",
+      "source_id": "19a08da9-636d-4670-8a26-c599441419f5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "33c44e2f-5529-4d38-806f-1a056e1733af",
+      "source_id": "606b6489-1ab3-46c8-8f25-bbda60f544a5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "33c44e2f-5529-4d38-806f-1a056e1733af",
+      "source_id": "bc7cfed3-4b93-4450-87c5-ee18c41c0dfb",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "d29ef9c2-3bf0-4437-8a48-964734fd358e",
+      "source_id": "8f60a908-8145-42ef-8964-f19721f44d5a",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2a9aca47-8ed0-45e5-8a38-43e12f6f7f2a",
+      "source_id": "6056fbe2-fe7a-434b-8fab-a8bddf4ff147",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "44de6a7c-7ca9-4139-8cee-1d842673d9cc",
+      "source_id": "48a8c138-87d4-4270-8fa1-df9997843115",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "2372486c-487a-42fc-86f8-bfed591bd0d5",
+      "source_id": "d7b56d85-0ee1-42c2-8aa3-002469df48e4",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "860d64e9-0948-4057-8052-75bc4ed78328",
+      "source_id": "168636f0-23aa-4f30-8739-feae6673bfbc",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "860d64e9-0948-4057-8052-75bc4ed78328",
+      "source_id": "fe905885-1a24-4db0-82e2-c957a77a61d5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "06c2c95f-47a4-4ff2-8976-1e7ac02df5de",
+      "source_id": "7a0dc9dc-5cc6-4bfc-87a9-21454f79f5fb",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "to_page_id": "5f348ea1-a256-4d98-8d1d-9717e07b99b1",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "ae6f6c05-9143-4b8d-80aa-3f8e62ffac7f",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "46610a56-d4a4-4395-8f1b-f361dbdf24c5",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "33c44e2f-5529-4d38-806f-1a056e1733af",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "d29ef9c2-3bf0-4437-8a48-964734fd358e",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "2a9aca47-8ed0-45e5-8a38-43e12f6f7f2a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "44de6a7c-7ca9-4139-8cee-1d842673d9cc",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "2372486c-487a-42fc-86f8-bfed591bd0d5",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "860d64e9-0948-4057-8052-75bc4ed78328",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "to_page_id": "06c2c95f-47a4-4ff2-8976-1e7ac02df5de",
+      "relationship_type": "RELATED"
+    }
+  ]
+}
