@@ -1,0 +1,151 @@
+{
+  "sha256": "b01c93bbdb2596c551949f7ae6a6355e50fe91d02ac61f57408ce16b2192103f",
+  "pages": [
+    {
+      "id": "a04fa58e-30cf-4efb-81ee-35e7c31eb5d9",
+      "path": "/home-services/andover-borough",
+      "newlyIndexable": true,
+      "purpose": "Keep Borough inspection records separate from Andover Township",
+      "sourceClaims": [
+        {
+          "title": "Andover Borough Construction Inspections",
+          "url": "https://www.andoverboroughnj.org/construction-inspections",
+          "publisher": "Borough of Andover",
+          "supports": "Borough inspection instructions request permit number, address and inspection type; appointment process. No scheduling guarantee copied."
+        }
+      ]
+    },
+    {
+      "id": "0023625e-cd07-4d00-8c2d-426b2d5a289f",
+      "path": "/home-services/andover-township",
+      "newlyIndexable": true,
+      "purpose": "Prepare the DCA online inspection request with the correct phase",
+      "sourceClaims": [
+        {
+          "title": "Andover Township Construction",
+          "url": "https://andovertwp.org/directory/construction/",
+          "publisher": "Andover Township",
+          "supports": "State DCA construction services, online inspection requests and listed permit/property/discipline/phase details. No timeline or exemption asserted."
+        }
+      ]
+    },
+    {
+      "id": "8b382462-8401-4387-8e74-9f8216336f27",
+      "path": "/home-services/branchville",
+      "newlyIndexable": true,
+      "purpose": "Keep repair debris and wash residue away from storm drains",
+      "sourceClaims": [
+        {
+          "title": "Branchville Stormwater Information",
+          "url": "https://www.branchvilleborough.org/stormwater/",
+          "publisher": "Borough of Branchville",
+          "supports": "Stormwater pollution explanation and listed waste, litter and yard-waste resources. No specific exception or penalty asserted."
+        }
+      ]
+    },
+    {
+      "id": "1fa89dbd-276e-4852-8318-7a13de9bfcf0",
+      "path": "/home-services/byram",
+      "newlyIndexable": true,
+      "purpose": "Use permit history to distinguish unfinished work from a new repair",
+      "sourceClaims": [
+        {
+          "title": "Byram Township Construction",
+          "url": "https://www.byramtwp.org/index.php/town_hall/township_offices_detail/construction",
+          "publisher": "Byram Township",
+          "supports": "SDL access to building permit records, application status and inspection scheduling for open permits. No outcome guarantee."
+        }
+      ]
+    },
+    {
+      "id": "b42e71f0-b73d-4c67-8092-286dff2ba0a7",
+      "path": "/home-services/frankford",
+      "newlyIndexable": true,
+      "purpose": "Check the source of fill before accepting a yard delivery",
+      "sourceClaims": [
+        {
+          "title": "Frankford Construction Office",
+          "url": "https://frankfordtownship.org/departments/construction/",
+          "publisher": "Frankford Township",
+          "supports": "Township links county dirty-dirt warning."
+        },
+        {
+          "title": "Environmental Hazards Associated with Dirty Dirt",
+          "url": "https://frankfordtownship.org/newsandannouncements/2023/SCPO-EnvironmentalDirtyDirt.pdf",
+          "publisher": "Sussex County Prosecutor's Office",
+          "supports": "Read PDF text warning of free-fill advertising, contaminants and construction debris. No licensing-law details copied."
+        }
+      ]
+    },
+    {
+      "id": "6d983048-d9de-4254-82d4-12be753a8723",
+      "path": "/home-services/franklin-borough",
+      "newlyIndexable": true,
+      "purpose": "Check placement before buying an accessory structure",
+      "sourceClaims": [
+        {
+          "title": "Franklin Borough Zoning Office Permit Information",
+          "url": "https://franklinborough.org/index.php/departments/land-use/zoning-office-permit-information",
+          "publisher": "Borough of Franklin",
+          "supports": "Named fence, pool and accessory-structure examples and direction to Zoning Office. No fees, universal thresholds or exemptions copied."
+        }
+      ]
+    },
+    {
+      "id": "ae5a4532-c771-4212-89ce-0da8cdd77030",
+      "path": "/home-services/fredon",
+      "newlyIndexable": true,
+      "purpose": "Prepare safe access instructions for a state construction inspection",
+      "sourceClaims": [
+        {
+          "title": "Fredon Construction Office",
+          "url": "https://fredonnj.gov/construction-office/",
+          "publisher": "Fredon Township",
+          "supports": "DCA inspection process and checklist including special access instructions. No appointment timeline stated."
+        }
+      ]
+    },
+    {
+      "id": "6225cba2-f97a-48b9-8411-5ad854d1cf59",
+      "path": "/home-services/green-township",
+      "newlyIndexable": true,
+      "purpose": "Keep Green Township's submission route clear despite shared construction services",
+      "sourceClaims": [
+        {
+          "title": "Green Township Construction",
+          "url": "https://www.greentwp.com/cn/webpage.cfm?TID=147&TPID=14281",
+          "publisher": "Green Township",
+          "supports": "Shared services through Independence; Green submission instructions, applicable equipment manuals and separate direction for alterations. No copy counts or fees repeated."
+        }
+      ]
+    },
+    {
+      "id": "2ba83cb6-3462-4066-8248-dc1d27aa0f04",
+      "path": "/home-services/hamburg",
+      "newlyIndexable": true,
+      "purpose": "Separate local zoning review from shared construction guidance",
+      "sourceClaims": [
+        {
+          "title": "Hamburg Zoning and Property Maintenance",
+          "url": "https://hamburgnj.org/departments/zoning-property-maintenance/",
+          "publisher": "Borough of Hamburg",
+          "supports": "Local zoning review and direction to Hardyston Construction. No older pool specifics or deadlines repeated."
+        }
+      ]
+    },
+    {
+      "id": "1fd17db1-f5a8-4375-8923-1c2664370a92",
+      "path": "/home-services/hampton-township",
+      "newlyIndexable": true,
+      "purpose": "Separate a project consultation, records request and inspection appointment",
+      "sourceClaims": [
+        {
+          "title": "Hampton Township Construction",
+          "url": "https://www.hamptontownshipnj.info/1227/Construction",
+          "publisher": "Hampton Township",
+          "supports": "Separate application/inspection links, Clerk records route and appointments for inspector conversations. No processing-time promise."
+        }
+      ]
+    }
+  ]
+}
