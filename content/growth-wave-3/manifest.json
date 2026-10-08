@@ -15,10 +15,6 @@
       "direct_answer": "Identify the equipment, describe when the comfort problem occurs, and list the rooms affected. Ask the provider whether the visit is diagnostic, maintenance or an estimate, and confirm the fee and scope before scheduling.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "Identify the equipment, describe when the comfort problem occurs, and list the rooms affected. Ask the provider whether the visit is diagnostic, maintenance or an estimate, and confirm the fee and scope before scheduling."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "Describe the system you actually have",
           "paragraphs": [
@@ -99,10 +95,6 @@
       "direct_answer": "Uneven room temperatures can have several causes, including controls, air distribution or equipment performance. An HVAC provider should assess the pattern before recommending a repair or replacement.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "Uneven room temperatures can have several causes, including controls, air distribution or equipment performance. An HVAC provider should assess the pattern before recommending a repair or replacement."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "What to tell the provider",
           "paragraphs": [
@@ -175,10 +167,6 @@
       "primary_question": "What should I compare in roofing proposals?",
       "direct_answer": "Compare the area being repaired, the evidence for the proposed work, materials, flashing details, removal and cleanup, exclusions and written terms. Ask how hidden damage and changes will be priced and approved.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Compare the area being repaired, the evidence for the proposed work, materials, flashing details, removal and cleanup, exclusions and written terms. Ask how hidden damage and changes will be priced and approved."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Start with the observed problem",
@@ -260,10 +248,6 @@
       "direct_answer": "A stain that changes after rain needs assessment of the water source before interior repairs. A roofing provider can inspect the roof and related details; a photo alone cannot confirm the cause.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "A stain that changes after rain needs assessment of the water source before interior repairs. A roofing provider can inspect the roof and related details; a photo alone cannot confirm the cause."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "Record the sequence",
           "paragraphs": [
@@ -336,10 +320,6 @@
       "primary_question": "How do I choose the right type of house cleaning?",
       "direct_answer": "Describe the home condition and the result you need, then compare a written room-by-room checklist. Recurring, deep and move-out cleaning labels vary by provider; interior appliances, cabinets, windows and heavy buildup may be separate items.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Describe the home condition and the result you need, then compare a written room-by-room checklist. Recurring, deep and move-out cleaning labels vary by provider; interior appliances, cabinets, windows and heavy buildup may be separate items."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Use the rooms as your checklist",
@@ -421,10 +401,6 @@
       "direct_answer": "For a move-out clean, agree on an explicit checklist, whether the home will be empty and which appliance or cabinet interiors are included. Arrange access after belongings are removed and before the required handover.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "For a move-out clean, agree on an explicit checklist, whether the home will be empty and which appliance or cabinet interiors are included. Arrange access after belongings are removed and before the required handover."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "Define what will be ready",
           "paragraphs": [
@@ -489,7 +465,7 @@
       "page_type": "GUIDE",
       "title": "Plan gutter cleaning and repairs",
       "meta_title": "Plan gutter cleaning and repairs | A5",
-      "meta_description": "Plan gutter cleaning and repairs. Describe the overflow or repair concern and your home\u2019s access. Practical guidance for your next service request through A5.",
+      "meta_description": "Plan gutter cleaning and repairs. Describe the overflow or repair concern and your home’s access. Practical guidance for your next service request through A5.",
       "h1": "Plan gutter cleaning and repairs",
       "primary_service_id": "gutters",
       "primary_location_id": null,
@@ -497,10 +473,6 @@
       "primary_question": "What should a gutter service request include?",
       "direct_answer": "Describe where overflow, leaking joints or loose sections occur, how many levels the home has and whether guards are installed. Ask whether the visit includes downspouts, debris removal, flow checks and a separate quote for repairs.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Describe where overflow, leaking joints or loose sections occur, how many levels the home has and whether guards are installed. Ask whether the visit includes downspouts, debris removal, flow checks and a separate quote for repairs."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Separate cleaning from repair",
@@ -533,7 +505,7 @@
           "type": "RICH_TEXT",
           "heading": "Start with A5",
           "paragraphs": [
-            "Describe the overflow or repair concern and your home\u2019s access. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+            "Describe the overflow or repair concern and your home’s access. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
           ],
           "links": [
             {
@@ -557,7 +529,7 @@
         {
           "type": "CTA",
           "title": "Get help with your gutters",
-          "description": "Describe the overflow or repair concern and your home\u2019s access.",
+          "description": "Describe the overflow or repair concern and your home’s access.",
           "primaryLabel": "Start your request"
         }
       ],
@@ -577,7 +549,7 @@
       "page_type": "PROBLEM",
       "title": "Gutters overflowing during rain",
       "meta_title": "Gutters overflowing during rain | A5",
-      "meta_description": "Gutters overflowing during rain. Describe the overflow or repair concern and your home\u2019s access. Practical guidance for your next service request through A5.",
+      "meta_description": "Gutters overflowing during rain. Describe the overflow or repair concern and your home’s access. Practical guidance for your next service request through A5.",
       "h1": "Gutters overflowing during rain",
       "primary_service_id": "gutters",
       "primary_location_id": null,
@@ -585,10 +557,6 @@
       "primary_question": "How should I request help with gutters overflowing during rain?",
       "direct_answer": "Overflowing gutters may need cleaning, repair or an assessment of the drainage arrangement. Describe the location and rainfall pattern and ask a gutter provider to identify the cause before authorizing replacement.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Overflowing gutters may need cleaning, repair or an assessment of the drainage arrangement. Describe the location and rainfall pattern and ask a gutter provider to identify the cause before authorizing replacement."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Observe from a safe position",
@@ -614,7 +582,7 @@
           "type": "RICH_TEXT",
           "heading": "Start with A5",
           "paragraphs": [
-            "Describe the overflow or repair concern and your home\u2019s access. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
+            "Describe the overflow or repair concern and your home’s access. A5 reviews your request and connects it with a relevant independent provider. You agree the scope, price and timing directly; submitting a request does not book an appointment."
           ],
           "links": [
             {
@@ -638,7 +606,7 @@
         {
           "type": "CTA",
           "title": "Get help with your gutters",
-          "description": "Describe the overflow or repair concern and your home\u2019s access.",
+          "description": "Describe the overflow or repair concern and your home’s access.",
           "primaryLabel": "Start your request"
         }
       ],
@@ -666,10 +634,6 @@
       "primary_question": "What should I ask before a pest-control visit?",
       "direct_answer": "Ask the provider to identify the pest, explain treatment and prevention options, describe preparation and re-entry instructions, and specify follow-up visits and exclusions. Describe what you have observed instead of selecting a treatment yourself.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Ask the provider to identify the pest, explain treatment and prevention options, describe preparation and re-entry instructions, and specify follow-up visits and exclusions. Describe what you have observed instead of selecting a treatment yourself."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Describe the evidence",
@@ -755,10 +719,6 @@
       "direct_answer": "Recurring indoor pest activity calls for identification and a review of entry points, food, water and shelter as well as any treatment. Ask a pest professional to explain the plan and the conditions for follow-up.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "Recurring indoor pest activity calls for identification and a review of entry points, food, water and shelter as well as any treatment. Ask a pest professional to explain the plan and the conditions for follow-up."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "Show the pattern",
           "paragraphs": [
@@ -835,10 +795,6 @@
       "primary_question": "How do I prepare for a junk-removal quote?",
       "direct_answer": "Create an item list, identify stairs and access constraints, and separate ordinary household items from materials that need special handling. Confirm accepted items, loading, disposal, minimum charges and any extra fees before booking.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Create an item list, identify stairs and access constraints, and separate ordinary household items from materials that need special handling. Confirm accepted items, loading, disposal, minimum charges and any extra fees before booking."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Build the item list before the quote",
@@ -924,10 +880,6 @@
       "direct_answer": "For bulky-item removal, send an item list and photos, describe the access route and confirm loading and disposal charges. Ask separately about appliances or materials that the hauler may not accept.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "For bulky-item removal, send an item list and photos, describe the access route and confirm loading and disposal charges. Ask separately about appliances or materials that the hauler may not accept."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "Show what is going and staying",
           "paragraphs": [
@@ -1004,10 +956,6 @@
       "primary_question": "What should I compare before choosing a tree-service provider?",
       "direct_answer": "Compare the exact trees and work, access method, protection of nearby property, debris removal, stump treatment and written terms. Check the provider through New Jersey tree-care licensing resources and confirm municipal requirements before work begins.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Compare the exact trees and work, access method, protection of nearby property, debris removal, stump treatment and written terms. Check the provider through New Jersey tree-care licensing resources and confirm municipal requirements before work begins."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Describe the goal rather than prescribe the cut",
@@ -1093,10 +1041,6 @@
       "direct_answer": "For branches over a roof or driveway, request an assessment that identifies the tree, the desired clearance and nearby structures or lines. Agree on the work and debris handling before any cutting begins.",
       "sections": [
         {
-          "type": "INTRO",
-          "body": "For branches over a roof or driveway, request an assessment that identifies the tree, the desired clearance and nearby structures or lines. Agree on the work and debris handling before any cutting begins."
-        },
-        {
           "type": "RICH_TEXT",
           "heading": "Explain the concern clearly",
           "paragraphs": [
@@ -1173,10 +1117,6 @@
       "primary_question": "What information helps an appliance-repair provider?",
       "direct_answer": "Provide the appliance type, brand, model number, displayed error code and a short description of the fault. Confirm that the provider services that brand and appliance, and ask about diagnostic fees, parts, return visits and written repair terms.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Provide the appliance type, brand, model number, displayed error code and a short description of the fault. Confirm that the provider services that brand and appliance, and ask about diagnostic fees, parts, return visits and written repair terms."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Identify the appliance precisely",
@@ -1257,10 +1197,6 @@
       "primary_question": "How should I request help with an appliance displaying an error code?",
       "direct_answer": "Record the exact error code, appliance brand and model, and describe when the code appears. Consult the manufacturer instructions and ask a suitable repair provider to diagnose the issue before ordering parts.",
       "sections": [
-        {
-          "type": "INTRO",
-          "body": "Record the exact error code, appliance brand and model, and describe when the code appears. Consult the manufacturer instructions and ask a suitable repair provider to diagnose the issue before ordering parts."
-        },
         {
           "type": "RICH_TEXT",
           "heading": "Preserve the useful details",
@@ -1408,7 +1344,7 @@
   "sources": [
     {
       "id": "ca3ae3d3-6c70-5a1e-a1a1-a156d8d4c6c7",
-      "title": "EPA: Do\u2019s and Don\u2019ts of Pest Control",
+      "title": "EPA: Do’s and Don’ts of Pest Control",
       "url": "https://www.epa.gov/safepestcontrol/dos-and-donts-pest-control",
       "publisher": "US Environmental Protection Agency",
       "source_type": "GOVERNMENT",
