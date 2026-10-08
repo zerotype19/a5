@@ -1,0 +1,80 @@
+{
+  "batch": "19",
+  "sha256": "c7163cea190a33ad4c8fd3684f747be865c3289b8e1e17eedc9a278c5f87f10b",
+  "checkedAt": "2026-10-08T18:36:45.757Z",
+  "count": 10,
+  "sitemapCount": 306,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/walpack",
+      "status": 200,
+      "title": "Walpack Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Walpack home repairs with property-specific records, photographs and historic-context questions before replacing older exterior features.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/wantage",
+      "status": 200,
+      "title": "Wantage Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Wantage home projects using the Township's own construction instructions and shared-service guidance while keeping the property record local.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/allamuchy",
+      "status": 200,
+      "title": "Allamuchy Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Allamuchy home projects with the correct construction or smoke-certification contact and a clear repair list for each task.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/alpha",
+      "status": 200,
+      "title": "Alpha Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Alpha repairs with the right construction, zoning or housing question and a concise project packet before arranging an appointment.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/belvidere",
+      "status": 200,
+      "title": "Belvidere Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Belvidere exterior repairs with the Town's historic district map and preservation application resources before changing visible features.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/blairstown",
+      "status": 200,
+      "title": "Blairstown Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Blairstown older-home repairs with local preservation resources, existing-feature photos and a clear distinction between advice and approvals.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/franklin-township",
+      "status": 200,
+      "title": "Franklin Township Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Franklin Township, Warren County repairs with the current Washington Township construction-service route and existing project records.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/frelinghuysen",
+      "status": 200,
+      "title": "Frelinghuysen Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Frelinghuysen projects with the right scope and property records, using the Township's new-construction sequence without applying it blindly to repairs.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/greenwich-township",
+      "status": 200,
+      "title": "Greenwich Township Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Greenwich Township, Warren County repairs with current project plans, clear inspection access and a coordinated trade-to-finish sequence.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hardwick",
+      "status": 200,
+      "title": "Hardwick Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Hardwick home improvements with the correct DCA construction route and separate local zoning or driveway questions before scheduling work.",
+      "errors": []
+    }
+  ]
+}
