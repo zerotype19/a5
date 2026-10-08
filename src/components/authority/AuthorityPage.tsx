@@ -1,3 +1,4 @@
+import {getCountyBySlug} from "@config/counties";
 import { ArrowIcon } from "@/components/ArrowIcon";
 import { ContentDiscovery } from "./ContentDiscovery";
 import { Button } from "@/components/Button";
@@ -16,7 +17,7 @@ import {
   buildServiceSchema,
   serializeJsonLd,
 } from "@/lib/authority/schema";
-import { buildContentPathFromRecord } from "@/lib/authority/urls";
+import { buildCanonicalUrl, buildContentPathFromRecord } from "@/lib/authority/urls";
 import type { PublicContentPage } from "@/lib/authority/types";
 import styles from "./AuthorityPage.module.css";
 
@@ -40,6 +41,14 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
     buildOrganizationSchema(),
     buildBreadcrumbSchema(crumbs),
   ];
+
+  const county = page.page_type === "CORE" ? getCountyBySlug(page.slug) : undefined;
+  if(county) schemas.push({
+    "@context":"https://schema.org", "@type":"CollectionPage",
+    name:page.title, description:page.meta_description, url:buildCanonicalUrl(path),
+    about:{"@type":"AdministrativeArea",name:`${county.name}, New Jersey`,containedInPlace:{"@type":"State",name:"New Jersey"}},
+    isPartOf:{"@type":"CollectionPage",name:"North Jersey home services directory",url:buildCanonicalUrl('/home-services')}
+  });
 
   if (
     page.primary_service_id &&
@@ -86,11 +95,12 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
         {page.page_type === "SERVICE" || page.page_type === "SERVICE_LOCATION" ? (
           <ServiceLanding page={page}><AuthoritySections page={page} />{children}</ServiceLanding>
         ) : <>
-          <PageIntro eyebrow={kinds[page.page_type]} title={page.h1} />
+          <PageIntro eyebrow={page.page_type === "CORE" && getCountyBySlug(page.slug) ? "North Jersey home services" : kinds[page.page_type]} title={page.h1} />
+          {page.page_type === "CORE" && getCountyBySlug(page.slug) && <p style={{marginBottom:"2rem"}}><a href="#municipalities">Find your municipality and request service</a></p>}
           <div className={styles.articleLayout}>
             <aside className={styles.articleAside}>
               {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}
-              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and coordinate next steps.</p><Button href={requestHref({ service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
+              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and coordinate next steps.</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
             </aside>
             <div className={styles.articleBody}><AuthoritySections page={page} />{children}</div>
           </div>

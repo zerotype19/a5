@@ -1,3 +1,5 @@
+import {getCountyBySlug} from "../../../config/counties.ts";
+import {getLocationById,type LocationId} from "../../../config/locations.ts";
 import type { ContentPageRecord } from "./types.ts";
 import { buildContentPathFromRecord } from "./urls.ts";
 
@@ -10,7 +12,10 @@ export function buildDiscoveryGroups(page: ContentPageRecord, candidates: Conten
   const service = page.primary_service_id;
   const town = page.primary_location_id;
   const sameService = (p: ContentPageRecord) => Boolean(service && p.primary_service_id === service);
+  const county=page.page_type === "CORE" ? getCountyBySlug(page.slug) : town ? getCountyBySlug(`${getLocationById(town as LocationId)?.countyId}-county`) : undefined;
   const groups = [
+    {title:"Explore this county",pages:eligible.filter(p=>p.page_type === "CORE" && county && p.slug===county.slug)},
+    {title:"Local project guides",pages:eligible.filter(p=>page.page_type === "CORE" && county && p.page_type === "LOCATION" && p.primary_location_id && getLocationById(p.primary_location_id as LocationId)?.countyId===county.id)},
     { title: "Explore the service", pages: eligible.filter(p => p.page_type === "SERVICE" && sameService(p)) },
     { title: town ? "Services in this town" : "Find this service near you", pages: eligible.filter(p => p.page_type === "SERVICE_LOCATION" && (town ? p.primary_location_id === town : sameService(p))) },
     { title: "Explore the area", pages: eligible.filter(p => p.page_type === "LOCATION" && town && p.primary_location_id === town) },

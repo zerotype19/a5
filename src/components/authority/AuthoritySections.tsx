@@ -1,3 +1,4 @@
+import {getCountyBySlug} from "@config/counties";
 import { ArrowIcon } from "@/components/ArrowIcon";
 import { sectionHeading } from "@/lib/authority/outline";
 import { requestHref } from "@/lib/intake/context";
@@ -190,7 +191,7 @@ function SectionBlock({
               section.description ??
               "Tell A5 what your home needs. We will review and coordinate next steps."
             }
-            primaryHref={requestHref({service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug})}
+            primaryHref={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined,service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug})}
             primaryCta="authority-request-service"
             primaryLabel="Request service"
             secondaryLabel={
