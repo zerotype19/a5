@@ -1,0 +1,80 @@
+{
+  "batch": "09",
+  "sha256": "4a76d081fdc6d5d5d19a33fce5b44b9cf1441b8fd8679639e6a5a37a7772fb96",
+  "checkedAt": "2026-10-08T17:18:53.906Z",
+  "count": 10,
+  "sitemapCount": 206,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/lodi",
+      "status": 200,
+      "title": "Lodi Home Services | Bergen County | A5 Home Services",
+      "description": "Plan a Lodi renovation with clear debris handling, dumpster placement, site access and Borough construction resources before work begins.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/lyndhurst",
+      "status": 200,
+      "title": "Lyndhurst Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare a Lyndhurst plumbing or drainage request with clear observations, the appropriate Public Works contact and a defined private repair scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mahwah",
+      "status": 200,
+      "title": "Mahwah Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Mahwah tree and landscape projects using Township tree-removal and vendor-registration resources, clear access plans and separate repair scopes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/maywood",
+      "status": 200,
+      "title": "Maywood Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Maywood heating replacements with equipment details, venting questions, chimney-verification resources and coordinated professional responsibilities.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/midland-park",
+      "status": 200,
+      "title": "Midland Park Home Services | Bergen County | A5 Home Services",
+      "description": "Organize Midland Park home-sale repairs around the Borough's resale and smoke-certificate processes, clear findings and coordinated finishing work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/montvale",
+      "status": 200,
+      "title": "Montvale Home Services | Bergen County | A5 Home Services",
+      "description": "Keep Montvale repair projects organized through required final inspections, completion records and the Borough's home-sale preparation guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/moonachie",
+      "status": 200,
+      "title": "Moonachie Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Moonachie appliance repairs and replacements with model details, connection responsibilities and the Borough's special curbside removal guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/new-milford",
+      "status": 200,
+      "title": "New Milford Home Services | Bergen County | A5 Home Services",
+      "description": "Plan a New Milford clear-out with separate bulky items, electronics and project debris, using current Borough recycling and disposal resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/north-arlington",
+      "status": 200,
+      "title": "North Arlington Home Services | Bergen County | A5 Home Services",
+      "description": "Plan North Arlington bathroom repairs with a clear plumbing, electrical and finish-work scope and the Borough's separate subcode inspection resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/northvale",
+      "status": 200,
+      "title": "Northvale Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Northvale landscaping and tree work with explicit debris removal, protected access and current Borough Public Works guidance for yard materials.",
+      "errors": []
+    }
+  ]
+}

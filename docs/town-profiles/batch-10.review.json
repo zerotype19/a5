@@ -1,0 +1,151 @@
+{
+  "sha256": "879870470eca2227e426a03342ea2158ebe25d4422567269cd886cc2719906ed",
+  "pages": [
+    {
+      "id": "b36d0827-28a3-419f-8382-83391480aea3",
+      "path": "/home-services/norwood",
+      "newlyIndexable": true,
+      "purpose": "Clarify the water-service repair boundary before planning excavation",
+      "sourceClaims": [
+        {
+          "title": "Norwood Construction and Code Enforcement",
+          "url": "https://www.norwoodboro.org/page/constructioncode-enforcement",
+          "publisher": "Borough of Norwood",
+          "supports": "Local curb-box-to-home water-service responsibility guidance, verified in live browser; outdated utility brand and permit-exemption list excluded."
+        }
+      ]
+    },
+    {
+      "id": "656f97b9-7afb-498f-8227-cc9f89b65b1a",
+      "path": "/home-services/oakland",
+      "newlyIndexable": true,
+      "purpose": "Separate a property flood-context check from a yard repair proposal",
+      "sourceClaims": [
+        {
+          "title": "Oakland Flood Community Rating System",
+          "url": "https://nj-oakland.civicplus.com/1648/4378/Flood-Community-Rating-System",
+          "publisher": "Borough of Oakland",
+          "supports": "Official current homepage-linked resource provides FEMA map and elevation references; no parcel designation, insurance savings or permit determination asserted."
+        }
+      ]
+    },
+    {
+      "id": "3870e8b8-783b-498f-8031-4cac1672e43b",
+      "path": "/home-services/old-tappan",
+      "newlyIndexable": true,
+      "purpose": "Prepare a tree inventory before coordinating removal and replacement planting",
+      "sourceClaims": [
+        {
+          "title": "Old Tappan Building and Zoning",
+          "url": "https://www.oldtappan.net/departments/construction",
+          "publisher": "Borough of Old Tappan",
+          "supports": "Current official page links tree-removal application and relevant department."
+        },
+        {
+          "title": "Old Tappan Tree Removal Application",
+          "url": "https://www.oldtappan.net/forms-documents/forms/department-documents/construction/1264-tree-removal-permit-application-9-4-24/file",
+          "publisher": "Borough of Old Tappan",
+          "supports": "Tree inventory/location/condition fields and replacement planning; older ordinance references, numeric thresholds, fees and exemptions not reproduced."
+        }
+      ]
+    },
+    {
+      "id": "dfff48b7-1351-4673-8d02-f81caaeb5e7c",
+      "path": "/home-services/oradell",
+      "newlyIndexable": true,
+      "purpose": "Prepare generator siting information before selecting an installation proposal",
+      "sourceClaims": [
+        {
+          "title": "Oradell Generator Installation Requirements",
+          "url": "https://www.oradell.org/building-department/files/generator-installation-permit-requirements-0",
+          "publisher": "Borough of Oradell",
+          "supports": "Survey/siting, exhaust-direction and manufacturer-documentation requirements; no numerical clearances, wiring or gas instructions reproduced."
+        }
+      ]
+    },
+    {
+      "id": "8850d9f5-2a7a-4970-8d86-3e68949702f8",
+      "path": "/home-services/palisades-park",
+      "newlyIndexable": true,
+      "purpose": "Put permit coordination and inspection access into the contractor agreement",
+      "sourceClaims": [
+        {
+          "title": "Palisades Park Building Department FAQ",
+          "url": "https://palisadesparknj.org/departments/building-department/",
+          "publisher": "Borough of Palisades Park",
+          "supports": "Contract should identify permit responsibility and exact inspection time cannot be guaranteed; no emergency exemptions, penalties or fees copied."
+        }
+      ]
+    },
+    {
+      "id": "56b23bf8-b3e5-4cc4-826c-2d325d54a7b8",
+      "path": "/home-services/park-ridge",
+      "newlyIndexable": true,
+      "purpose": "Coordinate electrical equipment projects with the municipal utility",
+      "sourceClaims": [
+        {
+          "title": "Park Ridge Electric Department",
+          "url": "https://www.parkridgeboro.com/departments/electric",
+          "publisher": "Borough of Park Ridge",
+          "supports": "Municipal Electric Department and separate service/connection/interconnection forms; no rates, service capacity or approval promises."
+        }
+      ]
+    },
+    {
+      "id": "eab79e42-2209-4e3e-85e8-48c924631b63",
+      "path": "/home-services/ramsey",
+      "newlyIndexable": true,
+      "purpose": "Track permit status and inspection requests without confusing them with approval",
+      "sourceClaims": [
+        {
+          "title": "Ramsey Building and Construction Department",
+          "url": "https://www.ramseynj.com/153/Building-Department",
+          "publisher": "Borough of Ramsey",
+          "supports": "SDL portal status/inspection-request functions and prior-approval chart; no account actions, timelines or inferred approvals."
+        }
+      ]
+    },
+    {
+      "id": "f09c4b94-d852-491a-8bc3-1db9fa072fef",
+      "path": "/home-services/ridgefield",
+      "newlyIndexable": true,
+      "purpose": "Match yard cleanup arrangements to the property's collection area",
+      "sourceClaims": [
+        {
+          "title": "Ridgefield Public Works",
+          "url": "https://www.ridgefieldnj.gov/public-works",
+          "publisher": "Borough of Ridgefield",
+          "supports": "East/west Shaler Boulevard collection distinction and separate branch pickup; dates, size limits and hours not copied."
+        }
+      ]
+    },
+    {
+      "id": "cef1403c-8e91-440a-82b6-ea0a49538c16",
+      "path": "/home-services/ridgefield-park",
+      "newlyIndexable": true,
+      "purpose": "Distinguish resident repair debris from contractor renovation disposal",
+      "sourceClaims": [
+        {
+          "title": "Ridgefield Park Recycling and Disposal Guidance",
+          "url": "https://www.ridgefieldpark.org/205/Recycle-Coach",
+          "publisher": "Village of Ridgefield Park",
+          "supports": "Construction/demolition section distinguishes small resident projects and larger/contractor disposal; no quantities, fees or schedules copied."
+        }
+      ]
+    },
+    {
+      "id": "679200fb-ec1a-46e1-81f8-afb4f25f5453",
+      "path": "/home-services/river-edge",
+      "newlyIndexable": true,
+      "purpose": "Use a scaled site plan to align an outdoor project with zoning review",
+      "sourceClaims": [
+        {
+          "title": "River Edge Building Department",
+          "url": "https://www.riveredgenj.org/directory/BuildingDepartment",
+          "publisher": "Borough of River Edge",
+          "supports": "Survey/scaled architectural plans and dimensions for applicable zoning review; no blanket permit requirements, fees or review times reproduced."
+        }
+      ]
+    }
+  ]
+}

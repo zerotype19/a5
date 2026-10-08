@@ -77,3 +77,11 @@ Garfield, Glen Rock, Hackensack, Harrington Park, Hasbrouck Heights, Haworth, Hi
 ## Batch 09: ready for publication
 
 Lodi, Lyndhurst, Mahwah, Maywood, Midland Park, Montvale, Moonachie, New Milford, North Arlington and Northvale. Brand positioning ideas approved all ten. Official sources support narrow local guidance; Montvale and New Milford were verified in the live browser. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed. No runtime changes.
+
+## Batch 09: published and verified
+
+2026-10-08: PR #58 merged (27f86ab). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 206 URLs. Ninety completed; 112 remain.
+
+## Batch 10: ready for publication
+
+Norwood, Oakland, Old Tappan, Oradell, Palisades Park, Park Ridge, Ramsey, Ridgefield, Ridgefield Park and River Edge. Brand positioning ideas approved all ten. Official sources support narrow homeowner guidance; no outdated tree thresholds, utility rates or inspection guarantees copied. Tests, lint, typecheck and Next build passed. All 160 service/town combinations retain at least ten active emailed mapped vendors.

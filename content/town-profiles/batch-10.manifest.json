@@ -1,0 +1,1324 @@
+{
+  "updates": [
+    {
+      "id": "b36d0827-28a3-419f-8382-83391480aea3",
+      "slug": "norwood",
+      "page_type": "LOCATION",
+      "title": "Home services in Norwood, Bergen County",
+      "meta_title": "Norwood Home Services | Bergen County",
+      "meta_description": "Prepare a Norwood water-service repair with a clear responsibility check, professional diagnosis, access information and a plan for restoring disturbed surfaces.",
+      "h1": "Home services in Norwood.",
+      "primary_service_id": null,
+      "primary_location_id": "norwood",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Norwood, Bergen County?",
+      "direct_answer": "For a suspected Norwood water-service problem, clarify which part of the system needs attention before arranging work. The Borough's construction guidance identifies the service from the curb box into the home as a homeowner repair responsibility. Confirm the actual connection and responsibility with the relevant utility and qualified plumber, then define diagnosis, repair and restoration separately.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Include the access and restoration in a water-service request",
+          "paragraphs": [
+            "Describe the symptom, when it started and any findings already provided by the utility or a professional. Share accessible photos and identify the route into the house without opening equipment or attempting excavation. A low-pressure complaint or wet area alone does not establish the location or cause of a service-line problem.",
+            "Norwood's Construction and Code Enforcement page raises the curb-box-to-home distinction specifically for residents. Use it to frame the responsibility question, not as a substitute for checking the actual property and current utility instructions. Ask the Building Department about requirements for the proposed repair once the professional has defined the work.",
+            "A complete proposal should explain who coordinates any necessary utility involvement, provides access and restores disturbed ground or paving. Keep diagnosis separate from a fixed replacement assumption. Save the findings and completed-work records so a later landscape or masonry contractor understands what was changed and which areas may need restoration."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Norwood project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Request a plumbing assessment",
+              "body": "Share the symptom and any utility findings. Ask the plumber to identify the repair boundary and explain the proposed work before excavation is planned.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Restore affected paving",
+              "body": "Identify walks or paved surfaces included in the repair area. Coordinate the restoration scope with the underlying work and relevant approvals.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan landscape restoration",
+              "body": "Mark planting and lawn areas affected by access. Schedule restoration after the repair scope and completion requirements are settled.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What local distinction matters for a Norwood water-service repair?",
+              "answer": "The Borough's construction guidance identifies the curb-box-to-home service as a homeowner responsibility. Confirm the actual repair boundary with the utility and qualified plumber before arranging work."
+            },
+            {
+              "question": "How does A5 help with my Norwood request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Norwood is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Norwood project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:23.786+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "656f97b9-7afb-498f-8227-cc9f89b65b1a",
+      "slug": "oakland",
+      "page_type": "LOCATION",
+      "title": "Home services in Oakland, Bergen County",
+      "meta_title": "Oakland Home Services | Bergen County",
+      "meta_description": "Prepare Oakland drainage and exterior repair questions using Borough flood-map resources, site observations and a clearly defined professional scope.",
+      "h1": "Home services in Oakland.",
+      "primary_service_id": null,
+      "primary_location_id": "oakland",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Oakland, Bergen County?",
+      "direct_answer": "For an Oakland exterior project affected by water, check the property's context before treating a yard repair as the whole solution. The Borough's Flood Community Rating System resource links FEMA flood maps and elevation-certificate information. Those are starting resources for an address-specific discussion with the appropriate office; they do not mean every Oakland property has the same designation or that a landscape change resolves flood risk.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Bring property context and observations to the same conversation",
+          "paragraphs": [
+            "Record where water appears and when, using photos from a safe location. Note whether the concern involves roof runoff, a paved surface, the yard or a wider event. Give the professional observations rather than a predetermined drainage design so they can explain what falls within their scope and what needs another assessment.",
+            "Oakland's current municipal site connects residents to flood-map and elevation resources through its Flood Commission. Check the current property information with the relevant authority before relying on an old map or a nearby home's experience. This guide does not assign a flood zone, recommend insurance coverage or establish approval for a particular alteration.",
+            "For a private project, ask the proposal to identify the problem it is intended to address and the limits of that work. Keep gutter maintenance, surface repair and any specialist drainage design distinct. Coordinate proposed changes before ordering material, and retain the findings so later work does not start from the same unresolved assumptions."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Oakland project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Describe the yard-water concern",
+              "body": "Provide location photos and a timeline. Ask the landscaper to identify the assessment needed before changing grading, planting or runoff paths.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Assess visible gutter symptoms",
+              "body": "Report overflow or damage visible from the ground. Clarify how the gutter work fits the broader water concern without assuming it resolves every cause.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Define a surface repair",
+              "body": "Show the affected walkway or patio and nearby water observations. Ask the mason to separate surface repair from any unresolved drainage design.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can Oakland homeowners begin an address-specific flood-context check?",
+              "answer": "The Borough's Flood Community Rating System page links FEMA flood maps and elevation-certificate resources. Use current information and the appropriate municipal contact rather than inferring a property's designation from the town name."
+            },
+            {
+              "question": "How does A5 help with my Oakland request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Oakland is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Oakland project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:23.899+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "3870e8b8-783b-498f-8031-4cac1672e43b",
+      "slug": "old-tappan",
+      "page_type": "LOCATION",
+      "title": "Home services in Old Tappan, Bergen County",
+      "meta_title": "Old Tappan Home Services | Bergen County",
+      "meta_description": "Plan Old Tappan tree work with the Borough's application information, a clear tree inventory and coordinated removal, planting and site-restoration scopes.",
+      "h1": "Home services in Old Tappan.",
+      "primary_service_id": null,
+      "primary_location_id": "old-tappan",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Old Tappan, Bergen County?",
+      "direct_answer": "For proposed tree removal in Old Tappan, start with a clear inventory and location plan. The tree application linked by the Building Department asks for information such as species, condition, location and relationship to the home and property line, and includes replacement-planning fields. Confirm the current process with the Borough and have the tree professional supply the technical assessment.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the tree assessment and the replacement plan connected",
+          "paragraphs": [
+            "Use ground-level photos to identify which trees you want assessed and why. Show retained planting, nearby buildings and the intended access route. Do not turn an uncertain concern into a removal instruction; ask the professional to explain the condition, available options and any information needed for municipal review.",
+            "Old Tappan's published application gives the homeowner and professional a structured way to describe the trees and proposed work. It also includes replacement planning. Check current requirements directly rather than relying on an older form's fees, thresholds or exemptions, and do not confuse submission of information with approval to proceed.",
+            "Ask the quote to distinguish removal, stump work, material handling and restoration. Coordinate any replacement planting after the approved scope is clear. If adjacent paths or lawn areas will be affected, identify who restores them and how retained features will be protected before equipment arrives."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Old Tappan project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Prepare the tree assessment",
+              "body": "Identify the trees and the reason for concern. Ask the professional for the condition and location information needed for the current Borough process.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate replacement planting",
+              "body": "Share the agreed tree-work plan with the landscaper. Confirm applicable planting requirements and site conditions before choosing replacements.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Define separate material removal",
+              "body": "Clarify which logs, branches or stump material the tree proposal includes. Arrange additional hauling only after the remaining scope is explicit.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What information helps prepare an Old Tappan tree-work discussion?",
+              "answer": "The Borough-linked application includes tree identity, condition, location, distance information and replacement-planning fields. Have the professional help prepare the technical details and confirm the current application requirements with the Building Department."
+            },
+            {
+              "question": "How does A5 help with my Old Tappan request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Old Tappan is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Old Tappan project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.009+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "dfff48b7-1351-4673-8d02-f81caaeb5e7c",
+      "slug": "oradell",
+      "page_type": "LOCATION",
+      "title": "Home services in Oradell, Bergen County",
+      "meta_title": "Oradell Home Services | Bergen County",
+      "meta_description": "Plan an Oradell generator inquiry with survey information, equipment documentation and coordinated electrical, fuel and site-work responsibilities.",
+      "h1": "Home services in Oradell.",
+      "primary_service_id": null,
+      "primary_location_id": "oradell",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Oradell, Bergen County?",
+      "direct_answer": "An Oradell generator proposal needs more than an equipment model. The Borough's generator guidance asks for the proposed location on a survey, its relationship to nearby features, exhaust direction and the manufacturer's installation information. Have qualified professionals develop the siting and trade details, then confirm the current municipal requirements before committing to an installation.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the whole installation, including its location",
+          "paragraphs": [
+            "Begin with the household needs you want the professional to assess and any available property survey. Describe the proposed area and nearby doors, windows, planting and paths. Avoid choosing the final location from appearance or convenience alone; the installation must be evaluated for the actual equipment, property and applicable requirements.",
+            "Oradell publishes a generator-specific document alongside its general Building Department resources. Its requested survey and manufacturer information make the relationship between equipment and site part of the review. Use the current guidance with the installing professionals rather than treating this page as a technical clearance specification or a do-it-yourself installation guide.",
+            "Ask proposals to identify electrical work, any fuel-related work, site preparation and inspection coordination. Confirm which professional handles each part and whether landscape restoration is included. An A5 electrical match does not establish generator specialization; discuss the particular equipment and project experience directly before selecting a provider."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Oradell project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the electrical proposal",
+              "body": "Describe the household needs and proposed equipment. Ask a qualified electrician about relevant generator experience and the complete installation scope.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Clarify fuel-related work",
+              "body": "If the proposal includes fuel piping, identify the appropriately qualified professional and coordination requirements. Do not assume this work is included in the electrical quote.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Plan surrounding restoration",
+              "body": "Show planting and access affected by the proposed installation. Coordinate landscaping only after the siting and installation plan is settled.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What site information does Oradell's generator guidance request?",
+              "answer": "The Borough document asks for a survey showing the proposed unit and nearby features, exhaust direction and installation-manual information. Qualified professionals and the Building Department should confirm the current requirements for the actual proposal."
+            },
+            {
+              "question": "How does A5 help with my Oradell request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Oradell is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Oradell project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.12+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "8850d9f5-2a7a-4970-8d86-3e68949702f8",
+      "slug": "palisades-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Palisades Park, Bergen County",
+      "meta_title": "Palisades Park Home Services | Bergen County",
+      "meta_description": "Prepare Palisades Park repairs with clear permit responsibilities, realistic inspection access and coordinated contractor handoffs before finishing work.",
+      "h1": "Home services in Palisades Park.",
+      "primary_service_id": null,
+      "primary_location_id": "palisades-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Palisades Park, Bergen County?",
+      "direct_answer": "For Palisades Park work that requires a construction permit, agree in writing who will handle the application. The Borough's Building Department FAQ specifically says the owner-contractor agreement should identify that responsibility. It also says an exact inspection time cannot be guaranteed, so plan access and later trade visits around the confirmed municipal arrangements.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Resolve the coordination details before work starts",
+          "paragraphs": [
+            "Give every contractor the same written scope and identify any work to be completed by someone else. Ask who prepares the application information, checks its status and coordinates required inspections. The goal is a named responsibility for each step, rather than two parties each assuming the other has handled it.",
+            "Palisades Park's Building Department FAQ addresses both application responsibility and inspection scheduling. Confirm the current process for the actual project and allow for the office's scheduling arrangements. A requested appointment is not the same as a guaranteed arrival time, and a service estimate is not evidence that municipal approval has been issued.",
+            "Keep access arrangements and contractor contacts together with the project record. Coordinate any work that would cover inspected areas with the relevant professionals and office. Once the underlying repairs and required checks are complete, schedule final finishes and retain the completion information for future property questions."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Palisades Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Coordinate plumbing work",
+              "body": "Share the defined repair scope and ask who handles applicable application and inspection steps. Keep access needs visible in the schedule.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Clarify electrical handoffs",
+              "body": "Identify electrical tasks and connected work by other trades. Agree on coordination before setting later finishing appointments.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Schedule drywall restoration",
+              "body": "Mark the areas opened for repair. Confirm required access and checks are resolved before arranging closure and finish preparation.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Who should handle a Palisades Park construction-permit application?",
+              "answer": "The Borough FAQ says the owner-contractor agreement should clearly identify who acquires the permit. Confirm the applicable process and make the coordination explicit before work begins."
+            },
+            {
+              "question": "How does A5 help with my Palisades Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Palisades Park is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Palisades Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.236+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "56b23bf8-b3e5-4cc4-826c-2d325d54a7b8",
+      "slug": "park-ridge",
+      "page_type": "LOCATION",
+      "title": "Home services in Park Ridge, Bergen County",
+      "meta_title": "Park Ridge Home Services | Bergen County",
+      "meta_description": "Plan Park Ridge electrical equipment work with the Borough utility's service resources, clear electrician responsibilities and coordinated equipment information.",
+      "h1": "Home services in Park Ridge.",
+      "primary_service_id": null,
+      "primary_location_id": "park-ridge",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Park Ridge, Bergen County?",
+      "direct_answer": "For Park Ridge electrical work involving service or interconnection questions, include the municipal Electric Department in the planning. The Borough publishes separate service, connection and interconnection resources. Have the electrician identify whether utility coordination is needed for the actual proposal instead of assuming the property's existing service supports every planned equipment change.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Connect the equipment plan to the service question",
+          "paragraphs": [
+            "List the equipment you want assessed, such as a new appliance or heating system, and provide available manufacturer information. Explain whether this is a repair, replacement or a larger change. The electrician should assess the relevant electrical needs; a homeowner's list is a starting point rather than a load calculation or design.",
+            "Park Ridge's Electric Department provides local utility contacts and distinct application resources. Use that official route when the professional identifies a service-related step. A building inspection, utility agreement and private installation can involve different responsibilities, so ask how they fit together for the project without assuming one approval replaces another.",
+            "Have the proposal state the private electrical work, required coordination and any associated restoration. Share equipment changes promptly with all involved professionals. Confirm the installation schedule only after the necessary decisions are understood, and keep the final equipment and project documents for later maintenance."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Park Ridge project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess the electrical work",
+              "body": "Share the intended equipment and existing findings. Ask the electrician to define the scope and identify any municipal utility coordination.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate heating equipment details",
+              "body": "Provide the HVAC proposal to the electrician where relevant. Keep equipment selection and associated electrical responsibilities aligned.",
+              "links": [
+                {
+                  "label": "Explore hvac projects",
+                  "href": "/services/hvac"
+                }
+              ]
+            },
+            {
+              "title": "Clarify appliance installation needs",
+              "body": "Identify the appliance model and installation issue. Ask the technician which work they handle and what requires an electrician or utility discussion.",
+              "links": [
+                {
+                  "label": "Explore appliance repair projects",
+                  "href": "/services/appliance-repair"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Where can Park Ridge service and interconnection questions start?",
+              "answer": "The Borough's Electric Department publishes service, connection and interconnection resources. Have the qualified professional identify the applicable utility coordination for the proposed work."
+            },
+            {
+              "question": "How does A5 help with my Park Ridge request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Park Ridge is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Park Ridge project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.453+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "eab79e42-2209-4e3e-85e8-48c924631b63",
+      "slug": "ramsey",
+      "page_type": "LOCATION",
+      "title": "Home services in Ramsey, Bergen County",
+      "meta_title": "Ramsey Home Services | Bergen County",
+      "meta_description": "Organize Ramsey repair projects using the Borough's permit-status portal, prior-approval resources and a clear record of inspection and contractor next steps.",
+      "h1": "Home services in Ramsey.",
+      "primary_service_id": null,
+      "primary_location_id": "ramsey",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Ramsey, Bergen County?",
+      "direct_answer": "For a Ramsey project with a permit, use the Borough's status and inspection-request resources to keep the next step visible. The Building Department advertises an SDL portal for permit-status review and inspection requests, alongside a prior-approval chart. A submitted request or status screen should be checked for its actual meaning rather than treated as permission to start or cover work.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep one current record of the project status",
+          "paragraphs": [
+            "Save the project reference, agreed scope and relevant contractor contacts together. Identify which information is still needed and who is responsible for providing it. This helps distinguish a missing document from an inspection request or a contractor scheduling issue when several people are working on the same job.",
+            "Ramsey's Building Department provides a prior-approval resource as well as online status and inspection functions. Confirm which steps apply to the proposed work and ask the office when a status is unclear. Using the portal does not remove the need for the required approvals or guarantee that an inspection will occur on the day requested.",
+            "Before the next trade arrives, check that the previous stage has reached the appropriate completion point. Keep revisions and inspection outcomes with the original scope. Once the work is finished, retain the final records so a future repair request starts with a reliable account of what was done."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Ramsey project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Track plumbing repair steps",
+              "body": "Keep the repair scope and applicable permit reference together. Agree who coordinates inspections and communicates any changed findings.",
+              "links": [
+                {
+                  "label": "Explore plumbing projects",
+                  "href": "/services/plumbing"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate an electrical stage",
+              "body": "Share the project status and upcoming trade work. Ask the electrician which access and checks are needed before later finishes.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Plan final surface restoration",
+              "body": "Identify surfaces affected by the repairs. Schedule painting after the relevant underlying work and required inspections are complete.",
+              "links": [
+                {
+                  "label": "Explore painting projects",
+                  "href": "/services/painting"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Ramsey offer online permit-status and inspection-request tools?",
+              "answer": "The Building Department identifies its SDL portal for permit-status review and inspection requests. Read the actual status and confirm unclear next steps with the office; submission alone is not approval."
+            },
+            {
+              "question": "How does A5 help with my Ramsey request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Ramsey is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Ramsey project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.556+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "f09c4b94-d852-491a-8bc3-1db9fa072fef",
+      "slug": "ridgefield",
+      "page_type": "LOCATION",
+      "title": "Home services in Ridgefield, Bergen County",
+      "meta_title": "Ridgefield Home Services | Bergen County",
+      "meta_description": "Plan Ridgefield yard cleanup with the Borough's Shaler Boulevard collection-area distinction, separate branch handling and clear professional removal responsibilities.",
+      "h1": "Home services in Ridgefield.",
+      "primary_service_id": null,
+      "primary_location_id": "ridgefield",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Ridgefield, Bergen County?",
+      "direct_answer": "For a Ridgefield yard cleanup, check the property's collection area before setting a cleanup date. The Borough's Public Works guidance separates areas east and west of Shaler Boulevard and gives branches a separate pickup arrangement. Use the current calendar and material instructions, then make any professional debris-removal responsibility explicit in the quote.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Plan the cleanup around the material and the address",
+          "paragraphs": [
+            "List the leaves, brush, planting waste and other items you expect to remove. Keep non-yard material separate and describe access to the work area. A cleanup request is easier to price when the professional knows whether the job includes ongoing maintenance, a one-time clearing or removal of heavier material.",
+            "Ridgefield's Public Works page organizes yard collection by side of Shaler Boulevard and distinguishes branch pickup from ordinary yard-waste arrangements. Check current instructions for your address and material rather than using a neighbor's date or an old calendar. Municipal resident collection should not be assumed to cover every item generated by contracted work.",
+            "Ask the landscape proposal to say what is removed, what remains on site and who transports material that needs another route. If gutter work is also planned, coordinate it so the final yard cleanup follows the work that may leave debris. Keep the final condition of paths, planting beds and access areas part of the agreed scope."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Ridgefield project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Define the yard cleanup",
+              "body": "Share the material list and work boundaries. Ask the landscaper to state removal responsibilities and the expected condition after the job.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Coordinate gutter maintenance",
+              "body": "Describe the gutter concern from the ground. Align cleanup responsibilities with any nearby landscape work so debris is addressed once.",
+              "links": [
+                {
+                  "label": "Explore gutters projects",
+                  "href": "/services/gutters"
+                }
+              ]
+            },
+            {
+              "title": "Separate non-yard removal",
+              "body": "Identify furniture or other items mixed into the cleanup area. Confirm the appropriate hauler and disposal scope separately from yard collection.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why does the location within Ridgefield matter for yard cleanup planning?",
+              "answer": "Public Works provides different collection-area instructions east and west of Shaler Boulevard, with separate branch-pickup arrangements. Check the current address-specific schedule and material guidance before planning disposal."
+            },
+            {
+              "question": "How does A5 help with my Ridgefield request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Ridgefield is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Ridgefield project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.661+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "cef1403c-8e91-440a-82b6-ea0a49538c16",
+      "slug": "ridgefield-park",
+      "page_type": "LOCATION",
+      "title": "Home services in Ridgefield Park, Bergen County",
+      "meta_title": "Ridgefield Park Home Services | Bergen County",
+      "meta_description": "Plan Ridgefield Park renovation cleanup with a clear contractor disposal scope and the Village's separate guidance for small resident-generated repair debris.",
+      "h1": "Home services in Ridgefield Park.",
+      "primary_service_id": null,
+      "primary_location_id": "ridgefield-park",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Ridgefield Park, Bergen County?",
+      "direct_answer": "For Ridgefield Park renovations, include disposal in the contractor's proposal. The Village's recycling guidance distinguishes debris from a small resident project without a contractor from larger renovation waste and excludes contractors and commercial vehicles from the described center route. Check the current instructions before assuming a municipal drop-off option will handle a professional job's materials.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Make demolition and disposal one coordinated scope",
+          "paragraphs": [
+            "Identify what will be removed before requesting a price: wall finishes, tile, flooring or other materials can create different handling needs. Describe the room, access route and any materials whose identity is uncertain. Ask the professional to assess those uncertainties rather than mixing everything into a generic household-junk estimate.",
+            "Ridgefield Park's Recycle Coach page contains a construction-and-demolition section with a specific resident-versus-contractor distinction. Use it to clarify the route for the actual project. The availability of a small-project resident option is not evidence that a large renovation or contractor load is accepted at the same location.",
+            "Have the agreement name who loads, transports and disposes of the removed material. Keep household belongings separate from the work debris and protect the route through occupied rooms. Arrange final cleaning after demolition and installation are complete so it addresses the finished space rather than an active worksite."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Ridgefield Park project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Scope drywall removal and repair",
+              "body": "Identify the affected surfaces and underlying findings. Ask the professional to include protection and debris handling in the proposal.",
+              "links": [
+                {
+                  "label": "Explore drywall projects",
+                  "href": "/services/drywall"
+                }
+              ]
+            },
+            {
+              "title": "Compare tile replacement scopes",
+              "body": "Share the areas to remove and replace. Clarify preparation, demolition and disposal rather than comparing installation prices alone.",
+              "links": [
+                {
+                  "label": "Explore tile projects",
+                  "href": "/services/tile"
+                }
+              ]
+            },
+            {
+              "title": "Arrange the appropriate hauling",
+              "body": "Describe construction material separately from household items. Confirm acceptance and handling with the hauler for the actual job.",
+              "links": [
+                {
+                  "label": "Explore junk removal projects",
+                  "href": "/services/junk-removal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can a Ridgefield Park contractor use the same debris drop-off route as a small homeowner repair?",
+              "answer": "The Village guidance distinguishes small resident work without a contractor from larger renovations and excludes contractors and commercial vehicles from the described center route. Confirm current requirements and put professional disposal in the project scope."
+            },
+            {
+              "question": "How does A5 help with my Ridgefield Park request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Ridgefield Park is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Ridgefield Park project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.766+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "679200fb-ec1a-46e1-81f8-afb4f25f5453",
+      "slug": "river-edge",
+      "page_type": "LOCATION",
+      "title": "Home services in River Edge, Bergen County",
+      "meta_title": "River Edge Home Services | Bergen County",
+      "meta_description": "Prepare River Edge outdoor improvements with survey information, exact proposed dimensions and coordinated landscape and hardscape plans for local review.",
+      "h1": "Home services in River Edge.",
+      "primary_service_id": null,
+      "primary_location_id": "river-edge",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in River Edge, Bergen County?",
+      "direct_answer": "For a River Edge outdoor project subject to zoning review, prepare the site information before comparing final installation quotes. The Building Department asks for a property survey or scaled architectural plans showing the work's dimensions. Confirm the applicable review for the proposal and use the same footprint in the municipal discussion and contractor scope.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep the proposed footprint consistent across the project",
+          "paragraphs": [
+            "Mark the existing features you intend to retain and explain what you want to add, replace or move. Include nearby paths, planting and access areas in the discussion. A clear drawing helps separate a replacement in the same place from a change in size or location that may alter the project review and pricing.",
+            "River Edge's Building Department identifies zoning review for listed project types and requests scaled documentation of the proposed work. Check the current requirements for the actual property and scope. A sketch for an estimate is useful communication, but it should not be represented as an approved plan or proof of a property boundary.",
+            "Ask professionals to work from the same agreed dimensions and identify assumptions in their quotes. Coordinate hardscape and planting changes before materials are ordered. If the plan changes, bring the revision back to the relevant office and contractors so the installed result does not drift away from the scope that was reviewed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your River Edge project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Plan the landscape layout",
+              "body": "Show retained planting and proposed changes on the available site information. Confirm the applicable review before settling the final layout.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Compare hardscape proposals",
+              "body": "Give each mason the same proposed footprint and existing-condition photos. Ask for preparation, edges and restoration to be stated clearly.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Identify nearby tree concerns",
+              "body": "Mark trees affected by the proposed work. Ask the appropriate professional to assess protection or other work before the site plan is finalized.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "What documentation does River Edge request for applicable zoning review?",
+              "answer": "The Building Department asks for a property survey or scaled architectural plans showing the dimensions of the proposed work. Confirm the current requirements for the actual project before treating an estimate sketch as sufficient."
+            },
+            {
+              "question": "How does A5 help with my River Edge request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "River Edge is in Bergen County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Bergen County",
+              "href": "/home-services/county/bergen-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your River Edge project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T17:22:35.838Z",
+      "published_at": "2026-10-08T01:22:24.979+00:00",
+      "last_reviewed_at": "2026-10-08T17:22:35.838Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "466553cf-354f-4f7a-81e1-ee847a86fa0e",
+      "title": "Norwood Construction and Code Enforcement",
+      "url": "https://www.norwoodboro.org/page/constructioncode-enforcement",
+      "publisher": "Borough of Norwood",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "f28e51a5-d413-4863-8f2e-1a46a6a1bfd5",
+      "title": "Oakland Flood Community Rating System",
+      "url": "https://nj-oakland.civicplus.com/1648/4378/Flood-Community-Rating-System",
+      "publisher": "Borough of Oakland",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "b94f5412-6a55-4c2d-8a6a-43002dd66ece",
+      "title": "Old Tappan Building and Zoning",
+      "url": "https://www.oldtappan.net/departments/construction",
+      "publisher": "Borough of Old Tappan",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "f6d06be9-4d91-4bcf-8d74-89069628f3fb",
+      "title": "Old Tappan Tree Removal Application",
+      "url": "https://www.oldtappan.net/forms-documents/forms/department-documents/construction/1264-tree-removal-permit-application-9-4-24/file",
+      "publisher": "Borough of Old Tappan",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "423b02ea-8f81-4cff-85ce-1d579c1e0804",
+      "title": "Oradell Generator Installation Requirements",
+      "url": "https://www.oradell.org/building-department/files/generator-installation-permit-requirements-0",
+      "publisher": "Borough of Oradell",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "e70b9d6e-74e7-4474-83b9-872171e8cd90",
+      "title": "Palisades Park Building Department FAQ",
+      "url": "https://palisadesparknj.org/departments/building-department/",
+      "publisher": "Borough of Palisades Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "2871c342-cb43-4cf2-8d38-daf323c272cf",
+      "title": "Park Ridge Electric Department",
+      "url": "https://www.parkridgeboro.com/departments/electric",
+      "publisher": "Borough of Park Ridge",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "366c30f1-fb00-4d0e-8573-f1973b8dab96",
+      "title": "Ramsey Building and Construction Department",
+      "url": "https://www.ramseynj.com/153/Building-Department",
+      "publisher": "Borough of Ramsey",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "0ea96c93-21dd-4222-8e87-836a8811dbad",
+      "title": "Ridgefield Public Works",
+      "url": "https://www.ridgefieldnj.gov/public-works",
+      "publisher": "Borough of Ridgefield",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "fdbea53d-247b-4308-81d9-5fff64fc9d4e",
+      "title": "Ridgefield Park Recycling and Disposal Guidance",
+      "url": "https://www.ridgefieldpark.org/205/Recycle-Coach",
+      "publisher": "Village of Ridgefield Park",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    },
+    {
+      "id": "0d83b357-c345-4428-849c-f6385618598d",
+      "title": "River Edge Building Department",
+      "url": "https://www.riveredgenj.org/directory/BuildingDepartment",
+      "publisher": "Borough of River Edge",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T17:22:35.838Z",
+      "reviewed_at": "2026-10-08T17:22:35.838Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "b36d0827-28a3-419f-8382-83391480aea3",
+      "source_id": "466553cf-354f-4f7a-81e1-ee847a86fa0e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "656f97b9-7afb-498f-8227-cc9f89b65b1a",
+      "source_id": "f28e51a5-d413-4863-8f2e-1a46a6a1bfd5",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3870e8b8-783b-498f-8031-4cac1672e43b",
+      "source_id": "b94f5412-6a55-4c2d-8a6a-43002dd66ece",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "3870e8b8-783b-498f-8031-4cac1672e43b",
+      "source_id": "f6d06be9-4d91-4bcf-8d74-89069628f3fb",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "dfff48b7-1351-4673-8d02-f81caaeb5e7c",
+      "source_id": "423b02ea-8f81-4cff-85ce-1d579c1e0804",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "8850d9f5-2a7a-4970-8d86-3e68949702f8",
+      "source_id": "e70b9d6e-74e7-4474-83b9-872171e8cd90",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "56b23bf8-b3e5-4cc4-826c-2d325d54a7b8",
+      "source_id": "2871c342-cb43-4cf2-8d38-daf323c272cf",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "eab79e42-2209-4e3e-85e8-48c924631b63",
+      "source_id": "366c30f1-fb00-4d0e-8573-f1973b8dab96",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "f09c4b94-d852-491a-8bc3-1db9fa072fef",
+      "source_id": "0ea96c93-21dd-4222-8e87-836a8811dbad",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "cef1403c-8e91-440a-82b6-ea0a49538c16",
+      "source_id": "fdbea53d-247b-4308-81d9-5fff64fc9d4e",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "679200fb-ec1a-46e1-81f8-afb4f25f5453",
+      "source_id": "0d83b357-c345-4428-849c-f6385618598d",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "b36d0827-28a3-419f-8382-83391480aea3",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "656f97b9-7afb-498f-8227-cc9f89b65b1a",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "3870e8b8-783b-498f-8031-4cac1672e43b",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "dfff48b7-1351-4673-8d02-f81caaeb5e7c",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "8850d9f5-2a7a-4970-8d86-3e68949702f8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "56b23bf8-b3e5-4cc4-826c-2d325d54a7b8",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "eab79e42-2209-4e3e-85e8-48c924631b63",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "f09c4b94-d852-491a-8bc3-1db9fa072fef",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "cef1403c-8e91-440a-82b6-ea0a49538c16",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "to_page_id": "679200fb-ec1a-46e1-81f8-afb4f25f5453",
+      "relationship_type": "RELATED"
+    }
+  ]
+}
