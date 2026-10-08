@@ -1,0 +1,80 @@
+{
+  "batch": "12",
+  "sha256": "19a61f2625cb673f68de7c0faed3e1dbda7f1b3cbe5435d06305e57c4fe1622f",
+  "checkedAt": "2026-10-08T17:44:02.951Z",
+  "count": 10,
+  "sitemapCount": 236,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/upper-saddle-river",
+      "status": 200,
+      "title": "Upper Saddle River Home Services | Bergen County | A5 Home Services",
+      "description": "Plan Upper Saddle River wall repairs with air-barrier and insulation questions before surfaces close, using the Borough's construction welcome resources.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/waldwick",
+      "status": 200,
+      "title": "Waldwick Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Waldwick tree work with the Borough's removal and replacement process, contractor registration check and a clear cleanup and planting scope.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/wallington",
+      "status": 200,
+      "title": "Wallington Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Wallington property improvements with an address-specific floodplain review question and a defined repair scope before finalizing work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/washington-township-bergen",
+      "status": 200,
+      "title": "Washington Township Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Washington Township, Bergen County, home repairs with the correct municipal forms and online inspection-request process for the work address.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/westwood",
+      "status": 200,
+      "title": "Westwood Home Services | Bergen County | A5 Home Services",
+      "description": "Finish a Westwood renovation with a clear final-inspection and certificate checklist, correction-item tracking and coordinated finishing work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/wood-ridge",
+      "status": 200,
+      "title": "Wood-Ridge Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Wood-Ridge exterior work with a clear footprint, the Borough's fence and driveway zoning resource and coordinated surface-restoration questions.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/woodcliff-lake",
+      "status": 200,
+      "title": "Woodcliff Lake Home Services | Bergen County | A5 Home Services",
+      "description": "Prepare Woodcliff Lake corner-lot landscape and exterior repairs with a visibility review, property information and coordinated planting plans.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/wyckoff",
+      "status": 200,
+      "title": "Wyckoff Home Services | Bergen County | A5 Home Services",
+      "description": "Track a Wyckoff home project using the Township's permit-status descriptions, correction records and coordinated contractor next steps.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/berkeley-heights",
+      "status": 200,
+      "title": "Berkeley Heights Home Services | Union County | A5 Home Services",
+      "description": "Prepare Berkeley Heights retaining-wall and landscape work with site observations, grading questions and the Township's engineering-review guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/clark",
+      "status": 200,
+      "title": "Clark Home Services | Union County | A5 Home Services",
+      "description": "Prepare Clark outdoor repairs with utility-location coordination, the Township's before-you-dig resource and a clear professional work boundary.",
+      "errors": []
+    }
+  ]
+}
