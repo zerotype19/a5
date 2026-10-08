@@ -1,0 +1,80 @@
+{
+  "batch": "17",
+  "sha256": "b01c93bbdb2596c551949f7ae6a6355e50fe91d02ac61f57408ce16b2192103f",
+  "checkedAt": "2026-10-08T18:23:33.522Z",
+  "count": 10,
+  "sitemapCount": 286,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/andover-borough",
+      "status": 200,
+      "title": "Andover Borough Home Services | Sussex County | A5 Home Services",
+      "description": "Plan Andover Borough home repairs with the correct municipal record, permit number and inspection stage before scheduling finish work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/andover-township",
+      "status": 200,
+      "title": "Andover Township Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Andover Township home projects with the DCA inspection route, permit details and work phase so trade and finish work stay coordinated.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/branchville",
+      "status": 200,
+      "title": "Branchville Home Services | Sussex County | A5 Home Services",
+      "description": "Plan Branchville exterior cleanup with debris containment, drainage observations and the Borough's stormwater resources before work begins.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/byram",
+      "status": 200,
+      "title": "Byram Home Services | Sussex County | A5 Home Services",
+      "description": "Use Byram's permit-record resources to prepare a repair request, understand earlier work and coordinate the next trade or inspection.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/frankford",
+      "status": 200,
+      "title": "Frankford Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Frankford landscaping work with clear fill sourcing, delivery and cleanup questions, supported by the Township's dirty-dirt resource.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/franklin-borough",
+      "status": 200,
+      "title": "Franklin Borough Home Services | Sussex County | A5 Home Services",
+      "description": "Plan Franklin Borough outdoor improvements with a placement sketch, existing property information and local zoning guidance before ordering materials.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/fredon",
+      "status": 200,
+      "title": "Fredon Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Fredon repairs with clear work-area access, permit details and inspection-stage information using the Township's DCA construction resource.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/green-township",
+      "status": 200,
+      "title": "Green Township Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Green Township repairs with the correct local submission route, equipment documents and a clear scope under its shared construction services.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hamburg",
+      "status": 200,
+      "title": "Hamburg Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Hamburg outdoor and home improvement requests with local zoning questions and the Borough's connection to Hardyston construction guidance.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hampton-township",
+      "status": 200,
+      "title": "Hampton Township Home Services | Sussex County | A5 Home Services",
+      "description": "Prepare Hampton Township home repairs with focused construction questions, relevant project records and the correct appointment or inspection route.",
+      "errors": []
+    }
+  ]
+}
