@@ -1,0 +1,157 @@
+{
+  "sha256": "8bad4e5c9b6b13ff3c889bb108e03d1ed97a9dfe90a54b1493c9765574cb1c9f",
+  "pages": [
+    {
+      "id": "07e9d376-510c-4360-8a6d-2b16a01b47b6",
+      "path": "/home-services/elizabeth",
+      "newlyIndexable": true,
+      "purpose": "Include lift access and public-way coordination in elevated exterior work",
+      "sourceClaims": [
+        {
+          "title": "Elizabeth Construction Bureau",
+          "url": "https://www.elizabethnj.org/194/Construction",
+          "publisher": "City of Elizabeth",
+          "supports": "Official crane/boom documentation and permit resources; no equipment requirement inferred for ordinary repairs."
+        },
+        {
+          "title": "Elizabeth Crane and Boom Required Documents",
+          "url": "https://www.elizabethnj.org/DocumentCenter/View/10182/Crane-Boom-Required-Documents",
+          "publisher": "City of Elizabeth",
+          "supports": "Boom site plan, pedestrian/adjoining-structure protection and Traffic/Parking approval in public way; no fees, insurance amounts or technical operating instructions copied."
+        }
+      ]
+    },
+    {
+      "id": "5ba7c73c-5454-459d-8ade-36b4806585e7",
+      "path": "/home-services/fanwood",
+      "newlyIndexable": true,
+      "purpose": "Coordinate stormwater retention inspection separately from finish landscaping",
+      "sourceClaims": [
+        {
+          "title": "Fanwood Construction Guidance",
+          "url": "https://fanwoodnj.org/departments/construction/",
+          "publisher": "Borough of Fanwood",
+          "supports": "Engineering inspection route for stormwater retention areas distinct from trade inspections; no timeline promises or unrelated lead-paint rules copied."
+        }
+      ]
+    },
+    {
+      "id": "8bf6e6fa-432e-4304-8dce-c17a6bdba2d2",
+      "path": "/home-services/garwood",
+      "newlyIndexable": true,
+      "purpose": "Use Cranford's shared construction service while retaining Garwood project identity",
+      "sourceClaims": [
+        {
+          "title": "Garwood Planning and Zoning",
+          "url": "https://garwood.org/planning-zoning",
+          "publisher": "Borough of Garwood",
+          "supports": "Shared construction-code service with Cranford and separate Garwood planning/zoning resources; municipality identity retained."
+        },
+        {
+          "title": "Cranford Building Department Shared Services",
+          "url": "https://www.cranfordnj.org/2072/Building-Department",
+          "publisher": "Township of Cranford",
+          "supports": "Department explicitly serves Cranford and Garwood for construction permits and inspections; no payment-as-authorization claim repeated."
+        }
+      ]
+    },
+    {
+      "id": "3b9a43a7-d608-4bc4-80e9-5c071b8dcbfa",
+      "path": "/home-services/hillside",
+      "newlyIndexable": true,
+      "purpose": "Check the local sidewalk-repair process before arranging replacement",
+      "sourceClaims": [
+        {
+          "title": "Hillside Building and Housing Department",
+          "url": "https://www.hillsidenj.us/building-and-housing-department",
+          "publisher": "Township of Hillside",
+          "supports": "Specific sidewalk repair permit direction and replacement application; no fees, ownership assignment or generic permit exemptions."
+        }
+      ]
+    },
+    {
+      "id": "6bf4b211-5a53-4b66-82d7-980da3231ed7",
+      "path": "/home-services/kenilworth",
+      "newlyIndexable": true,
+      "purpose": "Resolve an unfinished permit record before assuming a past job is closed",
+      "sourceClaims": [
+        {
+          "title": "Kenilworth Construction and Building Department",
+          "url": "https://www.kenilworthborough.com/183/Construction-Building-Department",
+          "publisher": "Borough of Kenilworth",
+          "supports": "Open-permit follow-up and final-inspection direction; no violation inference, penalties, completion guarantees or unread PDF requirements."
+        }
+      ]
+    },
+    {
+      "id": "5028c9f6-66be-40f9-8557-1c516c516dba",
+      "path": "/home-services/linden",
+      "newlyIndexable": true,
+      "purpose": "Distinguish residential occupancy questions from construction-permit work",
+      "sourceClaims": [
+        {
+          "title": "Linden Construction Code Department",
+          "url": "https://linden-nj.gov/directory/construction-code/",
+          "publisher": "City of Linden",
+          "supports": "Explicit residential Housing versus commercial Construction Code C/O routing; no transaction eligibility or broad licensing assertions."
+        }
+      ]
+    },
+    {
+      "id": "c5a031e9-8849-45d6-84b9-c69e654c8bdf",
+      "path": "/home-services/mountainside",
+      "newlyIndexable": true,
+      "purpose": "Distinguish drywell and stormwater engineering from routine yard work",
+      "sourceClaims": [
+        {
+          "title": "Mountainside Building, Zoning and Engineering",
+          "url": "https://www.mountainside-nj.com/department/buildingzoningengineering/",
+          "publisher": "Borough of Mountainside",
+          "supports": "Live-browser verification of Engineer drywell/stormwater review and inspection responsibilities; no design guarantee or specialist vendor inference."
+        }
+      ]
+    },
+    {
+      "id": "304a9a2c-aa78-410e-850f-3c245ed857cc",
+      "path": "/home-services/new-providence",
+      "newlyIndexable": true,
+      "purpose": "Check engineering review for ground changes without a building addition",
+      "sourceClaims": [
+        {
+          "title": "New Providence Building Department",
+          "url": "https://www.newprov.us/221/Building-Department",
+          "publisher": "Borough of New Providence",
+          "supports": "Check Before You Build land-disturbance/reshaping engineering distinction; no blanket gardening permit assertion or specialist capability claim."
+        }
+      ]
+    },
+    {
+      "id": "f8a99aa4-cbf7-4d73-8f8f-f3f427372583",
+      "path": "/home-services/plainfield",
+      "newlyIndexable": true,
+      "purpose": "Document repair options for a designated historic exterior before replacement",
+      "sourceClaims": [
+        {
+          "title": "Plainfield Historic Preservation Controls",
+          "url": "https://ecode360.com/34635360",
+          "publisher": "City of Plainfield",
+          "supports": "Full live code read including current 2025 amendments; rehabilitation repair preference and application documentation only. Exceptions recognized, no universal review or parcel designation asserted."
+        }
+      ]
+    },
+    {
+      "id": "5fa99539-0c50-469f-851a-fc5c99afa211",
+      "path": "/home-services/rahway",
+      "newlyIndexable": true,
+      "purpose": "Use earlier permit records to prepare a current repair request",
+      "sourceClaims": [
+        {
+          "title": "Rahway Find Building Permits",
+          "url": "https://cityofrahway.org/283/Find-Building-Permits",
+          "publisher": "City of Rahway",
+          "supports": "Online open/closed permit lookup and public-records alternative; no property access performed or completeness/condition guarantees."
+        }
+      ]
+    }
+  ]
+}

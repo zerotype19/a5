@@ -101,3 +101,11 @@ River Vale, Rochelle Park, Rockleigh, Rutherford, Saddle Brook, Saddle River, So
 ## Batch 12: ready for publication
 
 Upper Saddle River, Waldwick, Wallington, Washington Township (Bergen), Westwood, Wood-Ridge, Woodcliff Lake, Wyckoff, Berkeley Heights and Clark finish Bergen and begin Union. Brand positioning ideas approved all ten. Wallington, Washington Township and Wood-Ridge sources verified in live browser. All 160 service/town combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 12: published and verified
+
+2026-10-08: PR #61 merged (6d46b27). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 236 URLs. One hundred twenty completed; 82 remain.
+
+## Batch 13: ready for publication
+
+Elizabeth, Fanwood, Garwood, Hillside, Kenilworth, Linden, Mountainside, New Providence, Plainfield and Rahway. Brand positioning ideas approved all ten. Official sources support narrow local guidance; engineering, equipment qualifications and historic designation remain separate from service-category matching. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
