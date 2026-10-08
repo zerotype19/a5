@@ -41,7 +41,11 @@ describe("Authority expansion",()=>{
   assert.deepEqual(buildDiscoveryGroups(service,[local]),[]);
   assert.deepEqual(buildDiscoveryGroups(service,[{...published,indexable:false}]),[]);
   assert.deepEqual(buildDiscoveryGroups(service,[service,{...published,primary_service_id:"electrical"}]),[]);
-  assert.equal(buildDiscoveryGroups(service,[published])[0].links.length,1);
+  // General pages cannot claim an editorial town choice is near this visitor.
+  assert.deepEqual(buildDiscoveryGroups(service,[published]),[]);
+  const townPage={...FIXTURE_LOCATION_PAGE,id:"local-hub",primary_location_id:published.primary_location_id};
+  assert.equal(buildDiscoveryGroups(townPage,[published])[0].links.length,1);
+  assert.deepEqual(buildDiscoveryGroups(townPage,[{...published,primary_location_id:"unrelated-town"}]),[]);
  });
  it("attaches local sources to every local page and all source ids resolve",()=>{
   assert.ok(plan.pages.filter(p=>p.page_type==="SERVICE_LOCATION").every(p=>plan.sourceLinks.some(l=>l.content_page_id===p.id)));

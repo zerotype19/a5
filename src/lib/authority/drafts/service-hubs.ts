@@ -20,7 +20,7 @@ const handyman: ServiceHubDraft = {
   title: "Handyman repairs",
   metaTitle: "Handyman help for doors, trim, and small repairs | A5",
   metaDescription:
-    "Is your repair list handyman work? What belongs on it, what to photograph, and what changes scope — for Madison, Chatham, Florham Park, and nearby NJ homes.",
+    "Is your repair list handyman work? What belongs on it, what to photograph, and what changes scope — for homes across Northern New Jersey.",
   h1: "Handyman repairs: building a list that gets done right",
   primaryQuestion: "What counts as a handyman job, and what doesn't?",
   directAnswer:

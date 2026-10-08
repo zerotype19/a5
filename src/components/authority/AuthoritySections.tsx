@@ -155,14 +155,15 @@ function SectionBlock({
         </section>
       );
     case "RELATED_CONTENT":
-      if (page.related_content.length === 0) return null;
+      const related = page.related_content.filter(item => page.primary_location_id || page.page_type === "CORE" || !["LOCATION", "SERVICE_LOCATION"].includes(item.page_type));
+      if (related.length === 0) return null;
       return (
         <section className={styles.block} aria-label="Related">
           <h2 className={styles.heading}>
             {section.heading ?? "Related"}
           </h2>
           <ul className={styles.relatedGrid}>
-            {page.related_content.map((item) => {
+            {related.map((item) => {
               const compact =
                 item.page_type === "SERVICE" || item.page_type === "LOCATION";
               return (

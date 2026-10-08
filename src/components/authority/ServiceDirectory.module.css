@@ -7,9 +7,10 @@
 .card h2 a { text-decoration:none; display:flex; justify-content:space-between; gap:1rem; }
 .card p { color:var(--color-ink-soft); line-height:1.7; }
 .card h3 { font-size:.875rem; margin:1.75rem 0 .75rem; }
-.chips { list-style:none; display:flex; flex-wrap:wrap; gap:.5rem; }
-.chips a { display:block; padding:.6rem .85rem; border-radius:.3rem; background:var(--color-accent-soft); text-decoration:none; font-size:.875rem; }
 .problems { list-style:none; }
 .problems a { display:block; padding:.55rem 0; text-underline-offset:.2em; font-size:.9rem; }
 .cta { display:inline-block; margin-top:1.75rem; font-weight:700; color:var(--color-accent); text-underline-offset:.25em; }
 @media(max-width:700px) { .grid { grid-template-columns:1fr; } .card { padding:1.25rem; } }
+
+.coverage { margin-bottom:2rem; color:var(--color-ink-soft); line-height:1.7; }
+.coverage a { color:var(--color-accent); font-weight:650; text-underline-offset:.2em; }

@@ -17,7 +17,7 @@ export function buildDiscoveryGroups(page: ContentPageRecord, candidates: Conten
     {title:"Explore this county",pages:eligible.filter(p=>p.page_type === "CORE" && county && p.slug===county.slug)},
     {title:"Local project guides",pages:eligible.filter(p=>page.page_type === "CORE" && county && p.page_type === "LOCATION" && p.primary_location_id && getLocationById(p.primary_location_id as LocationId)?.countyId===county.id)},
     { title: "Explore the service", pages: eligible.filter(p => p.page_type === "SERVICE" && sameService(p)) },
-    { title: town ? "Services in this town" : "Find this service near you", pages: eligible.filter(p => p.page_type === "SERVICE_LOCATION" && (town ? p.primary_location_id === town : sameService(p))) },
+    { title: "Services in this town", pages: eligible.filter(p => p.page_type === "SERVICE_LOCATION" && town && p.primary_location_id === town) },
     { title: "Explore the area", pages: eligible.filter(p => p.page_type === "LOCATION" && town && p.primary_location_id === town) },
     { title: "Common problems and repairs", pages: eligible.filter(p => p.page_type === "PROBLEM" && sameService(p)) },
     { title: "Plan your project", pages: eligible.filter(p => ["GUIDE", "COMPARISON", "COST_GUIDE"].includes(p.page_type) && sameService(p)) },

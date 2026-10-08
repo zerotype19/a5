@@ -210,8 +210,8 @@ describe("authority drafts — service hubs", () => {
         `${hub.serviceId}: repair-vs-replace guidance`,
       );
       assert.ok(
-        townNames.some((town) => text.includes(town)),
-        `${hub.serviceId}: names at least one registry town`,
+        /Northern New Jersey/i.test(text) || townNames.some((town) => text.includes(town)),
+        `${hub.serviceId}: includes regional or local context`,
       );
       assert.ok(hub.typicalProjectVisuals.length > 0);
       for (const visual of hub.typicalProjectVisuals) {
