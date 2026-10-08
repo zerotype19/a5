@@ -45,3 +45,11 @@ Wharton completes Morris; Belleville, Caldwell, Cedar Grove, East Orange, Essex 
 ## Batch 05: ready for publication
 
 Millburn, Newark, North Caldwell, Nutley, Orange, Roseland, South Orange, Verona, West Caldwell and West Orange complete the remaining Essex profiles. Editorial review approved all ten. Official sources support narrow local distinctions; South Orange separates contamination remediation from ordinary cleaning and West Orange uses current Forestry guidance. Coverage retains at least ten active emailed mapped vendors for all 160 combinations. Tests, lint, typecheck and Next build passed.
+
+## Batch 05: published and verified
+
+2026-10-08: PR #54 merged (cb7d739). Ten guarded updates applied; live verification passed 10/10 with zero errors. Sitemap: 166 URLs. Fifty completed; 152 remain.
+
+## Batch 06: ready for publication
+
+Allendale, Alpine, Bergenfield, Bogota, Carlstadt, Cliffside Park, Closter, Cresskill, Demarest and Dumont begin Bergen. Brand positioning ideas approved all ten. Source checks distinguish Closter design guidance from property approval, Alpine septic expertise from general plumbing, and permitted project inspections from universal requirements. Coverage retains ten or more active emailed mapped vendors for all 160 combinations. Tests, lint, typecheck and Next build passed.

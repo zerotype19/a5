@@ -1,0 +1,398 @@
+[
+  {
+    "location": "allendale",
+    "focus": "Coordinate an occupied-home cleanout with collection boundaries and clear access",
+    "description": "Plan Allendale home cleanouts with Borough collection resources, a clear sorting and loading plan, and coordinated hauling, repairs and cleaning.",
+    "answer": "For an Allendale cleanout, sort belongings before choosing between municipal collection and private hauling. The Borough's collection guidance uses the NJ Transit railroad to distinguish east and west service areas and describes side-yard pickup as a separate arrangement. Check the current address-specific instructions before scheduling a load or placing items outside.",
+    "heading": "Clear the house without losing the useful things",
+    "paragraphs": [
+      "Work room by room with a keep, donate and remove inventory. Label furniture that remains and photograph large items, stairs and doorways. Tell the hauler whether the home will be occupied during the job so access and protection are included in the plan.",
+      "Allendale's Garbage and Recycling page explains its east/west collection boundary and distinguishes regular curbside service from privately arranged side-yard pickup. Use the current Borough guidance to confirm what is accepted and where it should be presented. A collection schedule is not permission to leave every item from a renovation at the curb.",
+      "Sequence removal before repairs to exposed shelving, doors or walls, with final cleaning last. Ask who handles disassembly and anything excluded from the hauling quote. Keep the loading route usable throughout the visit so the project does not turn one cluttered room into an obstructed hall."
+    ],
+    "projects": [
+      {
+        "title": "Price the actual removal list",
+        "body": "Share the inventory and access photos. Clarify whether the service starts inside the home or assumes items are already at an agreed loading point.",
+        "service": "junk-removal"
+      },
+      {
+        "title": "Repair newly accessible storage",
+        "body": "List shelves, cabinet hardware and doors needing attention. Schedule the work after belongings are cleared and distinguish repair from replacement.",
+        "service": "handyman"
+      },
+      {
+        "title": "Clean the cleared rooms",
+        "body": "Give the cleaner a room and surface list. Explain any repair dust and agree on the expected finish before the space is refilled.",
+        "service": "house-cleaning"
+      }
+    ],
+    "question": "How do I determine the relevant Allendale collection guidance?",
+    "response": "Use the Borough's current Garbage and Recycling page for the address and item type. It explains the railroad-based east/west distinction and separate side-yard arrangements; confirm acceptance before relying on a collection for your cleanout.",
+    "sources": [
+      {
+        "title": "Allendale Garbage and Recycling",
+        "url": "https://www.allendalenj.gov/residents-businesses/garbage-and-recycling/",
+        "publisher": "Borough of Allendale",
+        "supports": "East/west railroad boundary and separate side-yard pickup arrangements; no collection dates, hours or fees copied."
+      }
+    ]
+  },
+  {
+    "location": "alpine",
+    "focus": "Route drainage, septic and ordinary building questions to the right local office",
+    "description": "Prepare Alpine property repair requests with clear system information and Borough contacts for construction, drainage and septic questions.",
+    "answer": "For an Alpine water or outdoor repair problem, identify the system involved before choosing a trade. The Borough's Building Department directs seepage-pit and drainage inspections to its engineer and septic matters to its Health Department. Use those distinctions to clarify the next step; a wet area alone does not establish which system has failed.",
+    "heading": "Identify the system before naming the repair",
+    "paragraphs": [
+      "Collect the available property plans, system records and previous service findings. Describe when the symptom appears and its location relative to the house, drains and known equipment. Do not assume an Alpine property has a particular system merely because another home nearby does.",
+      "Alpine's Building Department page separates ordinary construction inspections from engineer-led drainage or seepage-pit matters and Health Department septic questions. Use the correct office to establish the requirements for the actual property. That routing information helps prepare a request but does not replace a qualified assessment.",
+      "Ask the professional to state which systems the visit covers and whether specialist work is outside the scope. Keep investigation separate from excavation or restoration. Before making landscape changes, identify existing equipment and access needs so the finished yard does not hide or obstruct something that must remain serviceable."
+    ],
+    "projects": [
+      {
+        "title": "Assess a plumbing symptom",
+        "body": "Provide fixture observations and available system records. Ask whether the issue falls within the plumber's scope or needs a separate septic specialist.",
+        "service": "plumbing"
+      },
+      {
+        "title": "Plan landscape work around systems",
+        "body": "Show known drainage and service-access locations. Coordinate planting or ground work only after the relevant constraints have been assessed.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Inspect gutter-related symptoms",
+        "body": "Describe overflow and visible outlet conditions separately from underground drainage. Ask for maintenance findings without assuming they explain every wet area.",
+        "service": "gutters"
+      }
+    ],
+    "question": "Which Alpine office handles septic and drainage inspection questions?",
+    "response": "The Building Department's official page directs septic matters to Health and seepage-pit or drainage inspections to the Borough Engineer. Use its current contacts and the property's actual system information when asking about the work.",
+    "sources": [
+      {
+        "title": "Alpine Building Department",
+        "url": "https://www.alpinenj.gov/page/building-dept",
+        "publisher": "Borough of Alpine",
+        "supports": "Distinct building, engineer drainage/seepage-pit and Health septic contacts; no assumptions about a property's system or professional specialty."
+      }
+    ]
+  },
+  {
+    "location": "bergenfield",
+    "focus": "Separate a private paving repair from the excluded debris it creates",
+    "description": "Plan Bergenfield paving and yard repairs with clear debris removal, DPW collection guidance and coordinated masonry, hauling and restoration scopes.",
+    "answer": "For a Bergenfield paving or yard repair, include removal of concrete, brick and other excavated material in the private scope. Borough Public Works lists contractor debris and several heavy materials among items it does not collect. Confirm disposal before work starts instead of treating the broken surface as ordinary household bulk.",
+    "heading": "Price the old material as well as the new surface",
+    "paragraphs": [
+      "Mark the exact sections to be repaired and photograph the access route. Describe whether material will be lifted, broken out or retained, without assuming the visible crack explains the underlying problem. Ask the professional to assess the base and the surrounding transitions before selecting a finish.",
+      "Bergenfield's DPW guidance excludes contractor debris, concrete, brick, asphalt and rocks from its pickup service. Use current Borough instructions for other items, and have the private estimate name the removal and disposal responsibilities for the project materials. Do not leave that work to an assumed special municipal pickup.",
+      "Plan where equipment and material can be staged, how adjacent planting will be protected and what cleanup means at completion. If the repair reaches a public sidewalk, curb or tree area, clarify responsibility and applicable review before enlarging the work. Keep restoration of the surrounding lawn in the same project plan."
+    ],
+    "projects": [
+      {
+        "title": "Assess and repair the surface",
+        "body": "Provide wide and close photographs of the affected sections. Ask for a scope that distinguishes surface repair from work to the underlying support.",
+        "service": "masonry"
+      },
+      {
+        "title": "Remove the specified debris",
+        "body": "List concrete, brick or other materials and approximate quantities. Confirm the hauler accepts the load and whether loading is included.",
+        "service": "junk-removal"
+      },
+      {
+        "title": "Restore the work perimeter",
+        "body": "Show lawn and planting beside the repair. Agree on restoration after hauling so equipment does not damage newly finished landscaping.",
+        "service": "landscaping"
+      }
+    ],
+    "question": "Will Bergenfield pick up concrete from my home repair?",
+    "response": "The Borough's DPW page lists concrete and contractor debris among excluded materials. Arrange the appropriate private disposal scope and check current municipal guidance for any other items before setting them out.",
+    "sources": [
+      {
+        "title": "Bergenfield Department of Public Works",
+        "url": "https://bergenfieldnj.gov/departments/dpw-public-works/",
+        "publisher": "Borough of Bergenfield",
+        "supports": "Contractor debris and concrete/brick/asphalt/rock collection exclusions; no collection dates or special pickup promises."
+      }
+    ]
+  },
+  {
+    "location": "bogota",
+    "focus": "Plan a larger household cleanout around municipal limits and private hauling responsibilities",
+    "description": "Prepare Bogota cleanouts with a categorized inventory, Borough waste resources and clear private hauling, repair and cleaning responsibilities.",
+    "answer": "For a larger Bogota household cleanout, check the volume and material categories before assuming municipal pickup will handle the full load. The Borough's Public Works page explains limits on municipal service and circumstances requiring private removal. A photographed inventory makes that check and a private hauling quote more useful.",
+    "heading": "Give a large cleanout a manageable sequence",
+    "paragraphs": [
+      "Choose one area to clear first and label belongings that stay. Photograph furniture, boxes and heavier items, then note stairs or narrow access. Separate recyclables and unusual materials from the general removal list so one unknown item does not complicate the whole job.",
+      "Bogota's Public Works resources link the current collection calendar and explain limits on the municipal collection obligation, including private-removal responsibilities for larger volumes. Consult the current rules for your load rather than copying a numeric limit from an old notice. Ask about any material whose disposal route is unclear before it is placed outside.",
+      "Agree on loading, hauling, protection and the final condition of the cleared area. Follow removal with any small repairs, then cleaning. Keep the quote specific about excluded materials and where remaining belongings will be moved so the job does not simply shift clutter to another room."
+    ],
+    "projects": [
+      {
+        "title": "Quote the whole cleanout inventory",
+        "body": "Provide photos and access details. Ask whether loading, disassembly and each material category are included, with exclusions recorded before the visit.",
+        "service": "junk-removal"
+      },
+      {
+        "title": "Repair the cleared space",
+        "body": "List loose doors, damaged trim or storage hardware revealed by the cleanout. Group small repairs while keeping electrical or plumbing concerns with the appropriate trade.",
+        "service": "handyman"
+      },
+      {
+        "title": "Finish with a defined cleaning scope",
+        "body": "Describe the rooms, surfaces and any residual dust. Confirm the cleaner's service matches the condition left after removal and repairs.",
+        "service": "house-cleaning"
+      }
+    ],
+    "question": "Can I assume Bogota municipal pickup covers an entire large cleanout?",
+    "response": "No. Check the current Public Works guidance for volume and material limits. It describes situations requiring private removal; use an inventory to establish which route applies before setting out the load.",
+    "sources": [
+      {
+        "title": "Bogota Department of Public Works",
+        "url": "https://www.bogotanj.gov/department-of-public-works",
+        "publisher": "Borough of Bogota",
+        "supports": "Municipal collection limits and private-removal responsibilities; no dates, weight/volume limits or fees copied."
+      }
+    ]
+  },
+  {
+    "location": "carlstadt",
+    "focus": "Keep approved scope, inspections and completion records together during a multi-trade home update",
+    "description": "Plan Carlstadt home updates with Borough construction resources, coordinated trade scopes and clear inspection and completion records through A5.",
+    "answer": "For a Carlstadt multi-trade improvement, keep the proposed scope, applicable approvals and inspection steps in one project record. The Borough's Construction, Zoning and Planning page distinguishes the review functions and describes inspection-based completion certificates. Clarify the path for the actual work before treating a private quote as the complete project plan.",
+    "heading": "Keep every trade working from the same scope",
+    "paragraphs": [
+      "Describe what is being repaired, replaced or moved and provide a simple room plan. Mark existing fixtures and any intended layout change. When separate professionals quote the plumbing, electrical and finishes, give each the same version so omissions and overlaps are easier to identify.",
+      "Carlstadt's construction resources explain the Building Department's permit and inspection role and separately describe planning and zoning functions. Ask the Borough which reviews apply to your address and scope. If the proposal changes, update the municipal and private records as needed rather than assuming the original paperwork covers any later addition.",
+      "Build the schedule around required access and inspections, with one person tracking outstanding steps. Keep approval records, trade findings and final documents together. This makes the handoff to surface repair clearer and gives future maintenance a useful history of what was actually changed."
+    ],
+    "projects": [
+      {
+        "title": "Coordinate plumbing changes",
+        "body": "Identify fixtures staying in place and those proposed to move. Ask for a clear boundary between plumbing work and the surrounding repair scope.",
+        "service": "plumbing"
+      },
+      {
+        "title": "Define electrical requirements",
+        "body": "Share the same room plan and desired lighting or equipment use. Ask the electrician to identify the work and inspection coordination within the quote.",
+        "service": "electrical"
+      },
+      {
+        "title": "Restore surfaces after access is finished",
+        "body": "List openings and finish expectations. Confirm that required trade access and inspections are complete before closing walls or ceilings.",
+        "service": "drywall"
+      }
+    ],
+    "question": "Does a finished-looking Carlstadt room mean the municipal project is complete?",
+    "response": "Not necessarily. The Borough describes inspections and appropriate completion certificates as part of permitted projects. Confirm which records apply and that outstanding steps are resolved rather than relying on appearance alone.",
+    "sources": [
+      {
+        "title": "Carlstadt Construction, Zoning and Planning",
+        "url": "https://www.carlstadtnj.us/Departments/construction-zoning-planning",
+        "publisher": "Borough of Carlstadt",
+        "supports": "Distinct review functions and inspection-based certificates; no individual jurisdiction, variance outcome or NJSEA determination inferred."
+      }
+    ]
+  },
+  {
+    "location": "cliffside-park",
+    "focus": "Distinguish the resident recycling center from a full home cleanout service",
+    "description": "Plan Cliffside Park home cleanouts with recycling-center guidance, sorted materials and clear hauling and room-restoration scopes through A5.",
+    "answer": "For a Cliffside Park cleanout, separate clothing, paper and household objects before deciding where they will go. The Borough describes its recycling center as an additional resident option, not a replacement for regular collection, and says it does not accept ordinary garbage. Check the exact materials before arranging a drop-off or private haul.",
+    "heading": "Match each pile to a real destination",
+    "paragraphs": [
+      "Make a list by category rather than counting bags alone. Set aside reusable belongings and photograph furniture or heavy objects for a hauling quote. If the property has shared access, confirm loading arrangements with the building before scheduling a visit.",
+      "Cliffside Park's Recycling Center page lists specific accepted materials and distinguishes the center from normal DPW collection. Use its current instructions and collection resources to check your items. Do not assume a municipal drop-off point accepts renovation waste or every object removed from a home.",
+      "Agree on what the hauler removes from inside, what you will transport separately and what remains for another service. Follow the cleanout with small repairs and final cleaning. This avoids paying to handle the same belongings twice and leaves a clear finish point for each visit."
+    ],
+    "projects": [
+      {
+        "title": "Define the private hauling load",
+        "body": "Share a categorized inventory and loading constraints. Ask the hauler to identify exclusions and whether carrying items from inside is included.",
+        "service": "junk-removal"
+      },
+      {
+        "title": "Repair storage and room details",
+        "body": "List damaged shelves, hardware or trim after the space is cleared. Distinguish limited repairs from larger renovation work.",
+        "service": "handyman"
+      },
+      {
+        "title": "Clean the usable space",
+        "body": "Specify rooms, surfaces and any dust from repairs. Arrange cleaning after the hauling and repair work so the space is ready for its next use.",
+        "service": "house-cleaning"
+      }
+    ],
+    "question": "Can all items from a Cliffside Park cleanout go to the recycling center?",
+    "response": "No. The Borough lists particular accepted materials and excludes regular garbage. Check the current center and collection instructions, then arrange an appropriate route for items outside those services.",
+    "sources": [
+      {
+        "title": "Cliffside Park Recycling Center",
+        "url": "https://www.cliffsideparknj.gov/departments/recycling_center.php",
+        "publisher": "Borough of Cliffside Park",
+        "supports": "Limited accepted materials and distinction from normal collection; no older event dates or current hours copied."
+      }
+    ]
+  },
+  {
+    "location": "closter",
+    "focus": "Use the local design guide to compare repair and replacement of exterior features",
+    "description": "Plan Closter exterior repairs with local design guidelines, material documentation and clear scopes for roofing, masonry and porch or trim work.",
+    "answer": "For a Closter exterior repair, photograph the existing feature before comparing replacement products. The Borough-linked historic preservation site provides design guidance organized by roofs, masonry, porches, siding and other elements. Use the relevant section to prepare questions, then confirm any property-specific review with the Borough.",
+    "heading": "Compare the repair with the original detail",
+    "paragraphs": [
+      "Show the whole elevation and the damaged feature in the same request. Record the shape, material and any previous patch that looks or behaves differently. Explain whether your priority is stopping a leak, restoring function or preserving appearance; those goals may need different scopes.",
+      "Closter's historic preservation resources include a design guide with separate sections for common building elements and ordinary repairs. The Borough links this resource from its website. It can help a homeowner discuss a repair intelligently without assuming every Closter house is designated or that reading a guide grants approval.",
+      "Ask for repair and replacement options that explain what would be retained and how new material meets the old. Where a match matters, discuss a sample before committing to the full job. Check the applicable review early, particularly before ordering custom components that may be difficult to change."
+    ],
+    "projects": [
+      {
+        "title": "Document the roof detail",
+        "body": "Provide safe ground-level photos of the affected area and any previous findings. Ask how a proposed repair interfaces with the existing roof rather than choosing solely by shingle color.",
+        "service": "roofing"
+      },
+      {
+        "title": "Match the masonry approach",
+        "body": "Show joints, texture and prior patches. Ask how the repair method and materials will suit the existing assembly.",
+        "service": "masonry"
+      },
+      {
+        "title": "Preserve porch and trim details",
+        "body": "Photograph profiles and connections. Clarify whether the professional can repair or reproduce the detail and which parts would be replaced.",
+        "service": "handyman"
+      }
+    ],
+    "question": "Where can I find Closter guidance for an exterior feature repair?",
+    "response": "The Borough-linked preservation website organizes its design guidelines by building element, including roofs, masonry, porches and trim. Use that resource for planning and confirm current review requirements for the actual property separately.",
+    "sources": [
+      {
+        "title": "Closter Design Guidelines",
+        "url": "https://closterhistory.com/documents/guidelines/guidelines.html",
+        "publisher": "Closter Historic Preservation Commission",
+        "supports": "Element-specific design guide for repairs, linked from the Borough; no universal historic designation or approval rule inferred."
+      },
+      {
+        "title": "Borough of Closter Official Website",
+        "url": "https://www.closterboro.com/",
+        "publisher": "Borough of Closter",
+        "supports": "Official link to closterhistory.com establishes provenance of local preservation resource."
+      }
+    ]
+  },
+  {
+    "location": "cresskill",
+    "focus": "Keep final inspections and operating records visible during a home systems upgrade",
+    "description": "Plan Cresskill equipment updates with Building Department completion guidance, coordinated inspections and clear electrical, plumbing and heating scopes.",
+    "answer": "For a Cresskill home systems upgrade, include the applicable final inspections and completion documents alongside installation and testing. The Borough's Building Department reminds owners that permitted projects need final inspections and an appropriate certificate. Confirm the requirements for the scope rather than assuming new equipment alone closes the project.",
+    "heading": "Make the handover part of the installation",
+    "paragraphs": [
+      "Collect model numbers, symptoms and previous service records, and photograph the equipment in its surrounding space. Describe access limits and what you want to improve. A replacement quote should say what happens to existing connections and equipment rather than leaving those details implicit.",
+      "Cresskill's Building Department publishes its inspection contacts and a reminder about completion of permitted work. Ask which inspections and documents apply to the installation and who will coordinate them. Do not copy an old inspection schedule into the contractor's promise; confirm arrangements for the actual project.",
+      "At handover, retain operating instructions, the final scope and applicable municipal records. Ask the installer to explain normal operation and remaining maintenance needs. If another trade restores nearby walls or cabinetry, coordinate that work around any access that must remain available."
+    ],
+    "projects": [
+      {
+        "title": "Heating and cooling replacement planning",
+        "body": "Provide equipment details and comfort concerns. Ask what the installation includes, how operation will be demonstrated and what records you should keep.",
+        "service": "hvac"
+      },
+      {
+        "title": "Plumbing work with closeout responsibilities",
+        "body": "Identify the fixture or equipment and existing symptoms. Clarify removal, connections, inspection coordination and surrounding restoration.",
+        "service": "plumbing"
+      },
+      {
+        "title": "Electrical scope for new equipment",
+        "body": "Share the proposed equipment information and location. Have the electrician assess requirements and document the work rather than assuming existing connections are sufficient.",
+        "service": "electrical"
+      }
+    ],
+    "question": "What should remain on a Cresskill installation checklist after the equipment works?",
+    "response": "Confirm any required final inspections and certificate with the Building Department, and retain instructions and project records. The exact closeout depends on the permitted scope, not just whether the equipment turns on.",
+    "sources": [
+      {
+        "title": "Cresskill Building Department",
+        "url": "https://www.cresskillboro.com/departments/construction",
+        "publisher": "Borough of Cresskill",
+        "supports": "Permitted-project final inspections and certificate reminder; no permit expiration periods or inspection hours copied."
+      }
+    ]
+  },
+  {
+    "location": "demarest",
+    "focus": "Protect retained trees from equipment, staging and ground disturbance during outdoor work",
+    "description": "Plan Demarest outdoor work with Shade Tree Commission resources, retained-tree protection and coordinated landscape, tree and paving scopes.",
+    "answer": "For a Demarest outdoor project, identify trees to protect as well as trees proposed for work. The Shade Tree Commission's guidance addresses damage from construction and ground disturbance, not only cutting. Show equipment routes and staging areas to the professionals and confirm the current protection requirements before work begins.",
+    "heading": "Put tree protection on the work sketch",
+    "paragraphs": [
+      "Mark trees, proposed work areas and the route equipment would take through the yard. Photograph narrow passages and existing paving. Explain which trees must remain so protection is considered before a truck arrives or material is stacked near the work.",
+      "Demarest's Shade Tree Commission publishes private-tree resources that address constructive damage and protection during construction. Use the current Commission guidance and linked code to discuss the actual project. Do not assume that leaving the trunk standing means roots and the surrounding ground are unaffected by the work.",
+      "Ask the professionals to agree on access, staging and protection before separately pricing removal, paving or planting. Keep responsibility for any required replacement and final landscape restoration clear. If the plan changes during the project, revisit the protection arrangements instead of improvising a new equipment route."
+    ],
+    "projects": [
+      {
+        "title": "Assess the trees involved",
+        "body": "Share the site sketch and work proposal. Ask a tree professional to identify protection concerns and distinguish tree care from an unrelated construction task.",
+        "service": "tree-services"
+      },
+      {
+        "title": "Plan the landscape sequence",
+        "body": "Define protected areas and the intended planting. Coordinate soil handling and restoration with the agreed access route and municipal requirements.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Coordinate paving near trees",
+        "body": "Show the distance and relationship between the proposed repair and retained trees. Request an assessment before changing the surface or excavating nearby.",
+        "service": "masonry"
+      }
+    ],
+    "question": "Does Demarest tree planning matter when I am not removing a tree?",
+    "response": "Yes. The Commission's resources also address damage from construction and ground disturbance. Review protection and access for the actual project with the relevant professionals and Borough before work begins.",
+    "sources": [
+      {
+        "title": "Demarest Shade Tree Commission",
+        "url": "https://direct.demarestnj.gov/boards/tree",
+        "publisher": "Borough of Demarest",
+        "supports": "Constructive damage and retained-tree protection during construction; no size thresholds, fees, exemption or replacement formula copied."
+      }
+    ]
+  },
+  {
+    "location": "dumont",
+    "focus": "Match yard-cleanup packaging and private removal to the Borough's street-based resources",
+    "description": "Plan Dumont seasonal yard work with current DPW collection resources, separate debris streams and coordinated gutter, landscape and hauling scopes.",
+    "answer": "For a Dumont yard cleanup, agree on how leaves, branches and other objects will be separated and removed. The Borough's DPW page provides street-based collection resources and preparation guidance for vegetative waste. Check the current instructions for the work date, especially when a cleanup extends beyond ordinary yard material.",
+    "heading": "Describe the cleanup's finished condition",
+    "paragraphs": [
+      "List the lawn, beds and hard surfaces to be cleared, and identify anything to keep. Separate branches and leaves from broken furniture, planters or repair debris. Photograph the access route and any heavy material so the professional can distinguish routine cleanup from a larger hauling job.",
+      "Dumont's Public Works resources link a street list and explain preparation of vegetative waste in suitable containers or biodegradable bags. Confirm the current acceptance and collection arrangement rather than relying on last season's calendar. Municipal yard collection does not establish a disposal route for every object found outdoors.",
+      "Ask whether the quote ends with material prepared on site or fully hauled away. Coordinate gutter cleaning before the final yard pass and keep sidewalks and access clear. Agree on responsibility for excluded items so a tidy lawn is not accompanied by an unresolved pile beside the house."
+    ],
+    "projects": [
+      {
+        "title": "Define the yard cleanup areas",
+        "body": "Share a photo checklist and plants to retain. Clarify whether the professional prepares material for collection or removes it privately.",
+        "service": "landscaping"
+      },
+      {
+        "title": "Coordinate gutter debris",
+        "body": "Identify the gutters and access conditions. Ask how removed leaves will be gathered and schedule the work before the final ground cleanup.",
+        "service": "gutters"
+      },
+      {
+        "title": "Remove non-vegetative objects",
+        "body": "List furniture, damaged containers and other objects separately. Confirm each material with the hauler rather than mixing it with municipal yard waste.",
+        "service": "junk-removal"
+      }
+    ],
+    "question": "What should a Dumont yard-cleanup quote say about disposal?",
+    "response": "It should state whether material is prepared for a confirmed municipal collection or hauled away privately, and identify exclusions. Check the DPW's current street and preparation resources before relying on a collection date or method.",
+    "sources": [
+      {
+        "title": "Dumont Department of Public Works",
+        "url": "https://www.dumontnj.gov/department-of-public-works",
+        "publisher": "Borough of Dumont",
+        "supports": "Street-based collection links and vegetative-waste preparation guidance; no seasonal dates, container counts or weight limits copied."
+      }
+    ]
+  }
+]

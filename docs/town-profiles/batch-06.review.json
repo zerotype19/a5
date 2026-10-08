@@ -1,0 +1,151 @@
+{
+  "sha256": "d020d05d94e01b510a07010bd553abf22e36139e604f2865e187dbcc420280b7",
+  "pages": [
+    {
+      "id": "66c42411-f95f-4561-8676-f081e3f851e8",
+      "path": "/home-services/allendale",
+      "newlyIndexable": true,
+      "purpose": "Coordinate an occupied-home cleanout with collection boundaries and clear access",
+      "sourceClaims": [
+        {
+          "title": "Allendale Garbage and Recycling",
+          "url": "https://www.allendalenj.gov/residents-businesses/garbage-and-recycling/",
+          "publisher": "Borough of Allendale",
+          "supports": "East/west railroad boundary and separate side-yard pickup arrangements; no collection dates, hours or fees copied."
+        }
+      ]
+    },
+    {
+      "id": "9449ac83-c6d2-4fab-8337-c5d144415d95",
+      "path": "/home-services/alpine",
+      "newlyIndexable": true,
+      "purpose": "Route drainage, septic and ordinary building questions to the right local office",
+      "sourceClaims": [
+        {
+          "title": "Alpine Building Department",
+          "url": "https://www.alpinenj.gov/page/building-dept",
+          "publisher": "Borough of Alpine",
+          "supports": "Distinct building, engineer drainage/seepage-pit and Health septic contacts; no assumptions about a property's system or professional specialty."
+        }
+      ]
+    },
+    {
+      "id": "95d12c56-ec85-45e9-880a-4a085ac2d72c",
+      "path": "/home-services/bergenfield",
+      "newlyIndexable": true,
+      "purpose": "Separate a private paving repair from the excluded debris it creates",
+      "sourceClaims": [
+        {
+          "title": "Bergenfield Department of Public Works",
+          "url": "https://bergenfieldnj.gov/departments/dpw-public-works/",
+          "publisher": "Borough of Bergenfield",
+          "supports": "Contractor debris and concrete/brick/asphalt/rock collection exclusions; no collection dates or special pickup promises."
+        }
+      ]
+    },
+    {
+      "id": "40367397-d0f8-426b-814d-80f7d8f79263",
+      "path": "/home-services/bogota",
+      "newlyIndexable": true,
+      "purpose": "Plan a larger household cleanout around municipal limits and private hauling responsibilities",
+      "sourceClaims": [
+        {
+          "title": "Bogota Department of Public Works",
+          "url": "https://www.bogotanj.gov/department-of-public-works",
+          "publisher": "Borough of Bogota",
+          "supports": "Municipal collection limits and private-removal responsibilities; no dates, weight/volume limits or fees copied."
+        }
+      ]
+    },
+    {
+      "id": "0ebb07c7-528f-4238-8a35-27c255a09d54",
+      "path": "/home-services/carlstadt",
+      "newlyIndexable": true,
+      "purpose": "Keep approved scope, inspections and completion records together during a multi-trade home update",
+      "sourceClaims": [
+        {
+          "title": "Carlstadt Construction, Zoning and Planning",
+          "url": "https://www.carlstadtnj.us/Departments/construction-zoning-planning",
+          "publisher": "Borough of Carlstadt",
+          "supports": "Distinct review functions and inspection-based certificates; no individual jurisdiction, variance outcome or NJSEA determination inferred."
+        }
+      ]
+    },
+    {
+      "id": "158eca37-aef1-46e8-8a1b-e97fdc1842ce",
+      "path": "/home-services/cliffside-park",
+      "newlyIndexable": true,
+      "purpose": "Distinguish the resident recycling center from a full home cleanout service",
+      "sourceClaims": [
+        {
+          "title": "Cliffside Park Recycling Center",
+          "url": "https://www.cliffsideparknj.gov/departments/recycling_center.php",
+          "publisher": "Borough of Cliffside Park",
+          "supports": "Limited accepted materials and distinction from normal collection; no older event dates or current hours copied."
+        }
+      ]
+    },
+    {
+      "id": "585b49ea-bfa6-44d9-8044-8d73a923b6d3",
+      "path": "/home-services/closter",
+      "newlyIndexable": true,
+      "purpose": "Use the local design guide to compare repair and replacement of exterior features",
+      "sourceClaims": [
+        {
+          "title": "Closter Design Guidelines",
+          "url": "https://closterhistory.com/documents/guidelines/guidelines.html",
+          "publisher": "Closter Historic Preservation Commission",
+          "supports": "Element-specific design guide for repairs, linked from the Borough; no universal historic designation or approval rule inferred."
+        },
+        {
+          "title": "Borough of Closter Official Website",
+          "url": "https://www.closterboro.com/",
+          "publisher": "Borough of Closter",
+          "supports": "Official link to closterhistory.com establishes provenance of local preservation resource."
+        }
+      ]
+    },
+    {
+      "id": "d1636c45-30c1-4009-8a31-f45ed172ed61",
+      "path": "/home-services/cresskill",
+      "newlyIndexable": true,
+      "purpose": "Keep final inspections and operating records visible during a home systems upgrade",
+      "sourceClaims": [
+        {
+          "title": "Cresskill Building Department",
+          "url": "https://www.cresskillboro.com/departments/construction",
+          "publisher": "Borough of Cresskill",
+          "supports": "Permitted-project final inspections and certificate reminder; no permit expiration periods or inspection hours copied."
+        }
+      ]
+    },
+    {
+      "id": "efa68565-f3bc-472b-8915-5d4dd366db14",
+      "path": "/home-services/demarest",
+      "newlyIndexable": true,
+      "purpose": "Protect retained trees from equipment, staging and ground disturbance during outdoor work",
+      "sourceClaims": [
+        {
+          "title": "Demarest Shade Tree Commission",
+          "url": "https://direct.demarestnj.gov/boards/tree",
+          "publisher": "Borough of Demarest",
+          "supports": "Constructive damage and retained-tree protection during construction; no size thresholds, fees, exemption or replacement formula copied."
+        }
+      ]
+    },
+    {
+      "id": "7037b942-80aa-46ee-8466-83406529e5f6",
+      "path": "/home-services/dumont",
+      "newlyIndexable": true,
+      "purpose": "Match yard-cleanup packaging and private removal to the Borough's street-based resources",
+      "sourceClaims": [
+        {
+          "title": "Dumont Department of Public Works",
+          "url": "https://www.dumontnj.gov/department-of-public-works",
+          "publisher": "Borough of Dumont",
+          "supports": "Street-based collection links and vegetative-waste preparation guidance; no seasonal dates, container counts or weight limits copied."
+        }
+      ]
+    }
+  ]
+}
