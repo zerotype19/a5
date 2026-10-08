@@ -47,7 +47,8 @@ begin
      jsonb_typeof(p_payload->'serviceIds') is distinct from 'array' or jsonb_typeof(p_payload->'locationIds') is distinct from 'array' then
     return query select false,'invalid_input'::text;return;
   end if;
-  if jsonb_array_length(p_payload->'serviceIds') not between 1 and 8 or jsonb_array_length(p_payload->'locationIds') not between 1 and 226 or
+  if jsonb_array_length(p_payload->'serviceIds') < 1 or jsonb_array_length(p_payload->'serviceIds') > (select count(*) from public.services) or
+     jsonb_array_length(p_payload->'locationIds') < 1 or jsonb_array_length(p_payload->'locationIds') > (select count(*) from public.locations) or
      exists(select 1 from jsonb_array_elements_text(p_payload->'serviceIds') x(value) where not exists(select 1 from public.services s where s.id=x.value)) or
      exists(select 1 from jsonb_array_elements_text(p_payload->'locationIds') x(value) where not exists(select 1 from public.locations l where l.id=x.value)) then
     return query select false,'invalid_coverage'::text;return;
