@@ -165,3 +165,11 @@ Walpack, Wantage, Allamuchy, Alpha, Belvidere, Blairstown, Franklin Township (Wa
 ## Batch 20: ready for publication
 
 Harmony, Hope, Independence, Knowlton, Liberty Township, Lopatcong, Mansfield Township, Oxford, Pohatcong and Washington Borough. Brand positioning ideas approved all ten. Official sources support distinct local records, survey, inspection and jurisdiction guidance. Lopatcong verified in live browser; Knowlton packet claims verified in official indexed text. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 20: published and verified
+
+2026-10-08: PR #69 merged (229d3a2). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 316 URLs. Two hundred completed; two remain.
+
+## Batch 21: ready for publication
+
+Washington Township (Warren) and White Township complete the immutable 202-profile queue. Brand positioning ideas approved both. Washington Public Works source verified in live browser; White's source explicitly preserves local zoning with shared Washington construction services. All 32 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.

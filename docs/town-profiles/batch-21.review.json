@@ -1,0 +1,33 @@
+{
+  "sha256": "f1e8488ceb52f8a87f1dcb023746cd14c5146e1d5744d0d314118f8e8e82e28d",
+  "pages": [
+    {
+      "id": "a054469f-50b1-48d6-8d3e-f4e345b38cdf",
+      "path": "/home-services/washington-township-warren",
+      "newlyIndexable": true,
+      "purpose": "Separate private yard work from public-road maintenance",
+      "sourceClaims": [
+        {
+          "title": "Washington Township Public Works",
+          "url": "https://www.washington-twp-warren.org/departments/public_works/index.php",
+          "publisher": "Washington Township, Warren County",
+          "supports": "Live browser main text verifies road/storm-sewer/vegetation duties and separate county/state road responsibility; no private boundary or approval inferred."
+        }
+      ]
+    },
+    {
+      "id": "0b19674c-3647-4061-87d5-b2900815329b",
+      "path": "/home-services/white-township",
+      "newlyIndexable": true,
+      "purpose": "Keep White Township zoning separate from the shared construction route",
+      "sourceClaims": [
+        {
+          "title": "White Township Construction Office",
+          "url": "https://www.white-township.com/construction-office",
+          "publisher": "White Township",
+          "supports": "Explicit separate White zoning and Washington construction routes; no permit exemption, processing time or automatic approval claim."
+        }
+      ]
+    }
+  ]
+}

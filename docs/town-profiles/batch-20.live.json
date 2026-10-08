@@ -1,0 +1,80 @@
+{
+  "batch": "20",
+  "sha256": "6a17046f48095ae7da561f9182272d35b582275fe53e045fc98347eb0d57474c",
+  "checkedAt": "2026-10-08T18:40:45.568Z",
+  "count": 10,
+  "sitemapCount": 316,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/home-services/harmony",
+      "status": 200,
+      "title": "Harmony Home Services | Warren County | A5 Home Services",
+      "description": "Plan Harmony home maintenance with well and septic records, clear access notes and a practical scope for plumbing, landscaping and exterior repairs.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/hope",
+      "status": 200,
+      "title": "Hope Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Hope home repairs with clear exterior photos, material choices and questions for the Historic Preservation Commission before committing to changes.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/independence",
+      "status": 200,
+      "title": "Independence Home Services | Warren County | A5 Home Services",
+      "description": "Plan Independence Township repairs with open and closed permit records, a clear unfinished-work list and a practical sequence for the next contractor.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/knowlton",
+      "status": 200,
+      "title": "Knowlton Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Knowlton outdoor projects with a legible property survey, clearly marked proposed changes and questions about structure placement and site information.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/liberty-township",
+      "status": 200,
+      "title": "Liberty Township Home Services | Warren County | A5 Home Services",
+      "description": "Plan Liberty Township home projects with clear well-pump scope, trade responsibilities and inspection sequencing before trenches or access areas are closed.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/lopatcong",
+      "status": 200,
+      "title": "Lopatcong Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Lopatcong home repairs with permit identifiers, the right inspection type and clear contractor access arrangements so project steps stay organized.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/mansfield-township",
+      "status": 200,
+      "title": "Mansfield Township Home Services | Warren County | A5 Home Services",
+      "description": "Plan Mansfield Township, Warren County repairs using the correct shared construction office, project records and local property identifiers.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/oxford",
+      "status": 200,
+      "title": "Oxford Home Services | Warren County | A5 Home Services",
+      "description": "Plan Oxford Township home projects with the right zoning resources, existing property information and a clear distinction between master plans and approvals.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/pohatcong",
+      "status": 200,
+      "title": "Pohatcong Home Services | Warren County | A5 Home Services",
+      "description": "Prepare Pohatcong home projects with a clear plot plan, local zoning questions and the separate state construction-review route for applicable work.",
+      "errors": []
+    },
+    {
+      "path": "/home-services/washington-borough",
+      "status": 200,
+      "title": "Washington Borough Home Services | Warren County | A5 Home Services",
+      "description": "Plan Washington Borough home improvements with the Borough's zoning resources, accurate property identification and a clear description of the proposed change.",
+      "errors": []
+    }
+  ]
+}

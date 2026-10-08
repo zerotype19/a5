@@ -1,0 +1,270 @@
+{
+  "updates": [
+    {
+      "id": "a054469f-50b1-48d6-8d3e-f4e345b38cdf",
+      "slug": "washington-township-warren",
+      "page_type": "LOCATION",
+      "title": "Home services in Washington Township, Warren County",
+      "meta_title": "Washington Township Home Services | Warren County",
+      "meta_description": "Plan Washington Township, Warren County exterior work with clear property limits, road-maintenance questions and a practical cleanup or repair scope.",
+      "h1": "Home services in Washington Township.",
+      "primary_service_id": null,
+      "primary_location_id": "washington-township-warren",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in Washington Township, Warren County?",
+      "direct_answer": "Washington Township's Public Works page distinguishes Township-owned roads from county and state roads and offers help identifying the responsible authority. If a tree, drainage or roadside problem crosses the edge of your property, clarify that responsibility before commissioning work. A private landscaping or tree-service request is different from reporting a public-road maintenance issue.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Identify whose area the proposed work affects",
+          "paragraphs": [
+            "Take photographs from a safe position and describe the problem's location relative to the driveway, yard and road. Note whether it involves an existing private feature, a roadside drain or a branch affecting public access. Do not step into traffic or approach a fallen wire to document it. An immediate danger belongs with emergency or utility responders, not a routine service-request queue.",
+            "Washington Township's Public Works Department lists road, storm-sewer and roadside vegetation duties and explains that other authorities maintain county and state roads. Use the department to clarify the responsible road authority where needed. That information does not settle a private property boundary or authorize a contractor to work in a public area. Ask the relevant office about the specific location and scope.",
+            "For the private portion, agree on exactly what the professional will remove, repair or leave in place. Include debris handling, access and protection of surrounding surfaces in the proposal. If the work depends on a public repair, coordinate the sequence before paying for permanent restoration. Keep the Township and county distinction in your request: this profile concerns Washington Township in Warren County."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your Washington Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Assess a private tree concern",
+              "body": "Show the tree from safe ground and explain nearby roads or utilities. Confirm ownership, access and any required specialist coordination before work.",
+              "links": [
+                {
+                  "label": "Explore tree services projects",
+                  "href": "/services/tree-services"
+                }
+              ]
+            },
+            {
+              "title": "Investigate water at the driveway edge",
+              "body": "Describe when water appears and where it travels. Clarify public-road drainage responsibility before altering the private landscape.",
+              "links": [
+                {
+                  "label": "Explore landscaping projects",
+                  "href": "/services/landscaping"
+                }
+              ]
+            },
+            {
+              "title": "Repair a private walkway after investigation",
+              "body": "Identify the damaged surface and any unresolved drainage or access issue. Set the masonry scope after those questions are understood.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does Washington Township maintain every road near my home?",
+              "answer": "Its Public Works page distinguishes Township roads from county and state roads and says the department can help identify the responsible governmental unit. Confirm the particular road before arranging or reporting work."
+            },
+            {
+              "question": "How does A5 help with my Washington Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "Washington Township is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your Washington Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:38:03.806Z",
+      "published_at": "2026-10-08T01:22:43.044+00:00",
+      "last_reviewed_at": "2026-10-08T18:38:03.806Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    },
+    {
+      "id": "0b19674c-3647-4061-87d5-b2900815329b",
+      "slug": "white-township",
+      "page_type": "LOCATION",
+      "title": "Home services in White Township, Warren County",
+      "meta_title": "White Township Home Services | Warren County",
+      "meta_description": "Prepare White Township home improvements with the correct local zoning application, shared construction-office route and a consistent property-specific scope.",
+      "h1": "Home services in White Township.",
+      "primary_service_id": null,
+      "primary_location_id": "white-township",
+      "primary_problem_id": null,
+      "primary_question": "How do I request home services in White Township, Warren County?",
+      "direct_answer": "White Township directs construction questions and permitting to Washington Township's construction office while keeping zoning applications with White Township. Use the correct route for each part of your project. A shared construction office does not change the property's municipality or replace White Township's local zoning process.",
+      "sections": [
+        {
+          "type": "RICH_TEXT",
+          "heading": "Track the two project conversations without mixing them",
+          "paragraphs": [
+            "Begin with White Township and the exact property address on a single project sheet. Describe the physical change, its location and the intended use. Keep a survey or other available site information with the sheet, but mark unknown dimensions or boundaries clearly. Give the same description to the contractor and the relevant office so neither has to reconstruct the project from scattered messages.",
+            "The Township's construction page expressly separates its local zoning applications from the Washington Township construction contact. Start there to confirm the current instructions for your actual work. Ask which step is relevant before submitting documents; not every maintenance task follows the same path. Keep any zoning response and construction correspondence together while noting which office issued each item.",
+            "Request a quote that identifies assumptions about placement, design and required approvals. Agree on who will handle follow-up questions and coordinate any inspections. If the proposed size or use changes, check whether earlier advice still applies before proceeding. At the end, retain the final scope and applicable records with the home. A5 can help introduce an independent provider; the provider and responsible authorities resolve the work and requirements directly."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Prepare your White Township project",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Clarify a proposed outdoor surface",
+              "body": "Distinguish repairing an existing area from changing its footprint. Use that description for the local questions and the masonry proposal.",
+              "links": [
+                {
+                  "label": "Explore masonry projects",
+                  "href": "/services/masonry"
+                }
+              ]
+            },
+            {
+              "title": "Plan equipment and electrical work together",
+              "body": "Explain where equipment would go and what it will serve. Confirm placement questions and the electrical professional's scope before installation.",
+              "links": [
+                {
+                  "label": "Explore electrical projects",
+                  "href": "/services/electrical"
+                }
+              ]
+            },
+            {
+              "title": "Organize a small repair list",
+              "body": "Separate maintenance items from changes in layout or use so a handyman can identify the tasks within their qualifications.",
+              "links": [
+                {
+                  "label": "Explore handyman projects",
+                  "href": "/services/handyman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should White Township zoning applications go to Washington Township?",
+              "answer": "White Township's official page says zoning applications remain with White Township, while construction questions and permitting use the listed Washington Township office. Confirm the right route for the particular project step."
+            },
+            {
+              "question": "How does A5 help with my White Township request?",
+              "answer": "Describe the work and share your contact details. A5 reviews the request and forwards it to an independent professional whose recorded service and geographic coverage match. The professional discusses the estimate, scope and schedule with you directly. Sending a request does not book work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Your project location",
+          "paragraphs": [
+            "White Township is in Warren County. Use the work municipality and ZIP code when submitting your request, even if a mailing address uses a different place name."
+          ],
+          "links": [
+            {
+              "label": "Explore Warren County",
+              "href": "/home-services/county/warren-county"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Official local resources used in this guide"
+        },
+        {
+          "type": "CTA",
+          "title": "Start your White Township project",
+          "description": "One clear request helps us make the right introduction. Agree on the work directly with your independent professional.",
+          "primaryLabel": "Request service"
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-municipal-directory-2026-10",
+      "reviewed_by": "Codex / owner-authorized SEO editorial review",
+      "created_at": "2026-10-08T01:22:15.335+00:00",
+      "updated_at": "2026-10-08T03:53:13.228+00:00",
+      "reviewed_at": "2026-10-08T18:38:03.806Z",
+      "published_at": "2026-10-08T01:22:43.155+00:00",
+      "last_reviewed_at": "2026-10-08T18:38:03.806Z",
+      "cost_methodology": null,
+      "cost_geography": null,
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "6f58c42e-d268-49fc-89cd-6985a3d13d19",
+      "title": "Washington Township Public Works",
+      "url": "https://www.washington-twp-warren.org/departments/public_works/index.php",
+      "publisher": "Washington Township, Warren County",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:38:03.806Z",
+      "reviewed_at": "2026-10-08T18:38:03.806Z"
+    },
+    {
+      "id": "d774eb81-5e5e-4819-8d42-16a373e23fcc",
+      "title": "White Township Construction Office",
+      "url": "https://www.white-township.com/construction-office",
+      "publisher": "White Township",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-08T18:38:03.806Z",
+      "reviewed_at": "2026-10-08T18:38:03.806Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "a054469f-50b1-48d6-8d3e-f4e345b38cdf",
+      "source_id": "6f58c42e-d268-49fc-89cd-6985a3d13d19",
+      "relationship_type": "SUPPORTS"
+    },
+    {
+      "content_page_id": "0b19674c-3647-4061-87d5-b2900815329b",
+      "source_id": "d774eb81-5e5e-4819-8d42-16a373e23fcc",
+      "relationship_type": "SUPPORTS"
+    }
+  ],
+  "relationships": [
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "a054469f-50b1-48d6-8d3e-f4e345b38cdf",
+      "relationship_type": "RELATED"
+    },
+    {
+      "from_page_id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "to_page_id": "0b19674c-3647-4061-87d5-b2900815329b",
+      "relationship_type": "RELATED"
+    }
+  ]
+}
