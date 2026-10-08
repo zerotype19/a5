@@ -132,3 +132,9 @@ export async function loadProjectPage(slug: string): Promise<EngineResult> {
   }
   return result;
 }
+
+export async function loadCountyPage(slug:string):Promise<EngineResult>{
+ const {getCountyBySlug}=await import('../../../config/counties.ts');
+ if(!getCountyBySlug(slug))return {status:'not_found',reason:'unknown_county'};
+ return loadPublished({page_type:'CORE',slug});
+}

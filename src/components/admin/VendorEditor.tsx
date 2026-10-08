@@ -1,6 +1,6 @@
 import { SubmitButton } from "./SubmitButton";
 import Link from "next/link";
-import { LOCATIONS } from "@config/locations";
+import {VendorLocationPicker} from "./VendorLocationPicker";
 import { SERVICES } from "@config/services";
 import { VENDOR_STATUSES } from "@/lib/db/schema";
 import type { VendorCoverage } from "@/lib/admin/vendors";
@@ -20,7 +20,7 @@ export function VendorEditor({ vendor, error }: { vendor?: VendorCoverage | null
     </div></fieldset>
     <fieldset className={styles.panel}><legend>2. Service coverage</legend><p className={styles.mutedCopy}>Record the work and towns this provider covers.</p><div className={styles.formGrid}>
       <fieldset><legend>Services</legend><div className={styles.checkboxGrid}>{SERVICES.map(service => <label key={service.id} className={styles.checkLabel}><input type="checkbox" name="serviceIds" value={service.id} defaultChecked={vendor?.serviceIds.includes(service.id) ?? false} />{service.name}</label>)}</div></fieldset>
-      <fieldset><legend>Towns</legend><div className={styles.checkboxGrid}>{LOCATIONS.map(location => <label key={location.id} className={styles.checkLabel}><input type="checkbox" name="locationIds" value={location.id} defaultChecked={vendor?.locationIds.includes(location.id) ?? false} />{location.name}</label>)}</div></fieldset>
+      <VendorLocationPicker initialIds={vendor?.locationIds}/>
     </div></fieldset>
     <fieldset className={styles.panel}><legend>3. Credentials & background</legend><div className={styles.formGrid}>
       <label className={styles.fieldLabel}>Registration number<input name="registrationNumber" defaultValue={vendor?.registrationNumber ?? ""} /></label>

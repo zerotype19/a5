@@ -4,6 +4,7 @@
  */
 
 import type { MetadataRoute } from "next";
+import {getCountyBySlug} from "../../../config/counties.ts";
 import { SITE } from "../../../config/site.ts";
 import { isSitemapEligible } from "./validate.ts";
 import type { ContentPageRecord } from "./types.ts";
@@ -56,7 +57,7 @@ export function buildSitemapEntries(
 
   for (const page of contentPages) {
     if (!isSitemapEligible(page)) continue;
-    if (page.page_type === "CORE") continue;
+    if (page.page_type === "CORE" && !getCountyBySlug(page.slug)) continue;
     const path = buildContentPathFromRecord(page, page.problem_slug);
     if (!path) continue;
     if (

@@ -1,0 +1,66 @@
+{
+  "contentSha256": "f96dca94212f7f32d7b94c2e3d54d054ec0861c95553575b29c1c6f9956d62ab",
+  "pages": [
+    {
+      "id": "5dc383b0-f241-47ca-8a60-43280e61c785",
+      "slug": "bergen-county",
+      "path": "/home-services/county/bergen-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "13ef4788-ae6b-4796-805e-c29c8e10fdd3",
+      "slug": "essex-county",
+      "path": "/home-services/county/essex-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "d8254c48-e437-4cf7-8bf8-d9c0e606a24d",
+      "slug": "hudson-county",
+      "path": "/home-services/county/hudson-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "743fb145-ee6d-46a9-8bf8-01c11992d94b",
+      "slug": "morris-county",
+      "path": "/home-services/county/morris-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "00e9241d-a0b7-458d-8234-90735e443820",
+      "slug": "passaic-county",
+      "path": "/home-services/county/passaic-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "9fb48f2c-28cc-4216-8e27-bf6a636edc0d",
+      "slug": "sussex-county",
+      "path": "/home-services/county/sussex-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "7d532b0e-ede0-4d42-83d4-7bfdb8ab6ecf",
+      "slug": "union-county",
+      "path": "/home-services/county/union-county",
+      "type": "CORE",
+      "action": "insert"
+    },
+    {
+      "id": "a002babc-b54a-4a64-878e-564c2cdd85e5",
+      "slug": "warren-county",
+      "path": "/home-services/county/warren-county",
+      "type": "CORE",
+      "action": "insert"
+    }
+  ],
+  "existingUpdates": 0,
+  "newPages": 8,
+  "totalAfterPublication": 70,
+  "newSources": 8,
+  "newRelationships": 146
+}

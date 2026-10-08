@@ -39,14 +39,14 @@ describe("A5-D001 design system", () => {
     assert.match(tokens, /--width-editorial:\s*42rem/);
   });
 
-  it("links the homepage to published problems and town hubs", () => {
+  it("links the homepage to published problems and county hubs", () => {
     const homepage = read("src/app/page.tsx");
     const footer = read("src/components/Footer.tsx");
     for (const path of PUBLISHED_PROBLEMS) {
       assert.match(homepage, new RegExp(path.replaceAll("/", "\\/")));
     }
-    assert.match(homepage, /\/home-services\/\$\{l\.slug\}/);
-    assert.match(footer, /\/home-services\/\$\{location\.slug\}/);
+    assert.match(homepage, /countyPath\(l\)/);
+    assert.match(footer, /countyPath\(location\)/);
     assert.doesNotMatch(homepage, /instant matching/i);
     assert.doesNotMatch(homepage, /fully vetted/i);
     assert.doesNotMatch(homepage, /borrowed reviews/i);

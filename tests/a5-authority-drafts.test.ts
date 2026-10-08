@@ -3,7 +3,7 @@ import { readdirSync, readFileSync, statSync } from "node:fs";
 import { dirname, join, relative } from "node:path";
 import { describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
-import { LOCATIONS } from "../config/locations.ts";
+import { LOCATION_HUBS as LOCATIONS } from "../config/locations.ts";
 import { SERVICES } from "../config/services.ts";
 import {
   CLAIM_EPA_RRP,

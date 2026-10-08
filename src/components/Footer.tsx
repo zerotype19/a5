@@ -1,6 +1,6 @@
 import { Brand } from "./Brand";
 import Link from "next/link";
-import { LOCATIONS } from "@config/locations";
+import {COUNTIES, countyPath} from "@config/counties";
 import { SERVICES } from "@config/services";
 import { SITE } from "@config/site";
 import { phoneTelHref } from "@/lib/phone";
@@ -20,7 +20,8 @@ export function Footer() {
         {SERVICES.map(service => <li key={service.id}><Link href={`/services/${service.slug}`}>{service.name}</Link></li>)}
       </ul></nav>
       <nav aria-label="Footer service areas"><h2 className={styles.heading}>Service areas</h2><ul className={styles.list}>
-        {LOCATIONS.map(location => <li key={location.id}><Link href={`/home-services/${location.slug}`}>{location.name}</Link></li>)}
+        {COUNTIES.map(location => <li key={location.id}><Link href={countyPath(location)}>{location.name}</Link></li>)}
+        <li><Link href="/home-services">Find your town</Link></li>
       </ul></nav>
       <nav aria-label="Footer resources"><h2 className={styles.heading}>About A5</h2><ul className={styles.list}>
         <li><Link href="/services">All services</Link></li><li><Link href="/home-services">All service areas</Link></li><li><Link href="/about">About A5</Link></li>

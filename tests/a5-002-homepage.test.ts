@@ -3,7 +3,7 @@ import { readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { describe, it } from "node:test";
 import { fileURLToPath } from "node:url";
-import { LOCATIONS } from "../config/locations.ts";
+import { COUNTIES } from "../config/counties.ts";
 import { SERVICES } from "../config/services.ts";
 import { SITE } from "../config/site.ts";
 import { phoneTelHref } from "../src/lib/phone.ts";
@@ -50,9 +50,9 @@ describe("A5-002 public homepage", () => {
     assert.doesNotMatch(homepage, /\broofing\b/i);
   });
 
-  it("presents all approved locations", () => {
-    assert.match(homepage, /LOCATIONS\.map/);
-    assert.equal(LOCATIONS.length, 9);
+  it("presents the approved county directory", () => {
+    assert.match(homepage, /COUNTIES\.map/);
+    assert.equal(COUNTIES.length, 8);
   });
 
   it("keeps primary CTA identifiable and linked to request intake", () => {

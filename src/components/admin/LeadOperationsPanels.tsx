@@ -1,3 +1,4 @@
+import {COUNTIES} from "@config/counties";
 import { LeadOutcomeForm } from "./LeadOutcomeForm";
 import { canRecordOutcome } from "@/lib/admin/outcomes";
 import { SubmitButton } from "./SubmitButton";
@@ -32,7 +33,7 @@ export function LeadOperationsPanels({ lead, notice, error, children }: Props) {
           </form> : <div><h3 className={styles.actionTitle}>Service</h3><p>{lead.serviceLabel}</p></div>}
           <form action={classifyLeadLocation} className={styles.inlineForm}>
             <input type="hidden" name="leadId" value={lead.id} />
-            <label className={styles.fieldLabel}>Town · ZIP {lead.postalCode ?? "not supplied"}<select name="locationId" required defaultValue={lead.locationId ?? ""}><option value="" disabled>Select location</option>{LOCATIONS.map(loc => <option key={loc.id} value={loc.id}>{loc.name}, {loc.state}</option>)}</select></label>
+            <label className={styles.fieldLabel}>Town · ZIP {lead.postalCode ?? "not supplied"}<select name="locationId" required defaultValue={lead.locationId ?? ""}><option value="" disabled>Select location</option>{COUNTIES.map(c=><optgroup key={c.id} label={c.name}>{LOCATIONS.filter(l=>l.countyId===c.id&&(!l.legacyArea||l.id===lead.locationId)).sort((a,b)=>a.name.localeCompare(b.name)).map(loc=><option key={loc.id} value={loc.id}>{loc.name}{loc.legacyArea?" (historical combined area)":""}</option>)}</optgroup>)}</select></label>
             <SubmitButton className={styles.secondaryButton}>{lead.locationId ? "Update location" : "Classify location"}</SubmitButton>
           </form>
         </div>

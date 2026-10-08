@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { describe, it } from "node:test";
-import { LOCATIONS } from "../config/locations.ts";
+import { LOCATION_HUBS as LOCATIONS } from "../config/locations.ts";
 import { SERVICES } from "../config/services.ts";
 import { SITE } from "../config/site.ts";
 import { featureFlags } from "../src/lib/feature-flags.ts";

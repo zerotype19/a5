@@ -4,6 +4,7 @@
 
 import { getLocationById, type LocationId } from "../../../config/locations.ts";
 import { getServiceById, type ServiceId } from "../../../config/services.ts";
+import {getCountyBySlug} from "../../../config/counties.ts";
 import { SITE } from "../../../config/site.ts";
 import type { BreadcrumbItem, ContentPageRecord } from "./types.ts";
 import { buildContentPathFromRecord } from "./urls.ts";
@@ -75,6 +76,10 @@ export function buildBreadcrumbs(
     case "PROJECT":
       crumbs.push({ name: "Projects", path: "/projects" });
       crumbs.push({ name: page.title, path: selfPath });
+      break;
+    case "CORE":
+      if(getCountyBySlug(page.slug)) crumbs.push({name:"Areas",path:"/home-services"});
+      crumbs.push({name:page.title,path:selfPath});
       break;
     default:
       crumbs.push({ name: page.title, path: selfPath });

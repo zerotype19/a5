@@ -5,6 +5,7 @@
 
 import { getLocationById, type LocationId } from "../../../config/locations.ts";
 import { getServiceById, type ServiceId } from "../../../config/services.ts";
+import {getCountyBySlug, countyPath} from "../../../config/counties.ts";
 import { SITE } from "../../../config/site.ts";
 import type { ContentPageRecord, ContentPageType } from "./types.ts";
 
@@ -66,7 +67,7 @@ export function buildContentPath(input: {
     case "PROJECT":
       return `/projects/${input.slug}`;
     case "CORE":
-      return `/${input.slug}`;
+      return getCountyBySlug(input.slug) ? countyPath(getCountyBySlug(input.slug)!) : `/${input.slug}`;
     default:
       return null;
   }

@@ -1,0 +1,658 @@
+[
+  {
+    "county": "bergen",
+    "h1": "One clear starting point for your Bergen County home.",
+    "title": "Home services in Bergen County, NJ",
+    "meta_title": "Bergen County Home Services & Town Directory | A5",
+    "meta_description": "Explore Bergen County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Bergen County?",
+    "direct_answer": "Yes. Choose your Bergen County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Coordinate a room refresh without losing the repair details",
+        "paragraphs": [
+          "A room refresh often starts with the finish you want to see: smoother walls, fresh paint or new trim. Write down the repair work underneath that result as well. A loose fixture, damaged drywall and a door that rubs may need different assessments, even when they are in the same room.",
+          "For a painting or drywall request, identify the affected wall and whether the damage has changed. Include a wide room photo and a closer view of the surface. If the area has been wet, tell the provider what has been investigated or repaired; a new finish is not a substitute for understanding the cause.",
+          "For a punch list, separate essential repairs from optional improvements. This helps the provider discuss which tasks fit one visit, what materials may be needed and which items should be assessed separately."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "Bergen County includes 70 municipalities, from Hackensack and Fort Lee to Ridgewood, Mahwah and the boroughs in between. Choose the actual municipality in the directory below. Washington Township here is the Bergen County municipality; the Morris and Warren County townships have separate entries."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "If the work is in a managed building, ask about contractor access, work hours and any documents the building requests before proposing a date. For a house, mention the entrance, stairs and space to unload materials. Share these practical constraints in your description without including private access codes."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/drywall",
+            "label": "Drywall repair planning"
+          },
+          {
+            "href": "/services/painting",
+            "label": "Painting preparation"
+          },
+          {
+            "href": "/services/handyman",
+            "label": "Handyman and punch-list projects"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Can I combine painting, drywall and smaller repairs in one request?",
+            "answer": "Yes. List the rooms, visible issues and desired finish together. A5 can review the whole scope; the provider then confirms what can be grouped, what must happen first and whether separate trades or visits are needed."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Bergen County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Bergen County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "essex",
+    "h1": "Move your Essex County home projects forward.",
+    "title": "Home services in Essex County, NJ",
+    "meta_title": "Essex County Home Services & Town Directory | A5",
+    "meta_description": "Explore Essex County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Essex County?",
+    "direct_answer": "Yes. Choose your Essex County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Plan the repair before the finishing work",
+        "paragraphs": [
+          "A bathroom or kitchen update can involve both working parts and finished surfaces. Start by saying whether you are fixing a specific fault, replacing an item or planning a broader refresh. A dripping faucet and damaged tile may be connected in your project plan without having the same underlying cause.",
+          "Photograph the fixture, the surrounding surface and the wider room. Mention any previous repair and whether an issue is active or intermittent. Avoid opening walls or taking fittings apart simply to obtain a better photo. A description of what you can safely observe is enough to begin.",
+          "For tile work, identify whether the concern is a cracked tile, loose pieces, grout or a planned replacement. If you already have spare tile or a chosen replacement, include that detail. The provider can assess repair options and discuss matching limitations before you purchase materials."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "This directory covers the 22 Essex County municipalities, including Newark, East Orange, Orange, West Orange, Montclair, Millburn and Livingston. Select your municipality rather than assuming a nearby city handles the same local questions. Livingston also has an existing A5 area guide with more project-planning links."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "If your project needs a building-management decision, separate that from the contractor\u2019s scope. Ask who can authorize access to shared areas and who approves work inside the unit. For project-specific municipal requirements, use your own municipality\u2019s construction office; requirements depend on the proposed work."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/plumbing",
+            "label": "Plumbing project planning"
+          },
+          {
+            "href": "/services/tile",
+            "label": "Tile repair and replacement"
+          },
+          {
+            "href": "/services/drywall",
+            "label": "Wall and ceiling repair"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Should I request plumbing or tile help for a bathroom problem?",
+            "answer": "Choose the closest service and describe both the visible problem and the result you want. Mention leaks or previous water damage when relevant. A5 reviews the scope; the provider determines the appropriate assessment and work sequence."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Essex County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Essex County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "hudson",
+    "h1": "Simpler project coordination for your Hudson County home.",
+    "title": "Home services in Hudson County, NJ",
+    "meta_title": "Hudson County Home Services & Town Directory | A5",
+    "meta_description": "Explore Hudson County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Hudson County?",
+    "direct_answer": "Yes. Choose your Hudson County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Make access part of the project brief",
+        "paragraphs": [
+          "For work in an apartment, condo or other managed property, access can affect the plan as much as the repair itself. Tell us whether the work is inside your home or in a shared area, which floor it is on and whether stairs or an elevator are involved. If you are arranging work for someone else, explain who can approve the scope.",
+          "A small painting, tile or handyman project is easier to assess when the provider can see both the work area and the route for materials. Note any building requirements you already know about, such as a service entrance, scheduled delivery window or contractor paperwork. Do not assume these requirements apply to every building.",
+          "Keep the initial request focused on the work and practical access constraints. Save keys, entry codes and private resident information for the appropriate later coordination step. Sending a request begins a review; it does not reserve a building work slot or contractor appointment."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "Hudson County has 12 municipalities: Bayonne, East Newark, Guttenberg, Harrison, Hoboken, Jersey City, Kearny, North Bergen, Secaucus, Union City, Weehawken and West New York. North Bergen belongs in this Hudson County directory, and Union City is different from Union Township in Union County."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "If you rent, establish who is responsible for arranging and authorizing the work before making commitments. If you own a unit, check with the relevant building contact about work affecting shared systems or common areas. The provider still needs to assess the actual job before confirming cost or timing."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/handyman",
+            "label": "Small repairs and installations"
+          },
+          {
+            "href": "/services/painting",
+            "label": "Interior painting planning"
+          },
+          {
+            "href": "/services/tile",
+            "label": "Tile project options"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Can I request help for a condo or apartment?",
+            "answer": "You can submit the project for review. Include the municipality, unit access details and any known building requirements, and confirm who can authorize the work. A5 checks the scope and provider availability before coordinating next steps."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Hudson County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Hudson County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "morris",
+    "h1": "Bring your Morris County project list together.",
+    "title": "Home services in Morris County, NJ",
+    "meta_title": "Morris County Home Services & Town Directory | A5",
+    "meta_description": "Explore Morris County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Morris County?",
+    "direct_answer": "Yes. Choose your Morris County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Separate the punch list from the larger project",
+        "paragraphs": [
+          "A loose door, a damaged wall and an outdoor repair can all sit on the same homeowner list. Send the full picture, but label each item clearly. Identify which work is most important, which rooms or outdoor areas are involved and whether any item needs assessment before the rest can begin.",
+          "For a larger update, describe the result you want rather than trying to name every trade. Explain any decisions already made, such as selected paint, tile or fixtures, and any constraints on when rooms can be unavailable. This gives the provider a useful starting point for discussing sequence and materials.",
+          "Use separate photos for separate tasks. A wide view helps show access and scale; a close-up helps show the visible condition. If a previous repair did not last, say when it was done and what changed afterward. Do not guess at a diagnosis to make the request sound more complete."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "Morris County contains 39 municipalities. Some names need extra care: Boonton and Boonton Township, Chester Borough and Chester Township, Mendham Borough and Mendham Township, and Rockaway Borough and Rockaway Township are distinct. Chatham Borough and Chatham Township now have separate request entries, while the existing Chatham area guide remains available to both."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "Existing A5 guides cover Florham Park, Madison, the Chatham area, Morris Township, Morristown, East Hanover and Hanover Township. Use the municipality directory to request help elsewhere in the county. The area guides provide planning information; actual service availability is still checked for each project."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/handyman",
+            "label": "Organize a repair list"
+          },
+          {
+            "href": "/services/masonry",
+            "label": "Plan steps, patios and masonry repairs"
+          },
+          {
+            "href": "/services/landscaping",
+            "label": "Plan outdoor improvements"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Which Chatham entry should I use?",
+            "answer": "Use Chatham Borough or Chatham Township according to the municipality of the property. Both link to the shared Chatham area guide. If you are unsure, provide your ZIP code and explain the location in the request so it can be reviewed rather than guessed."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Morris County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Morris County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "passaic",
+    "h1": "A clearer plan for your Passaic County repairs.",
+    "title": "Home services in Passaic County, NJ",
+    "meta_title": "Passaic County Home Services & Town Directory | A5",
+    "meta_description": "Explore Passaic County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Passaic County?",
+    "direct_answer": "Yes. Choose your Passaic County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Describe the project setting as well as the work",
+        "paragraphs": [
+          "A repair inside a home and a project at the far side of a yard need different preparation. Start with where the work is located and how the provider can reach it. For indoor work, note stairs and occupied rooms. For outdoor work, describe gates, the route from the street and any limitations you already know about.",
+          "If several surfaces are involved, separate the observations. A cracked walkway, an uneven step and an overgrown planting bed are different concerns, even when they share the same entrance. Include a wide photo of the area and a closer photo of each issue so the provider can discuss the scope without relying on one ambiguous image.",
+          "For work that crosses indoor and outdoor areas, name the priority and any dependency. For example, explain whether you are asking for a repair assessment first or already have a defined improvement in mind. The estimate and work sequence are confirmed after the provider reviews the details."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "The directory includes all 16 Passaic County municipalities, including Paterson, Passaic, Clifton, Wayne, Little Falls, Ringwood and West Milford. Passaic County\u2019s planning department describes an urban, suburban and rural mix. Your request should describe your actual property setting rather than relying on a county-wide assumption about access or project size."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "Do not enter damaged or hard-to-reach areas just to document a project. Photos taken from a safe, accessible position are sufficient for the initial request. State what you cannot see or reach; the provider can decide what requires an on-site assessment."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/masonry",
+            "label": "Steps and walkway planning"
+          },
+          {
+            "href": "/services/landscaping",
+            "label": "Yard and planting-bed projects"
+          },
+          {
+            "href": "/services/handyman",
+            "label": "General home repairs"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Can I include indoor repairs and outdoor work together?",
+            "answer": "Yes. Separate the tasks and mark your priority, access details and preferred timing. A5 reviews the full request, while the provider confirms which work fits their scope and whether different trades or visits are appropriate."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Passaic County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Passaic County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "sussex",
+    "h1": "Get a practical start on your Sussex County project.",
+    "title": "Home services in Sussex County, NJ",
+    "meta_title": "Sussex County Home Services & Town Directory | A5",
+    "meta_description": "Explore Sussex County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Sussex County?",
+    "direct_answer": "Yes. Choose your Sussex County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Make an outdoor project easier to assess",
+        "paragraphs": [
+          "An outdoor project begins with the area you want to improve and the result you want to achieve. Describe whether you need maintenance, a repair assessment or a larger change. For planting beds, explain what should stay and what you want addressed. For steps or a walkway, describe the visible condition without assuming the cause.",
+          "Include the route to the work area, gate openings and any known limits on bringing in materials. If a driveway, slope or distance from parking affects access, mention it in the request. These details are property-specific; the county name alone does not tell a provider how the job can be reached.",
+          "For connected landscaping and masonry work, identify what is already planned and what remains undecided. A proposed bed layout can affect the area beside a path, while a repair may need assessment before finish choices make sense. Ask the provider to explain the intended sequence before materials are ordered."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "Sussex County lists 24 municipalities. Select the property\u2019s municipality, including the distinction between Frankford Township and Franklin Borough. Newton, Sparta Township, Vernon Township and Sussex Borough are separate entries; Sussex Borough should not be used as a catch-all for the county."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "Share a wide view of the outdoor area and a closer view of the work you are considering. Note any known property-boundary or access question for discussion with the appropriate party. Project-specific municipal questions belong with the municipality where the property sits, not a neighboring town."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/landscaping",
+            "label": "Landscaping project planning"
+          },
+          {
+            "href": "/services/masonry",
+            "label": "Masonry repair and improvement"
+          },
+          {
+            "href": "/services/handyman",
+            "label": "Smaller home repairs"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Can I request a review before choosing materials?",
+            "answer": "Yes. Explain the outcome you want and which choices are still open. The provider can assess the project and discuss scope, materials and timing. A request does not confirm a quote, appointment or provider availability."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Sussex County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Sussex County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "union",
+    "h1": "Turn your Union County home plans into a clear next step.",
+    "title": "Home services in Union County, NJ",
+    "meta_title": "Union County Home Services & Town Directory | A5",
+    "meta_description": "Explore Union County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Union County?",
+    "direct_answer": "Yes. Choose your Union County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Keep a lived-in room usable while planning improvements",
+        "paragraphs": [
+          "When a room is still in daily use, explain how that affects the work. For a bathroom, say whether it is the only one available. For a kitchen or entry, identify any access that needs to remain open. These details help the provider discuss sequencing and disruption before a date is agreed.",
+          "A finish update can include several separate decisions: repairing a wall, preparing the surface, choosing paint or replacing tile. List what is damaged and what you simply want to change. If a leak or other underlying issue was previously addressed, include that history so the visible repair is considered in context.",
+          "For fixture-related work, describe what the item does now and what you want it to do. Include model details or replacement selections if you have them, but do not buy additional materials based only on a general guide. The provider needs to confirm fit, scope and any related work."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "Union County has 21 municipalities, including Elizabeth, Plainfield, Westfield, Cranford, Summit, Union Township and Winfield Township. Union Township is the county\u2019s municipality, not Union City in Hudson County. Summit\u2019s existing A5 area guide remains linked alongside the expanded directory."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "If your project involves work in more than one room, give each room its own short description and photo set. Tell us the priority and any fixed household timing constraints. Preferred timing helps planning, but the provider confirms the actual schedule after review."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/plumbing",
+            "label": "Fixture and plumbing projects"
+          },
+          {
+            "href": "/services/tile",
+            "label": "Tile repair and updates"
+          },
+          {
+            "href": "/services/painting",
+            "label": "Painting project planning"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "Can I plan a bathroom update in stages?",
+            "answer": "You can describe a staged project and explain which room functions need to remain available. The provider will assess whether the proposed stages are practical, what must happen first and how the scope and schedule should be agreed."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Union County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Union County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  },
+  {
+    "county": "warren",
+    "h1": "Move your Warren County home project from list to plan.",
+    "title": "Home services in Warren County, NJ",
+    "meta_title": "Warren County Home Services & Town Directory | A5",
+    "meta_description": "Explore Warren County home services, find your municipality and plan repairs or improvements. Send A5 one request for individual provider availability review.",
+    "primary_question": "Can I request home services in Warren County?",
+    "direct_answer": "Yes. Choose your Warren County municipality, describe the project and send your ZIP code to A5. We review the location and scope, then check provider availability before coordinating next steps. The directory covers request locations; it does not guarantee a provider or appointment in every town.",
+    "sections": [
+      {
+        "type": "RICH_TEXT",
+        "heading": "Clarify repair scope before choosing the finished look",
+        "paragraphs": [
+          "For a step, path or exterior repair, begin with the visible concern and where it occurs. Say whether the condition has changed and whether previous work has been done. A provider needs to assess the repair scope before deciding whether a surface treatment or a larger intervention is appropriate.",
+          "If your list also includes landscaping, describe how the areas connect. Mark the priorities: restoring access, addressing a specific defect or improving appearance. Do not combine every outdoor concern into a single label such as \u201cyard work\u201d when separate photos and descriptions can make the assessment clearer.",
+          "For interior items, a short punch list can be useful alongside the larger project. Keep those tasks separate in your request and identify any preferred order. A5 can review the overall need, while the provider confirms which tasks they can undertake and whether more than one visit or trade is involved."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Choose the right municipality",
+        "paragraphs": [
+          "Warren County includes 22 municipalities. Washington Borough and Washington Township are separate request locations, and the Washington Township entry here is distinct from the Morris and Bergen County townships. Warren County should also not be confused with Warren Township in Somerset County, which is outside this eight-county directory."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Details that help plan the visit",
+        "paragraphs": [
+          "Describe practical access to the work area, including gates, stairs and material-unloading constraints where relevant. Use the municipality directory to identify the property\u2019s town. For uncertain boundaries or local project requirements, confirm with the relevant municipality before treating a neighboring town\u2019s guidance as applicable."
+        ]
+      },
+      {
+        "type": "RICH_TEXT",
+        "heading": "Explore services for your project",
+        "paragraphs": [
+          "Use these service guides to understand common project questions, or browse all eight services if your project starts elsewhere."
+        ],
+        "links": [
+          {
+            "href": "/services/masonry",
+            "label": "Plan masonry and walkway repairs"
+          },
+          {
+            "href": "/services/landscaping",
+            "label": "Outdoor project planning"
+          },
+          {
+            "href": "/services/handyman",
+            "label": "Build a useful repair list"
+          },
+          {
+            "href": "/services",
+            "label": "Browse all home services"
+          }
+        ]
+      },
+      {
+        "type": "QUESTION_ANSWER",
+        "items": [
+          {
+            "question": "How do I avoid choosing the wrong Washington Township?",
+            "answer": "Select Washington Township under Warren County when that is your property\u2019s municipality. Washington Borough has its own entry. The request page shows the county alongside the town so you can check the context before sending your project details."
+          },
+          {
+            "question": "Is provider availability confirmed throughout Warren County?",
+            "answer": "No. The directory lets you identify your municipality and request a review. A5 checks the location, work and provider availability individually before confirming a next step. Scheduled repairs and improvements are the focus; A5 is not an emergency dispatch service."
+          }
+        ]
+      },
+      {
+        "type": "SOURCE_LIST",
+        "heading": "Official municipality reference"
+      },
+      {
+        "type": "CTA",
+        "title": "Tell us what your Warren County home needs",
+        "description": "Share the project, ZIP code and optional photos. We will review the details and check for a suitable provider.",
+        "primaryLabel": "Start your request"
+      }
+    ]
+  }
+]
