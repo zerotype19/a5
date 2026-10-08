@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-10-08T17:23:08.833Z",
+  "meaning": "Recorded active/email/category/municipality eligibility only; not specialist coverage, availability, delivery or fulfillment.",
+  "matrix": [
+    {
+      "town": "river-vale",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "river-vale",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "river-vale",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "river-vale",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "river-vale",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "river-vale",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "river-vale",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "river-vale",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "river-vale",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "river-vale",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "river-vale",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "river-vale",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "river-vale",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "river-vale",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "river-vale",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "river-vale",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "rochelle-park",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "rochelle-park",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "rochelle-park",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "rochelle-park",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rochelle-park",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "rochelle-park",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rochelle-park",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rochelle-park",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rochelle-park",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rochelle-park",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "rockleigh",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "rockleigh",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "rockleigh",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "rockleigh",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rockleigh",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "rockleigh",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rockleigh",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rockleigh",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rockleigh",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rockleigh",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "rutherford",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "rutherford",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "rutherford",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "rutherford",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rutherford",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "rutherford",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rutherford",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rutherford",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "rutherford",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "rutherford",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "saddle-brook",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "saddle-brook",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "saddle-brook",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "saddle-brook",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-brook",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "saddle-brook",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-brook",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-brook",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-brook",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-brook",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "saddle-river",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "saddle-river",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "saddle-river",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "saddle-river",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-river",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "saddle-river",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-river",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-river",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "saddle-river",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "saddle-river",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "south-hackensack",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "south-hackensack",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "south-hackensack",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "south-hackensack",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "south-hackensack",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "south-hackensack",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "south-hackensack",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "south-hackensack",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "south-hackensack",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "south-hackensack",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "teaneck",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "teaneck",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "teaneck",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "teaneck",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teaneck",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "teaneck",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teaneck",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teaneck",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teaneck",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teaneck",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "tenafly",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "tenafly",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "tenafly",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "tenafly",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "tenafly",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "tenafly",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "tenafly",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "tenafly",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "tenafly",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "tenafly",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 14
+    },
+    {
+      "town": "teterboro",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "teterboro",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "teterboro",
+      "service": "tile",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "teterboro",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teterboro",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "teterboro",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teterboro",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teterboro",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "teterboro",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "teterboro",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    }
+  ]
+}
