@@ -1,0 +1,145 @@
+{
+  "sha256": "c4c72dcc70f6b700f1a8474a60981cfdb634b692c4dc5d7aa58aa86df145347f",
+  "pages": [
+    {
+      "id": "4df79e1f-70b2-4910-8ff6-2109c6ade636",
+      "path": "/home-services/hardyston",
+      "newlyIndexable": true,
+      "purpose": "Match the online minor-work route to the actual construction scope",
+      "sourceClaims": [
+        {
+          "title": "Hardyston Building Department",
+          "url": "https://hardyston.com/directories/building-department/",
+          "publisher": "Hardyston Township",
+          "supports": "Fast Track Gov minor-work applications, payments, inspections and public records; contact department for permit requirements. No definition of minor work invented."
+        }
+      ]
+    },
+    {
+      "id": "34876f5e-0537-4635-8298-dbd1bb1bf106",
+      "path": "/home-services/hopatcong",
+      "newlyIndexable": true,
+      "purpose": "Make the proposed work understandable through sketches and scope",
+      "sourceClaims": [
+        {
+          "title": "Hopatcong Construction",
+          "url": "https://www.hopatcong.org/departments/construction/",
+          "publisher": "Borough of Hopatcong",
+          "supports": "Verified live browser main content: project scope, people performing work, sketches/plans beyond minor work and inspection checklist. No deadlines or exemption claims."
+        }
+      ]
+    },
+    {
+      "id": "896dc314-e82c-48c7-86d4-0f8272223313",
+      "path": "/home-services/lafayette",
+      "newlyIndexable": true,
+      "purpose": "Separate the requested inspection date from the confirmed appointment",
+      "sourceClaims": [
+        {
+          "title": "Lafayette Construction Office",
+          "url": "https://www.lafayettetwp.org/directory/construction/",
+          "publisher": "Lafayette Township",
+          "supports": "Online inspection form, requested date and official confirmation; discipline and rough/final/ongoing checklist. No fixed notice period or hours repeated."
+        }
+      ]
+    },
+    {
+      "id": "68c817c1-8f0e-4ef5-8c40-5b7c1b101f27",
+      "path": "/home-services/montague",
+      "newlyIndexable": true,
+      "purpose": "Prepare equipment information for an electrical load discussion",
+      "sourceClaims": [
+        {
+          "title": "Montague Construction Department",
+          "url": "https://www.montaguenj.org/departments___services/construction_department/index.php",
+          "publisher": "Montague Township",
+          "supports": "Department resource list includes Residential Electrical Load Worksheet. No unread worksheet provisions, calculations or thresholds asserted."
+        }
+      ]
+    },
+    {
+      "id": "8835535d-18c5-4075-88db-a04038bddced",
+      "path": "/home-services/ogdensburg",
+      "newlyIndexable": true,
+      "purpose": "Separate construction debris from the Borough recycling stream",
+      "sourceClaims": [
+        {
+          "title": "Ogdensburg Departments and Recycling Information",
+          "url": "https://ogdensburgnj.org/departments/",
+          "publisher": "Borough of Ogdensburg",
+          "supports": "Published recycling-center paragraph excludes construction debris from dumpsters and Borough property. No collection schedule or broader disposal rule copied."
+        }
+      ]
+    },
+    {
+      "id": "71ec6f78-0f67-42a4-8981-6ba18376b057",
+      "path": "/home-services/sandyston",
+      "newlyIndexable": true,
+      "purpose": "Show septic and well locations when discussing a changed footprint",
+      "sourceClaims": [
+        {
+          "title": "Sandyston Construction",
+          "url": "https://www.sandystontownship.com/departments/construction",
+          "publisher": "Sandyston Township",
+          "supports": "Where Do I Start section: changed footprint, marked survey, distances and septic/well locations. No setback values or old staff information copied."
+        }
+      ]
+    },
+    {
+      "id": "0bb8a0df-05bc-423e-8827-d6052578d04d",
+      "path": "/home-services/stanhope",
+      "newlyIndexable": true,
+      "purpose": "Distinguish resale and rental inspection preparation from cosmetic cleanup",
+      "sourceClaims": [
+        {
+          "title": "Stanhope Construction Department",
+          "url": "https://stanhopenj.gov/departments-and-services/municipal-departments/construction-department/",
+          "publisher": "Borough of Stanhope",
+          "supports": "Separate rental and resale inspection sections and linked applications. No fees, deadlines or universal eligibility interpretation repeated."
+        }
+      ]
+    },
+    {
+      "id": "a784165c-d5f7-4a25-8f21-056743dd6769",
+      "path": "/home-services/stillwater",
+      "newlyIndexable": true,
+      "purpose": "Schedule the final inspection instead of assuming it happens automatically",
+      "sourceClaims": [
+        {
+          "title": "Stillwater Building Department",
+          "url": "https://stillwatertownshipnj.com/departments-services/building-department/",
+          "publisher": "Stillwater Township",
+          "supports": "Inspection section explicitly says visits are not automatic and permit number should be ready. No payment-law claim, fees or schedule repeated."
+        }
+      ]
+    },
+    {
+      "id": "a10fbffc-f0d3-45a0-85fa-7fe301789efd",
+      "path": "/home-services/sussex",
+      "newlyIndexable": true,
+      "purpose": "Keep Sussex Borough property identity clear in shared permit records",
+      "sourceClaims": [
+        {
+          "title": "Sussex Borough Building and Construction Office",
+          "url": "https://www.sussexboro.com/directory/construction/",
+          "publisher": "Borough of Sussex",
+          "supports": "Shared agreement with Hardyston and linked Fast Track Gov functions. No fees or assumptions about zoning equivalence."
+        }
+      ]
+    },
+    {
+      "id": "3eebaffc-92a7-4604-83a8-255045b9dca5",
+      "path": "/home-services/vernon",
+      "newlyIndexable": true,
+      "purpose": "Include vent and chimney suitability in a fuel-fired equipment change",
+      "sourceClaims": [
+        {
+          "title": "Vernon Construction Permits",
+          "url": "https://vernontwp.com/index.php/services/permits-licenses/construction-permits",
+          "publisher": "Vernon Township",
+          "supports": "Visible chimney-verification description relates vent size/material to fuel/appliance. No unread PDF provisions, permit exemptions or deadlines copied."
+        }
+      ]
+    }
+  ]
+}

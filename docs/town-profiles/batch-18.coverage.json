@@ -1,0 +1,806 @@
+{
+  "checkedAt": "2026-10-08T18:16:32.082Z",
+  "meaning": "Recorded active/email/category/municipality eligibility only; not specialist coverage, availability, delivery or fulfillment.",
+  "matrix": [
+    {
+      "town": "hardyston",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hardyston",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "hardyston",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hardyston",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hardyston",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hardyston",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hardyston",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hardyston",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hardyston",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hardyston",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hardyston",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hardyston",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hardyston",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hardyston",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hardyston",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hardyston",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hopatcong",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hopatcong",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "hopatcong",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hopatcong",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hopatcong",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hopatcong",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "hopatcong",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hopatcong",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hopatcong",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hopatcong",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "hopatcong",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hopatcong",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hopatcong",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "hopatcong",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hopatcong",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "hopatcong",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lafayette",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lafayette",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "lafayette",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lafayette",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lafayette",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lafayette",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "lafayette",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lafayette",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lafayette",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lafayette",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "lafayette",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lafayette",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lafayette",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "lafayette",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lafayette",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "lafayette",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montague",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "montague",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "montague",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montague",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "montague",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "montague",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "montague",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montague",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montague",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montague",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "montague",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "montague",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "montague",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "montague",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "montague",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "montague",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "ogdensburg",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "ogdensburg",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "ogdensburg",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "ogdensburg",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "ogdensburg",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "ogdensburg",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "ogdensburg",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "ogdensburg",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "ogdensburg",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "ogdensburg",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "ogdensburg",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "ogdensburg",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "ogdensburg",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "ogdensburg",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "ogdensburg",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "ogdensburg",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sandyston",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "sandyston",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "sandyston",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sandyston",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "sandyston",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "sandyston",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "sandyston",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sandyston",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sandyston",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sandyston",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "sandyston",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sandyston",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sandyston",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sandyston",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sandyston",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sandyston",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stanhope",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "stanhope",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "stanhope",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stanhope",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "stanhope",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "stanhope",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "stanhope",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stanhope",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stanhope",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stanhope",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "stanhope",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stanhope",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stanhope",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stanhope",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stanhope",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stanhope",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stillwater",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "stillwater",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "stillwater",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stillwater",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "stillwater",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "stillwater",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "stillwater",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stillwater",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stillwater",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stillwater",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "stillwater",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stillwater",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stillwater",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "stillwater",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stillwater",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "stillwater",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sussex",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "sussex",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "sussex",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sussex",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "sussex",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "sussex",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "sussex",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sussex",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sussex",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sussex",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "sussex",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sussex",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sussex",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "sussex",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sussex",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "sussex",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "vernon",
+      "service": "handyman",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "vernon",
+      "service": "masonry",
+      "activeEmailedMappedVendors": 15
+    },
+    {
+      "town": "vernon",
+      "service": "landscaping",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "vernon",
+      "service": "painting",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "vernon",
+      "service": "drywall",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "vernon",
+      "service": "tile",
+      "activeEmailedMappedVendors": 13
+    },
+    {
+      "town": "vernon",
+      "service": "plumbing",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "vernon",
+      "service": "electrical",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "vernon",
+      "service": "hvac",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "vernon",
+      "service": "roofing",
+      "activeEmailedMappedVendors": 12
+    },
+    {
+      "town": "vernon",
+      "service": "house-cleaning",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "vernon",
+      "service": "gutters",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "vernon",
+      "service": "pest-control",
+      "activeEmailedMappedVendors": 11
+    },
+    {
+      "town": "vernon",
+      "service": "junk-removal",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "vernon",
+      "service": "tree-services",
+      "activeEmailedMappedVendors": 10
+    },
+    {
+      "town": "vernon",
+      "service": "appliance-repair",
+      "activeEmailedMappedVendors": 11
+    }
+  ]
+}

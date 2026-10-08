@@ -141,3 +141,11 @@ Bayonne, East Newark, Guttenberg, Harrison, Kearny, North Bergen, Secaucus, Unio
 ## Batch 17: ready for publication
 
 Andover Borough, Andover Township, Branchville, Byram, Frankford, Franklin Borough, Fredon, Green Township, Hamburg and Hampton Township. Brand positioning ideas approved all ten. Official sources support precise distinctions in jurisdiction, inspection access, records and fill sourcing. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
+
+## Batch 17: published and verified
+
+2026-10-08: PR #66 merged (606d991). Ten guarded updates applied; 10/10 live checks passed with zero errors. Sitemap: 286 URLs. One hundred seventy completed; 32 remain.
+
+## Batch 18: ready for publication
+
+Hardyston, Hopatcong, Lafayette, Montague, Ogdensburg, Sandyston, Stanhope, Stillwater, Sussex Borough and Vernon. Brand positioning ideas approved all ten. Hopatcong verified in live browser; all source claims remain narrow, including Montague worksheet existence and Vernon chimney guidance. All 160 combinations retain at least ten active emailed mapped vendors. Tests, lint, typecheck and Next build passed.
