@@ -1,1 +1,28 @@
-.directory{margin:3rem 0;min-width:0}.directory h2{font-size:clamp(1.5rem,3vw,2.1rem);line-height:1.2}.directory>p{max-width:65ch;line-height:1.6}.search{display:grid;gap:.5rem;font-weight:600;max-width:34rem;margin:1.5rem 0 .6rem}.search input{width:100%;min-width:0;box-sizing:border-box;font:inherit;padding:.85rem 1rem;border:1px solid #b7c4bb;border-radius:8px;background:#fff;color:#183c2d}.search input:focus-visible{outline:3px solid #698976;outline-offset:2px}.count{color:#52665a;font-size:.9rem}.county{margin-top:2rem}.county h3{font-size:1.15rem;border-bottom:1px solid #d8e0d9;padding-bottom:.7rem}.towns{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,210px),1fr));gap:.65rem;list-style:none;padding:0;margin:0}.towns li{min-width:0;border:1px solid #d8e0d9;border-radius:8px;background:#fff;overflow-wrap:anywhere}.request{display:flex;flex-direction:column;gap:.4rem;padding:.85rem 1rem;text-decoration:none;font-weight:600;color:#183c2d;min-height:44px}.request:hover{background:#edf2eb}.request span{font-size:.76rem;font-weight:400;color:#52665a}.guide{display:block;padding:0 1rem .85rem;font-size:.8rem;color:#335e45}.request:focus-visible,.guide:focus-visible{outline:3px solid #698976;outline-offset:2px}@media(max-width:480px){.towns{grid-template-columns:1fr}.directory{margin:2rem 0}}
+.directory { margin:var(--space-5) 0; min-width:0; scroll-margin-top:6rem; }
+.directory h2 { font-size:var(--text-h3); margin-bottom:var(--space-4); }
+.search { display:grid; gap:.5rem; font-weight:600; max-width:42rem; }
+.search input { width:100%; min-width:0; box-sizing:border-box; font:inherit; padding:1rem; border:1px solid var(--color-line); border-radius:var(--radius-sm); background:var(--color-surface); color:var(--color-ink); }
+.search input:focus-visible,.town:focus-visible,.county summary:focus-visible { outline:3px solid var(--color-accent); outline-offset:3px; }
+.searchMeta { display:flex; align-items:center; justify-content:space-between; gap:1rem; min-height:52px; max-width:42rem; font-size:var(--text-small); color:var(--color-ink-soft); }
+.searchMeta button { background:none; border:0; color:var(--color-accent); font:inherit; text-decoration:underline; min-height:44px; cursor:pointer; flex-shrink:0; }
+.counties { display:grid; gap:var(--space-3); }
+.county { border:1px solid var(--color-line); border-radius:var(--radius-md); background:var(--color-surface); }
+.county summary { cursor:pointer; padding:var(--space-4) var(--space-5); font-weight:650; min-height:56px; }
+.county summary > span { display:inline-flex; justify-content:space-between; gap:1rem; width:calc(100% - 1.5rem); vertical-align:middle; }
+.county summary small { font-weight:400; color:var(--color-ink-soft); white-space:nowrap; }
+.county[open] summary { border-bottom:1px solid var(--color-line); }
+.countyBody { padding:var(--space-4); }
+.countyGuide { display:inline-flex; align-items:center; gap:.5rem; min-height:44px; margin-bottom:var(--space-3); }
+.towns { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:var(--space-3); list-style:none; margin:0; padding:0; }
+.towns li { min-width:0; }
+.town { display:flex; align-items:center; justify-content:space-between; gap:var(--space-3); height:100%; padding:var(--space-4); border:1px solid var(--color-line); border-radius:var(--radius-sm); background:var(--color-surface); color:var(--color-ink); text-decoration:none; }
+.town:hover { background:var(--color-accent-soft); border-color:var(--color-accent); }
+.town span { min-width:0; overflow-wrap:anywhere; }
+.town strong { display:block; font-weight:650; }
+.town small { display:block; margin-top:.3rem; font-size:.8rem; color:var(--color-ink-soft); }
+.town svg { flex-shrink:0; color:var(--color-accent); }
+.empty { padding:var(--space-5); border:1px solid var(--color-line); border-radius:var(--radius-md); }
+.empty p { margin:var(--space-3) 0; }
+.empty a { display:inline-flex; align-items:center; gap:.5rem; min-height:44px; }
+@media(max-width:900px) { .towns { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:550px) { .towns { grid-template-columns:1fr; } .county summary { padding:var(--space-4); } .countyBody { padding:var(--space-3); } }
