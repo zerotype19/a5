@@ -51,12 +51,14 @@ function ContentLinks({ links }: { links: ContentLink[] | undefined }) {
 
 type Props = {
   page: PublicContentPage;
+  sectionRange?: readonly [start: number, end?: number];
+  includeAnswer?: boolean;
 };
 
-export function AuthoritySections({ page }: Props) {
+export function AuthoritySections({ page, sectionRange, includeAnswer = true }: Props) {
   return (
     <div className={styles.stack}>
-      {page.primary_question && page.direct_answer ? (
+      {includeAnswer && page.primary_question && page.direct_answer ? (
         <section className={styles.directAnswer} aria-labelledby="direct-answer-heading">
           <h2 id="direct-answer-heading" className={styles.question}>
             {page.primary_question}
@@ -66,6 +68,7 @@ export function AuthoritySections({ page }: Props) {
       ) : null}
 
       {page.sections.map((section, index) => (
+        sectionRange && (index < sectionRange[0] || (sectionRange[1] !== undefined && index >= sectionRange[1])) ? null :
         section.type === "DIRECT_ANSWER" && page.primary_question && page.direct_answer ? null :
         <div key={`${section.type}-${index}`} id={sectionHeading(section) ? `section-${index + 1}` : undefined}>
           <SectionBlock section={section} page={page} />

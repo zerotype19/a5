@@ -1,0 +1,18 @@
+{
+  "status": "APPROVED",
+  "reviewedAt": "2026-10-09T14:40:59.122Z",
+  "sha256": "07e812d9356a8f09196843e4d3da0904967a9b56a93e8fcf8650bd5848c931f9",
+  "reviewedPages": 227,
+  "batches": [
+    40,
+    40,
+    40,
+    40,
+    40,
+    27
+  ],
+  "reviewer": "Brand positioning ideas",
+  "conversationId": "6ac6fa2a-e568-83ea-8655-184d336525f6",
+  "requiredCorrectionsApplied": true,
+  "editorialReviewClosed": true
+}
