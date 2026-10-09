@@ -1,0 +1,22 @@
+.page { padding-top:var(--space-7); }
+.hero { display:grid; grid-template-columns:minmax(0,1.2fr) minmax(0,1fr); gap:var(--space-7); align-items:center; margin-bottom:var(--space-8); }
+.hero header { margin-bottom:var(--space-5); }
+.hero img { width:100%; height:auto; border-radius:var(--radius-md); aspect-ratio:1; object-fit:cover; }
+.actions { display:flex; align-items:center; flex-wrap:wrap; gap:var(--space-4); }
+.actions > a { min-height:44px; display:inline-flex; align-items:center; }
+.section { margin-top:var(--space-8); }
+.section > h2 { font-family:var(--font-display); font-size:var(--text-h2); font-weight:500; margin-bottom:var(--space-5); }
+.grid,.steps { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:var(--space-5); list-style:none; margin:0; padding:0; }
+.card { border:1px solid var(--color-line); border-radius:var(--radius-md); padding:var(--space-6); background:var(--color-surface); min-width:0; }
+.card h2,.card h3 { font-size:var(--text-h3); margin-bottom:var(--space-3); }
+.card p { color:var(--color-ink-soft); line-height:1.7; }
+.card p + p { margin-top:var(--space-3); }
+.number { display:inline-flex; align-items:center; justify-content:center; width:40px; height:40px; border-radius:50%; color:#fff; background:var(--color-accent); font-weight:700; margin-bottom:var(--space-4); }
+.note { color:var(--color-ink-soft); max-width:70ch; margin-top:var(--space-5); }
+.faq { border-bottom:1px solid var(--color-line); }
+.faq summary { padding:var(--space-4) 0; cursor:pointer; font-weight:650; min-height:48px; }
+.faq p { max-width:70ch; color:var(--color-ink-soft); line-height:1.7; padding-bottom:var(--space-5); }
+.cta { margin-top:var(--space-8); padding:var(--space-7); background:var(--color-accent-soft); border-radius:var(--radius-md); }
+.cta h2 { font-family:var(--font-display); font-size:var(--text-h2); font-weight:500; margin-bottom:var(--space-3); }
+.cta p { max-width:65ch; color:var(--color-ink-soft); margin-bottom:var(--space-5); }
+@media(max-width:750px) { .hero,.grid,.steps { grid-template-columns:1fr; }.hero { gap:var(--space-5); }.hero img { aspect-ratio:2/1; }.card,.cta { padding:var(--space-5); } }

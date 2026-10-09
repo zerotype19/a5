@@ -165,3 +165,5 @@
   .mobilePanel { position: absolute; top: 100%; inset-inline: 0; box-shadow: 0 12px 24px #20372e14; }
   .mobileNav { padding-inline: var(--gutter); }
 }
+
+.mobileLink[aria-current="page"] { color:var(--color-accent); background:var(--color-accent-soft); font-weight:700; }
