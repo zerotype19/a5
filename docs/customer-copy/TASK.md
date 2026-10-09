@@ -1,0 +1,7 @@
+# Customer-first town copy correction
+
+Owner feedback October 9: town pages read like explanations of construction offices rather than help for potential customers. Owner approved a corrective copy pass before further indexing. Existing release authorization persists. Review all 227 existing LOCATION records (226 municipalities and the legacy Chatham hub); preserve IDs, URLs, titles/H1s, indexability, relationships and all 16 service/intake options. No new pages, geography, services, schema, dependencies, tracking, vendor changes, outreach or spending.
+
+Lead with jobs a homeowner wants completed, plain request preparation and what A5 does next. Use existing individually authored project examples as editorial inputs, remove bureaucratic filler, do not invent housing facts or local demand, and do not synonym-spin shared A5 explanations. Relevant official resources remain secondary; source links are not evidence of vendor quality. Existing short local context can stay only when it changes a customer's actual decision. Shared service-card descriptions must cover all 16 categories.
+
+This supersedes the prior municipal-procedure-led editorial emphasis, not the URL or quality architecture. Keep snapshot/manifest/digest/guarded receipts, review with Brand positioning ideas, validate all affected pages, and preserve vendor/routing data. Technical publication is not proof of Google indexing or spam-policy approval. Prior rollout evidence is historical after this corrective release.

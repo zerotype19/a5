@@ -29,6 +29,7 @@ type Props = {
 };
 
 export function AuthorityPage({ page, children, discoveryPages }: Props) {
+  const townLocation = page.page_type === "LOCATION" ? page.primary_location_id : null;
   const outline = buildPageOutline(page);
   const kinds: Record<string, string> = { LOCATION: "In your neighborhood", PROBLEM: "Start with what you see", GUIDE: "Homeowner guide", COST_GUIDE: "Planning your project", COMPARISON: "Know your options", PROJECT: "Project story", CORE: "About A5" };
   const path =
@@ -98,13 +99,20 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
         ) : <>
           <PageIntro eyebrow={page.page_type === "CORE" && getCountyBySlug(page.slug) ? "North Jersey home services" : kinds[page.page_type]} title={page.h1} />
           {page.page_type === "CORE" && getCountyBySlug(page.slug) && <p style={{marginBottom:"2rem"}}><a href="#municipalities">Find your municipality and request service</a></p>}
-          {page.created_by === "a5-municipal-directory-2026-10" && page.primary_location_id && <TownServices locationId={page.primary_location_id} />}
+          {townLocation && <>
+            <div className={styles.townIntro}>
+              <p className={styles.networkIntro}>A5 helps homeowners connect with independent local professionals. Tell us what needs attention; we review your request and look for a suitable connection. You discuss the work, price and timing with the professional directly.</p>
+              <Button href={requestHref({location: townLocation})}>Request service <ArrowIcon /></Button>
+              <AuthoritySections page={page} sectionRange={[0, 1]} />
+            </div>
+            <TownServices locationId={townLocation} />
+          </>}
           <div className={styles.articleLayout}>
             <aside className={styles.articleAside}>
               {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}
               <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and offer an introduction to a relevant professional in the network.</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
             </aside>
-            <div className={styles.articleBody}><AuthoritySections page={page} />{children}</div>
+            <div className={styles.articleBody}><AuthoritySections page={page} sectionRange={townLocation ? [1] : undefined} includeAnswer={!townLocation} />{children}</div>
           </div>
         </>}
 

@@ -11,6 +11,9 @@
 .helpCard p { font-size: var(--text-small); margin: var(--space-3) 0 var(--space-4); color: var(--color-ink-soft); }
 .helpCard a { padding-inline: 1rem; }
 .articleBody { min-width: 0; }
+.townIntro { max-width: var(--width-editorial); margin-bottom: var(--space-8); }
+.networkIntro { color: var(--color-ink-soft); margin-bottom: var(--space-4); }
+.townIntro > a { margin-bottom: var(--space-7); }
 @media (max-width: 850px) {
   .articleLayout { grid-template-columns: minmax(0, 1fr); gap: var(--space-6); max-width: var(--width-editorial); }
   .articleAside { position: static; }

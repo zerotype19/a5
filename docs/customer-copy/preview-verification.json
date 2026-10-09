@@ -1,0 +1,1145 @@
+{
+  "checkedAt": "2026-10-09T14:40:12.489Z",
+  "sha256": "07e812d9356a8f09196843e4d3da0904967a9b56a93e8fcf8650bd5848c931f9",
+  "origin": "http://localhost:43123",
+  "count": 227,
+  "sitemapCount": null,
+  "errors": [],
+  "rows": [
+    {
+      "path": "/authority-preview/allamuchy",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/allendale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/alpha",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/alpine",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/andover-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/andover-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/bayonne",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/belleville",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/belvidere",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/bergenfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/berkeley-heights",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/blairstown",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/bloomfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/bloomingdale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/bogota",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/boonton",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/boonton-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/branchville",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/butler",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/byram",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/caldwell",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/carlstadt",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/cedar-grove",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/chatham",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/chatham-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/chatham-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/chester-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/chester-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/clark",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/cliffside-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/clifton",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/closter",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/cranford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/cresskill",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/demarest",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/denville",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/dover",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/dumont",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/east-hanover",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/east-newark",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/east-orange",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/east-rutherford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/edgewater",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/elizabeth",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/elmwood-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/emerson",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/englewood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/englewood-cliffs",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/essex-fells",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/fair-lawn",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/fairfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/fairview",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/fanwood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/florham-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/fort-lee",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/frankford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/franklin-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/franklin-lakes",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/franklin-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/fredon",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/frelinghuysen",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/garfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/garwood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/glen-ridge",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/glen-rock",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/green-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/greenwich-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/guttenberg",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hackensack",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hackettstown",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/haledon",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hamburg",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hampton-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hanover-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/harding",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hardwick",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hardyston",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/harmony",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/harrington-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/harrison",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hasbrouck-heights",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/haworth",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hawthorne",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hillsdale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hillside",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ho-ho-kus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hoboken",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hopatcong",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/hope",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/independence",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/irvington",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/jefferson-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/jersey-city",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/kearny",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/kenilworth",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/kinnelon",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/knowlton",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/lafayette",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/leonia",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/liberty-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/lincoln-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/linden",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/little-falls",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/little-ferry",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/livingston",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/lodi",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/long-hill-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/lopatcong",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/lyndhurst",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/madison",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mahwah",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mansfield-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/maplewood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/maywood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mendham-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mendham-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/midland-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/millburn",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mine-hill",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/montague",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/montclair",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/montvale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/montville",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/moonachie",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/morris-plains",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/morris-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/morristown",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mount-arlington",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mount-olive",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mountain-lakes",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/mountainside",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/netcong",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/new-milford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/new-providence",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/newark",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/newton",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/north-arlington",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/north-bergen",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/north-caldwell",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/north-haledon",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/northvale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/norwood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/nutley",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/oakland",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ogdensburg",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/old-tappan",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/oradell",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/orange",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/oxford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/palisades-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/paramus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/park-ridge",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/parsippany-troy-hills",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/passaic",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/paterson",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/pequannock",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/phillipsburg",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/plainfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/pohatcong",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/pompton-lakes",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/prospect-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/rahway",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ramsey",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/randolph",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ridgefield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ridgefield-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ridgewood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/ringwood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/river-edge",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/river-vale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/riverdale",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/rochelle-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/rockaway-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/rockaway-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/rockleigh",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/roseland",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/roselle",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/roselle-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/roxbury",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/rutherford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/saddle-brook",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/saddle-river",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/sandyston",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/scotch-plains",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/secaucus",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/south-hackensack",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/south-orange",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/sparta",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/springfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/stanhope",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/stillwater",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/summit",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/sussex",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/teaneck",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/tenafly",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/teterboro",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/totowa",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/union-city",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/union-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/upper-saddle-river",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/vernon",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/verona",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/victory-gardens",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/waldwick",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wallington",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/walpack",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wanaque",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wantage",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/washington-borough",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/washington-township-bergen",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/washington-township-morris",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/washington-township-warren",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wayne",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/weehawken",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/west-caldwell",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/west-milford",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/west-new-york",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/west-orange",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/westfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/westwood",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wharton",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/white-township",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/winfield",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wood-ridge",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/woodcliff-lake",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/woodland-park",
+      "status": 200,
+      "errors": []
+    },
+    {
+      "path": "/authority-preview/wyckoff",
+      "status": 200,
+      "errors": []
+    }
+  ]
+}
