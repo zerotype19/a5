@@ -32,3 +32,7 @@ Historical `docs/town-profiles` evidence describes the preceding release. Its co
 ## Search expectations
 
 The copy pass improves customer usefulness; it does not establish Google indexing, ranking or spam-policy approval. No robots, canonical, sitemap eligibility or URL changes are part of this release. Search Console observations and genuine customer response should guide later improvements. Google’s [people-first content guidance](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) and [spam policies](https://developers.google.com/search/docs/essentials/spam-policies) are the relevant standards; page count or AI authorship alone does not demonstrate compliance.
+
+## Released October 9, 2026
+
+Merged [PR 73](https://github.com/zerotype19/a5/pull/73), commit `1ccf42d`, and deployed Worker `d7ff7900-3fe4-4838-b69e-436473757a3d`. All 227 production town pages match the reviewed copy. The full crawl checked 319 URLs with zero errors, including all 318 sitemap entries; 18 browser/Googlebot metadata comparisons passed. Database reconciliation confirms source associations, relationships and all vendor tables are unchanged. Narrow mobile previews passed at 390px and 320px, and the Belvidere HVAC CTA correctly prefilled the live request form without submitting a lead. See `COMPLETION.json` for the release record. No new Search Console indexing measurement is claimed.

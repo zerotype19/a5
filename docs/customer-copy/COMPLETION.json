@@ -1,0 +1,55 @@
+{
+  "completedAt": "2026-10-09T14:45:35.984Z",
+  "status": "DEPLOYED_AND_VERIFIED",
+  "runtimeCommit": "1ccf42d",
+  "pullRequest": "https://github.com/zerotype19/a5/pull/73",
+  "workerVersion": "d7ff7900-3fe4-4838-b69e-436473757a3d",
+  "previousWorkerVersion": "d3299409-1597-43f6-9e36-953c6311d699",
+  "sha256": "07e812d9356a8f09196843e4d3da0904967a9b56a93e8fcf8650bd5848c931f9",
+  "locationPages": 227,
+  "fullRewrites": 221,
+  "lightCopyCleanup": 6,
+  "retainedLocalNotes": 34,
+  "servicesPerTown": 16,
+  "tests": 323,
+  "lint": "passed",
+  "typecheck": "passed",
+  "nextBuild": "passed",
+  "vinextBuild": "passed",
+  "ci": "passed",
+  "livePagesChecked": 227,
+  "livePageErrors": 0,
+  "sitemapUrls": 318,
+  "fullCrawlChecked": 319,
+  "fullCrawlErrors": 0,
+  "browserAndGooglebotMetadataChecks": 18,
+  "metadataErrors": 0,
+  "mobileChecks": [
+    {
+      "width": 390,
+      "page": "belvidere",
+      "overflow": false,
+      "serviceCtas": 16,
+      "duplicateIds": false,
+      "intakePrefill": "Heating & Cooling; Belvidere, Warren County; no submission"
+    },
+    {
+      "width": 320,
+      "page": "washington-township-warren",
+      "overflow": false,
+      "serviceCtas": 16
+    }
+  ],
+  "unchanged": {
+    "sources": true,
+    "content_sources": true,
+    "content_relationships": true,
+    "vendors": true,
+    "vendor_services": true,
+    "vendor_locations": true
+  },
+  "migrations": 0,
+  "newDependencies": 0,
+  "newPages": 0,
+  "searchConsoleIndexingMeasured": false
+}
