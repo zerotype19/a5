@@ -11,10 +11,13 @@
 .helpCard p { font-size: var(--text-small); margin: var(--space-3) 0 var(--space-4); color: var(--color-ink-soft); }
 .helpCard a { padding-inline: 1rem; }
 .articleBody { min-width: 0; }
-.townIntro { max-width: var(--width-editorial); margin-bottom: var(--space-8); }
+.townIntro { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: var(--space-8); align-items: start; margin-bottom: var(--space-8); }
+.townIntro > div { min-width: 0; }
 .networkIntro { color: var(--color-ink-soft); margin-bottom: var(--space-4); }
-.townIntro > a { margin-bottom: var(--space-7); }
+.townProjects { margin-bottom: var(--space-8); }
+.townDetails { border-top: 1px solid var(--color-line); padding-top: var(--space-8); }
 @media (max-width: 850px) {
+  .townIntro { grid-template-columns: minmax(0, 1fr); gap: var(--space-6); }
   .articleLayout { grid-template-columns: minmax(0, 1fr); gap: var(--space-6); max-width: var(--width-editorial); }
   .articleAside { position: static; }
   .articleAside nav { padding: var(--space-4); border: 1px solid var(--color-line); border-radius: var(--radius-md); }
