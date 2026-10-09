@@ -53,11 +53,12 @@ type Props = {
   page: PublicContentPage;
   sectionRange?: readonly [start: number, end?: number];
   includeAnswer?: boolean;
+  layout?: "townProjects" | "townDetails" | "townAnswer";
 };
 
-export function AuthoritySections({ page, sectionRange, includeAnswer = true }: Props) {
+export function AuthoritySections({ page, sectionRange, includeAnswer = true, layout }: Props) {
   return (
-    <div className={styles.stack}>
+    <div className={[styles.stack, layout ? styles[layout] : ""].filter(Boolean).join(" ")}>
       {includeAnswer && page.primary_question && page.direct_answer ? (
         <section className={styles.directAnswer} aria-labelledby="direct-answer-heading">
           <h2 id="direct-answer-heading" className={styles.question}>
@@ -70,7 +71,7 @@ export function AuthoritySections({ page, sectionRange, includeAnswer = true }: 
       {page.sections.map((section, index) => (
         sectionRange && (index < sectionRange[0] || (sectionRange[1] !== undefined && index >= sectionRange[1])) ? null :
         section.type === "DIRECT_ANSWER" && page.primary_question && page.direct_answer ? null :
-        <div key={`${section.type}-${index}`} id={sectionHeading(section) ? `section-${index + 1}` : undefined}>
+        <div key={`${section.type}-${index}`} data-section-type={section.type} id={sectionHeading(section) ? `section-${index + 1}` : undefined}>
           <SectionBlock section={section} page={page} />
         </div>
       ))}

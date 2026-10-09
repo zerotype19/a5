@@ -101,18 +101,21 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
           {page.page_type === "CORE" && getCountyBySlug(page.slug) && <p style={{marginBottom:"2rem"}}><a href="#municipalities">Find your municipality and request service</a></p>}
           {townLocation && <>
             <div className={styles.townIntro}>
+              <div>
               <p className={styles.networkIntro}>A5 helps homeowners connect with independent local professionals. Tell us what needs attention; we review your request and look for a suitable connection. You discuss the work, price and timing with the professional directly.</p>
               <Button href={requestHref({location: townLocation})}>Request service <ArrowIcon /></Button>
-              <AuthoritySections page={page} sectionRange={[0, 1]} />
+              </div>
+              <AuthoritySections page={page} sectionRange={[0, 0]} layout="townAnswer" />
             </div>
+            <div className={styles.townProjects}><AuthoritySections page={page} sectionRange={[0, 1]} includeAnswer={false} layout="townProjects" /></div>
             <TownServices locationId={townLocation} />
           </>}
-          <div className={styles.articleLayout}>
-            <aside className={styles.articleAside}>
+          <div className={townLocation ? styles.townDetails : styles.articleLayout}>
+            {!townLocation && <aside className={styles.articleAside}>
               {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}
               <div className={styles.helpCard}><h2>Ready to get started?</h2><p>Share your project details. A5 will review your request and offer an introduction to a relevant professional in the network.</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
-            </aside>
-            <div className={styles.articleBody}><AuthoritySections page={page} sectionRange={townLocation ? [1] : undefined} includeAnswer={!townLocation} />{children}</div>
+            </aside>}
+            <div className={styles.articleBody}><AuthoritySections page={page} sectionRange={townLocation ? [1] : undefined} includeAnswer={!townLocation} layout={townLocation ? "townDetails" : undefined} />{children}</div>
           </div>
         </>}
 
