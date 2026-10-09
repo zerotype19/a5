@@ -26,7 +26,7 @@ export function Footer() {
       </ul></nav>
       <nav aria-label="Footer resources"><h2 className={styles.heading}>About A5</h2><ul className={styles.list}>
         <li><Link href="/services">All services</Link></li><li><Link href="/home-services">All service areas</Link></li><li><Link href="/about">About A5</Link></li>
-        <li><Link href="/#how-it-works">How it works</Link></li>
+        <li><Link href="/how-it-works">How it works</Link></li>
         <li><Link href="/guides">Homeowner guides</Link></li>
         <li><Link href="/request-service" prefetch={false}>Request service</Link></li>
         <li><Link href="/vendors/join">Join as a vendor</Link></li>

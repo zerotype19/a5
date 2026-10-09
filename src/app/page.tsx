@@ -35,7 +35,7 @@ export default function HomePage() {
    <Link className={styles.unsure} href="/request-service" prefetch={false}><strong>Not sure who to call?</strong><span>Describe the project. We’ll help identify the right service.</span><span aria-hidden="true"><ArrowIcon direction="up-right" /></span></Link>
   </section>
   <section className={styles.problemSection}><div className={styles.section}><p className={styles.eyebrow}>Start with what you see.</p><h2>Find help for a specific problem.</h2><div className={styles.problemLinks}>{PROBLEMS.map(p=><Link key={p.href} href={p.href}>{p.label} <ArrowIcon direction="up-right" /></Link>)}</div></div></section>
-  <section id="how-it-works" className={styles.process}><div className={styles.section}><div className={styles.sectionHead}><div><p className={styles.eyebrow}>A simpler process</p><h2>A local connection. A clear next step.</h2></div><Link href="/about">How A5 works <ArrowIcon /></Link></div><ol className={styles.steps}>{[
+  <section id="how-it-works" className={styles.process}><div className={styles.section}><div className={styles.sectionHead}><div><p className={styles.eyebrow}>A simpler process</p><h2>A local connection. A clear next step.</h2></div><Link href="/how-it-works">How A5 works <ArrowIcon /></Link></div><ol className={styles.steps}>{[
    ['Request a service','Describe the project, share your ZIP code, and add photos if they help. A short explanation is enough.'],
    ['We make the introduction','A5 reviews the service and location, then offers the opportunity to a relevant professional in the network.'],
    ['Talk through the project','After a professional accepts the introduction, they can view your request and contact details. Discuss scope, price and timing directly with them.'],

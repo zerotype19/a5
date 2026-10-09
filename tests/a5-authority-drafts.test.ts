@@ -388,7 +388,7 @@ describe("authority drafts — quality gate, not a page-count ceiling", () => {
     const core = CORE_SITEMAP_ROUTES.length;
     const hubs = SERVICES.length;
     const tranche = PROBLEM_PAGE_DRAFTS.length;
-    assert.equal(core, 6);
+    assert.equal(core, 7); // Includes the owner-approved How It Works route.
     assert.equal(hubs, 8);
     assert.equal(tranche, 14);
     assert.equal(Object.keys(G002_PROBLEM_SERVICE_LINKS).length, 42);

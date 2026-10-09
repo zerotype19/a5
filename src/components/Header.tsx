@@ -11,7 +11,7 @@ import styles from "./Header.module.css";
 const NAV = [
   { href: "/services", label: "Services" },
   { href: "/home-services", label: "Areas" },
-  { href: "/#how-it-works", label: "How It Works" },
+  { href: "/how-it-works", label: "How It Works" },
   { href: "/about", label: "About A5" },
 ] as const;
 
@@ -81,6 +81,7 @@ export function Header() {
             <a
               key={item.href}
               className={styles.mobileLink}
+              aria-current={pathname === item.href ? "page" : undefined}
               href={item.href}
               onClick={close}
             >
