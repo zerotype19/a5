@@ -25,3 +25,11 @@
   .articleAside li a { padding: .4rem 0; }
   .helpCard { display: none; }
 }
+
+.mobileContents { display: none; }
+@media (max-width: 850px) {
+  .main[data-kind="COST_GUIDE"] .articleAside > nav { display: none; }
+  .mobileContents { display: block; border: 1px solid var(--color-line); border-radius: var(--radius-md); padding: var(--space-4); }
+  .mobileContents summary { cursor: pointer; font-weight: 650; }
+  .mobileContents nav { border: 0; padding: 0; }
+}

@@ -1,0 +1,601 @@
+{
+  "status": "DRAFT_RESEARCH",
+  "reviewed_at": "2026-10-11",
+  "not_published": true,
+  "methodology": "One initial national source per category, plus separate local observations. Not a statistical sample, quote, market average or A5 price list. No inflation or NJ multiplier applied. Search-title years do not replace displayed editorial dates.",
+  "categories": [
+    {
+      "service_id": "handyman",
+      "service_name": "Handyman",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/handyman-cost",
+      "working_title": "Handyman costs: what affects your estimate",
+      "source_observation": {
+        "range": "50\u2013150",
+        "unit": "USD per labor hour",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "Angi",
+        "url": "https://www.angi.com/articles/what-are-common-handyman-prices.htm",
+        "displayed_editorial_date": "2026-09-23",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Door adjustments",
+        "shelves",
+        "a bundled repair list"
+      ],
+      "draft_intro": "Hourly labor is only part of a small-job quote. Ask about the visit minimum and whether parts, shopping time and cleanup are included.",
+      "faqs": [
+        {
+          "question": "Can I combine several small repairs into one visit?",
+          "answer": "Give the professional the full list in advance and ask for a combined estimate. Confirm which tasks they can undertake and whether specialist work needs a separate trade."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "masonry",
+      "service_name": "Masonry",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/masonry-cost",
+      "working_title": "Masonry costs: what affects your estimate",
+      "source_observation": {
+        "range": "500\u20132,500",
+        "unit": "USD per brick repair project",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/repair-brick-masonry-work-cost",
+        "displayed_editorial_date": "2026-02-09",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Mortar repair",
+        "loose brick steps",
+        "localized brick replacement"
+      ],
+      "draft_intro": "A masonry estimate needs a defined repair area and method. Repointing mortar, replacing damaged bricks and rebuilding steps are different scopes.",
+      "faqs": [
+        {
+          "question": "Does a masonry repair quote include fixing the cause?",
+          "answer": "Ask whether the price covers only the visible damage or also assessment and correction of the underlying issue. Request separate scope for demolition, materials and debris removal."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "landscaping",
+      "service_name": "Landscaping",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/landscaping-cost",
+      "working_title": "Landscaping costs: what affects your estimate",
+      "source_observation": {
+        "range": "50\u2013100",
+        "unit": "USD per hour for a two-person crew",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/landscaping-costs",
+        "displayed_editorial_date": "2026-02-04",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Seasonal cleanup",
+        "bed refresh",
+        "planting"
+      ],
+      "draft_intro": "Check whether an hourly rate is for one worker or a whole crew. Plants, mulch, delivery and hauling should be identified separately from labor.",
+      "faqs": [
+        {
+          "question": "Why is a yard cleanup different from regular maintenance?",
+          "answer": "A cleanup may include accumulated debris, overgrowth and disposal. Ask for a list of included tasks and compare that with the scope and frequency of recurring visits."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "painting",
+      "service_name": "Painting",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/painting-cost",
+      "working_title": "Painting costs: what affects your estimate",
+      "source_observation": {
+        "range": "300\u20131,000",
+        "unit": "USD per room; scope varies",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/cost-to-paint-a-room",
+        "displayed_editorial_date": "2026-02-06",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "One room",
+        "trim",
+        "exterior touch-ups"
+      ],
+      "draft_intro": "Room size alone does not define a paint job. Compare surface preparation, coats, paint products and whether ceilings, trim and doors are included.",
+      "faqs": [
+        {
+          "question": "Does a room price include wall repairs and trim?",
+          "answer": "Ask for those items to be listed. A walls-only repaint is a different job from repairing damaged surfaces and painting ceilings, doors and trim."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "drywall",
+      "service_name": "Drywall",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/drywall-cost",
+      "working_title": "Drywall costs: what affects your estimate",
+      "source_observation": {
+        "range": "300\u2013500",
+        "unit": "USD for a small hole under four inches",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/drywall-repair-cost",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Small patch",
+        "ceiling repair",
+        "multiple damaged areas"
+      ],
+      "draft_intro": "Small drywall repairs can still involve setup, finishing and repeat visits. Confirm the finish level and whether priming and painting are included.",
+      "faqs": [
+        {
+          "question": "Will the repaired area be ready to paint?",
+          "answer": "Ask whether the estimate ends at patching, sanding, priming or a painted finish. If there was a leak, explain whether its cause has already been addressed."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "tile",
+      "service_name": "Tile",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/tile-cost",
+      "working_title": "Tile costs: what affects your estimate",
+      "source_observation": {
+        "range": "10\u201350",
+        "unit": "USD per square foot installed; materials and labor",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/tile-installation-cost",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Small tile replacement",
+        "grout work",
+        "backsplash"
+      ],
+      "draft_intro": "An installed tile rate should identify the tile and substrate assumptions. Removal, leveling, waterproofing and hidden damage can change the scope.",
+      "faqs": [
+        {
+          "question": "Can grout repair fix a leaking shower?",
+          "answer": "A surface repair is not a diagnosis of a leak. Ask the professional to identify the cause before agreeing to grout-only work or a larger repair."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "plumbing",
+      "service_name": "Plumbing",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/plumbing-cost",
+      "working_title": "Plumbing costs: what affects your estimate",
+      "source_observation": {
+        "range": "45\u2013150",
+        "unit": "USD per labor hour; national published reference",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/average-plumbing-estimates/",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Running toilet",
+        "faucet",
+        "diagnosis of a leak"
+      ],
+      "draft_intro": "Compare the whole proposed job, not just the hourly rate. Ask what the diagnostic visit costs, whether it is credited and how parts and additional work are approved.",
+      "faqs": [
+        {
+          "question": "Is $235 an hour the average plumbing rate in New Jersey?",
+          "answer": "We have not verified that as a statewide average. A quoted amount may describe hourly labor, a minimum visit, after-hours work or an effective rate for a fixed-price repair. Ask what the figure includes before comparing it."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "electrical",
+      "service_name": "Electrical",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/electrical-cost",
+      "working_title": "Electrical costs: what affects your estimate",
+      "source_observation": {
+        "range": "50\u2013130",
+        "unit": "USD per labor hour",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/electrician-cost-per-hour",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Outlet diagnosis",
+        "light fixture",
+        "ceiling fan"
+      ],
+      "draft_intro": "Troubleshooting and a straightforward fixture replacement are different jobs. Ask about the visit minimum, diagnostic time, parts and any follow-up work.",
+      "faqs": [
+        {
+          "question": "Can I get a fixed price for an outlet that stopped working?",
+          "answer": "You can ask, but the cause may need diagnosis first. Confirm the diagnostic charge and require approval of a repair price before additional work begins."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "hvac",
+      "service_name": "Heating & Cooling",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/hvac-cost",
+      "working_title": "Heating & Cooling costs: what affects your estimate",
+      "source_observation": {
+        "range": "150\u2013450",
+        "unit": "USD for common HVAC repair; excludes replacement systems",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/hvac-repair-cost",
+        "displayed_editorial_date": "2025-07-31",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Diagnostic visit",
+        "common repair",
+        "seasonal maintenance"
+      ],
+      "draft_intro": "Separate diagnosis, maintenance and repair when comparing HVAC prices. A tune-up offer does not tell you what an unknown fault will cost to fix.",
+      "faqs": [
+        {
+          "question": "Does the diagnostic fee count toward the repair?",
+          "answer": "Ask the company before booking. Have it confirm whether the charge is separate, credited in full, or credited only for certain repairs."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "roofing",
+      "service_name": "Roofing",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/roofing-cost",
+      "working_title": "Roofing costs: what affects your estimate",
+      "source_observation": {
+        "range": "150\u20131,000",
+        "unit": "USD for minor roof repair",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/roof-repair-cost",
+        "displayed_editorial_date": "2026-02-09",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Missing shingles",
+        "small leak",
+        "flashing repair"
+      ],
+      "draft_intro": "Ask the roofer to distinguish the source of the leak from the damage it caused. Roof access, materials and concealed damage belong in the estimate discussion.",
+      "faqs": [
+        {
+          "question": "Does a roof repair quote include the ceiling stain inside?",
+          "answer": "Do not assume it does. Ask which exterior repair, drying, interior repair and painting tasks are included and who handles each."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "house-cleaning",
+      "service_name": "House Cleaning",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/house-cleaning-cost",
+      "working_title": "House Cleaning costs: what affects your estimate",
+      "source_observation": {
+        "range": "25\u201375",
+        "unit": "USD per cleaner-hour",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/house-cleaning-prices",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Recurring clean",
+        "first deep clean",
+        "move-out"
+      ],
+      "draft_intro": "Check the number of cleaners and the cleaning checklist. A first deep clean, recurring visit and move-out clean should not be compared as the same service.",
+      "faqs": [
+        {
+          "question": "Are ovens, fridges and inside cabinets included?",
+          "answer": "Ask for an explicit checklist and add-on prices. Also confirm supplies, access arrangements and what needs to be cleared before the visit."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "gutters",
+      "service_name": "Gutter Services",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/gutters-cost",
+      "working_title": "Gutter Services costs: what affects your estimate",
+      "source_observation": {
+        "range": "100\u2013250",
+        "unit": "USD for a gutter-cleaning visit",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/gutter-cleaning-cost",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Cleaning",
+        "blocked downspout",
+        "minor repair"
+      ],
+      "draft_intro": "Distinguish cleaning from repairs or replacement. Ask whether downspouts, debris removal and a report of visible problems are included.",
+      "faqs": [
+        {
+          "question": "Is downspout clearing part of gutter cleaning?",
+          "answer": "Have the company confirm that in the scope. Describe the number of stories, gutter guards and any known blockages before it quotes."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "pest-control",
+      "service_name": "Pest Control",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/pest-control-cost",
+      "working_title": "Pest Control costs: what affects your estimate",
+      "source_observation": {
+        "range": "100\u2013600",
+        "unit": "USD for a one-time extermination visit",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/pest-control-prices",
+        "displayed_editorial_date": null,
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "One-time treatment",
+        "recurring plan",
+        "pest identification"
+      ],
+      "draft_intro": "Price depends on the pest and treatment plan. Separate the initial visit from recurring charges and ask what follow-up visits are included.",
+      "faqs": [
+        {
+          "question": "Does a low monthly rate include the first treatment?",
+          "answer": "Ask for the initial charge, visit frequency, covered pests, cancellation terms and any separate exclusion or repair work before choosing a plan."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "junk-removal",
+      "service_name": "Junk Removal",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/junk-removal-cost",
+      "working_title": "Junk Removal costs: what affects your estimate",
+      "source_observation": {
+        "range": "150\u2013350",
+        "unit": "USD per typical removal job; source reports wider extremes",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/junk-removal-prices",
+        "displayed_editorial_date": "2024-05-24",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "One bulky item",
+        "partial load",
+        "cleanout"
+      ],
+      "draft_intro": "Describe the load and the route out of the property. Ask whether the quote includes carrying, stairs, disassembly and disposal fees.",
+      "faqs": [
+        {
+          "question": "Can I compare prices by truckload?",
+          "answer": "Only if the truck capacity and load allowance are comparable. Share an item list and photos, and ask about excluded materials and surcharges."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "tree-services",
+      "service_name": "Tree Services",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/tree-services-cost",
+      "working_title": "Tree Services costs: what affects your estimate",
+      "source_observation": {
+        "range": "400\u2013900",
+        "unit": "USD per tree trimmed; not tree removal",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/tree-trimming-cost",
+        "displayed_editorial_date": "2026-01-13",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Pruning",
+        "access constraints",
+        "debris removal"
+      ],
+      "draft_intro": "Tree size, condition and access matter more than a generic hourly price. Specify whether you need pruning, removal or stump work.",
+      "faqs": [
+        {
+          "question": "Does tree removal include the stump and cleanup?",
+          "answer": "Ask for each separately in the estimate. Confirm whether branches, logs, chips and stump grinding are included before comparing totals."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    },
+    {
+      "service_id": "appliance-repair",
+      "service_name": "Appliance Repair",
+      "status": "DRAFT",
+      "indexable": false,
+      "proposed_path": "/cost-guides/appliance-repair-cost",
+      "working_title": "Appliance Repair costs: what affects your estimate",
+      "source_observation": {
+        "range": "100\u2013400",
+        "unit": "USD per repair; parts and complexity vary",
+        "currency": "USD",
+        "geography": "National reference; not verified as a New Jersey market range",
+        "publisher": "HomeGuide",
+        "url": "https://homeguide.com/costs/appliance-repair-costs",
+        "displayed_editorial_date": "2025-07-14",
+        "accessed_at": "2026-10-11",
+        "use": "Research reference only; confirm scope and corroborate before final publication"
+      },
+      "example_scopes": [
+        "Diagnostic visit",
+        "washer repair",
+        "refrigerator fault"
+      ],
+      "draft_intro": "Have the model number, age and symptoms ready. Compare diagnostic charges, parts, labor and return visits rather than assuming every appliance has one repair price.",
+      "faqs": [
+        {
+          "question": "Should I repair or replace an appliance?",
+          "answer": "Ask for the diagnosis and full repair estimate, then compare with a suitable replacement including delivery and installation. Consider the appliance\u2019s condition, warranty and parts availability; avoid a universal age or percentage rule."
+        }
+      ],
+      "remaining_validation": [
+        "Independent source corroboration for each featured job range",
+        "Specific inclusions/exclusions, minimums and labor/material basis",
+        "Local price evidence before claiming an NJ average or premium"
+      ]
+    }
+  ],
+  "local_observations": [
+    {
+      "url": "https://crest247.com/blog/how-much-does-a-plumber-charge-per-hour-in-nj",
+      "type": "NJ contractor-authored market commentary, not representative survey",
+      "observation": "States $100\u2013175/hour for standard residential work; not proof of statewide mean."
+    },
+    {
+      "url": "https://firstcallcontractingnj.com/blog-plumber-cost-nj",
+      "type": "NJ contractor-authored mixed-source guide",
+      "observation": "Separates standard residential $100\u2013175/hour, master plumber $150\u2013250/hour and service-call $75\u2013200. Method mixes own quotes, external guides and adjustments; do not adopt its market-wide claims."
+    },
+    {
+      "url": "https://www.thenewjerseymaid.com/updated-new-jersey-maid-service-industry-pricing",
+      "type": "Individual provider advertised prices",
+      "observation": "Advertises $59/hour with client supplies and $69/hour with provider supplies. Confirm worker count, minimums, discounts and service area before quoting as a comparison. Not an NJ average."
+    }
+  ]
+}

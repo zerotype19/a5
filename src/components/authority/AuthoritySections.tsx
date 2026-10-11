@@ -144,6 +144,10 @@ function SectionBlock({
       return (
         <section className={styles.quiet} aria-label="Sources">
           <h2 className={styles.heading}>{section.heading ?? "Sources"}</h2>
+          {page.page_type === "COST_GUIDE" && <>
+            <p className={styles.body}>{page.cost_methodology}</p>
+            <p className={styles.muted}>Last reviewed: {page.last_reviewed_at ? new Date(page.last_reviewed_at).toLocaleDateString("en-US", {year:"numeric", month:"long", day:"numeric", timeZone:"UTC"}) : "Not recorded"}. {page.cost_geography}</p>
+          </>}
           <ul className={styles.sourceList}>
             {page.sources.map((source) => (
               <li key={source.id}>
@@ -205,6 +209,21 @@ function SectionBlock({
           />
         </section>
       );
+    case "COST_ESTIMATES":
+      return <section className={styles.block} aria-label={section.heading}>
+        <h2 className={styles.heading}>{section.heading}</h2>
+        <p>Published planning references in US dollars. Your professional prices your actual job; these are not A5 offers.</p>
+        <ul className={styles.costExamples}>{section.rows.map(row => {
+          const source = page.sources.find(item => item.id === row.source_id);
+          return <li key={`${row.source_id}-${row.label}`}>
+            <p className={styles.costGeography}>{row.geography}</p>
+            <h3>{row.label}</h3>
+            <p className={styles.costAmount}>{row.amount} <span>{row.unit}</span></p>
+            <p>{row.basis}</p>
+            {source && <p className={styles.costSource}><a href={source.url} rel="noopener noreferrer">{source.title}</a></p>}
+          </li>;
+        })}</ul>
+      </section>;
     case "COST_FACTORS":
       return (
         <section className={styles.block}>

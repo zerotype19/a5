@@ -1,0 +1,49 @@
+{
+  "status": "DRAFT_EDITORIAL",
+  "indexable": false,
+  "reviewed_at": "2026-10-11",
+  "proposed_path": "/cost-guides/home-service-estimates-faq",
+  "editorial_note": "Original practical questions and suggested actions; no numerical rate claims. Review alongside existing process FAQ to avoid duplication. Not connected to the production content loader.",
+  "questions": [
+    {
+      "question": "How much should I budget for a home service?",
+      "answer": "Start with the job rather than an hourly rate. Describe the problem, approximate size, access and timing, then ask for an estimate that separates labor, materials and any visit charge. Published ranges can help you plan, but the professional needs your project details to price the work."
+    },
+    {
+      "question": "Why can a short repair have a minimum charge?",
+      "answer": "A visit may have a service-call or diagnostic charge even when the repair itself is quick. Before booking, ask what the minimum covers, how much time is included and whether that charge is credited toward an approved repair."
+    },
+    {
+      "question": "Is hourly pricing or a flat price better?",
+      "answer": "Compare the total scope and the rules for additional work. For an hourly job, ask about the minimum, number of workers and estimated hours. For a flat price, ask what is included and what could change it. Neither pricing format alone tells you which proposal offers better value."
+    },
+    {
+      "question": "Are materials included in the price?",
+      "answer": "Ask explicitly. Check who buys the materials, whether delivery and disposal are included, and whether your selected products fit the allowance. If you supply materials, confirm compatibility and responsibility for returns before the visit."
+    },
+    {
+      "question": "How do I compare estimates fairly?",
+      "answer": "Give each professional the same description and photos. Compare the work included, materials, preparation, cleanup, timing and payment schedule. Ask about exclusions and how unexpected conditions or extra work will be priced before choosing."
+    },
+    {
+      "question": "Can I combine small jobs to reduce the cost?",
+      "answer": "Send your full list before booking and ask for a combined estimate. A single visit may be more efficient, but confirm that the professional handles every task and whether any work requires a separate specialist."
+    },
+    {
+      "question": "What should I send to get a useful estimate?",
+      "answer": "Include your town, a clear description, approximate dimensions where relevant, a close-up photo and a wider view of the area. Mention access restrictions and your preferred timing. A professional may still need to inspect the job before confirming a price."
+    },
+    {
+      "question": "Does a diagnostic fee pay for the repair?",
+      "answer": "Do not assume it does. Ask whether the fee covers inspection only, includes any labor or is credited toward the repair. Confirm the proposed repair cost before authorizing additional work."
+    },
+    {
+      "question": "What happens if the work turns out to be more involved?",
+      "answer": "Ask the professional to explain the new findings and provide an updated scope and price before proceeding with additional work. Keeping that agreement in writing helps both sides understand what has changed."
+    },
+    {
+      "question": "Does A5 set the price or collect payment for the work?",
+      "answer": "A5 is a home services network that helps connect homeowners with independent local professionals. You discuss the scope, price, scheduling and payment directly with the professional. Our cost guides are planning references, not A5 quotes or a promise that a particular job will cost that amount."
+    }
+  ]
+}
