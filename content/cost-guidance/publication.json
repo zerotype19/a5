@@ -1,0 +1,2717 @@
+{
+  "reviewed_at": "2026-10-11T16:00:00.000Z",
+  "pages": [
+    {
+      "id": "2f3ddcbc-235e-53ee-8aa7-eda8359413c4",
+      "slug": "handyman-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Handyman costs and estimate guide",
+      "meta_title": "Handyman Costs: Plan & Compare Estimates",
+      "meta_description": "Plan handyman work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Handyman costs: plan your project",
+      "primary_service_id": "handyman",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for handyman?",
+      "direct_answer": "Angi’s national guide lists $50–$150 per hour for handyman labor. For a small repair list, ask about the minimum visit price, parts and shopping time before estimating a total. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Handyman",
+              "amount": "$50–$150",
+              "unit": "per labor hour",
+              "geography": "National reference",
+              "basis": "Labor per hour. Parts, visit minimums and additional services need confirmation.",
+              "source_id": "5ebc1931-623b-5f92-a373-c3dd08f456ef"
+            },
+            {
+              "label": "Independent handyman labor",
+              "amount": "$50–$80",
+              "unit": "per labor hour",
+              "geography": "National reference",
+              "basis": "Per labor hour; materials are separate. Company rates and minimum bookings may differ.",
+              "source_id": "1bf4fb18-e0ba-537d-853e-a8109f5102b1"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide’s older independent-worker range is narrower than Angi’s current range. Neither is a New Jersey quote. For a short list, compare the minimum visit total rather than multiplying a low hourly figure by minutes of work."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "The number of separate tasks and whether they use the same tools and setup.",
+            "Access to doors, shelves or hardware, including furniture that needs moving.",
+            "Who supplies the parts and whether shopping time is billed."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "A complete task list",
+              "body": "Ask the professional to price the entire list and identify any items they cannot take on. Put your highest-priority repair first."
+            },
+            {
+              "title": "A defined stopping point",
+              "body": "For hourly work, agree on a time or spending limit and ask to be contacted before it is exceeded."
+            },
+            {
+              "title": "Parts and finishing",
+              "body": "Confirm whether patching, touch-up paint, packaging removal and replacement hardware are included."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send one wide photo and one close-up of each repair, plus dimensions and any replacement-product links. Explain whether you want a functional fix, an exact visual match or both."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I combine several small repairs into one visit?",
+              "answer": "Give the professional the full list in advance and ask for a combined estimate. Confirm which tasks they can undertake and whether specialist work needs a separate trade."
+            },
+            {
+              "question": "Should I buy the replacement hardware first?",
+              "answer": "Send the product details first and ask the professional to confirm fit. A hinge, latch or mounting bracket that looks similar may not fit the existing opening. Agree on who handles returns if the part is unsuitable."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore handyman projects",
+              "href": "/services/handyman"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "33956fe0-e410-531d-87c4-94566c3b65e6",
+      "slug": "masonry-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Masonry costs and estimate guide",
+      "meta_title": "Masonry Costs: Plan & Compare Estimates",
+      "meta_description": "Plan masonry work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Masonry costs: plan your project",
+      "primary_service_id": "masonry",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for masonry?",
+      "direct_answer": "HomeGuide lists $500–$2,500 for brick repair projects nationally. Your estimate needs a defined repair area: replacing a few bricks, repointing mortar and rebuilding steps are different jobs. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Brick repair",
+              "amount": "$500–$2,500",
+              "unit": "per brick repair project",
+              "geography": "National reference",
+              "basis": "Brick repair project; damage and area vary. Structural rebuilding and access equipment need separate assessment.",
+              "source_id": "84122046-6a26-54ea-80c9-0c5d5107cad4"
+            },
+            {
+              "label": "Brick wall repair projects",
+              "amount": "$804–$2,639",
+              "unit": "per repair project",
+              "geography": "National reference",
+              "basis": "Per repair project in Angi’s national data; scope varies. Not a price for rebuilding steps or restoring an entire facade.",
+              "source_id": "d4a36fed-ec3e-5115-a27d-a4b43331f2fe"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "The two sources cover overlapping but different repair jobs. A small mortar patch, resetting loose bricks and rebuilding a damaged wall need separate estimates; the figures should not be averaged together."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Whether the work is surface repair, repointing, brick replacement or rebuilding.",
+            "Matching the existing brick and mortar appearance.",
+            "Height, staging, site access and the amount of debris to remove."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair boundaries",
+              "body": "Ask which joints or bricks will be repaired and how the contractor will handle damage discovered after opening the area."
+            },
+            {
+              "title": "The underlying problem",
+              "body": "Ask what caused the deterioration and whether the proposal addresses it. Cosmetic repairs and structural work are different scopes."
+            },
+            {
+              "title": "The finished result",
+              "body": "Discuss color matching, protection of adjacent landscaping, cleanup and any limits on using the area while the repair sets."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Photograph the whole wall or set of steps, then the damaged area. Include approximate dimensions and note loose pieces, recurring cracks or previous repairs without disturbing the masonry."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a masonry repair quote include fixing the cause?",
+              "answer": "Ask whether the price covers only the visible damage or also assessment and correction of the underlying issue. Request separate scope for demolition, materials and debris removal."
+            },
+            {
+              "question": "Can a contractor match my existing brickwork?",
+              "answer": "Ask to see the proposed brick and mortar match before work starts. Clarify what variation to expect and whether the proposal includes a sample area. Matching older materials may require more sourcing than a standard repair."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore masonry projects",
+              "href": "/services/masonry"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "7c09cf96-6770-5c46-81ec-ddfe838a9d58",
+      "slug": "landscaping-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Landscaping costs and estimate guide",
+      "meta_title": "Landscaping Costs: Plan & Compare Estimates",
+      "meta_description": "Plan landscaping work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Landscaping costs: plan your project",
+      "primary_service_id": "landscaping",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for landscaping?",
+      "direct_answer": "HomeGuide lists $50–$100 per hour for a two-person landscaping crew nationally. Plants, mulch, delivery and hauling need their own allowance; first confirm whether your quote is per worker, per crew or for the whole project. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Landscaping",
+              "amount": "$50–$100",
+              "unit": "per hour for a two-person crew",
+              "geography": "National reference",
+              "basis": "Labor per hour for a two-person crew. Plants, materials, delivery and hauling require confirmation.",
+              "source_id": "1b5c3ac8-03a5-5898-9213-e8496590d718"
+            },
+            {
+              "label": "Landscaper labor",
+              "amount": "$50–$100",
+              "unit": "per hour",
+              "geography": "National reference",
+              "basis": "Per hour in Angi’s guide; crew size is not specified in that range. Materials and major design work are separate considerations.",
+              "source_id": "53ee6c5a-2876-5e98-b06b-20503bc766b1"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide explicitly describes a two-person crew, while Angi’s hourly figure does not specify crew size. Similar-looking numbers therefore do not establish the same price. Get the crew size, hours and materials in writing."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "The area to be cleared, planted or refreshed and the condition it is in now.",
+            "Plant sizes, mulch quantities, soil and delivery.",
+            "Slopes, narrow gates, machine access and whether waste stays on site or is hauled away."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Maintenance or installation",
+              "body": "Separate a cleanup visit from new planting, grading or ongoing lawn care. Identify exactly which beds and borders are included."
+            },
+            {
+              "title": "Material quantities",
+              "body": "Ask for plant sizes and counts, mulch depth or quantity, and who selects substitutions when a plant is unavailable."
+            },
+            {
+              "title": "Aftercare and removal",
+              "body": "Confirm watering responsibilities, debris removal and any plant replacement terms rather than assuming they are included."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send photos of the whole space, rough measurements and a short list of what you want to keep or remove. Mention standing water and gate width if equipment access could matter."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why is a yard cleanup different from regular maintenance?",
+              "answer": "A cleanup may include accumulated debris, overgrowth and disposal. Ask for a list of included tasks and compare that with the scope and frequency of recurring visits."
+            },
+            {
+              "question": "Does landscaping include hauling away debris?",
+              "answer": "Only if removal and disposal are included in the quote. Ask whether branches, leaves, old mulch and other waste will be taken away or left on your property, and whether disposal has a separate charge."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore landscaping projects",
+              "href": "/services/landscaping"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "cc98ee1b-6946-522f-affa-5dcc80f2532d",
+      "slug": "painting-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Painting costs and estimate guide",
+      "meta_title": "Painting Costs: Plan & Compare Estimates",
+      "meta_description": "Plan painting work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Painting costs: plan your project",
+      "primary_service_id": "painting",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for painting?",
+      "direct_answer": "HomeGuide lists $300–$1,000 for painting a room’s walls nationally. Room size, preparation and paint selection matter, and adding the ceiling, trim or doors changes the scope. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Room painting, walls only",
+              "amount": "$300–$1,000",
+              "unit": "per room",
+              "geography": "National reference",
+              "basis": "Room walls, with room size and condition varying. Ceiling and trim are excluded from this walls-only reference.",
+              "source_id": "8c3c2911-b6fc-5c90-b83a-1dfb36442972"
+            },
+            {
+              "label": "Painting a 200-square-foot room, walls only",
+              "amount": "$300–$700",
+              "unit": "per 200-square-foot room",
+              "geography": "National reference",
+              "basis": "Per room, labor included, in Fixr’s room-size table. The size is floor area, not paintable wall area. Ceilings and trim are a different scope.",
+              "source_id": "c727d1a0-f400-507d-bae4-95444b1fb5ca"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "A “room” is not a standard unit. HomeGuide’s broad walls-only range and Fixr’s specific room-size example are planning references, not competing quotes for your home. Exterior work needs its own assessment."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Which surfaces are included: walls, ceilings, trim, doors or cabinets.",
+            "Patching, sanding, stain blocking and changes from dark to light colors.",
+            "Wall height, detailed trim, furniture protection and the chosen paint system."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Surface preparation",
+              "body": "Ask what repairs and preparation are included before the first coat. Photograph existing peeling or damaged areas."
+            },
+            {
+              "title": "Paint and finish",
+              "body": "Specify the product, finish, colors and surfaces. Confirm who buys paint and how additional coats are handled."
+            },
+            {
+              "title": "Room handback",
+              "body": "Confirm furniture moving, masking, cleanup and what touch-ups will be checked with you at completion."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "List each room with approximate floor dimensions and ceiling height. Identify trim and doors separately, and send close-ups of damage rather than only a room photo."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a room price include wall repairs and trim?",
+              "answer": "Ask for those items to be listed. A walls-only repaint is a different job from repairing damaged surfaces and painting ceilings, doors and trim."
+            },
+            {
+              "question": "How many coats of paint are included?",
+              "answer": "Ask the painter to specify preparation, any primer and the planned finish coats for each surface. Discuss coverage when changing colors and agree how additional coats will be approved and priced before work begins."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore painting projects",
+              "href": "/services/painting"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "3db05b0e-7101-5b7e-8003-9799b7968e88",
+      "slug": "drywall-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Drywall costs and estimate guide",
+      "meta_title": "Drywall Costs: Plan & Compare Estimates",
+      "meta_description": "Plan drywall work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Drywall costs: plan your project",
+      "primary_service_id": "drywall",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for drywall?",
+      "direct_answer": "HomeGuide lists $300–$500 to patch a small hole under four inches nationally. The contractor’s minimum charge, finishing visits and painting can matter more than the patch size alone. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Small-hole patch",
+              "amount": "$300–$500",
+              "unit": "for a small hole under four inches",
+              "geography": "National reference",
+              "basis": "Patching and sanding a hole under four inches. Painting, leak repair and the contractor’s minimum charge require confirmation.",
+              "source_id": "6426cb17-02c9-5c5f-b28a-625cc5212e5b"
+            },
+            {
+              "label": "General drywall repair",
+              "amount": "$200–$550",
+              "unit": "per repair project",
+              "geography": "National reference",
+              "basis": "Per repair project, including labor, in Fixr’s national guide; varies by damage and repair type. Painting is a separate consideration.",
+              "source_id": "77834ad1-9cb8-5ae9-b467-7629feb1c202"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide’s small-hole range and Fixr’s broader repair range differ in scope and assumptions. Minimum job charges can outweigh the size of one patch. Neither figure includes a promise to repair an active leak or match all surrounding paint."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Patch size and whether backing or a new section of board is needed.",
+            "Ceiling work, texture matching and access around fixtures.",
+            "Return visits for finishing and whether priming or painting is included."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair versus cause",
+              "body": "Separate fixing the drywall from fixing a leak or another cause of recurring damage."
+            },
+            {
+              "title": "Finish level",
+              "body": "Ask whether the result will be patched, sanded, primed or fully painted. Those are different stopping points."
+            },
+            {
+              "title": "Visible boundaries",
+              "body": "Clarify whether paint covers the patch alone or the entire wall or ceiling, and how texture matching will be approached."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Provide a wide photo, a close-up with a size reference and the history of the damage. Say whether the area is currently wet or has been repaired before."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Will the repaired area be ready to paint?",
+              "answer": "Ask whether the estimate ends at patching, sanding, priming or a painted finish. If there was a leak, explain whether its cause has already been addressed."
+            },
+            {
+              "question": "Why is the price high for a small hole?",
+              "answer": "Ask about setup, finishing visits and the minimum job charge. A patch’s dimensions do not describe all the time needed to protect the room, finish the repair and clean up. Combining known patches may make a visit more useful."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore drywall projects",
+              "href": "/services/drywall"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "e9b05b0a-cd9f-5986-b7c4-996e6dde3a93",
+      "slug": "tile-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Tile costs and estimate guide",
+      "meta_title": "Tile Costs: Plan & Compare Estimates",
+      "meta_description": "Plan tile work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Tile costs: plan your project",
+      "primary_service_id": "tile",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for tile?",
+      "direct_answer": "HomeGuide lists $10–$50 per square foot for installed tile, including materials and labor, nationally. That broad range covers different materials and locations; specify removal, preparation and waterproofing before comparing proposals. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Tile",
+              "amount": "$10–$50",
+              "unit": "per square foot installed",
+              "geography": "National reference",
+              "basis": "Installed tile per square foot, materials and labor. Removal, substrate repairs and wet-area preparation require confirmation.",
+              "source_id": "bb2dcc21-887a-597a-a0b4-0c3f8a1a5105"
+            },
+            {
+              "label": "Tile floor installation",
+              "amount": "$15–$20",
+              "unit": "per installed square foot",
+              "geography": "National reference",
+              "basis": "Per square foot for tile flooring in Angi’s guide. Old-floor removal, leveling and subfloor repair need separate confirmation.",
+              "source_id": "0401b0f2-d9c5-5dbc-b0b4-a2ddda1768f2"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide covers a wider mix of tile materials and installation locations. Angi’s narrower floor range is not a shower-waterproofing or grout-repair quote. Compare identical tile, surface preparation and finished area."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Tile material, dimensions, pattern and the number of cuts.",
+            "Removal of existing finishes and the condition of the surface underneath.",
+            "Wet-area waterproofing, edges, thresholds and fixture coordination."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "The assembly under the tile",
+              "body": "Ask what preparation and waterproofing are included where needed. A tile-only price may leave important work undefined."
+            },
+            {
+              "title": "Materials and quantities",
+              "body": "List tile, trim, grout and setting materials. Agree who orders, handles spare tiles and approves substitutions."
+            },
+            {
+              "title": "Repair or replacement",
+              "body": "For loose tile or damaged grout, ask whether the proposal fixes only the visible area or investigates movement and moisture underneath."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send dimensions, tile product details and photos of the existing surface and adjoining floor or wall. Explain whether fixtures or cabinets stay in place."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can grout repair fix a leaking shower?",
+              "answer": "A surface repair is not a diagnosis of a leak. Ask the professional to identify the cause before agreeing to grout-only work or a larger repair."
+            },
+            {
+              "question": "Can I use an installation price to budget for regrouting?",
+              "answer": "No. Regrouting involves removing and replacing joints in an existing surface, while installation includes laying tile. Describe the repair separately and ask what happens if loose tile or damaged backing is found."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore tile projects",
+              "href": "/services/tile"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "348b5155-9d0f-5965-8121-fd4c2ef671c1",
+      "slug": "plumbing-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Plumbing costs and estimate guide",
+      "meta_title": "Plumbing Costs: Plan & Compare Estimates",
+      "meta_description": "Plan plumbing work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Plumbing costs: plan your project",
+      "primary_service_id": "plumbing",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for plumbing?",
+      "direct_answer": "HomeGuide lists $45–$150 per hour for plumbing labor nationally. An hourly rate is not the repair total: ask about diagnostics, the minimum visit charge, parts and whether the job will be quoted at a fixed price. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Plumbing",
+              "amount": "$45–$150",
+              "unit": "per labor hour",
+              "geography": "National reference",
+              "basis": "Labor per hour. Parts, diagnostics, minimum charges and emergency service are not a complete-job allowance.",
+              "source_id": "c26b300e-ef77-5fdd-9e5d-72ce58c38893"
+            },
+            {
+              "label": "Plumbing labor",
+              "amount": "$45–$200",
+              "unit": "per labor hour",
+              "geography": "National reference",
+              "basis": "Per labor hour in Angi’s national guide; not a complete repair bill. Confirm callout, diagnostics, parts and any after-hours charges.",
+              "source_id": "33ad857b-a9e1-5fa9-9ea5-4bd20e776bb3"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "These are national reference ranges, not a verified NJ average. A flat repair price can include travel, diagnosis and other expenses that are not visible in an hourly comparison. Ask for the work and charges to be explained before comparing two proposals."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Finding the fault versus replacing an already identified part.",
+            "Access to pipework, shutoffs and fixtures, including opening and restoring finishes.",
+            "Part selection, timing and whether the work is an ordinary appointment or an urgent callout."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "The visit charge",
+              "body": "Ask what you owe for diagnosis if you decline the repair, and whether that payment is credited if you proceed."
+            },
+            {
+              "title": "The full repair",
+              "body": "Confirm parts, labor, removal of the old fixture and any wall or cabinet restoration. Ask who handles work outside the plumber’s scope."
+            },
+            {
+              "title": "Approval before extras",
+              "body": "For uncertain faults, agree how the plumber will explain findings and get approval for a revised price."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send the fixture or appliance model, photos of the affected area and a description of when the problem occurs. Mention whether the symptom is isolated or affects several fixtures; do not dismantle anything to provide photos."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Why can two plumbing estimates be so different?",
+              "answer": "Check that both cover the same repair, parts, access and restoration. One price may include diagnosis or a visit minimum while another lists those separately. Ask each professional to explain the scope and what could change the total."
+            },
+            {
+              "question": "Is a plumber’s hourly rate the same as the cost of my repair?",
+              "answer": "No. A service minimum, diagnostic charge and parts can affect the total, and some repairs are quoted as a complete job. Ask for the expected visit charge and how the final repair will be priced before booking."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore plumbing projects",
+              "href": "/services/plumbing"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "9fc26c05-a647-59ea-8609-c80fa1cd72a8",
+      "slug": "electrical-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Electrical costs and estimate guide",
+      "meta_title": "Electrical Costs: Plan & Compare Estimates",
+      "meta_description": "Plan electrical work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Electrical costs: plan your project",
+      "primary_service_id": "electrical",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for electrical?",
+      "direct_answer": "HomeGuide lists $50–$130 per hour for electrician labor nationally. Finding a fault and replacing a known device are different jobs, so check diagnostic time, the visit minimum and materials. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Electrical",
+              "amount": "$50–$130",
+              "unit": "per labor hour",
+              "geography": "National reference",
+              "basis": "Labor per hour. Devices, callout minimums, permits and restoring finishes need confirmation.",
+              "source_id": "1867614e-3a28-5f7b-b7b7-9cff28fe6dd5"
+            },
+            {
+              "label": "Electrician labor for outlet work",
+              "amount": "$40–$100",
+              "unit": "per labor hour",
+              "geography": "National reference",
+              "basis": "Per labor hour in Fixr’s outlet-installation labor section. Parts and minimum service charges are separate; this is not a complete outlet-installation quote.",
+              "source_id": "b8700f18-7ca0-5466-9fd7-ddf76a5f6ee7"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "Use the labor references to understand the billing basis, not to predict the total for a dead outlet. Finding the fault, adding a circuit and replacing an accessible device are different jobs. Ask what the first visit covers before agreeing to further work."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Troubleshooting an intermittent problem versus a known replacement.",
+            "New wiring routes, access and restoration of walls or ceilings.",
+            "The device specification and whether additional circuit or panel work is necessary."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Diagnosis first",
+              "body": "Ask how troubleshooting is billed and when you will receive a repair proposal. Do not assume the visible device is the cause."
+            },
+            {
+              "title": "What is included",
+              "body": "List the fixtures or devices, testing, materials and finishing work. Ask who determines and handles any applicable permits."
+            },
+            {
+              "title": "Scope changes",
+              "body": "Agree how additional wiring or circuit work will be priced if the initial inspection finds it is needed."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Describe which lights or outlets are affected and when the issue began. Provide photos of visible labels or fixtures only where safely accessible; there is no need to remove covers or expose wiring."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I get a fixed price for an outlet that stopped working?",
+              "answer": "You can ask, but the cause may need diagnosis first. Confirm the diagnostic charge and require approval of a repair price before additional work begins."
+            },
+            {
+              "question": "Can I get several electrical tasks priced together?",
+              "answer": "Send the whole list in advance. Ask the electrician to separate troubleshooting from known installations so you understand the minimum visit charge and any work that needs additional assessment."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore electrical projects",
+              "href": "/services/electrical"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "207c199d-a6a9-5054-a19b-8aea4044479b",
+      "slug": "hvac-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Heating & Cooling costs and estimate guide",
+      "meta_title": "Heating & Cooling Costs: Plan & Compare Estimates",
+      "meta_description": "Plan heating & cooling work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Heating & Cooling costs: plan your project",
+      "primary_service_id": "hvac",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for heating & cooling?",
+      "direct_answer": "HomeGuide lists $150–$450 for common heating and cooling repairs nationally. This is a small-repair reference, not a replacement-system budget. Ask what diagnosis costs before approving the proposed repair. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Common HVAC repair",
+              "amount": "$150–$450",
+              "unit": "for common HVAC repair",
+              "geography": "National reference",
+              "basis": "Common AC or furnace repair, with scope varying. Major components and system replacement are different budgets.",
+              "source_id": "551bdf24-d217-50b3-a901-42f49003dc9e"
+            },
+            {
+              "label": "Diagnostic or service visit",
+              "amount": "$75–$200",
+              "unit": "per visit",
+              "geography": "National reference",
+              "basis": "HomeGuide’s diagnostic/service-call reference. Ask whether it is credited toward repair labor; do not automatically add it to a repair quote that already includes it.",
+              "source_id": "551bdf24-d217-50b3-a901-42f49003dc9e"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "A diagnostic visit finds the cause; it does not necessarily pay for the repair. Ask whether its charge is credited toward the work, then compare the proposed repair with any replacement option on a separate written estimate. Larger components can fall outside the common-repair reference."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "System type, model, access and the part that has failed.",
+            "Whether the visit is maintenance, diagnosis or an approved repair.",
+            "Parts availability and any after-hours appointment charge."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Diagnosis and repair",
+              "body": "Ask what the initial fee covers and whether it is credited toward the work. Get the proposed part and repair cost before authorizing it."
+            },
+            {
+              "title": "Repair or replacement",
+              "body": "If replacement is suggested, request a separate scope and an explanation of why repair is or is not a reasonable option."
+            },
+            {
+              "title": "Warranty and return visits",
+              "body": "Ask about parts and labor coverage, return-visit charges and whether any existing warranty applies."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Provide the equipment model, approximate age, symptoms and any displayed error code. Explain whether the whole home or one area is affected. Photograph labels without opening equipment panels."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does the diagnostic fee count toward the repair?",
+              "answer": "Ask the company before booking. Have it confirm whether the charge is separate, credited in full, or credited only for certain repairs."
+            },
+            {
+              "question": "Does a maintenance visit include repairs?",
+              "answer": "Ask for the included task list. An inspection or tune-up price should not be assumed to include replacement parts or every repair found during the visit. Have additional work priced before proceeding."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore heating & cooling projects",
+              "href": "/services/hvac"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "4de9d009-bcb8-5d2a-bf95-f0eef6f3a220",
+      "slug": "roofing-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Roofing costs and estimate guide",
+      "meta_title": "Roofing Costs: Plan & Compare Estimates",
+      "meta_description": "Plan roofing work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Roofing costs: plan your project",
+      "primary_service_id": "roofing",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for roofing?",
+      "direct_answer": "HomeGuide lists $150–$1,000 for minor roof repairs nationally. The repair area, roof access and any concealed damage need assessment; this range does not describe replacing a roof. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Roofing",
+              "amount": "$150–$1,000",
+              "unit": "for minor roof repair",
+              "geography": "National reference",
+              "basis": "Minor roof repair. Major water damage, decking and replacement roofs are outside this scope.",
+              "source_id": "ebefa52b-4b18-516d-904a-ff20d13bcab9"
+            },
+            {
+              "label": "Roof repair projects",
+              "amount": "$395–$1,968",
+              "unit": "per repair project",
+              "geography": "National reference",
+              "basis": "Per repair project in Angi’s national guide; varied damage and roof materials. Not a whole-roof replacement price.",
+              "source_id": "b3002046-2176-5066-b0cc-bca6aa5b9819"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide’s minor-repair range is narrower than Angi’s broader project data. A visible ceiling stain does not establish the repair scope. Ask for the source of the leak and a proposal that identifies the actual roof work."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Roof material, slope, height and access.",
+            "Whether damage is limited to the covering or extends to flashing, underlayment or decking.",
+            "Temporary weather protection, removal and disposal."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Repair location and extent",
+              "body": "Ask for photos and a description of the proposed repair area. Confirm what is temporary and what is intended as the finished repair."
+            },
+            {
+              "title": "Hidden damage",
+              "body": "Agree how newly exposed damage will be documented and priced before additional work proceeds."
+            },
+            {
+              "title": "Inside and outside",
+              "body": "Clarify whether interior ceiling repairs, gutters or adjacent trim are excluded, and ask about workmanship coverage."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send ground-level roof photos and interior photos of stains, along with when the problem appears. Include any previous repair details; do not climb onto the roof to gather information."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a roof repair quote include the ceiling stain inside?",
+              "answer": "Do not assume it does. Ask which exterior repair, drying, interior repair and painting tasks are included and who handles each."
+            },
+            {
+              "question": "How do I know whether a roof needs repair or replacement?",
+              "answer": "Ask the roofing professional to explain the extent of the damage, the condition of the surrounding roof and whether a localized repair is reasonable. If replacement is recommended, request a separate written scope and explanation. A ceiling stain alone does not establish that the entire roof needs replacing."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore roofing projects",
+              "href": "/services/roofing"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "8fc487ae-2cbc-580d-b0a2-0d41634bac19",
+      "slug": "house-cleaning-cost",
+      "page_type": "COST_GUIDE",
+      "title": "House Cleaning costs and estimate guide",
+      "meta_title": "House Cleaning Costs: Plan & Compare Estimates",
+      "meta_description": "Plan house cleaning work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "House Cleaning costs: plan your project",
+      "primary_service_id": "house-cleaning",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for house cleaning?",
+      "direct_answer": "HomeGuide lists $25–$75 per cleaner-hour nationally. Confirm the team size and checklist: a first deep clean, recurring visit and move-out clean are different services. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "House Cleaning",
+              "amount": "$25–$75",
+              "unit": "per cleaner-hour",
+              "geography": "National reference",
+              "basis": "Labor per cleaner-hour. Confirm supplies, minimums and the actual cleaning checklist.",
+              "source_id": "521cddd7-044b-5cd5-bafe-27a97381256e"
+            },
+            {
+              "label": "House-cleaning visits",
+              "amount": "$118–$238",
+              "unit": "per visit",
+              "geography": "National reference",
+              "basis": "Per visit in Angi’s national project data, across different homes and cleaning scopes. Deep cleans and extras can fall outside it.",
+              "source_id": "80bc2e07-f274-5db2-8b0b-e4f689092429"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide prices labor per cleaner-hour; Angi describes a visit total. Two cleaners working for two hours represent four cleaner-hours. A first deep clean and a recurring maintenance clean should have separate task lists."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Home size, bathroom count and the condition of the rooms.",
+            "Recurring cleaning, a first deep clean or a move-out visit.",
+            "Interior appliances, cabinets, windows and other requested extras."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "A room-by-room list",
+              "body": "Ask which surfaces are included and what must be cleared before arrival. Identify rooms or belongings that should not be touched."
+            },
+            {
+              "title": "People and time",
+              "body": "For hourly work, confirm whether the rate is per cleaner or for the whole team, and whether a minimum applies."
+            },
+            {
+              "title": "Supplies and extras",
+              "body": "Confirm products, equipment, pet arrangements and how additional tasks are approved and charged."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Provide floor area, room and bathroom counts, your preferred frequency and a realistic description of the current condition. Name any priority rooms and desired add-ons."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Are ovens, fridges and inside cabinets included?",
+              "answer": "Ask for an explicit checklist and add-on prices. Also confirm supplies, access arrangements and what needs to be cleared before the visit."
+            },
+            {
+              "question": "Why might the first clean cost more?",
+              "answer": "Ask whether it includes buildup removal or detailed tasks that are not part of the recurring checklist. Compare the two scopes before assuming the ongoing visit will deliver the same amount of work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore house cleaning projects",
+              "href": "/services/house-cleaning"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "f92de06d-58ca-5763-a21c-4088ea50bc68",
+      "slug": "gutters-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Gutter Services costs and estimate guide",
+      "meta_title": "Gutter Services Costs: Plan & Compare Estimates",
+      "meta_description": "Plan gutter services work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Gutter Services costs: plan your project",
+      "primary_service_id": "gutters",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for gutter services?",
+      "direct_answer": "HomeGuide lists $100–$250 for a gutter-cleaning visit nationally. Confirm the building height, gutter length, downspouts and debris removal; repairs and replacement are separate work. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Gutter Services",
+              "amount": "$100–$250",
+              "unit": "for a gutter-cleaning visit",
+              "geography": "National reference",
+              "basis": "Cleaning visit. Confirm length, stories, downspouts, guards and disposal; repair and replacement are separate.",
+              "source_id": "9f783ff7-57d2-54db-b477-6794deab7277"
+            },
+            {
+              "label": "Single-story gutter cleaning",
+              "amount": "$119–$234",
+              "unit": "per single-story cleaning visit",
+              "geography": "National reference",
+              "basis": "Per visit for a single-story home in Angi’s guide. Confirm downspout flushing, guards and any repair charges.",
+              "source_id": "92da9ef8-4ec9-55bd-b5b3-eec492c39b2b"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "These examples concern cleaning, not replacing gutters. Length alone will not describe a multistory or difficult-access job. A repair discovered during cleaning should be explained and priced separately."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Gutter length, house height and access around the building.",
+            "Debris buildup, downspout blockages and existing gutter guards.",
+            "Disposal, flushing and any requested repairs."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "The cleaning scope",
+              "body": "Ask whether both gutters and downspouts are cleared and whether debris is removed from the property."
+            },
+            {
+              "title": "Guards and access",
+              "body": "Tell the professional about guards and restricted access. Confirm whether removal and refitting are included if needed."
+            },
+            {
+              "title": "Evidence and repairs",
+              "body": "Ask for completion photos where practical. Have leaks, loose sections or damaged fittings quoted before repair work begins."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send ground-level photos of the building and gutters. Note the number of stories, known overflows and whether guards are installed. Do not climb a ladder to measure for a quote."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Is downspout clearing part of gutter cleaning?",
+              "answer": "Have the company confirm that in the scope. Describe the number of stories, gutter guards and any known blockages before it quotes."
+            },
+            {
+              "question": "Does cleaning fix a leaking gutter?",
+              "answer": "Not necessarily. Cleaning and repairing joints, slope or damaged sections are separate tasks. Ask the provider to identify any repair need and give you a price before adding it to the visit."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore gutter services projects",
+              "href": "/services/gutters"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "ebc99f70-74a6-5289-b66b-b4d3eae97acf",
+      "slug": "pest-control-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Pest Control costs and estimate guide",
+      "meta_title": "Pest Control Costs: Plan & Compare Estimates",
+      "meta_description": "Plan pest control work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Pest Control costs: plan your project",
+      "primary_service_id": "pest-control",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for pest control?",
+      "direct_answer": "HomeGuide lists $100–$600 for a one-time extermination visit nationally. The pest and treatment plan matter, and a recurring subscription is a different commitment from a single visit. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Pest Control",
+              "amount": "$100–$600",
+              "unit": "for a one-time extermination visit",
+              "geography": "National reference",
+              "basis": "One-time extermination, varying by pest. Recurring plans, specialized treatment and damage repair need separate prices.",
+              "source_id": "1bd4dc82-3aa5-54b1-91e2-e2b3f36534c8"
+            },
+            {
+              "label": "One-time pest visit, 1,500-square-foot home",
+              "amount": "$108–$261",
+              "unit": "per one-time visit",
+              "geography": "National reference",
+              "basis": "Per visit in Angi’s guide for that stated home size. Pest type, severity and treatment scope vary; specialized infestations are not covered by a generic price.",
+              "source_id": "dbf605a1-d8c8-5a0b-9254-1f0278cdf58c"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide’s one-time extermination range is broader. Neither should be treated as an annual plan price or a termite or bed-bug quote. Compare the target pest, treatments and follow-up terms."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "The identified pest and the extent and location of activity.",
+            "One-time treatment versus a recurring service agreement.",
+            "Follow-up visits, entry-point work and repairs outside treatment."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Identification and plan",
+              "body": "Ask what pest is being treated and what the proposed treatment includes. Describe observations rather than guessing the diagnosis."
+            },
+            {
+              "title": "Return visits",
+              "body": "Confirm the number of visits, any retreatment terms and what happens if activity continues."
+            },
+            {
+              "title": "Preparation and charges",
+              "body": "Ask for household preparation instructions, the initial charge, ongoing fees and cancellation terms if considering a plan."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Provide photos if available, where and when activity occurs, and any previous treatment. Tell the provider about children, pets or other household considerations so they can give appropriate preparation instructions."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does a low monthly rate include the first treatment?",
+              "answer": "Ask for the initial charge, visit frequency, covered pests, cancellation terms and any separate exclusion or repair work before choosing a plan."
+            },
+            {
+              "question": "What happens if the pests return?",
+              "answer": "Ask which follow-up visits or retreatments are included, how long those terms last and what conditions apply. Confirm whether another visit has an additional charge and how to report continued activity."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore pest control projects",
+              "href": "/services/pest-control"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "457f1c05-2bad-5a49-964f-fdc03559c984",
+      "slug": "junk-removal-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Junk Removal costs and estimate guide",
+      "meta_title": "Junk Removal Costs: Plan & Compare Estimates",
+      "meta_description": "Plan junk removal work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Junk Removal costs: plan your project",
+      "primary_service_id": "junk-removal",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for junk removal?",
+      "direct_answer": "Angi’s September 2026 national guide reports $133–$372 for junk-removal jobs. Describe the load and access before comparing prices; carrying, stairs and disposal can change the total. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Junk-removal projects",
+              "amount": "$133–$372",
+              "unit": "per job",
+              "geography": "National reference",
+              "basis": "Per job in Angi’s national data; quantity and waste type vary. Not a guaranteed full-truck price or approval to collect every material.",
+              "source_id": "c5687f6a-bb85-586b-8b35-722c09358d85"
+            },
+            {
+              "label": "Junk Removal reference",
+              "amount": "$150–$350",
+              "unit": "per typical removal job",
+              "geography": "National reference",
+              "basis": "Typical collection job with varying load size. Not a full-truck, demolition or hazardous-waste allowance.",
+              "source_id": "47f7232b-8a47-5f4b-be8c-9254db0dc7dd"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide’s older job range and Angi’s newer project data are similar in scale but not identical samples. Truck fractions are not comparable unless the truck capacity and load limits match."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "The volume, weight and type of items.",
+            "Stairs, elevator access, carrying distance and disassembly.",
+            "Disposal restrictions and any item-specific surcharges."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "What will be collected",
+              "body": "Provide an inventory and identify paint, chemicals, electronics or other items needing special handling. Ask what the company can accept."
+            },
+            {
+              "title": "How volume is measured",
+              "body": "For a truck-based quote, ask about capacity and when the final price is confirmed. A photograph is useful but may not settle the final load size."
+            },
+            {
+              "title": "The whole pickup",
+              "body": "Confirm lifting, stairs, disassembly, disposal fees and cleanup. Keep your retain/donate/remove groups clearly separated."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Send a wide photo of the pile plus an item list. Describe floor level, stairs and the distance to parking, and identify unusually heavy items before booking."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Can I compare prices by truckload?",
+              "answer": "Only if the truck capacity and load allowance are comparable. Share an item list and photos, and ask about excluded materials and surcharges."
+            },
+            {
+              "question": "Is a dumpster rental the same as junk removal?",
+              "answer": "No. Ask who loads the waste, how long equipment stays and what disposal limits apply. A collection crew and a container you fill yourself are different services and should not be compared by price alone."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore junk removal projects",
+              "href": "/services/junk-removal"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "ecb05c8d-1069-5287-8ec9-6b3e7ac8a8bd",
+      "slug": "tree-services-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Tree Services costs and estimate guide",
+      "meta_title": "Tree Services Costs: Plan & Compare Estimates",
+      "meta_description": "Plan tree services work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Tree Services costs: plan your project",
+      "primary_service_id": "tree-services",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for tree services?",
+      "direct_answer": "HomeGuide lists $400–$900 per tree for trimming nationally. Tree removal and stump work need separate prices, and access and condition can change the scope. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Tree trimming",
+              "amount": "$400–$900",
+              "unit": "per tree trimmed",
+              "geography": "National reference",
+              "basis": "Trimming per tree. Removal, stump work and exceptional access are separate scopes.",
+              "source_id": "d171e5c1-de8f-584b-a3c6-3e1bced777e2"
+            },
+            {
+              "label": "Professional tree trimming",
+              "amount": "$270–$1,800",
+              "unit": "per trimming job",
+              "geography": "National reference",
+              "basis": "Per trimming job in Angi’s guide; size and access vary. This does not price full removal or stump grinding.",
+              "source_id": "87b41520-0bdd-539e-a28d-6bf30deec723"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "HomeGuide’s per-tree trimming reference and Angi’s broader trimming range both concern pruning work. Removing a tree, dealing with storm damage and grinding a stump need their own scopes."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Tree size, condition and the branches involved.",
+            "Nearby buildings, utility lines and equipment access.",
+            "Whether branches and logs are chipped, removed or left on site."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "The intended result",
+              "body": "Ask which branches are included and why. Make sure each quoted company is describing the same tree and pruning objective."
+            },
+            {
+              "title": "Access and protection",
+              "body": "Discuss how the work area and nearby property will be protected and what access the crew needs."
+            },
+            {
+              "title": "Cleanup and separate work",
+              "body": "Confirm debris handling. If removal is proposed, ask separately about the stump, roots and ground restoration."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Take whole-tree photos from a safe ground-level position, including nearby structures. Mark which tree you mean and describe access; do not approach hanging limbs or utility lines for a closer picture."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Does tree removal include the stump and cleanup?",
+              "answer": "Ask for each separately in the estimate. Confirm whether branches, logs, chips and stump grinding are included before comparing totals."
+            },
+            {
+              "question": "Do I need permission to remove a tree?",
+              "answer": "Check with your municipality before scheduling removal. Ask which local requirements apply to your property and who will obtain any necessary permission. Have the professional identify that responsibility in the written scope."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore tree services projects",
+              "href": "/services/tree-services"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "6339ff4f-37bb-5a8c-8e22-208dabf332c6",
+      "slug": "appliance-repair-cost",
+      "page_type": "COST_GUIDE",
+      "title": "Appliance Repair costs and estimate guide",
+      "meta_title": "Appliance Repair Costs: Plan & Compare Estimates",
+      "meta_description": "Plan appliance repair work with sourced cost references, what changes the price, and practical questions to compare estimates for your home.",
+      "h1": "Appliance Repair costs: plan your project",
+      "primary_service_id": "appliance-repair",
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I budget for appliance repair?",
+      "direct_answer": "HomeGuide’s July 2025 guide lists $100–$400 per appliance repair nationally. Use that as background for planning, then ask for a current quote covering diagnosis, parts, labor and any return visit. These are planning references, not New Jersey averages or A5 quotes.",
+      "sections": [
+        {
+          "type": "COST_ESTIMATES",
+          "heading": "Planning ranges and what they cover",
+          "rows": [
+            {
+              "label": "Appliance Repair",
+              "amount": "$100–$400",
+              "unit": "per repair",
+              "geography": "National reference",
+              "basis": "Appliance repair, varying by model and fault. Confirm parts, diagnostics and return-visit inclusions.",
+              "source_id": "ebdc23b8-130a-51dd-94fa-52bac96c0d5b"
+            },
+            {
+              "label": "Household appliance repair",
+              "amount": "$100–$300",
+              "unit": "per repair",
+              "geography": "National reference",
+              "basis": "Per repair, parts and labor, in Fixr’s national guide. Model, failed component and service fees can change the total.",
+              "source_id": "93ae9fb9-e5be-5dae-afbf-183f51283bf7"
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "How to use these figures",
+          "paragraphs": [
+            "Both reference guides include 2025 editorial dates and are planning context, not current local quotes. Diagnostic-only visits, major components and replacement appliances should not be compared as the same service."
+          ]
+        },
+        {
+          "type": "COST_FACTORS",
+          "heading": "What changes your estimate",
+          "factors": [
+            "Appliance brand, model and the failed part.",
+            "Access to built-in or stacked equipment.",
+            "Diagnosis, parts ordering and any return visit."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Compare the work, not just the total",
+          "paragraphs": [],
+          "items": [
+            {
+              "title": "Brand and model coverage",
+              "body": "Confirm the company services your appliance before booking. Give the exact model rather than only the brand."
+            },
+            {
+              "title": "Diagnosis and repair total",
+              "body": "Ask what is due if you decline the repair and whether that charge is credited if you proceed. Confirm parts, labor and return visits."
+            },
+            {
+              "title": "Repair decision",
+              "body": "Compare the written repair proposal with replacement, delivery, installation and removal costs. Check existing warranty terms before authorizing work."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Get a more useful estimate",
+          "paragraphs": [
+            "Provide model and serial details if safely accessible, approximate age, symptoms and error messages. Explain whether the fault is constant or intermittent without disassembling the appliance."
+          ]
+        },
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "Should I repair or replace an appliance?",
+              "answer": "Ask for the diagnosis and full repair estimate, then compare with a suitable replacement including delivery and installation. Consider the appliance’s condition, warranty and parts availability; avoid a universal age or percentage rule."
+            },
+            {
+              "question": "Will I pay another service fee when the part arrives?",
+              "answer": "Ask before approving the repair. Confirm whether the estimate includes the return visit, installation and testing, and what happens if the first proposed part does not resolve the problem."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Keep planning",
+          "paragraphs": [],
+          "links": [
+            {
+              "label": "Home service estimates: your questions answered",
+              "href": "/cost-guides/home-service-estimates-faq"
+            },
+            {
+              "label": "Explore appliance repair projects",
+              "href": "/services/appliance-repair"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Sources and review"
+        },
+        {
+          "type": "CTA",
+          "title": "Have a project in mind?",
+          "description": "Describe what needs attention. A5 will review your request and look for a suitable independent professional. If a connection is available, you'll discuss the work, price and timing directly with that professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Reviewed by A5 on October 11, 2026 using published national pricing references. Each figure retains its original source, pricing unit and scope. Source publication dates may be older. These figures have not been averaged, adjusted for New Jersey or validated against A5 job invoices. Confirm the full scope and price directly with the professional before authorizing work.",
+      "cost_geography": "National references; individual exceptions are labeled beside the figure.",
+      "public_project_approved": false
+    },
+    {
+      "id": "570985db-3529-5ac2-bffc-0bf8465f1145",
+      "slug": "home-service-estimates-faq",
+      "page_type": "COST_GUIDE",
+      "title": "Home service estimates: homeowner FAQ",
+      "meta_title": "Home Service Estimates & Pricing FAQ",
+      "meta_description": "Understand callout fees, hourly and flat-rate estimates, materials and extra work before hiring a home service professional.",
+      "h1": "Make sense of your home service estimate.",
+      "primary_service_id": null,
+      "primary_location_id": null,
+      "primary_problem_id": null,
+      "primary_question": "What should I check before agreeing to a price?",
+      "direct_answer": "Check the exact work, materials, visit charges, cleanup and how changes will be approved. An hourly rate alone is not the project total. A5 helps you find a suitable connection; you agree on the work and price directly with the independent professional.",
+      "sections": [
+        {
+          "type": "QUESTION_ANSWER",
+          "items": [
+            {
+              "question": "How much should I budget for a home service?",
+              "answer": "Start with the job rather than an hourly rate. Describe the problem, approximate size, access and timing, then ask for an estimate that separates labor, materials and any visit charge. Published ranges can help you plan, but the professional needs your project details to price the work."
+            },
+            {
+              "question": "Why can a short repair have a minimum charge?",
+              "answer": "A visit may have a service-call or diagnostic charge even when the repair itself is quick. Before booking, ask what the minimum covers, how much time is included and whether that charge is credited toward an approved repair."
+            },
+            {
+              "question": "Is hourly pricing or a flat price better?",
+              "answer": "Compare the total scope and the rules for additional work. For an hourly job, ask about the minimum, number of workers and estimated hours. For a flat price, ask what is included and what could change it. Neither pricing format alone tells you which proposal offers better value."
+            },
+            {
+              "question": "Are materials included in the price?",
+              "answer": "Ask explicitly. Check who buys the materials, whether delivery and disposal are included, and whether your selected products fit the allowance. If you supply materials, confirm compatibility and responsibility for returns before the visit."
+            },
+            {
+              "question": "How do I compare estimates fairly?",
+              "answer": "Give each professional the same description and photos. Compare the work included, materials, preparation, cleanup, timing and payment schedule. Ask about exclusions and how unexpected conditions or extra work will be priced before choosing."
+            },
+            {
+              "question": "Can I combine small jobs to reduce the cost?",
+              "answer": "Send your full list before booking and ask for a combined estimate. A single visit may be more efficient, but confirm that the professional handles every task and whether any work requires a separate specialist."
+            },
+            {
+              "question": "What should I send to get a useful estimate?",
+              "answer": "Include your town, a clear description, approximate dimensions where relevant, a close-up photo and a wider view of the area. Mention access restrictions and your preferred timing. A professional may still need to inspect the job before confirming a price."
+            },
+            {
+              "question": "Does a diagnostic fee pay for the repair?",
+              "answer": "Do not assume it does. Ask whether the fee covers inspection only, includes any labor or is credited toward the repair. Confirm the proposed repair cost before authorizing additional work."
+            },
+            {
+              "question": "What happens if the work turns out to be more involved?",
+              "answer": "Ask the professional to explain the new findings and provide an updated scope and price before proceeding with additional work. Keeping that agreement in writing helps both sides understand what has changed."
+            },
+            {
+              "question": "Does A5 set the price or collect payment for the work?",
+              "answer": "A5 is a home services network that helps connect homeowners with independent local professionals. You discuss the scope, price, scheduling and payment directly with the professional. Our cost guides are planning references, not A5 quotes or a promise that a particular job will cost that amount."
+            }
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Choose a service cost guide",
+          "paragraphs": [
+            "For job-specific cost references and questions to ask, choose the service you need."
+          ],
+          "links": [
+            {
+              "label": "Handyman costs",
+              "href": "/cost-guides/handyman-cost"
+            },
+            {
+              "label": "Masonry costs",
+              "href": "/cost-guides/masonry-cost"
+            },
+            {
+              "label": "Landscaping costs",
+              "href": "/cost-guides/landscaping-cost"
+            },
+            {
+              "label": "Painting costs",
+              "href": "/cost-guides/painting-cost"
+            },
+            {
+              "label": "Drywall costs",
+              "href": "/cost-guides/drywall-cost"
+            },
+            {
+              "label": "Tile costs",
+              "href": "/cost-guides/tile-cost"
+            },
+            {
+              "label": "Plumbing costs",
+              "href": "/cost-guides/plumbing-cost"
+            },
+            {
+              "label": "Electrical costs",
+              "href": "/cost-guides/electrical-cost"
+            },
+            {
+              "label": "Heating & Cooling costs",
+              "href": "/cost-guides/hvac-cost"
+            },
+            {
+              "label": "Roofing costs",
+              "href": "/cost-guides/roofing-cost"
+            },
+            {
+              "label": "House Cleaning costs",
+              "href": "/cost-guides/house-cleaning-cost"
+            },
+            {
+              "label": "Gutter Services costs",
+              "href": "/cost-guides/gutters-cost"
+            },
+            {
+              "label": "Pest Control costs",
+              "href": "/cost-guides/pest-control-cost"
+            },
+            {
+              "label": "Junk Removal costs",
+              "href": "/cost-guides/junk-removal-cost"
+            },
+            {
+              "label": "Tree Services costs",
+              "href": "/cost-guides/tree-services-cost"
+            },
+            {
+              "label": "Appliance Repair costs",
+              "href": "/cost-guides/appliance-repair-cost"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Background reading"
+        },
+        {
+          "type": "CTA",
+          "title": "Ready to describe your project?",
+          "description": "Tell A5 what needs attention. We will review your request and look for a suitable independent professional."
+        }
+      ],
+      "status": "PUBLISHED",
+      "indexable": true,
+      "ai_assisted": true,
+      "created_by": "a5-cost-library-2026-10",
+      "reviewed_by": "owner-authorized-editorial-review",
+      "created_at": "2026-10-11T16:00:00.000Z",
+      "updated_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z",
+      "published_at": "2026-10-11T16:00:00.000Z",
+      "last_reviewed_at": "2026-10-11T16:00:00.000Z",
+      "cost_methodology": "Original A5 estimate-comparison guidance, reviewed October 11, 2026, with background references on labor, minimum charges and diagnosis. This FAQ makes no numerical price claim and is not a quotation.",
+      "cost_geography": "General homeowner planning guidance; no local price estimate.",
+      "public_project_approved": false
+    }
+  ],
+  "sources": [
+    {
+      "id": "5ebc1931-623b-5f92-a373-c3dd08f456ef",
+      "title": "Angi: handyman pricing reference (editorial date 2026-09-23)",
+      "url": "https://www.angi.com/articles/what-are-common-handyman-prices.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "1bf4fb18-e0ba-537d-853e-a8109f5102b1",
+      "title": "HomeGuide: handyman pricing reference (editorial date 2023-08-29)",
+      "url": "https://homeguide.com/costs/handyman-prices",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "84122046-6a26-54ea-80c9-0c5d5107cad4",
+      "title": "HomeGuide: masonry pricing reference (editorial date 2026-02-09)",
+      "url": "https://homeguide.com/costs/repair-brick-masonry-work-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "d4a36fed-ec3e-5115-a27d-a4b43331f2fe",
+      "title": "Angi: masonry pricing reference (editorial date 2026-09-09)",
+      "url": "https://www.angi.com/articles/how-much-does-repairing-brick-wall-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "1b5c3ac8-03a5-5898-9213-e8496590d718",
+      "title": "HomeGuide: landscaping pricing reference (editorial date 2026-02-04)",
+      "url": "https://homeguide.com/costs/landscaping-costs",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "53ee6c5a-2876-5e98-b06b-20503bc766b1",
+      "title": "Angi: landscaping pricing reference (accessed October 11, 2026)",
+      "url": "https://www.angi.com/articles/how-much-does-landscaping-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "8c3c2911-b6fc-5c90-b83a-1dfb36442972",
+      "title": "HomeGuide: painting pricing reference (editorial date 2026-02-06)",
+      "url": "https://homeguide.com/costs/cost-to-paint-a-room",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "c727d1a0-f400-507d-bae4-95444b1fb5ca",
+      "title": "Fixr: painting pricing reference (editorial date 2025-01-31)",
+      "url": "https://www.fixr.com/costs/paint-room",
+      "publisher": "Fixr",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "6426cb17-02c9-5c5f-b28a-625cc5212e5b",
+      "title": "HomeGuide: drywall pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/drywall-repair-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "77834ad1-9cb8-5ae9-b467-7629feb1c202",
+      "title": "Fixr: drywall pricing reference (editorial date 2025-01-31)",
+      "url": "https://www.fixr.com/costs/repair-drywall",
+      "publisher": "Fixr",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "bb2dcc21-887a-597a-a0b4-0c3f8a1a5105",
+      "title": "HomeGuide: tile pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/tile-installation-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "0401b0f2-d9c5-5dbc-b0b4-a2ddda1768f2",
+      "title": "Angi: tile pricing reference (editorial date 2026-08-03)",
+      "url": "https://www.angi.com/articles/tile-installation-cost-guide.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "c26b300e-ef77-5fdd-9e5d-72ce58c38893",
+      "title": "HomeGuide: plumbing pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/average-plumbing-estimates/",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "33ad857b-a9e1-5fa9-9ea5-4bd20e776bb3",
+      "title": "Angi: plumbing pricing reference (accessed October 11, 2026)",
+      "url": "https://www.angi.com/articles/why-are-plumbers-so-expensive.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "1867614e-3a28-5f7b-b7b7-9cff28fe6dd5",
+      "title": "HomeGuide: electrical pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/electrician-cost-per-hour",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "b8700f18-7ca0-5466-9fd7-ddf76a5f6ee7",
+      "title": "Fixr: electrical pricing reference (accessed October 11, 2026)",
+      "url": "https://www.fixr.com/costs/install-electrical-outlet",
+      "publisher": "Fixr",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "551bdf24-d217-50b3-a901-42f49003dc9e",
+      "title": "HomeGuide: heating & cooling pricing reference (editorial date 2025-07-31)",
+      "url": "https://homeguide.com/costs/hvac-repair-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "b7c4773b-0608-52c5-843b-7b27dcd3b71b",
+      "title": "Angi: heating & cooling pricing reference (editorial date 2026-08-04)",
+      "url": "https://www.angi.com/articles/how-much-hvac-repair-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "ebefa52b-4b18-516d-904a-ff20d13bcab9",
+      "title": "HomeGuide: roofing pricing reference (editorial date 2026-02-09)",
+      "url": "https://homeguide.com/costs/roof-repair-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "b3002046-2176-5066-b0cc-bca6aa5b9819",
+      "title": "Angi: roofing pricing reference (editorial date 2026-08-03)",
+      "url": "https://www.angi.com/articles/how-much-do-roof-repairs-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "521cddd7-044b-5cd5-bafe-27a97381256e",
+      "title": "HomeGuide: house cleaning pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/house-cleaning-prices",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "80bc2e07-f274-5db2-8b0b-e4f689092429",
+      "title": "Angi: house cleaning pricing reference (accessed October 11, 2026)",
+      "url": "https://www.angi.com/articles/how-much-does-it-cost-hire-house-cleaner.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "9f783ff7-57d2-54db-b477-6794deab7277",
+      "title": "HomeGuide: gutter services pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/gutter-cleaning-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "92da9ef8-4ec9-55bd-b5b3-eec492c39b2b",
+      "title": "Angi: gutter services pricing reference (editorial date 2026-08-05)",
+      "url": "https://www.angi.com/articles/how-much-does-gutter-cleaning-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "1bd4dc82-3aa5-54b1-91e2-e2b3f36534c8",
+      "title": "HomeGuide: pest control pricing reference (accessed October 11, 2026)",
+      "url": "https://homeguide.com/costs/pest-control-prices",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "dbf605a1-d8c8-5a0b-9254-1f0278cdf58c",
+      "title": "Angi: pest control pricing reference (editorial date 2026-10-09)",
+      "url": "https://www.angi.com/articles/how-much-does-pest-control-service-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "47f7232b-8a47-5f4b-be8c-9254db0dc7dd",
+      "title": "HomeGuide: junk removal pricing reference (editorial date 2024-05-24)",
+      "url": "https://homeguide.com/costs/junk-removal-prices",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "c5687f6a-bb85-586b-8b35-722c09358d85",
+      "title": "Angi: junk removal pricing reference (editorial date 2026-09-30)",
+      "url": "https://www.angi.com/articles/how-much-does-junk-removal-cost.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "d171e5c1-de8f-584b-a3c6-3e1bced777e2",
+      "title": "HomeGuide: tree services pricing reference (editorial date 2026-01-13)",
+      "url": "https://homeguide.com/costs/tree-trimming-cost",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "87b41520-0bdd-539e-a28d-6bf30deec723",
+      "title": "Angi: tree services pricing reference (editorial date 2026-07-09)",
+      "url": "https://www.angi.com/articles/how-much-does-it-cost-hire-tree-service.htm",
+      "publisher": "Angi",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "ebdc23b8-130a-51dd-94fa-52bac96c0d5b",
+      "title": "HomeGuide: appliance repair pricing reference (editorial date 2025-07-14)",
+      "url": "https://homeguide.com/costs/appliance-repair-costs",
+      "publisher": "HomeGuide",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "93ae9fb9-e5be-5dae-afbf-183f51283bf7",
+      "title": "Fixr: appliance repair pricing reference (editorial date 2025-01-30)",
+      "url": "https://www.fixr.com/costs/kitchen-appliance-repair",
+      "publisher": "Fixr",
+      "source_type": "INDUSTRY",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    },
+    {
+      "id": "1e9a950b-ff01-5c56-81f6-3dd42d2b8285",
+      "title": "NJDEP: municipal model ordinances, including tree removal and replacement",
+      "url": "https://dep.nj.gov/stormwater/municipal-stormwater-regulation-program/example-ordinances/",
+      "publisher": "New Jersey Department of Environmental Protection",
+      "source_type": "GOVERNMENT",
+      "retrieved_at": "2026-10-11T16:00:00.000Z",
+      "reviewed_at": "2026-10-11T16:00:00.000Z"
+    }
+  ],
+  "sourceLinks": [
+    {
+      "content_page_id": "2f3ddcbc-235e-53ee-8aa7-eda8359413c4",
+      "source_id": "5ebc1931-623b-5f92-a373-c3dd08f456ef",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "2f3ddcbc-235e-53ee-8aa7-eda8359413c4",
+      "source_id": "1bf4fb18-e0ba-537d-853e-a8109f5102b1",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "33956fe0-e410-531d-87c4-94566c3b65e6",
+      "source_id": "84122046-6a26-54ea-80c9-0c5d5107cad4",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "33956fe0-e410-531d-87c4-94566c3b65e6",
+      "source_id": "d4a36fed-ec3e-5115-a27d-a4b43331f2fe",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "7c09cf96-6770-5c46-81ec-ddfe838a9d58",
+      "source_id": "1b5c3ac8-03a5-5898-9213-e8496590d718",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "7c09cf96-6770-5c46-81ec-ddfe838a9d58",
+      "source_id": "53ee6c5a-2876-5e98-b06b-20503bc766b1",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "cc98ee1b-6946-522f-affa-5dcc80f2532d",
+      "source_id": "8c3c2911-b6fc-5c90-b83a-1dfb36442972",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "cc98ee1b-6946-522f-affa-5dcc80f2532d",
+      "source_id": "c727d1a0-f400-507d-bae4-95444b1fb5ca",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "3db05b0e-7101-5b7e-8003-9799b7968e88",
+      "source_id": "6426cb17-02c9-5c5f-b28a-625cc5212e5b",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "3db05b0e-7101-5b7e-8003-9799b7968e88",
+      "source_id": "77834ad1-9cb8-5ae9-b467-7629feb1c202",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "e9b05b0a-cd9f-5986-b7c4-996e6dde3a93",
+      "source_id": "bb2dcc21-887a-597a-a0b4-0c3f8a1a5105",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "e9b05b0a-cd9f-5986-b7c4-996e6dde3a93",
+      "source_id": "0401b0f2-d9c5-5dbc-b0b4-a2ddda1768f2",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "348b5155-9d0f-5965-8121-fd4c2ef671c1",
+      "source_id": "c26b300e-ef77-5fdd-9e5d-72ce58c38893",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "348b5155-9d0f-5965-8121-fd4c2ef671c1",
+      "source_id": "33ad857b-a9e1-5fa9-9ea5-4bd20e776bb3",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "9fc26c05-a647-59ea-8609-c80fa1cd72a8",
+      "source_id": "1867614e-3a28-5f7b-b7b7-9cff28fe6dd5",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "9fc26c05-a647-59ea-8609-c80fa1cd72a8",
+      "source_id": "b8700f18-7ca0-5466-9fd7-ddf76a5f6ee7",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "207c199d-a6a9-5054-a19b-8aea4044479b",
+      "source_id": "551bdf24-d217-50b3-a901-42f49003dc9e",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "207c199d-a6a9-5054-a19b-8aea4044479b",
+      "source_id": "b7c4773b-0608-52c5-843b-7b27dcd3b71b",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "4de9d009-bcb8-5d2a-bf95-f0eef6f3a220",
+      "source_id": "ebefa52b-4b18-516d-904a-ff20d13bcab9",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "4de9d009-bcb8-5d2a-bf95-f0eef6f3a220",
+      "source_id": "b3002046-2176-5066-b0cc-bca6aa5b9819",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "8fc487ae-2cbc-580d-b0a2-0d41634bac19",
+      "source_id": "521cddd7-044b-5cd5-bafe-27a97381256e",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "8fc487ae-2cbc-580d-b0a2-0d41634bac19",
+      "source_id": "80bc2e07-f274-5db2-8b0b-e4f689092429",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "f92de06d-58ca-5763-a21c-4088ea50bc68",
+      "source_id": "9f783ff7-57d2-54db-b477-6794deab7277",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "f92de06d-58ca-5763-a21c-4088ea50bc68",
+      "source_id": "92da9ef8-4ec9-55bd-b5b3-eec492c39b2b",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "ebc99f70-74a6-5289-b66b-b4d3eae97acf",
+      "source_id": "1bd4dc82-3aa5-54b1-91e2-e2b3f36534c8",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "ebc99f70-74a6-5289-b66b-b4d3eae97acf",
+      "source_id": "dbf605a1-d8c8-5a0b-9254-1f0278cdf58c",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "457f1c05-2bad-5a49-964f-fdc03559c984",
+      "source_id": "47f7232b-8a47-5f4b-be8c-9254db0dc7dd",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "457f1c05-2bad-5a49-964f-fdc03559c984",
+      "source_id": "c5687f6a-bb85-586b-8b35-722c09358d85",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "ecb05c8d-1069-5287-8ec9-6b3e7ac8a8bd",
+      "source_id": "d171e5c1-de8f-584b-a3c6-3e1bced777e2",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "ecb05c8d-1069-5287-8ec9-6b3e7ac8a8bd",
+      "source_id": "87b41520-0bdd-539e-a28d-6bf30deec723",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "6339ff4f-37bb-5a8c-8e22-208dabf332c6",
+      "source_id": "ebdc23b8-130a-51dd-94fa-52bac96c0d5b",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "6339ff4f-37bb-5a8c-8e22-208dabf332c6",
+      "source_id": "93ae9fb9-e5be-5dae-afbf-183f51283bf7",
+      "relationship_type": "COST_INPUT"
+    },
+    {
+      "content_page_id": "570985db-3529-5ac2-bffc-0bf8465f1145",
+      "source_id": "1bf4fb18-e0ba-537d-853e-a8109f5102b1",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "570985db-3529-5ac2-bffc-0bf8465f1145",
+      "source_id": "93ae9fb9-e5be-5dae-afbf-183f51283bf7",
+      "relationship_type": "BACKGROUND"
+    },
+    {
+      "content_page_id": "ecb05c8d-1069-5287-8ec9-6b3e7ac8a8bd",
+      "source_id": "1e9a950b-ff01-5c56-81f6-3dd42d2b8285",
+      "relationship_type": "BACKGROUND"
+    }
+  ]
+}

@@ -6,6 +6,7 @@ export function sectionHeading(section: ContentSection): string | null {
     case "QUESTION_ANSWER": return section.items.length ? "Questions" : null;
     case "SOURCE_LIST": return section.heading ?? "Sources";
     case "RELATED_CONTENT": return section.heading ?? "Related reading";
+    case "COST_ESTIMATES": return section.heading;
     case "COST_FACTORS": return section.heading ?? "What affects cost";
     case "COMPARISON_TABLE": return "How to tell them apart";
     case "PROJECT_EVIDENCE": return section.heading ?? "Project evidence";

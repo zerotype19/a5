@@ -70,6 +70,7 @@ export const CONTENT_SECTION_TYPES = [
   "RELATED_CONTENT",
   "CTA",
   "COST_FACTORS",
+  "COST_ESTIMATES",
   "COMPARISON_TABLE",
   "PROJECT_EVIDENCE",
 ] as const;
@@ -121,6 +122,10 @@ export type ContentSection =
       /** Shown before the registry phone number, e.g. "Or call". */
       callLabel?: string;
     }
+  | { type: "COST_ESTIMATES"; heading: string; rows: Array<{
+      label: string; amount: string; unit: string; geography: string;
+      basis: string; source_id: string;
+    }> }
   | { type: "COST_FACTORS"; heading?: string; factors: string[] }
   | {
       type: "COMPARISON_TABLE";
