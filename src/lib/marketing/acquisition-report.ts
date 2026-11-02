@@ -4,9 +4,13 @@ export type AcquisitionEvidence={path?:unknown;referrerHost?:string|null;campaig
 export function acquisitionChannel(touch:AcquisitionEvidence|null|undefined):string {
  const c=touch?.campaign??{}; const medium=c.utm_medium?.toLowerCase();
  if(c.gclid||c.msclkid||['cpc','ppc','paid','paidsearch','paid_search','display','paid_social'].includes(medium??''))return 'Paid / tagged advertising';
+ const aiHost=/^(www\.)?(chatgpt\.com|chat\.openai\.com|perplexity\.ai|claude\.ai|gemini\.google\.com|copilot\.microsoft\.com)$/;
+ const source=c.utm_source?.toLowerCase();
+ if(source&&aiHost.test(source)&&(!medium||medium==='referral'))return 'AI referral (tagged)';
  if(medium==='organic')return 'Organic search (reported)';
  if(medium||c.utm_source)return 'Other campaign';
  const host=touch?.referrerHost?.toLowerCase()??'';
+ if(aiHost.test(host))return 'AI referral (inferred)';
  // Exact search hosts: a misleading suffix or an arbitrary Google product is not search.
  if(/^(www\.)?(google\.(com|co\.uk|ca|com\.au)|bing\.com|duckduckgo\.com|search\.yahoo\.com|search\.brave\.com|ecosia\.org)$/.test(host))return 'Organic search (inferred)';
  return host?'Referral':'Direct / unknown';

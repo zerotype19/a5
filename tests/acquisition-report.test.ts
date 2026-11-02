@@ -19,3 +19,13 @@ test('persisted cohort includes unattributed and unreviewed requests without cou
  const r=buildAcquisitionReport([base,{...base,id:'2',status:'QUALIFIED'},{...base,id:'3',status:'INVALID'},{...base,id:'4',status:'WON'}]);
  assert.equal(r.length,1);assert.deepEqual({...r[0],path:undefined,channel:undefined,service:undefined,town:undefined},{channel:undefined,path:undefined,service:undefined,town:undefined,requests:4,reviewed:2,excluded:1,won:1});
 });
+
+test('AI referrals preserve evidence and precedence without treating lookalike domains as AI',()=>{
+ for(const host of ['chatgpt.com','www.perplexity.ai','claude.ai','gemini.google.com','copilot.microsoft.com','chat.openai.com'])assert.equal(acquisitionChannel({referrerHost:host}),'AI referral (inferred)');
+ assert.equal(acquisitionChannel({campaign:{utm_source:'chatgpt.com'}}),'AI referral (tagged)');
+ assert.equal(acquisitionChannel({campaign:{utm_source:'perplexity.ai',utm_medium:'referral'}}),'AI referral (tagged)');
+ assert.equal(acquisitionChannel({referrerHost:'chatgpt.com',campaign:{gclid:'ad'}}),'Paid / tagged advertising');
+ assert.equal(acquisitionChannel({referrerHost:'chatgpt.com',campaign:{utm_medium:'email'}}),'Other campaign');
+ assert.equal(acquisitionChannel({referrerHost:'chatgpt.com.attacker.example'}),'Referral');
+ assert.equal(acquisitionChannel({referrerHost:'www.google.com'}),'Organic search (inferred)');
+});

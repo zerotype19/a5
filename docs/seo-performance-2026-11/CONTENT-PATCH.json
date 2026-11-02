@@ -1,0 +1,173 @@
+[
+  {
+    "id": "30000000-0000-4000-8000-000000000004",
+    "slug": "running-toilet",
+    "expected_updated_at": "2026-10-08T03:09:23.653+00:00",
+    "before": {
+      "meta_title": "Toilet keeps running or refilling: causes and repairs | A5",
+      "title": "Toilet that keeps running",
+      "h1": "Toilet that keeps running",
+      "meta_description": "A toilet that runs, hisses, or refills on its own usually has a worn flapper or fill valve. What to check, what to photograph, and when replacement makes sense.",
+      "direct_answer": "A running toilet may have a repairable problem with a component inside the tank. Describe whether it runs continuously, refills between uses or also leaks outside the fixture. A plumber can assess the parts and overall condition before recommending repair or replacement."
+    },
+    "fields": {
+      "meta_title": "Why Your Toilet Keeps Running or Refilling",
+      "title": "Why does your toilet keep running?",
+      "h1": "Why does your toilet keep running?",
+      "meta_description": "Understand common running-toilet repairs, what to tell a plumber and when to discuss replacement. Request free plumbing introductions in Northern NJ.",
+      "direct_answer": "A toilet that keeps running may need a flapper, fill-valve or float adjustment or repair. Tell the plumber whether water runs continuously after a flush or the tank refills between uses. A running toilet alone does not usually mean the whole fixture needs replacing; the cause and condition should be assessed first.",
+      "sections": [
+        {
+          "body": "You flush, the tank fills — and then the water never quite stops. Or the toilet suddenly refills for a few seconds even though nobody used it.",
+          "type": "INTRO"
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Describe when the water runs",
+          "paragraphs": [
+            "Tell the plumber whether the toilet runs continuously after flushing or briefly refills when nobody has used it. Mention any water around the base as a separate observation. EPA identifies worn toilet flappers as one possible source of leaks, but the plumber needs to determine the cause for your fixture."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "What usually gets repaired",
+          "paragraphs": [
+            "Common repairs include:",
+            "Replacing the flapper.",
+            "Replacing or adjusting the fill valve.",
+            "Adjusting the float.",
+            "Correcting the flapper chain.",
+            "Cleaning or repairing the flush-valve seat.",
+            "These are routine toilet repairs."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "When replacement makes more sense",
+          "paragraphs": [
+            "A running toilet by itself isn't usually a reason to replace the whole fixture. Replacement becomes more reasonable if the tank or bowl is cracked, the toilet has recurring problems, it leaks at the base even after repair, or you're ready to upgrade it anyway. A rocking toilet can also mean the seal at the floor needs attention, which is a different repair from the parts inside the tank."
+          ]
+        },
+        {
+          "type": "RICH_TEXT",
+          "items": [
+            {
+              "body": "The toilet and its base.",
+              "title": "Show the whole area"
+            },
+            {
+              "body": "The visible tank components, if safely accessible.",
+              "title": "Include the detail"
+            },
+            {
+              "body": "The supply line, shutoff valve and model information if available.",
+              "title": "Add useful context"
+            }
+          ],
+          "heading": "Photos that help",
+          "paragraphs": [
+            "A few clear photos can help start the conversation. Only photograph areas you can reach safely."
+          ]
+        },
+        {
+          "type": "RELATED_CONTENT"
+        },
+        {
+          "type": "RICH_TEXT",
+          "heading": "Before arranging a plumbing visit",
+          "paragraphs": [
+            "Ask about the diagnostic or minimum visit charge, whether parts are included and how any additional work will be approved. A5 introductions are free for homeowners; the independent plumber sets the visit and repair price."
+          ],
+          "links": [
+            {
+              "href": "/cost-guides/plumbing-cost",
+              "label": "Compare plumber rates and visit fees"
+            },
+            {
+              "href": "/how-it-works",
+              "label": "How a free A5 introduction works"
+            }
+          ]
+        },
+        {
+          "type": "SOURCE_LIST",
+          "heading": "Planning references"
+        },
+        {
+          "type": "CTA",
+          "title": "Get help with a running toilet",
+          "description": "Describe the work and share your ZIP code. The A5 home services network helps connect you with an independent local professional. After an introduction is accepted, you discuss scope, price and timing directly.",
+          "primaryLabel": "Tell us what needs fixing"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f92de06d-58ca-5763-a21c-4088ea50bc68",
+    "slug": "gutters-cost",
+    "expected_updated_at": "2026-10-11T14:07:40.421+00:00",
+    "before": {
+      "meta_title": "Gutter Services Costs: Plan & Compare Estimates",
+      "title": "Gutter Services costs and estimate guide",
+      "h1": "Gutter Services costs: plan your project",
+      "meta_description": "Plan gutter services work with sourced cost references, what changes the price, and practical questions to compare estimates for your home."
+    },
+    "fields": {
+      "meta_title": "Gutter Cleaning Cost: Visit Prices & What Is Included",
+      "title": "Gutter cleaning costs and what the visit includes",
+      "h1": "Gutter cleaning costs and what the visit includes",
+      "meta_description": "Compare published national gutter-cleaning prices, downspout clearing, guards and disposal. Know which repairs need a separate quote."
+    }
+  },
+  {
+    "id": "2f3ddcbc-235e-53ee-8aa7-eda8359413c4",
+    "slug": "handyman-cost",
+    "expected_updated_at": "2026-10-11T14:07:40.421+00:00",
+    "before": {
+      "meta_title": "Handyman Costs: Plan & Compare Estimates",
+      "title": "Handyman costs and estimate guide",
+      "h1": "Handyman costs: plan your project",
+      "meta_description": "Plan handyman work with sourced cost references, what changes the price, and practical questions to compare estimates for your home."
+    },
+    "fields": {
+      "meta_title": "Handyman Hourly Rates & Small-Job Pricing Guide",
+      "title": "Handyman rates and pricing a small repair list",
+      "h1": "Handyman rates and pricing a small repair list",
+      "meta_description": "Compare published national handyman rates. Learn how visit minimums, materials and shopping time affect the price of your repair list."
+    }
+  },
+  {
+    "id": "207c199d-a6a9-5054-a19b-8aea4044479b",
+    "slug": "hvac-cost",
+    "expected_updated_at": "2026-10-11T14:07:40.421+00:00",
+    "before": {
+      "meta_title": "Heating & Cooling Costs: Plan & Compare Estimates",
+      "title": "Heating & Cooling costs and estimate guide",
+      "h1": "Heating & Cooling costs: plan your project",
+      "meta_description": "Plan heating & cooling work with sourced cost references, what changes the price, and practical questions to compare estimates for your home."
+    },
+    "fields": {
+      "meta_title": "Heating & Cooling Repair Costs and Diagnostic Fees",
+      "title": "Heating and cooling repair costs and diagnostic fees",
+      "h1": "Heating and cooling repair costs and diagnostic fees",
+      "meta_description": "Compare published national HVAC repair and diagnostic costs. Separate a small repair from system replacement and ask what the visit includes."
+    }
+  },
+  {
+    "id": "348b5155-9d0f-5965-8121-fd4c2ef671c1",
+    "slug": "plumbing-cost",
+    "expected_updated_at": "2026-10-11T14:07:40.421+00:00",
+    "before": {
+      "meta_title": "Plumbing Costs: Plan & Compare Estimates",
+      "title": "Plumbing costs and estimate guide",
+      "h1": "Plumbing costs: plan your project",
+      "meta_description": "Plan plumbing work with sourced cost references, what changes the price, and practical questions to compare estimates for your home."
+    },
+    "fields": {
+      "meta_title": "Plumber Hourly Rates, Callout Fees & Repair Estimates",
+      "title": "Plumber rates, visit fees and repair estimates",
+      "h1": "Plumber rates, visit fees and repair estimates",
+      "meta_description": "Understand published national plumber labor rates, diagnostic fees, minimum charges and flat-rate repairs before comparing estimates."
+    }
+  }
+]
