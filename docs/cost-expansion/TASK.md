@@ -1,0 +1,5 @@
+# Cost content expansion — November 6, 2026
+
+Owner asked to build on price-guide traction with deeper service types, best practices and strategic links. Implement 10 differentiated project-cost breakdowns, 2 cross-service planning guides, and contextual additions to all 16 existing cost hubs. Update library navigation to support multiple pages per service and connect town/service entry points. No new services or towns, price survey, unsupported local averages, schema, packages, lead routing or vendor changes. Existing standing release authorization applies to this bounded content expansion.
+
+Use the existing registry, source/relationship tables, rendering, canonical and sitemap rules. Preserve current titles and numeric price sections on existing guides, including their price-review dates. Guard production writes with a reviewed manifest, exact destination, optimistic baseline, private receipt and publication last. Test publication gates, links, multi-guide library visibility and hidden-draft exclusion, then lint/typecheck/build and inspect desktop/mobile.

@@ -1,0 +1,9 @@
+.note { max-width: 70ch; margin-bottom: 1.5rem; }
+.jump { display:flex; flex-wrap:wrap; gap:.5rem; margin:1.5rem 0 2.5rem; }
+.jump a { display:inline-flex; align-items:center; min-height:44px; padding:.6rem .85rem; border:1px solid var(--color-line); border-radius:var(--radius-sm); text-decoration:none; }
+.jump a:hover { background:var(--color-accent-soft); }
+.jump a:focus-visible { outline:2px solid var(--color-accent); outline-offset:3px; }
+.section { margin:2.5rem 0; padding-top:1.5rem; border-top:1px solid var(--color-line); }
+.section h2 { scroll-margin-top:7rem; margin-bottom:1.25rem; font-family:var(--font-display); font-size:clamp(1.6rem,3vw,2.1rem); }
+.section h3 { font-size:1.15rem; line-height:1.4; margin-bottom:.75rem; }
+.service { margin-top:1rem; }

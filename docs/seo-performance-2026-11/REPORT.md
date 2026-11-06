@@ -65,3 +65,26 @@ Search Console still lacks sufficient field Core Web Vitals data. Old October la
 - Verify a business listing is eligible and owner-approved before creating or changing one. No listing, paid campaign, outreach or recurring automation was created in this task.
 
 Sources: signed-in [Search Console](https://search.google.com/search-console?resource_id=sc-domain%3Aa5homeservices.com), [GA4 property 558009939](https://analytics.google.com/analytics/web/#/a411229070p558009939/reports/intelligenthome), aggregate Supabase readback and public crawl. Private runtime evidence remains under `.wrangler/seo-november/` and is not committed.
+
+
+## November 2 follow-through
+
+The owner authorized the remaining actionable work. The outstanding electrical request has now been classified to Summit using its submitted ZIP and the [City of Summit's published address](https://www.cityofsummit.org/), rather than its Jersey City landing page. The audited classification RPC preserved the raw ZIP and NEW status, and a readback confirmed the classification event. Eleven unarchived ACTIVE electrical vendors have an email address and recorded Summit coverage. This is routing eligibility, not proof of availability or credentials. Manual vendor selection and actual homeowner follow-up remain operational work; no assignment or outbound message was made during this SEO review. The private receipt is `.wrangler/seo-november/location-review.json`.
+
+The database contains zero non-excluded, non-disputed COMPLETED network reports at this review. There is no completed-project evidence available from that source to publish now. For each future case study, retain the actual service and town, reported scope, completion evidence, vendor identity, dated source, and explicit permission for any quote or photograph. Remove personal contact/address details. A private network rating or completion report alone is not publication permission. Publish only supported statements; do not present generated images as project evidence or add aggregate ratings without qualifying underlying reviews.
+
+Google Business Profile is not a suitable recommendation for A5's current referral-network model: [Google explicitly lists lead-generation companies as ineligible](https://support.google.com/business/answer/13763036?hl=en). No profile was created or changed. Reassess only if the real business model changes; do not create town offices or contractor listings for A5 to obtain local-pack placement.
+
+## Measurement handoff and decisions
+
+Release date: November 2. First complete post-release window: **November 3–30, 2026**. Review on or after **December 3**, and defer the analysis if Search Console has not populated November 30. This is a documented measurement date, not a scheduled automation. Use October 4–31 as the recorded 28-day baseline, with a seasonality and small-sample caveat. Retain the same property, search type, filters and aggregation; do not mix web and AI totals or GA4 with GSC denominators.
+
+At that review:
+
+1. Export page and query evidence for the five edited URLs. Record impressions, clicks, CTR and position, plus branded/nonbranded and local intent where query data supports it. Compare query-level positions as well as page averages to avoid confusing a changed query mix with ranking improvement.
+2. Read indexed/excluded totals and inspect representative URLs still discovered but not indexed, prioritizing pages already earning impressions, service hubs and useful town hubs. Check live response, canonical, indexability, internal links, rendered content and sitemap membership before choosing an action. Improve or consolidate genuinely redundant pages with URL-level evidence; do not mass-noindex the 124 URLs based solely on the current status.
+3. Count actual persisted organic/AI-attributed requests and their reviewed, assigned and outcome states. Keep unknowns and owner tests separate. Report recognized AI referrals separately from Google AI impressions; neither proves a citation or recommendation by another assistant.
+4. Repeat the paced crawl into a new dated output folder using `A5_AUDIT_OUTPUT`; retain the baseline. Retry rate limits slowly and distinguish crawler throttling from permanent page failures.
+5. Check whether genuine completed-project evidence and publication permission now exist. Add evidence to the relevant existing service/town pages before making more location permutations.
+
+Expected effects: clearer search snippets after recrawling, easier access to cost guidance, more useful AI-referral reporting, and correct service/town routing for the reviewed request. Over the next 4–8 weeks, look for more relevant impressions and clicks and a growing number of reviewed requests. Those are evaluation goals, not forecasts. Titles cannot compensate by themselves for low rankings or limited authority; indexing, ranking, AI inclusion and lead volume are not guaranteed. With only two baseline clicks, do not declare a winner from a small percentage swing. If impressions grow but relevant clicks do not, inspect position and intent before rewriting again. If relevant clicks grow without requests, investigate intake friction and fit. If requests arrive but do not progress, prioritize operational follow-up.
