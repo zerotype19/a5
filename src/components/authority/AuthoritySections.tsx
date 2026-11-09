@@ -193,16 +193,16 @@ function SectionBlock({
       );
     case "CTA":
       return (
-        <section className={styles.ctaBand} aria-label="Request service">
+        <section className={styles.ctaBand} aria-label="Find a home pro">
           <CtaBlock
-            title={section.title ?? "Request service"}
+            title={section.title ?? "Find a home pro"}
             description={
               section.description ??
-              "Tell A5 what your home needs. Our network connects homeowners with local service professionals."
+              "Tell us what you need, and we’ll help find a local pro for the job."
             }
             primaryHref={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined,service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug})}
             primaryCta="authority-request-service"
-            primaryLabel="Request service"
+            primaryLabel="Find a home pro"
             secondaryLabel={
               section.callLabel ? `${section.callLabel} ${SITE.phone}` : undefined
             }

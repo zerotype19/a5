@@ -17,9 +17,9 @@ const body = Manrope({
   display: "swap",
 });
 
-const title = `${SITE.name} | Northern New Jersey Home Services Network`;
+const title = `${SITE.name} | Northern New Jersey Home Services Marketplace`;
 const description =
-  "A5 is a Northern New Jersey home services network connecting homeowners with independent professionals for repairs, maintenance and improvements";
+  "A5 is a Northern New Jersey home services marketplace connecting homeowners with independent professionals for repairs, maintenance and improvements";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),

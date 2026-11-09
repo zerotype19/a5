@@ -342,7 +342,7 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
     return (
       <div className={styles.shell} data-intake="project-start">
         <div className={styles.intro}>
-          <p className={styles.eyebrow}>Request service</p>
+          <p className={styles.eyebrow}>Find a home pro</p>
           <h1 className={styles.pageTitle} ref={headingRef} tabIndex={-1}>
             Thank you
           </h1>
@@ -368,12 +368,12 @@ export function ProjectIntakeForm({ initialService, contextLabel, availabilityRe
   return (
     <div className={styles.shell} data-intake="project-start">
       <div className={styles.intro}>
-        <p className={styles.eyebrow}>Request service</p>
+        <p className={styles.eyebrow}>Find a home pro</p>
         <h1 className={styles.pageTitle} ref={headingRef} tabIndex={-1}>
           Request a home service.
         </h1>
         <p className={styles.lede}>
-          Share a few details about the work. A5 will review your request and offer an introduction to a relevant professional in the network.
+          Tell us what you need, and we’ll help find a local pro for the job.
         </p>
         <p className={styles.phoneAlt}>
           Prefer to talk?{" "}

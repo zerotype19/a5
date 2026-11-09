@@ -12,8 +12,8 @@ export function Footer() {
     <div className={styles.inner}>
       <div className={styles.brandCol}>
         <Brand inverse />
-        <p className={styles.blurb}>A simpler way to get things fixed.</p>
-        <p className={styles.description}>A home services network connecting homeowners with independent local professionals across {SITE.serviceAreaSummary}.</p>
+        <p className={styles.blurb}>Find the right pro for your home project.</p>
+        <p className={styles.description}>A local home services marketplace for homeowners across {SITE.serviceAreaSummary}.</p>
         <a className={styles.phone} href={phoneTelHref(SITE.phone)} data-cta="footer-phone">{SITE.phone}</a>
         <a className={styles.email} href={`mailto:${SITE.email}`} data-cta="footer-email">{SITE.email}</a>
       </div>
@@ -29,12 +29,12 @@ export function Footer() {
         <li><Link href="/how-it-works">How it works</Link></li>
         <li><Link href="/guides">Homeowner guides</Link></li>
         <li><Link href="/cost-guides">Costs &amp; planning</Link></li>
-        <li><Link href="/request-service" prefetch={false}>Request service</Link></li>
+        <li><Link href="/request-service" prefetch={false}>Find a home pro</Link></li>
         <li><Link href="/vendors/join">Join as a vendor</Link></li>
       </ul></nav>
     </div>
     <div className={styles.bottom}>
-      <p className={styles.role}>A5 makes the introduction. Independent professionals handle the estimates, scheduling and work directly with you.</p>
+      <p className={styles.role}>Free to request. No obligation to hire.</p>
       <div className={styles.legalRow}><p>© {new Date().getFullYear()} {SITE.legalName}</p><nav aria-label="Legal"><Link href="/privacy">Privacy</Link><Link href="/terms">Terms</Link></nav></div>
       <Analytics />
     </div>

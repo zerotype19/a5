@@ -209,7 +209,7 @@ const florhamPark: LocationHubDraft = {
     { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Tell us what needs fixing",
+      title: "Find a home pro",
       description: "Florham Park, the problem, and a few photos are enough to start.",
     },
   ],
@@ -308,7 +308,7 @@ const madison: LocationHubDraft = {
     { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Tell us what needs fixing",
+      title: "Find a home pro",
       description: "Madison, the problem, and photos of the damage are enough to start.",
     },
   ],
@@ -405,7 +405,7 @@ const chatham: LocationHubDraft = {
     { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Tell us what needs fixing",
+      title: "Find a home pro",
       description:
         "Include Borough or Township with the problem and the photos.",
     },
@@ -503,7 +503,7 @@ const morrisTownship: LocationHubDraft = {
     { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Tell us what needs fixing",
+      title: "Find a home pro",
       description: "Say Morris Township, then the problem and the photos.",
     },
   ],
@@ -599,7 +599,7 @@ const morristown: LocationHubDraft = {
     { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Tell us what needs fixing",
+      title: "Find a home pro",
       description: "Town of Morristown, the failure, and photos are enough to start.",
     },
   ],
@@ -695,7 +695,7 @@ const eastHanover: LocationHubDraft = {
     { type: "RELATED_CONTENT", heading: "Related" },
     {
       type: "CTA",
-      title: "Tell us what needs fixing",
+      title: "Find a home pro",
       description: "East Hanover, what you see, and photos are enough to start.",
     },
   ],
