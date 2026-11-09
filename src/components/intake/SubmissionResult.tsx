@@ -43,7 +43,7 @@ export function SubmissionSuccess({
       </p>
       <p className={styles.stepHint}>
         What happens next: A5 reviews the project
-        {photoStatus === "all" ? " and your photos" : ""} and offers an introduction to a relevant professional in the network. After acceptance, they can view your full request and contact you. You discuss the work directly; this is not a booking.
+        {photoStatus === "all" ? " and your photos" : ""} and looks for a local pro for your job. Once a pro accepts, they can contact you to discuss pricing and scheduling.
       </p>
       <p className={styles.stepHint}>
         A5 may call or email you using the contact details on this request.

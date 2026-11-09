@@ -124,7 +124,7 @@ const madisonSections: ContentSection[] = [
   { type: "RELATED_CONTENT" },
   {
     type: "CTA",
-    title: "Request service in Madison",
+    title: "Find a home pro in Madison",
     description:
       "Describe the project. A5 will review and coordinate next steps.",
   },
@@ -255,7 +255,7 @@ const problemSections: ContentSection[] = [
   {
     type: "CTA",
     title: "Get help with brick step concerns",
-    description: "Request service and share what you are seeing at home.",
+    description: "Find a home pro and share what you are seeing at home.",
   },
 ];
 

@@ -154,7 +154,7 @@ describe("A5-009 email privacy", () => {
       assert.match(body, /Florham Park, NJ/);
       assert.match(body, /As soon as possible/);
       assert.match(body, /3 project photos will be available after acceptance/);
-      assert.match(body, /Review the service, town and timing/);
+      assert.match(body, /Accept this lead to view/);
       assert.ok(body.includes(url));
     }
     assert.match(message.html, />Review and accept your lead<\/a>/);

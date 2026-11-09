@@ -48,7 +48,7 @@ export function Header() {
             variant="primary"
             dataCta="header-get-help"
           >
-            Request service
+            Find a home pro
           </Button>
         </div>
 
@@ -102,7 +102,7 @@ export function Header() {
             className={styles.mobileCta}
             dataCta="header-get-help-mobile"
           >
-            Request service
+            Find a home pro
           </Button>
         </nav>
       </div>

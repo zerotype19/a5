@@ -119,7 +119,7 @@ function Project({
   return (
     <>
       <Title>{heading}</Title>
-      {showActions&&<p className={styles.introduction}>A5 Home Services is a network connecting homeowners with independent local professionals. We’re sending this free lead to your business. Accept it to view all customer contact details, the full project request and photos.</p>}
+      {showActions&&<p className={styles.introduction}>A5 is a local home services marketplace. We’re sending this free lead to your business. Accept it to view all customer contact details, the full project request and photos.</p>}
       <dl className={styles.facts}>
         <dt>Service</dt>
         <dd>{project.serviceLabel}</dd>

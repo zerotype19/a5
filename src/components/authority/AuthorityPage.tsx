@@ -102,8 +102,8 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
           {townLocation && <>
             <div className={styles.townIntro}>
               <div>
-              <p className={styles.networkIntro}>A5 helps homeowners connect with independent local professionals. Tell us what needs attention; we review your request and look for a suitable connection. You discuss the work, price and timing with the professional directly.</p>
-              <Button href={requestHref({location: townLocation})}>Request service <ArrowIcon /></Button>
+              <p className={styles.networkIntro}>Tell us what you need, and we’ll help find a local pro for the job.</p>
+              <Button href={requestHref({location: townLocation})}>Find a home pro <ArrowIcon /></Button>
               </div>
               <AuthoritySections page={page} sectionRange={[0, 0]} layout="townAnswer" />
             </div>
@@ -114,7 +114,7 @@ export function AuthorityPage({ page, children, discoveryPages }: Props) {
             {!townLocation && <aside className={styles.articleAside}>
               {outline.length > 1 && <nav aria-label="On this page"><h2>On this page</h2><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav>}
               {page.page_type === "COST_GUIDE" && outline.length > 1 && <details className={styles.mobileContents}><summary>On this page</summary><nav aria-label="Guide contents"><ol>{outline.map(item => <li key={item.id}><a href={`#${item.id}`}>{item.label}</a></li>)}</ol></nav></details>}
-              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>{page.page_type === "COST_GUIDE" ? "Share your project details. A5 will review your request and look for a suitable independent professional." : "Share your project details. A5 will review your request and offer an introduction to a relevant professional in the network."}</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Request service <ArrowIcon /></Button></div>
+              <div className={styles.helpCard}><h2>Ready to get started?</h2><p>{page.page_type === "COST_GUIDE" ? "Tell us what you need, and we’ll help find a local pro for the job." : "Tell us what you need, and we’ll help find a local pro for the job."}</p><Button href={requestHref({ county: page.page_type === 'CORE' ? getCountyBySlug(page.slug)?.id : undefined, service: page.primary_service_id, location: page.primary_location_id, problem: page.problem?.slug })}>Find a home pro <ArrowIcon /></Button></div>
             </aside>}
             <div className={styles.articleBody}><AuthoritySections page={page} sectionRange={townLocation ? [1] : undefined} includeAnswer={!townLocation} layout={townLocation ? "townDetails" : undefined} />{children}</div>
           </div>

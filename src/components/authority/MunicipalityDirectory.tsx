@@ -15,7 +15,7 @@ export function MunicipalityDirectory({countyId,publishedHubSlugs=[],publishedCo
  function townLink(l:Location){
   const hub=publishedHubSlugs.includes(l.slug)?l.slug:l.hubSlug&&publishedHubSlugs.includes(l.hubSlug)?l.hubSlug:null;
   const county=COUNTIES.find(c=>c.id===l.countyId);
-  return <li key={l.id}><Link className={styles.town} href={hub?`/home-services/${hub}`:requestHref({location:l.slug})}><span><strong>{l.name}</strong><small>{county?.name} · {hub?'View local services':'Request service'}</small></span><ArrowIcon/></Link></li>;
+  return <li key={l.id}><Link className={styles.town} href={hub?`/home-services/${hub}`:requestHref({location:l.slug})}><span><strong>{l.name}</strong><small>{county?.name} · {hub?'View local services':'Find a home pro'}</small></span><ArrowIcon/></Link></li>;
  }
  return <section id="municipalities" className={styles.directory} aria-labelledby={`${id}-heading`}>
   <h2 id={`${id}-heading`}>{countyId?'Find your town':'Where do you need help?'}</h2>

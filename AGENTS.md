@@ -23,3 +23,9 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+## Public copy — owner direction, November 9, 2026
+
+Use the familiar category **local home services marketplace**. Lead with the homeowner benefit: **Find the right pro for your home project.** Primary CTA: **Find a home pro.** Supporting line: **Free to request. No obligation to hire.**
+
+Use short, ordinary language. Do not describe A5 as a network, an introduction service, a coordination platform or a matching engine in marketing copy. Do not explain vendor record status, email eligibility, manual routing or acceptance mechanics in hero copy. Keep detailed screening limitations, non-guarantees and direct-hiring terms in FAQs/disclosures. Do not imply instant booking, guaranteed matches or verified credentials. Preserve the current product workflow.
