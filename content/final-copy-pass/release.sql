@@ -12,7 +12,48 @@ insert into a5_copy_rules(old_text,new_text) values
 ('A5 makes the introduction; the masonry provider assesses','The masonry pro assesses'),
 ('A5 makes an introduction; the provider confirms scope, price and timing.','The pro confirms the scope, price and timing with you.'),
 ('Confirm scheduling with the provider after the introduction.','Confirm scheduling directly with the pro.'),
-('A5 makes the introduction; the provider assesses','The pro assesses');
+('A5 makes the introduction; the provider assesses','The pro assesses'),
+('Heating, cooling and seasonal maintenance for your home. Tell A5 what your system is doing and we will review your request for an independent HVAC professional.','Find a local HVAC pro for heating repairs, cooling and seasonal maintenance.'),
+('Roof repairs, inspections and replacement requests, reviewed by A5 and introduced to an independent roofing professional.','Find a local roofer for repairs, inspections or a replacement roof.'),
+('Regular cleaning, a deeper refresh or help before a move. Share the rooms and priorities so A5 can review your request for a cleaning professional.','Find a local cleaner for regular cleaning, a deeper refresh or help before a move.'),
+('Gutter cleaning, repairs and replacement requests for independent local providers through A5.','Find local help with gutter cleaning, repairs and replacement.'),
+('Describe the activity and where it is happening. A5 reviews your request for an independent pest control professional.','Find a local pest control pro. Tell us what you’ve seen and where it’s happening.'),
+('Furniture, household clutter and cleanout requests. Tell A5 what needs to go so we can review the job for a removal provider.','Furniture, household clutter or a full cleanout. Find local help to clear the space.'),
+('Pruning, removal and stump work requests, reviewed for an independent tree service professional.','Find a local tree service for pruning, removal or stump work.'),
+('Describe the appliance and the symptoms. A5 reviews your request for a repair professional who can discuss the brand, issue and visit.','Find a local appliance repair pro. Tell us the brand and what’s going wrong.'),
+('A5 reviews scheduled electrical requests and checks for a suitable provider.','A5 helps you find a local pro for the job.'),
+('A5 reviews the details and checks for an electrical provider suited to the work.','A5 helps you find a local pro for the job.'),
+('A5 reviews your request and checks for a provider who can assess the condition and discuss a suitable repair scope.','A5 helps you find a local pro for the job.'),
+('A5 reviews your request and connects it with a relevant independent provider.','A5 helps you find a local pro for the job.'),
+('A5 reviews the project and checks for an appropriate provider.','A5 helps you find a local pro for the job.'),
+('A5 reviews your photos, location and priorities, then checks for a provider suited to the project.','A5 helps you find a local pro for the job.'),
+('A5 reviews the work and helps connect you with a relevant local professional.','A5 helps you find a local pro for the job.'),
+('A5 reviews the request and helps connect you with an independent local professional.','A5 helps you find a local pro for the job.'),
+('A5 reviews the project and helps connect you with a local professional.','A5 helps you find a local pro for the job.'),
+('A5 reviews your request and looks for a relevant independent professional to introduce.','A5 helps you find a local pro for the job.'),
+('A5 can review your request and help find a local pro.','A5 helps you find a local pro for the job.'),
+('A5 reviews the scope and helps you find a local pro.','A5 helps you find a local pro for the job.'),
+('A5 can review the project details and help find a local pro.','A5 helps you find a local pro for the job.'),
+('A5 can review the request and help find a local pro.','A5 helps you find a local pro for the job.'),
+('A5 reviews your request and looks for a suitable independent professional.','A5 helps you find a local pro for the job.'),
+('A5 reviews the project details and helps connect you with an independent local professional.','A5 helps you find a local pro for the job.'),
+('A5 helps connect you with an independent local professional after reviewing the request.','A5 helps you find a local pro for the job.'),
+('A5 checks the work and location before looking for a suitable provider.','A5 helps you find a local pro for the job.'),
+('A5 reviews the request and checks for an appropriate provider.','A5 helps you find a local pro for the job.'),
+('A5 reviews the details and checks for a provider to assess the repair and the next steps.','A5 helps you find a local pro for the job.'),
+('We review the request and check for a painting provider who can discuss preparation, finish options, an estimate and timing.','Find a local painter to discuss preparation, finishes, pricing and timing.'),
+('We review the request and check for an appropriate masonry provider to discuss the condition, repair options and next step.','Find a local mason to assess the damage and explain your repair options.'),
+('We review the request and check for a plumbing provider to discuss the repair.','Find a local plumber to assess the repair.'),
+('A5 helps you start the right conversation.','We’ll help find a local pro for the job.'),
+('A5 reviews the request for an independent provider; pricing and appointment times are agreed directly.','A5 helps you find a local pro. Agree on pricing and scheduling directly with them.'),
+('A5 helps introduce a relevant independent provider; the cleaning checklist and appointment are agreed directly.','A5 helps you find a local cleaner. Agree on the cleaning tasks and appointment directly with them.'),
+('A5 can review the request for a provider; it does not diagnose an infestation or promise an eradication result.','A pest control pro can identify the pest and discuss treatment options.'),
+('A5 reviews the request for an independent junk-removal provider; it does not promise donation, recycling or acceptance of every item.','Ask the removal company which items they accept and whether they offer donation or recycling.'),
+('A5 can help keep those related steps connected instead of treating them as unrelated projects.','Discuss the order of repairs with each pro before work starts.'),
+('A5 can review a request for a running toilet, leaking fixture or planned replacement and help introduce you to an independent local professional.','Find a local plumber for a running toilet, leaking fixture or planned replacement.'),
+('A5 can help route the request, but the relevant provider must assess the actual conditions.','The pro will need to assess the conditions at your home.'),
+('A5 reviews the request; the masonry provider assesses whether targeted repair or more extensive work is appropriate.','A masonry pro can assess whether a small repair or more extensive work is needed.'),
+('A5 can review the East Hanover project and help find a local pro.','A5 helps you find a local pro in East Hanover.');
 create temp table a5_copy_work on commit drop as select id,updated_at,jsonb_build_object('title',title,'h1',h1,'meta_description',meta_description,'primary_question',primary_question,'direct_answer',direct_answer,'sections',sections) as original from content_pages where status='PUBLISHED';
 alter table a5_copy_work add column revised jsonb;
 update a5_copy_work set revised=original;
@@ -21,7 +62,7 @@ do $$ declare rule record; changed int; begin
   update a5_copy_work set revised=replace(revised::text,rule.old_text,rule.new_text)::jsonb;
  end loop;
  select count(*) into changed from a5_copy_work where revised<>original;
- if changed<>13 then raise exception 'Unexpected copy scope: %',changed; end if;
+ if changed<>61 then raise exception 'Unexpected copy scope: %',changed; end if;
 end $$;
 with changed as (
  update content_pages p set title=w.revised->>'title',h1=w.revised->>'h1',meta_description=w.revised->>'meta_description',primary_question=w.revised->>'primary_question',direct_answer=w.revised->>'direct_answer',sections=w.revised->'sections',updated_at=now()
