@@ -81,7 +81,7 @@ export async function loadOpportunity(token: string, client?: ReturnType<typeof 
     serviceLabel: service?.name ?? "Not specified",
     locationLabel: location ? `${location.name}, ${location.state}` : "Not specified",
     timingLabel: timingDisplay(lead.data.urgency as string | null),
-    description: "Accept this opportunity to view the homeowner’s full request and any photos. Acceptance means you intend to contact the homeowner; it does not book or guarantee the work.",
+    description: "Accept this lead to view the customer’s contact details, full request and photos. You can then contact them to discuss the job.",
     photos: [],
   };
 

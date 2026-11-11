@@ -58,7 +58,7 @@ export function buildVendorOpportunityEmail(input: {
   const photos = photoLine(input.photoCount);
   const subject = `${input.serviceLabel} lead in ${input.locationLabel} — A5 Home Services`;
   const greeting = `Hello ${input.vendorName || "there"},`;
-  const introduction = "A5 is a local home services marketplace. We have a free project lead for your business. Accept this lead to view all customer contact details, the full request and any photos.";
+  const introduction = "You have a free local project lead from A5’s home services marketplace.";
   const text = [
     "A5 Home Services",
     "",
@@ -71,7 +71,7 @@ export function buildVendorOpportunityEmail(input: {
     "",
     photos,
     "",
-    "Review the service, town and timing, then accept or pass. Acceptance unlocks the full request and contact details:",
+    "Accept this lead to view the customer’s contact details, full request and photos:",
     input.opportunityUrl,
     "",
     deadline,
