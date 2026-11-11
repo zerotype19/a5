@@ -6,10 +6,10 @@ import {getLocationById,type LocationId} from '../../../config/locations.ts';
 import {SITE} from '../../../config/site.ts';
 
 export function buildCheckinEmail(party:'HOMEOWNER'|'VENDOR',url:string){
- const question=party==='HOMEOWNER'?'Did the service professional get in touch? Were they able to help?':'Were you able to reach the homeowner? What happened with the project?';
- const text=`A5 Home Services is a local home services marketplace.\n\n${question}\n\nPlease share an update about your recent A5 request. Contact and completed work are separate questions; it is fine if the outcome is still unknown.\n\n${url}\n\nThis private link expires in 14 days. No account is needed. Feedback is private to A5 operations. It does not post a public review. ${party==='HOMEOWNER'?'You can also stop these check-ins using the link. ':''}For corrections or help, contact ${SITE.email}.`;
+ const question=party==='HOMEOWNER'?'Did your pro get in touch? Were they able to help?':'Were you able to reach the homeowner? What happened with the project?';
+ const text=`A5 Home Services\n\n${question}\n\nPlease share a quick update on your project. It’s fine if the work hasn’t started yet.\n\n${url}\n\nThis private link expires in 14 days. No account is needed. Your feedback is private and won’t appear as a public review. ${party==='HOMEOWNER'?'You can also stop these check-ins using the link. ':''}For corrections or help, contact ${SITE.email}.`;
  const safe=text.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;');
- return{subject:'How did your A5 connection go?',text,html:`<p>${safe.replace(url, `<a href="${url}">Share a private update</a>`).replaceAll('\n','<br/>')}</p>`};
+ return{subject:'How is your home project going?',text,html:`<p>${safe.replace(url, `<a href="${url}">Share a private update</a>`).replaceAll('\n','<br/>')}</p>`};
 }
 export async function sendNetworkCheckin(assignmentId:string,party:'HOMEOWNER'|'VENDOR',actorId:string,retryUncertain:boolean,dependencies?:{db?:ReturnType<typeof getSupabaseAdmin>;send?:typeof sendResendEmail}){
  const db=dependencies?.db??getSupabaseAdmin(),token=createOpportunityToken();

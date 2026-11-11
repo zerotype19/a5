@@ -8,7 +8,7 @@ import styles from "./page.module.css";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: "Project opportunity",
+  title: "Your project lead",
   referrer: "no-referrer",
   robots: {
     index: false,
@@ -54,14 +54,14 @@ export default async function OpportunityPage({
         <>
           <h1>
             {fresh
-              ? "You accepted this introduction."
-              : "You've already accepted this introduction."}
+              ? "You accepted this lead."
+              : "You've already accepted this lead."}
           </h1>
           <p className={styles.note}>
             Save the homeowner contact below. This link expires 72 hours after the email was sent.
           </p>
           {process.env.ENABLE_VENDOR_PROGRESS==='true'&&<section id="progress" className={styles.progress}>
-           <h2>What happened next?</h2><p>Keep A5 updated so we know whether the introduction helped. These are your reported updates; A5 will review any lead marked not a fit.</p>
+           <h2>What happened next?</h2><p>Let us know how the project is going. If the lead isn’t a fit, tell us why.</p>
            {query.progress==='saved'&&<p role="status">Thank you—your update was saved.</p>}{query.progress==='error'&&<p role="alert">We could not save that update. Try again or contact A5.</p>}
            <form action={reportProgress}><input type="hidden" name="token" value={token}/><label>Lead progress<select name="status" required><option value="">Choose an update</option>{Object.entries(PROGRESS_LABELS).map(([value,label])=><option key={value} value={value}>{label}</option>)}</select></label><label>Notes (optional)<textarea name="note" maxLength={1000} rows={3}/></label><button type="submit">Send update to A5</button></form>
           </section>}
@@ -119,7 +119,7 @@ function Project({
   return (
     <>
       <Title>{heading}</Title>
-      {showActions&&<p className={styles.introduction}>A5 is a local home services marketplace. We’re sending this free lead to your business. Accept it to view all customer contact details, the full project request and photos.</p>}
+      {showActions&&<p className={styles.introduction}>You have a free local project lead from A5’s home services marketplace.</p>}
       <dl className={styles.facts}>
         <dt>Service</dt>
         <dd>{project.serviceLabel}</dd>

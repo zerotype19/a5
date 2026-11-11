@@ -1,7 +1,7 @@
 {
   "hvac": {
     "headline": "Comfort starts with a system that works.",
-    "summary": "Heating, cooling and seasonal maintenance for your home. Tell A5 what your system is doing and we will review your request for an independent HVAC professional.",
+    "summary": "Find a local HVAC pro for heating repairs, cooling and seasonal maintenance.",
     "jobs": [
       "Heating repairs",
       "Air conditioning repairs",
@@ -9,12 +9,12 @@
       "Equipment replacement"
     ],
     "preparation": "Include the equipment type, approximate age, symptoms and any displayed error code.",
-    "boundary": "An introduction is not an emergency appointment. Contact emergency services or your utility for an immediate hazard.",
+    "boundary": "An A5 request does not book an emergency appointment. Contact emergency services or your utility for an immediate hazard.",
     "alt": "Outdoor heat pump beside cream siding and garden planting"
   },
   "roofing": {
     "headline": "A clearer plan for the roof over your head.",
-    "summary": "Roof repairs, inspections and replacement requests, reviewed by A5 and introduced to an independent roofing professional.",
+    "summary": "Find a local roofer for repairs, inspections or a replacement roof.",
     "jobs": [
       "Roof repair",
       "Roof replacement",
@@ -27,7 +27,7 @@
   },
   "house-cleaning": {
     "headline": "Make room for a home that feels cared for.",
-    "summary": "Regular cleaning, a deeper refresh or help before a move. Share the rooms and priorities so A5 can review your request for a cleaning professional.",
+    "summary": "Find a local cleaner for regular cleaning, a deeper refresh or help before a move.",
     "jobs": [
       "Recurring cleaning",
       "Deep cleaning",
@@ -40,7 +40,7 @@
   },
   "gutters": {
     "headline": "Help rainwater find its way off your home.",
-    "summary": "Gutter cleaning, repairs and replacement requests for independent local providers in the A5 network.",
+    "summary": "Find local help with gutter cleaning, repairs and replacement.",
     "jobs": [
       "Gutter cleaning",
       "Leaks and loose sections",
@@ -53,7 +53,7 @@
   },
   "pest-control": {
     "headline": "Get a plan for the pests you are seeing.",
-    "summary": "Describe the activity and where it is happening. A5 reviews your request for an independent pest control professional.",
+    "summary": "Find a local pest control pro. Tell us what you’ve seen and where it’s happening.",
     "jobs": [
       "Household insects",
       "Rodent activity",
@@ -66,7 +66,7 @@
   },
   "junk-removal": {
     "headline": "Clear the space you want back.",
-    "summary": "Furniture, household clutter and cleanout requests. Tell A5 what needs to go so we can review the job for a removal provider.",
+    "summary": "Furniture, household clutter or a full cleanout. Find local help to clear the space.",
     "jobs": [
       "Furniture removal",
       "Garage cleanouts",
@@ -79,7 +79,7 @@
   },
   "tree-services": {
     "headline": "Thoughtful help for the trees around your home.",
-    "summary": "Pruning, removal and stump work requests, reviewed for an independent tree service professional.",
+    "summary": "Find a local tree service for pruning, removal or stump work.",
     "jobs": [
       "Tree pruning",
       "Tree removal",
@@ -92,7 +92,7 @@
   },
   "appliance-repair": {
     "headline": "Get the next step for an appliance that has stopped working.",
-    "summary": "Describe the appliance and the symptoms. A5 reviews your request for a repair professional who can discuss the brand, issue and visit.",
+    "summary": "Find a local appliance repair pro. Tell us the brand and what’s going wrong.",
     "jobs": [
       "Refrigerator repair",
       "Washer and dryer repair",
